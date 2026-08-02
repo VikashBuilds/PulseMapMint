@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-02T15:02:05Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.81,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "a624620caeb5",
+   "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+   "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49145201
+   }
+  },
+  {
+   "id": "eab6e8e2d9f7",
+   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 50.37222891273055,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 103,
+    "comments": 17,
+    "hn_id": 49142569
+   }
+  },
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 67.0565096031518,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 283,
+    "comments": 133,
+    "hn_id": 49140218
+   }
+  },
+  {
+   "id": "db89c15d5f27",
+   "title": "F*: A general-purpose proof-oriented programming language",
+   "url": "https://fstar-lang.org/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 39.577379737113255,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 34,
+    "comments": 8,
+    "hn_id": 49143925
+   }
+  },
+  {
+   "id": "687a311a135f",
+   "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+   "url": "https://publicdomainreview.org/essay/ars-notoria/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 45.76655965729519,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 69,
+    "comments": 9,
+    "hn_id": 49143001
+   }
+  },
+  {
+   "id": "238b12fdac9c",
+   "title": "Fasttracker II clone in C using SDL 2",
+   "url": "https://16-bits.org/ft2.php",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 3,
+    "hn_id": 49094151
+   }
+  },
+  {
+   "id": "9ec2f40ea078",
+   "title": "The Seinfeld Chronicles: Digital Edition",
+   "url": "https://seinfeld.visualisingdata.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 2,
+    "hn_id": 49144946
+   }
+  },
+  {
+   "id": "23b4e4f4f2de",
+   "title": "Twenty Years of RISC OS Open",
+   "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 43.874586088176876,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 57,
+    "comments": 9,
+    "hn_id": 49143967
+   }
+  },
+  {
+   "id": "d0c22ab7b389",
+   "title": "Folding Paper Globes",
+   "url": "https://foldingglobes.com/globes",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 39.79019945774904,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 35,
+    "comments": 2,
+    "hn_id": 49093845
+   }
+  },
+  {
+   "id": "51d7eba232f2",
+   "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+   "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 27.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1,
+    "comments": 0,
+    "hn_id": 49143683
+   }
+  },
+  {
+   "id": "2f4b4ade8d60",
+   "title": "Show HN: Fuse – statically typed functional programming language",
+   "url": "https://fuselang.org",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 41.00781059358212,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 41,
+    "comments": 6,
+    "hn_id": 49143412
+   }
+  },
+  {
+   "id": "9eae7a27ffb5",
+   "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+   "url": "https://meshdiff.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 49.49489742783178,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 96,
+    "comments": 11,
+    "hn_id": 49143479
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 62.74917217635375,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 228,
+    "comments": 74,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "2141bbfc9df2",
+   "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+   "url": "https://github.com/syncular/syncular",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 42.85357107135712,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 51,
+    "comments": 20,
+    "hn_id": 49142794
+   }
+  },
+  {
+   "id": "a35c6a727c85",
+   "title": "Seedance 2.5",
+   "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 74.68651728587948,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 395,
+    "comments": 211,
+    "hn_id": 49138302
+   }
+  },
+  {
+   "id": "9dab52081f45",
+   "title": "Diátaxis",
+   "url": "https://diataxis.fr/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 76.35659646043534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 422,
+    "comments": 50,
+    "hn_id": 49138188
+   }
+  },
+  {
+   "id": "bb5c509df4d1",
+   "title": "I made a Promise-aware debounce and throttle library for TypeScript",
+   "url": "https://github.com/nyvexis1/temporize",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 4,
+    "hn_id": 49143304
+   }
+  },
+  {
+   "id": "026a7e7bcc25",
+   "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+   "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 46.79449471770337,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 76,
+    "comments": 6,
+    "hn_id": 49140702
+   }
+  },
+  {
+   "id": "68e35388acb5",
+   "title": "Holocloth",
+   "url": "https://holocloth.vercel.app",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 45.46338192968113,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 67,
+    "comments": 14,
+    "hn_id": 49116917
+   }
+  },
+  {
+   "id": "0ade77b63d30",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 57.59601202601324,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 170,
+    "comments": 88,
+    "hn_id": 49141073
+   }
+  },
+  {
+   "id": "a2bb1d164f66",
+   "title": "Rust All Hands 2026 Retrospective",
+   "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 35.30776406404415,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 17,
+    "comments": 4,
+    "hn_id": 49143096
+   }
+  },
+  {
+   "id": "b59e82ed8652",
+   "title": "US Treasury undertakes historic intervention in yen market",
+   "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 50.24876234590519,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 102,
+    "comments": 60,
+    "hn_id": 49143188
+   }
+  },
+  {
+   "id": "5233f60a5849",
+   "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+   "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 48.048861143232216,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 85,
+    "comments": 41,
+    "hn_id": 49140599
+   }
+  },
+  {
+   "id": "0750a20b6766",
+   "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+   "url": "https://github.com/kamalfarahani/katharos",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 2,
+    "hn_id": 49143179
+   }
+  },
+  {
+   "id": "61fb4973fdff",
+   "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+   "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 60.881750236018306,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 206,
+    "comments": 183,
+    "hn_id": 49143414
+   }
+  },
+  {
+   "id": "9629f5031ebd",
+   "title": "ESP32-C3 SuperMini antenna modification",
+   "url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 37.24744871391589,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 24,
+    "comments": 4,
+    "hn_id": 49141828
+   }
+  },
+  {
+   "id": "32f4d9360f26",
+   "title": "ASRock BC-250: Building the Budget Steam Machine",
+   "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 49.10912690248239,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 93,
+    "comments": 36,
+    "hn_id": 49140213
+   }
+  },
+  {
+   "id": "72a62fb6eb5e",
+   "title": "Elena, a library for building Progressive Web Components",
+   "url": "https://elenajs.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 43.2002747232013,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 53,
+    "comments": 4,
+    "hn_id": 49109759
+   }
+  },
+  {
+   "id": "dea682ec058c",
+   "title": "A big win for Android interoperability",
+   "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 58.726843908080106,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 182,
+    "comments": 137,
+    "hn_id": 49124051
+   }
+  },
+  {
+   "id": "707f98ca9351",
+   "title": "When random.bytes() runs but doesn't work",
+   "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T15:02:05Z",
+   "score": 46.36000936329383,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 73,
+    "comments": 36,
+    "hn_id": 49140405
+   }
+  }
+ ]
+}

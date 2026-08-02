@@ -1,0 +1,3209 @@
+{
+ "runner": "rss_science_space",
+ "generated": "2026-08-02T15:01:56Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 4.32,
+ "args": [
+  "rss_science_space",
+  "rss_science_space"
+ ],
+ "items": [
+  {
+   "id": "e815eda2785d",
+   "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+   "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T04:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Sat, 01 Aug 2026 04:05:00 +0000"
+   }
+  },
+  {
+   "id": "bdf489985fe1",
+   "title": "What’s Up: August 2026 Skywatching Tips from NASA",
+   "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T22:35:36Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 22:35:36 +0000"
+   }
+  },
+  {
+   "id": "1c0aba3f4e14",
+   "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+   "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T21:08:10Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 21:08:10 +0000"
+   }
+  },
+  {
+   "id": "e538923b53d6",
+   "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+   "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T20:19:37Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 20:19:37 +0000"
+   }
+  },
+  {
+   "id": "5760dfdde7a8",
+   "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+   "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T19:05:25Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 19:05:25 +0000"
+   }
+  },
+  {
+   "id": "7d988198e402",
+   "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+   "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T18:39:47Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 18:39:47 +0000"
+   }
+  },
+  {
+   "id": "fa41cae73a4f",
+   "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+   "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T17:11:14Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 17:11:14 +0000"
+   }
+  },
+  {
+   "id": "65fe9bf72224",
+   "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
+   "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T14:41:02Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 14:41:02 +0000"
+   }
+  },
+  {
+   "id": "cedda6a6ba17",
+   "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+   "url": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T14:11:34Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 14:11:34 +0000"
+   }
+  },
+  {
+   "id": "4769e3405b69",
+   "title": "APOD: 2026 July 31 – NGC 4372 and the Dark Doodad",
+   "url": "https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T04:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "NASA",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NASA",
+    "published_raw": "Fri, 31 Jul 2026 04:05:00 +0000"
+   }
+  },
+  {
+   "id": "6225369d0c64",
+   "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+   "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T12:03:27Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Sun, 02 Aug 2026 12:03:27 +0000"
+   }
+  },
+  {
+   "id": "ddfd3b7de5ff",
+   "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
+   "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T20:28:39Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Sat, 01 Aug 2026 20:28:39 +0000"
+   }
+  },
+  {
+   "id": "e99a87bd2baf",
+   "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+   "url": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T13:38:42Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Sat, 01 Aug 2026 13:38:42 +0000"
+   }
+  },
+  {
+   "id": "6ccfd644c802",
+   "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+   "url": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T20:53:43Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Fri, 31 Jul 2026 20:53:43 +0000"
+   }
+  },
+  {
+   "id": "e9d3dfb2d560",
+   "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+   "url": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T15:57:52Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Fri, 31 Jul 2026 15:57:52 +0000"
+   }
+  },
+  {
+   "id": "fd9d4afc0086",
+   "title": "Inside the effort to show Congress what war in space looks like",
+   "url": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T13:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Fri, 31 Jul 2026 13:30:00 +0000"
+   }
+  },
+  {
+   "id": "e777e8d5f801",
+   "title": "Space Force picks 15 companies for $981 million training range contract",
+   "url": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T13:18:20Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Fri, 31 Jul 2026 13:18:20 +0000"
+   }
+  },
+  {
+   "id": "baeb21d1619b",
+   "title": "NASA still assessing Starliner-1 flight opportunities",
+   "url": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T12:13:25Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Fri, 31 Jul 2026 12:13:25 +0000"
+   }
+  },
+  {
+   "id": "b086c002746b",
+   "title": "The new space wars: lessons from Ukraine and the Middle East",
+   "url": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Fri, 31 Jul 2026 12:00:00 +0000"
+   }
+  },
+  {
+   "id": "ba776b5b0750",
+   "title": "Rules of the road needed for orbital data center constellations",
+   "url": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T00:00:37Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Fri, 31 Jul 2026 00:00:37 +0000"
+   }
+  },
+  {
+   "id": "9aa463e068f1",
+   "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
+   "url": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T18:42:21Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Thu, 30 Jul 2026 18:42:21 +0000"
+   }
+  },
+  {
+   "id": "7a4d62fa4360",
+   "title": "Roman Space Telescope on track for late August launch",
+   "url": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T17:51:10Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Thu, 30 Jul 2026 17:51:10 +0000"
+   }
+  },
+  {
+   "id": "22d69a992eda",
+   "title": "Jim Bridenstine on his new role at Quantum Space",
+   "url": "https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T17:47:51Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Thu, 30 Jul 2026 17:47:51 +0000"
+   }
+  },
+  {
+   "id": "f69c3ae15e80",
+   "title": "Rocket Lab wins another launch contract from Japan’s iQPS",
+   "url": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T11:59:29Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Thu, 30 Jul 2026 11:59:29 +0000"
+   }
+  },
+  {
+   "id": "7a0a4f51fcbb",
+   "title": "Sophia Space and Caltech claim patent for space data centers",
+   "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Thu, 30 Jul 2026 04:00:00 +0000"
+   }
+  },
+  {
+   "id": "741ddc0595fb",
+   "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
+   "url": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T23:12:56Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 23:12:56 +0000"
+   }
+  },
+  {
+   "id": "a59d790a29f7",
+   "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
+   "url": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T22:57:06Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 22:57:06 +0000"
+   }
+  },
+  {
+   "id": "a07ff4ce3d95",
+   "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+   "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T20:43:51Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 20:43:51 +0000"
+   }
+  },
+  {
+   "id": "636b4013395d",
+   "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+   "url": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T19:45:17Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 19:45:17 +0000"
+   }
+  },
+  {
+   "id": "0744e37aac86",
+   "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
+   "url": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T14:38:53Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 14:38:53 +0000"
+   }
+  },
+  {
+   "id": "66da6be7998d",
+   "title": "Fortastra and Hadrian join forces to streamline satellite production",
+   "url": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "cbf681c9e393",
+   "title": "H3 to launch next ispace lunar lander mission",
+   "url": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T12:10:11Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 12:10:11 +0000"
+   }
+  },
+  {
+   "id": "efc54e445477",
+   "title": "Boeing still working with NASA to schedule next Starliner flight",
+   "url": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T01:24:07Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 01:24:07 +0000"
+   }
+  },
+  {
+   "id": "4ad4a88f23a1",
+   "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+   "url": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T01:18:28Z",
+   "score": 45.0,
+   "tags": [
+    "SpaceNews",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SpaceNews",
+    "published_raw": "Wed, 29 Jul 2026 01:18:28 +0000"
+   }
+  },
+  {
+   "id": "5116787a823a",
+   "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
+   "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sun, 02 Aug 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "89948baf8748",
+   "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sun, 02 Aug 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "a921879bdadd",
+   "title": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
+   "url": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sun, 02 Aug 2026 12:00:00 +0000"
+   }
+  },
+  {
+   "id": "78a218afdba8",
+   "title": "Rocket issue delays 1st orbital rocket launch from the UK",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sun, 02 Aug 2026 10:00:00 +0000"
+   }
+  },
+  {
+   "id": "e045455be826",
+   "title": "Celestron Moon Mission 100mm tabletop Dobsonian review",
+   "url": "https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sun, 02 Aug 2026 09:00:00 +0000"
+   }
+  },
+  {
+   "id": "ac1cfb5b83b7",
+   "title": "Move over He-Man, Mattel's Major Matt Mason space toys could still be blasting off for Hollywood",
+   "url": "https://www.space.com/entertainment/space-movies-shows/move-over-he-man-mattels-major-matt-mason-space-toys-could-still-be-blasting-off-for-hollywood",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sat, 01 Aug 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "ec62c49da382",
+   "title": "This Week In Space podcast: Episode 221 — Starship Can Float?",
+   "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-221-starship-can-float",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T14:16:28Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sat, 01 Aug 2026 14:16:28 +0000"
+   }
+  },
+  {
+   "id": "5af2a7a64c14",
+   "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
+   "url": "https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sat, 01 Aug 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "a324cf25f35d",
+   "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sat, 01 Aug 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "daa161385dd9",
+   "title": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
+   "url": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sat, 01 Aug 2026 12:00:00 +0000"
+   }
+  },
+  {
+   "id": "3285ebe894cd",
+   "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Sat, 01 Aug 2026 10:00:00 +0000"
+   }
+  },
+  {
+   "id": "51f35b557ace",
+   "title": "SpaceX's Starship seen in space by next-gen Starlink satellite (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T23:27:19Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 23:27:19 +0000"
+   }
+  },
+  {
+   "id": "796409dd3c0b",
+   "title": "How do supermassive black holes grow? AI finds 7 spacetime-warping 'quasars' that could help solve the mystery",
+   "url": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T22:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 22:00:00 +0000"
+   }
+  },
+  {
+   "id": "9d03e7c4a349",
+   "title": "'The End of Oak Street: Could JJ Abrams' new 'Twilight Zone meets Jurassic Park' movie be the sleeper hit of the summer?",
+   "url": "https://www.space.com/entertainment/the-end-of-oak-street-could-jj-abrams-new-twilight-zone-meets-jurassic-park-movie-be-the-sleeper-hit-of-the-summer",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T21:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 21:00:00 +0000"
+   }
+  },
+  {
+   "id": "82e0a4fd7e5a",
+   "title": "The Milky Way has a hidden feature you've probably never noticed. Here's how to find it",
+   "url": "https://www.space.com/stargazing/the-milky-way-has-a-hidden-feature-youve-probably-never-noticed-heres-how-to-find-it",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T20:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 20:00:00 +0000"
+   }
+  },
+  {
+   "id": "6e3cfbc49a58",
+   "title": "Our 1st look at 'Blade Runner 2099' shows replicants ruling future Los Angeles: 'It's our time now'",
+   "url": "https://www.space.com/entertainment/our-1st-look-at-blade-runner-2099-shows-replicants-ruling-future-los-angeles-its-our-time-now",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T18:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 18:00:00 +0000"
+   }
+  },
+  {
+   "id": "6173055d5b31",
+   "title": "NASA is sending 2 probes to the moon to test complex 'three-body orbits'",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "62dae2ed114c",
+   "title": "Watch SpaceX's Starship land at sea in these stunning new videos",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T14:30:26Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 14:30:26 +0000"
+   }
+  },
+  {
+   "id": "9122edb73535",
+   "title": "On this day in space! July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "9cc703ed4ea9",
+   "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
+   "url": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "f6d21969aa1f",
+   "title": "Watching August's 2026 solar eclipse from the UK? Stay safe with the best solar eclipse glasses",
+   "url": "https://www.space.com/stargazing/skywatching-kit/watching-augusts-solar-eclipse-from-the-uk-stay-safe-with-the-best-solar-eclipse-glasses",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T13:42:37Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 13:42:37 +0000"
+   }
+  },
+  {
+   "id": "0de145c2fe77",
+   "title": "The night sky is changing this August — here's which planets to watch",
+   "url": "https://www.space.com/stargazing/the-night-sky-is-changing-this-august-heres-which-planets-to-watch",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 10:00:00 +0000"
+   }
+  },
+  {
+   "id": "5308dd17c006",
+   "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
+   "url": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Fri, 31 Jul 2026 09:00:00 +0000"
+   }
+  },
+  {
+   "id": "a20143ace5f1",
+   "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T21:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 21:00:00 +0000"
+   }
+  },
+  {
+   "id": "0fcd66b6cc85",
+   "title": "1st three-headed asteroid found in our solar system — and it has a little moon",
+   "url": "https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T17:03:10Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 17:03:10 +0000"
+   }
+  },
+  {
+   "id": "ac18f567c945",
+   "title": "HBO's 'Lanterns' teases shape-shifting Manhunters: 'The most dangerous beings to ever exist in the galaxy' (video)",
+   "url": "https://www.space.com/entertainment/hbos-lanterns-teases-shape-shifting-manhunters-the-most-dangerous-beings-to-ever-exist-in-the-galaxy-video",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "66bf3eb306f5",
+   "title": "On this day in space! July 30, 1610: Galileo sees Saturn's rings for the 1st time",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-30-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "014ea5f92203",
+   "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
+   "url": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "001535e03526",
+   "title": "'Strange New Worlds'' latest episode is more 'Event Horizon' than classic Trek",
+   "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-more-event-horizon-than-classic-trek",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "446b3e2444b5",
+   "title": "July full moon delights skywatchers worldwide. Here are our favorite photos of the majestic Buck Moon",
+   "url": "https://www.space.com/stargazing/july-full-moon-delights-skywatchers-worldwide-here-are-our-favorite-photos-of-the-majestic-buck-moon",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T10:09:04Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 10:09:04 +0000"
+   }
+  },
+  {
+   "id": "86cd9fc39f7b",
+   "title": "A SpaceX rocket will crash into the moon next week, and scientists aren't sure what to expect",
+   "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-next-week-and-scientists-arent-sure-what-to-expect",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Thu, 30 Jul 2026 10:00:00 +0000"
+   }
+  },
+  {
+   "id": "1aa2f381a561",
+   "title": "'It's going to do things that currently are impossible': The Roman Space Telescope, NASA's next great observatory, is ready to launch Aug. 30",
+   "url": "https://www.space.com/astronomy/its-going-to-do-things-that-currently-are-impossible-the-roman-space-telescope-nasas-next-great-observatory-is-ready-to-launch-aug-30",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T22:41:30Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 22:41:30 +0000"
+   }
+  },
+  {
+   "id": "825987c24077",
+   "title": "Watch this stirring new 'Star Trek' 60th anniversary video saluting the iconic sci-fi franchise",
+   "url": "https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T20:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 20:00:00 +0000"
+   }
+  },
+  {
+   "id": "a31b44b68446",
+   "title": "NASA launched this spacecraft to save a space telescope. Now, it needs saving too",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T18:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 18:00:00 +0000"
+   }
+  },
+  {
+   "id": "e94de2cd00b8",
+   "title": "SpaceX launches secret US spy satellite from Florida (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 17:00:00 +0000"
+   }
+  },
+  {
+   "id": "ad15acc51296",
+   "title": "This genuinely pocket-sized smart telescope makes capturing the deep sky and the solar system almost effortless",
+   "url": "https://www.space.com/stargazing/skywatching-kit/this-genuinely-pocket-sized-smart-telescope-makes-capturing-the-deep-sky-and-the-solar-system-almost-effortless",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T16:35:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 16:35:00 +0000"
+   }
+  },
+  {
+   "id": "6b583a9168d6",
+   "title": "'The Ark' creator Dean Devlin talks season 3's enormous mystery box and sci-fi surprises (interview)",
+   "url": "https://www.space.com/entertainment/space-movies-shows/the-ark-creator-dean-devlin-talks-season-3s-enormous-mystery-box-and-sci-fi-surprises-interview",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 15:00:00 +0000"
+   }
+  },
+  {
+   "id": "3558d6faff03",
+   "title": "SpaceX Starship still floating 5 days after flight | Space photo of the day for July 29, 2026",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "f7dcfdcdf9ec",
+   "title": "The Holy Stone HS900 Pro drone is sadly middling and being outcompeted by many other models",
+   "url": "https://www.space.com/technology/holy-stone-hs900-pro-drone-review",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "600399343e2e",
+   "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    " Latest from Space.com ",
+    "rss"
+   ],
+   "metrics": {
+    "feed": " Latest from Space.com ",
+    "published_raw": "Wed, 29 Jul 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "e022e2415a3e",
+   "title": "AI use mirrors student schedules in study of 77,000 online learners",
+   "url": "https://phys.org/news/2026-07-ai-mirrors-student-online-learners.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T14:20:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sun, 02 Aug 2026 10:20:01 EDT"
+   }
+  },
+  {
+   "id": "886475cada37",
+   "title": "Forever chemicals and pesticides under Trump: what to know",
+   "url": "https://phys.org/news/2026-07-chemicals-pesticides.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T14:00:03Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sun, 02 Aug 2026 10:00:03 EDT"
+   }
+  },
+  {
+   "id": "055eba2d5d8e",
+   "title": "Smart sensor identifies present molecules by remembering the past",
+   "url": "https://phys.org/news/2026-07-smart-sensor-molecules.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T13:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sun, 02 Aug 2026 09:00:01 EDT"
+   }
+  },
+  {
+   "id": "ef8151351c48",
+   "title": "DESI side project reveals the spectra of disintegrated exoplanets",
+   "url": "https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T12:20:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sun, 02 Aug 2026 08:20:01 EDT"
+   }
+  },
+  {
+   "id": "afdc0553d7cb",
+   "title": "Indigenous territory maintains ecological stability amid agricultural expansion in the Brazilian savanna",
+   "url": "https://phys.org/news/2026-08-indigenous-territory-ecological-stability-agricultural.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T11:40:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sun, 02 Aug 2026 07:40:01 EDT"
+   }
+  },
+  {
+   "id": "7eac993fe61c",
+   "title": "Pine bark and sponge compounds could counter drug-resistant malaria and babesiosis",
+   "url": "https://phys.org/news/2026-07-bark-sponge-compounds-counter-drug.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T11:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sun, 02 Aug 2026 07:00:01 EDT"
+   }
+  },
+  {
+   "id": "5fcf42abe38b",
+   "title": "Fluorescent probes offer sharper view of plant tissues",
+   "url": "https://phys.org/news/2026-07-fluorescent-probes-sharper-view-tissues.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T00:30:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 20:30:01 EDT"
+   }
+  },
+  {
+   "id": "af575d782297",
+   "title": "How new informatics tools help turn biodiversity data into policy insights",
+   "url": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T23:40:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 19:40:01 EDT"
+   }
+  },
+  {
+   "id": "dae7789b8cb7",
+   "title": "What this western Pennsylvania '90s Pizza Hut reveals about nostalgia",
+   "url": "https://phys.org/news/2026-07-western-pennsylvania-90s-pizza-hut.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T22:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 18:00:01 EDT"
+   }
+  },
+  {
+   "id": "af36552781ac",
+   "title": "How molecular tethers and asynchronous replication drive parasite proliferation",
+   "url": "https://phys.org/news/2026-07-molecular-tethers-asynchronous-replication-parasite.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T21:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 17:00:01 EDT"
+   }
+  },
+  {
+   "id": "c33c7e7a3ce6",
+   "title": "AI opens new era in cognitive studies of wild primates",
+   "url": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T20:00:02Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 16:00:02 EDT"
+   }
+  },
+  {
+   "id": "ae6ce7bc99fe",
+   "title": "Electron cooling tames highly charged ions in Penning trap for first time",
+   "url": "https://phys.org/news/2026-07-electron-cooling-highly-ions-penning.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T19:20:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 15:20:01 EDT"
+   }
+  },
+  {
+   "id": "7dae9cb5bfba",
+   "title": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers",
+   "url": "https://phys.org/news/2026-07-unusual-metal-oxide-magnetism-lattice.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T18:40:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 14:40:01 EDT"
+   }
+  },
+  {
+   "id": "4d0425790066",
+   "title": "Oil droplets remodel themselves, swallow their surroundings like living cells",
+   "url": "https://phys.org/news/2026-07-oil-droplets-remodel-swallow-cells.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T18:00:03Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 14:00:03 EDT"
+   }
+  },
+  {
+   "id": "1b6f2598f86e",
+   "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
+   "url": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T18:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 14:00:01 EDT"
+   }
+  },
+  {
+   "id": "734fcab0eb8a",
+   "title": "Brittany burial mounds may hide human-shaped stones as Coëby cemetery mystery deepens",
+   "url": "https://phys.org/news/2026-07-brittany-burial-mounds-human-stones.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T17:00:03Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 13:00:03 EDT"
+   }
+  },
+  {
+   "id": "7dac617a31c2",
+   "title": "Insights into bee biology could ease US rules for organic honey",
+   "url": "https://phys.org/news/2026-07-insights-bee-biology-ease-honey.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T16:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 12:00:01 EDT"
+   }
+  },
+  {
+   "id": "10fb190ee527",
+   "title": "Moonlight-like fur and feathers may explain Egyptian god Thoth's two animal forms",
+   "url": "https://phys.org/news/2026-07-moonlight-fur-feathers-egyptian-god.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T15:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 11:00:01 EDT"
+   }
+  },
+  {
+   "id": "0b6c54b3abc4",
+   "title": "Pacific cloud brightening could weaken El Nino, but models reveal risks for Europe and Asia",
+   "url": "https://phys.org/news/2026-07-pacific-cloud-brightening-weaken-el.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T13:50:02Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 09:50:02 EDT"
+   }
+  },
+  {
+   "id": "047f459a4adc",
+   "title": "Researchers investigate case of soft-tick borne relapsing fever in Austin area",
+   "url": "https://phys.org/news/2026-08-case-soft-borne-relapsing-fever.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T13:20:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 09:20:01 EDT"
+   }
+  },
+  {
+   "id": "3eae1992dce8",
+   "title": "New immune-blocking strategy improves interspecies organ generation",
+   "url": "https://phys.org/news/2026-07-immune-blocking-strategy-interspecies-generation.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T12:40:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 08:40:01 EDT"
+   }
+  },
+  {
+   "id": "b8685471b12c",
+   "title": "Sensor-embedded 3D-printed repairs could help preserve ancient pottery",
+   "url": "https://phys.org/news/2026-07-sensor-embedded-3d-ancient-pottery.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T12:00:07Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 08:00:07 EDT"
+   }
+  },
+  {
+   "id": "782a2018e5d5",
+   "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
+   "url": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T12:00:05Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 08:00:05 EDT"
+   }
+  },
+  {
+   "id": "d211b0150754",
+   "title": "Ancient diamond preserves evidence of water-bearing mineral deep in Earth's mantle",
+   "url": "https://phys.org/news/2026-08-ancient-diamond-evidence-mineral-deep.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T11:20:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 07:20:01 EDT"
+   }
+  },
+  {
+   "id": "49eacb56317f",
+   "title": "Deadly blooms offer a genetic blueprint for making hard-to-synthesize medicinal compounds",
+   "url": "https://phys.org/news/2026-07-deadly-blooms-genetic-blueprint-hard.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T11:00:06Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 07:00:06 EDT"
+   }
+  },
+  {
+   "id": "877079d5bc72",
+   "title": "Leave it: Dog trainers help pets avoid poisonous snakes",
+   "url": "https://phys.org/news/2026-08-dog-trainers-pets-poisonous-snakes.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T11:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 07:00:01 EDT"
+   }
+  },
+  {
+   "id": "9c60d2f568a3",
+   "title": "Solar wind stirs Mars' upper atmosphere, boosting ion loss to space",
+   "url": "https://phys.org/news/2026-07-solar-mars-upper-atmosphere-boosting.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T10:20:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 06:20:01 EDT"
+   }
+  },
+  {
+   "id": "aa2305318e54",
+   "title": "A rollercoaster of weather extremes: Drought and heat waves are creating UK's climate whiplash",
+   "url": "https://phys.org/news/2026-07-rollercoaster-weather-extremes-drought-uk.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T10:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 06:00:01 EDT"
+   }
+  },
+  {
+   "id": "746628d570cf",
+   "title": "Strengthening El Nino 'adding fuel to a planet already on fire': UN chief",
+   "url": "https://phys.org/news/2026-08-el-nino-adding-fuel-planet.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T06:48:04Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 02:48:04 EDT"
+   }
+  },
+  {
+   "id": "ea3a6d631092",
+   "title": "Hungary to shut nuclear plant as heatwave hits central Europe",
+   "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T06:47:14Z",
+   "score": 45.0,
+   "tags": [
+    "Phys.org - latest science and technology news stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Phys.org - latest science and technology news stories",
+    "published_raw": "Sat, 01 Aug 2026 02:47:14 EDT"
+   }
+  },
+  {
+   "id": "32eedf133688",
+   "title": "Scientists detect a sharp acceleration in global warming",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T13:32:39Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 09:32:39 EDT"
+   }
+  },
+  {
+   "id": "783b5fed407d",
+   "title": "This once-a-week workout may help cut belly fat, study shows",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T07:33:41Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sun, 02 Aug 2026 03:33:41 EDT"
+   }
+  },
+  {
+   "id": "4fde1bd5c00f",
+   "title": "Dark matter’s secret force does the opposite of what scientists expected",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T13:26:11Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sun, 02 Aug 2026 09:26:11 EDT"
+   }
+  },
+  {
+   "id": "a899ffb1decc",
+   "title": "Without this protein, damaged muscle turns to fat and scar tissue",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T13:23:34Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sun, 02 Aug 2026 09:23:34 EDT"
+   }
+  },
+  {
+   "id": "5aa742af5e78",
+   "title": "Mathematicians prove perfectly fair elections are impossible",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T13:10:21Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sun, 02 Aug 2026 09:10:21 EDT"
+   }
+  },
+  {
+   "id": "47edcf6d5d88",
+   "title": "Eating less protein could slow aging, major review finds",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T04:52:01Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sun, 02 Aug 2026 00:52:01 EDT"
+   }
+  },
+  {
+   "id": "d041cdf6983b",
+   "title": "Cancer may be breaking its own DNA to keep growing",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T04:30:42Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sun, 02 Aug 2026 00:30:42 EDT"
+   }
+  },
+  {
+   "id": "8bec4b6a4f20",
+   "title": "Superheated magma may power towering lava fountains",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T06:38:28Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 02:38:28 EDT"
+   }
+  },
+  {
+   "id": "6712f6a90e83",
+   "title": "Eating one avocado a day may lower heart disease risk",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T12:35:57Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 08:35:57 EDT"
+   }
+  },
+  {
+   "id": "7cda1c95ca94",
+   "title": "Scientists may have found a way to prevent statin muscle pain",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T12:09:55Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 08:09:55 EDT"
+   }
+  },
+  {
+   "id": "62edd577e036",
+   "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T02:59:35Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 22:59:35 EDT"
+   }
+  },
+  {
+   "id": "983cec8db0b9",
+   "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T13:47:24Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 09:47:24 EDT"
+   }
+  },
+  {
+   "id": "3077d3aa250b",
+   "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T01:58:37Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 21:58:37 EDT"
+   }
+  },
+  {
+   "id": "85f98e276493",
+   "title": "Experts say blood pressure guidelines are missing half the equation",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034135.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T13:12:42Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 09:12:42 EDT"
+   }
+  },
+  {
+   "id": "403f7d776673",
+   "title": "World-first photonic time crystal opens a new era of light control",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T09:13:30Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 05:13:30 EDT"
+   }
+  },
+  {
+   "id": "29897cb1ed8e",
+   "title": "Black holes may spit out nearly as much matter as they swallow",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T08:18:29Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 04:18:29 EDT"
+   }
+  },
+  {
+   "id": "cf5f745a4a11",
+   "title": "AI can tell if your brain is aging faster than you are",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T07:05:12Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 03:05:12 EDT"
+   }
+  },
+  {
+   "id": "2888e82f0be7",
+   "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T12:13:37Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Thu, 30 Jul 2026 08:13:37 EDT"
+   }
+  },
+  {
+   "id": "69515e2487bd",
+   "title": "A 42-year-old childhood obesity theory may be wrong",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T11:28:32Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 07:28:32 EDT"
+   }
+  },
+  {
+   "id": "3918d0c7cc68",
+   "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T02:52:57Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Thu, 30 Jul 2026 22:52:57 EDT"
+   }
+  },
+  {
+   "id": "2de429e06e05",
+   "title": "Scientists discover why poor sleep may harm some brains more",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T12:20:43Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 08:20:43 EDT"
+   }
+  },
+  {
+   "id": "f5dd45317d28",
+   "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T03:55:22Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Thu, 30 Jul 2026 23:55:22 EDT"
+   }
+  },
+  {
+   "id": "a4a3960088fa",
+   "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T12:46:18Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 08:46:18 EDT"
+   }
+  },
+  {
+   "id": "f55b2ba46e91",
+   "title": "Ant brains reveal how evolution turned hunger into parenting",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T13:01:54Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 09:01:54 EDT"
+   }
+  },
+  {
+   "id": "cfc3ac406d5e",
+   "title": "Tiny black holes may be secretly exploding stars across the Milky Way",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T13:33:41Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 09:33:41 EDT"
+   }
+  },
+  {
+   "id": "332a3c0480a0",
+   "title": "New microwave frying method could make french fries much healthier",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T10:15:04Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 06:15:04 EDT"
+   }
+  },
+  {
+   "id": "8faa04f10f77",
+   "title": "Scientists left water inside a battery and nearly doubled its power",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T10:41:53Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Sat, 01 Aug 2026 06:41:53 EDT"
+   }
+  },
+  {
+   "id": "c907fa053c65",
+   "title": "What if the brain does not create consciousness?",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T08:38:29Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 04:38:29 EDT"
+   }
+  },
+  {
+   "id": "ef39ee801877",
+   "title": "Rice bran compound may help ease irritable bowel symptoms",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T12:44:29Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Thu, 30 Jul 2026 08:44:29 EDT"
+   }
+  },
+  {
+   "id": "8d823dec0221",
+   "title": "Blood cancer’s genetic warning signs may appear years early",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010740.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T02:53:42Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Fri, 31 Jul 2026 22:53:42 EDT"
+   }
+  },
+  {
+   "id": "afc5aa84e503",
+   "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T06:34:21Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Thu, 30 Jul 2026 02:34:21 EDT"
+   }
+  },
+  {
+   "id": "79c83f5a3e64",
+   "title": "This 4,000-year-old city defied the rules of history",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T13:02:20Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Thu, 30 Jul 2026 09:02:20 EDT"
+   }
+  },
+  {
+   "id": "ef3d7e921892",
+   "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T02:18:28Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 22:18:28 EDT"
+   }
+  },
+  {
+   "id": "344a8932a4c2",
+   "title": "Can’t sleep in the heat? These 8 tricks could save your night",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T05:35:45Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 01:35:45 EDT"
+   }
+  },
+  {
+   "id": "fe2782011f8a",
+   "title": "Scientists find a simple way to stop cavities without drilling",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T12:35:36Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 08:35:36 EDT"
+   }
+  },
+  {
+   "id": "0042795b95c9",
+   "title": "Daily multivitamin may help older adults stay independent",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T23:44:16Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 19:44:16 EDT"
+   }
+  },
+  {
+   "id": "05b910cf470b",
+   "title": "Your gut may help your brain decide what to remember",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T12:20:24Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 08:20:24 EDT"
+   }
+  },
+  {
+   "id": "ea97791c71b1",
+   "title": "AI reveals explosive bursts in bird evolution",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T01:01:26Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 21:01:26 EDT"
+   }
+  },
+  {
+   "id": "0d9648a1aedd",
+   "title": "Scientists find a simple routine linked to less pain and depression",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T01:37:25Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Thu, 30 Jul 2026 21:37:25 EDT"
+   }
+  },
+  {
+   "id": "18a6d57875a7",
+   "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-29T04:14:05Z",
+   "score": 45.0,
+   "tags": [
+    "Latest Science News -- ScienceDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Latest Science News -- ScienceDaily",
+    "published_raw": "Wed, 29 Jul 2026 00:14:05 EDT"
+   }
+  },
+  {
+   "id": "de6a345e35a6",
+   "title": "Rocks From the Moon’s Far Side Are Rewriting Lunar History",
+   "url": "https://scitechdaily.com/rocks-from-the-moons-far-side-are-rewriting-lunar-history/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T11:58:42Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sun, 02 Aug 2026 11:58:42 +0000"
+   }
+  },
+  {
+   "id": "b594f3f1f774",
+   "title": "NASA’s Curiosity Finds a Vast Sea of Mysterious Polygons on Mars",
+   "url": "https://scitechdaily.com/nasas-curiosity-finds-a-vast-sea-of-mysterious-polygons-on-mars/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T11:23:49Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sun, 02 Aug 2026 11:23:49 +0000"
+   }
+  },
+  {
+   "id": "4a67e01694ca",
+   "title": "Astronomers May Have Found the First Moon Beyond Our Solar System",
+   "url": "https://scitechdaily.com/astronomers-may-have-found-the-first-moon-beyond-our-solar-system/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T10:48:48Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sun, 02 Aug 2026 10:48:48 +0000"
+   }
+  },
+  {
+   "id": "b183ac11f829",
+   "title": "Underwater Cameras Expose the Secret Lives of Whale Sharks",
+   "url": "https://scitechdaily.com/underwater-cameras-expose-the-secret-lives-of-whale-sharks/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T02:31:44Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sun, 02 Aug 2026 02:31:44 +0000"
+   }
+  },
+  {
+   "id": "7c9e8ff64e36",
+   "title": "A Massive Study Reveals the Brain Is Far More Flexible Than We Thought",
+   "url": "https://scitechdaily.com/a-massive-study-reveals-the-brain-is-far-more-flexible-than-we-thought/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T01:56:34Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sun, 02 Aug 2026 01:56:34 +0000"
+   }
+  },
+  {
+   "id": "0368c43b8bda",
+   "title": "Why Dreaming Leaves the Brain Running Low on Energy",
+   "url": "https://scitechdaily.com/why-dreaming-leaves-the-brain-running-low-on-energy/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-02T01:21:37Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sun, 02 Aug 2026 01:21:37 +0000"
+   }
+  },
+  {
+   "id": "963e35ac728e",
+   "title": "Quantum Photons Survive a 24-Kilometer Journey Through Chicago’s Busy Internet",
+   "url": "https://scitechdaily.com/quantum-photons-survive-a-24-kilometer-journey-through-chicagos-busy-internet/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T22:24:05Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 22:24:05 +0000"
+   }
+  },
+  {
+   "id": "e1934eef7a6a",
+   "title": "Quantum Computing’s “Dark Horse” Just Cleared a Major Hurdle",
+   "url": "https://scitechdaily.com/quantum-computings-dark-horse-just-cleared-a-major-hurdle/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T21:49:25Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 21:49:25 +0000"
+   }
+  },
+  {
+   "id": "ff8963db6e93",
+   "title": "CERN Experiments Detect Signs of the Universe’s Primordial Matter",
+   "url": "https://scitechdaily.com/cern-experiments-detect-signs-of-the-universes-primordial-matter/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T21:14:56Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 21:14:56 +0000"
+   }
+  },
+  {
+   "id": "6163b2c124f0",
+   "title": "Ancient Immune Protein Could Hold the Key to Better Cancer Immunotherapy",
+   "url": "https://scitechdaily.com/ancient-immune-protein-could-hold-the-key-to-better-cancer-immunotherapy/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T15:53:54Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 15:53:54 +0000"
+   }
+  },
+  {
+   "id": "3f5af3289006",
+   "title": "Study Finds a Surprising Link Between Gut Microbes and Aging",
+   "url": "https://scitechdaily.com/study-finds-a-surprising-link-between-gut-microbes-and-aging/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T15:18:04Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 15:18:04 +0000"
+   }
+  },
+  {
+   "id": "5f5a25a482dd",
+   "title": "Frequent Cannabis Users Wake Up With More “Stress Hormone”",
+   "url": "https://scitechdaily.com/frequent-cannabis-users-wake-up-with-more-stress-hormone/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T14:43:12Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 14:43:12 +0000"
+   }
+  },
+  {
+   "id": "f27e4fa354b9",
+   "title": "AI Helps Crack an 87-Year-Old Math Conjecture With One Tiny Formula",
+   "url": "https://scitechdaily.com/ai-helps-crack-an-87-year-old-math-conjecture-with-one-tiny-formula/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T12:11:05Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 12:11:05 +0000"
+   }
+  },
+  {
+   "id": "0a9c8868b5be",
+   "title": "A Single Faulty Gene Copy Can Unravel the Heart’s DNA",
+   "url": "https://scitechdaily.com/a-single-faulty-gene-copy-can-unravel-the-hearts-dna/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T11:36:41Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 11:36:41 +0000"
+   }
+  },
+  {
+   "id": "67b2e4463928",
+   "title": "Scientists Reveal Hidden DNA Traces in the Shroud of Turin",
+   "url": "https://scitechdaily.com/scientists-reveal-hidden-dna-traces-in-the-shroud-of-turin/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T11:01:32Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Sat, 01 Aug 2026 11:01:32 +0000"
+   }
+  },
+  {
+   "id": "2c685b93616f",
+   "title": "Scientists Who Uncovered Altermagnetism Win Major Physics Honor",
+   "url": "https://scitechdaily.com/scientists-who-uncovered-altermagnetism-win-major-physics-honor/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T23:25:40Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 23:25:40 +0000"
+   }
+  },
+  {
+   "id": "768bef7b3eab",
+   "title": "UK’s £3 Million Bet Could Help NASA Find Life on Nearby Planets",
+   "url": "https://scitechdaily.com/uks-3-million-bet-could-help-nasa-find-life-on-nearby-planets/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T22:50:26Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 22:50:26 +0000"
+   }
+  },
+  {
+   "id": "2ed12f8feeba",
+   "title": "Giant Alien World Found Hiding in Plain Sight for 11 Years",
+   "url": "https://scitechdaily.com/giant-alien-world-found-hiding-in-plain-sight-for-11-years/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T22:15:22Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 22:15:22 +0000"
+   }
+  },
+  {
+   "id": "503680c6e8ea",
+   "title": "What It Takes To Make a White Blood Cell Could Unlock New Cancer Treatments",
+   "url": "https://scitechdaily.com/what-it-takes-to-make-a-white-blood-cell-could-unlock-new-cancer-treatments/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T18:52:59Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 18:52:59 +0000"
+   }
+  },
+  {
+   "id": "2b736bf1ee11",
+   "title": "Scientists Turn Gut Bacteria Into Pancreatic Cancer Fighters",
+   "url": "https://scitechdaily.com/scientists-turn-gut-bacteria-into-pancreatic-cancer-fighters/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T18:17:22Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 18:17:22 +0000"
+   }
+  },
+  {
+   "id": "89a8b4a59f2e",
+   "title": "Scientists Link Heavy TV Watching to Brain Changes Decades Later",
+   "url": "https://scitechdaily.com/scientists-link-heavy-tv-watching-to-brain-changes-decades-later/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T17:42:40Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 17:42:40 +0000"
+   }
+  },
+  {
+   "id": "9188e91487f9",
+   "title": "This Smart Ring Tracks Glucose, Alcohol, and More Through Your Sweat",
+   "url": "https://scitechdaily.com/this-smart-ring-tracks-glucose-alcohol-and-more-through-your-sweat/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T15:05:25Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 15:05:25 +0000"
+   }
+  },
+  {
+   "id": "71912fd3e7bc",
+   "title": "Underwater Cave Bones Reveal Hidden Clues About Ancient Fossils",
+   "url": "https://scitechdaily.com/underwater-cave-bones-reveal-hidden-clues-about-ancient-fossils/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T14:30:30Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 14:30:30 +0000"
+   }
+  },
+  {
+   "id": "dbb2f5a8af3e",
+   "title": "Did T. rex Leave These Mysterious Marks on Dinosaur Bones?",
+   "url": "https://scitechdaily.com/did-t-rex-leave-these-mysterious-marks-on-dinosaur-bones/",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T13:55:27Z",
+   "score": 45.0,
+   "tags": [
+    "SciTechDaily",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "SciTechDaily",
+    "published_raw": "Fri, 31 Jul 2026 13:55:27 +0000"
+   }
+  },
+  {
+   "id": "ca45b56d3267",
+   "title": "The Asteroid That May Be Three Worlds",
+   "url": "https://www.universetoday.com/articles/the-asteroid-that-may-be-three-worlds",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T07:01:48Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Sat, 01 Aug 2026 07:01:48 +0000"
+   }
+  },
+  {
+   "id": "65457287d03e",
+   "title": "Smashed Ice Worlds Formed Neptune's Inner Moons and Rings",
+   "url": "https://www.universetoday.com/articles/smashed-ice-worlds-formed-neptunes-inner-moons-and-rings",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T05:19:34Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Sat, 01 Aug 2026 05:19:34 +0000"
+   }
+  },
+  {
+   "id": "d2c33dd7732d",
+   "title": "Charon’s Mountains Reveal Moon Once Spun 10x Faster",
+   "url": "https://www.universetoday.com/articles/charons-mountains-reveal-moon-once-spun-10x-faster",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-08-01T00:57:43Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Sat, 01 Aug 2026 00:57:43 +0000"
+   }
+  },
+  {
+   "id": "a65a19b71b2f",
+   "title": "Interstellar Travel: The Space Age and Nuclear Rockets",
+   "url": "https://www.universetoday.com/articles/interstellar-travel-the-space-age-and-nuclear-rockets",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T23:45:00Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 23:45:00 +0000"
+   }
+  },
+  {
+   "id": "a4089708338b",
+   "title": "Astronomers Measure the Long Reach of a Quasar",
+   "url": "https://www.universetoday.com/articles/astronomers-measure-the-long-reach-of-a-quasar",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T17:43:01Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 17:43:01 +0000"
+   }
+  },
+  {
+   "id": "6a897a85d860",
+   "title": "The Star That Exploded Without Hydrogen",
+   "url": "https://www.universetoday.com/articles/the-star-that-exploded-without-hydrogen",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T16:47:42Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 16:47:42 +0000"
+   }
+  },
+  {
+   "id": "8001c734be4e",
+   "title": "Astrobiologist Uses Apollo Lunar Samples As Mirror Onto Early Earth",
+   "url": "https://www.universetoday.com/articles/astrobiologist-uses-apollo-lunar-samples-as-mirror-onto-early-earth",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T16:03:58Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 16:03:58 +0000"
+   }
+  },
+  {
+   "id": "d37002ad3662",
+   "title": "NASA Wants to Toss 10,000 Tiny Probes Directly Into Saturn's Rings",
+   "url": "https://www.universetoday.com/articles/nasa-wants-to-toss-10000-tiny-probes-directly-into-saturns-rings",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T15:32:10Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 15:32:10 +0000"
+   }
+  },
+  {
+   "id": "698c3ea40f80",
+   "title": "What happens to a moon when its planet is stolen?",
+   "url": "https://www.universetoday.com/articles/what-happens-to-a-moon-when-its-planet-is-stolen",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T15:16:36Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 15:16:36 +0000"
+   }
+  },
+  {
+   "id": "d6f15b33eb6f",
+   "title": "It Took a Century, but Astronomers Imaged Betelgeuse's Companion",
+   "url": "https://www.universetoday.com/articles/it-took-a-century-but-astronomers-imaged-betelgeuses-companion",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T08:19:00Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 08:19:00 +0000"
+   }
+  },
+  {
+   "id": "d13f2ab2d6ac",
+   "title": "Mercury's Weak Magnetic Field Periodically Traps Solar Wind",
+   "url": "https://www.universetoday.com/articles/mercurys-weak-magnetic-field-periodically-traps-solar-wind",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-31T03:32:07Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Fri, 31 Jul 2026 03:32:07 +0000"
+   }
+  },
+  {
+   "id": "bc44960122ba",
+   "title": "What Killed Galaxies in the Early Universe?",
+   "url": "https://www.universetoday.com/articles/what-killed-galaxies-in-the-early-universe",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T22:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 22:00:00 +0000"
+   }
+  },
+  {
+   "id": "91695c54a75f",
+   "title": "Primordial Black Holes Can Trigger Type Ia Supernovae, and Astronomers Should be Able to Find Them",
+   "url": "https://www.universetoday.com/articles/primordial-black-holes-can-trigger-type-ia-supernovae-and-astronomers-should-be-able-to-find-them",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T19:22:27Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 19:22:27 +0000"
+   }
+  },
+  {
+   "id": "e29f71282103",
+   "title": "Radio Array Detects Polarized Light From a GRB",
+   "url": "https://www.universetoday.com/articles/radio-array-detects-polarized-light-from-a-grb",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T18:57:50Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 18:57:50 +0000"
+   }
+  },
+  {
+   "id": "953ba2310320",
+   "title": "The ELT's Spectrograph Could Sniff Out Biosignatures on Other Worlds",
+   "url": "https://www.universetoday.com/articles/the-elts-spectrograph-could-sniff-out-biosignatures-on-other-worlds",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T15:40:33Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 15:40:33 +0000"
+   }
+  },
+  {
+   "id": "870d02d52d6c",
+   "title": "The Exciting Plan to Photograph an Alien Continent",
+   "url": "https://www.universetoday.com/articles/the-exciting-plan-to-photograph-an-alien-continent",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T11:18:00Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 11:18:00 +0000"
+   }
+  },
+  {
+   "id": "a7c4d3bcb126",
+   "title": "A Thermal Camera Trick Could Let LIGO See Twice as Far",
+   "url": "https://www.universetoday.com/articles/a-thermal-camera-trick-could-let-ligo-see-twice-as-far",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T11:10:39Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 11:10:39 +0000"
+   }
+  },
+  {
+   "id": "7a7f6659cce8",
+   "title": "Mars' Double Storm Problem",
+   "url": "https://www.universetoday.com/articles/mars-double-storm-problem",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T11:03:00Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 11:03:00 +0000"
+   }
+  },
+  {
+   "id": "3c86a12d8128",
+   "title": "Alien Signals May Hide in Unexplored High Radio Frequencies",
+   "url": "https://www.universetoday.com/articles/alien-signals-may-hide-in-unexplored-high-radio-frequencies",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T05:12:38Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 05:12:38 +0000"
+   }
+  },
+  {
+   "id": "791934b89eb2",
+   "title": "Quantum Physics Could Help Us Find Earth 2.0",
+   "url": "https://www.universetoday.com/articles/quantum-physics-could-help-us-find-earth-20",
+   "source": "rss_science_space",
+   "category": "science",
+   "published": "2026-07-30T02:56:05Z",
+   "score": 45.0,
+   "tags": [
+    "Universe Today",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Universe Today",
+    "published_raw": "Thu, 30 Jul 2026 02:56:05 +0000"
+   }
+  }
+ ]
+}

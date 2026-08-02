@@ -1,0 +1,203 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-02T15:02:09Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.1,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "98a650db4407",
+   "title": "Audiera (BEAT) moved -15.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T15:02:09Z",
+   "score": 93.25,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -15.3,
+    "pct1h": -1.1,
+    "pct7d": 12.0,
+    "price_usd": 3.97,
+    "market_cap": 1223639414
+   }
+  },
+  {
+   "id": "6aa8255a1e88",
+   "title": "​​Stable (STABLE) moved -9.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/stable-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T15:02:09Z",
+   "score": 79.75,
+   "tags": [
+    "stable",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "stable",
+    "pct24h": -9.9,
+    "pct1h": -0.8,
+    "pct7d": -21.0,
+    "price_usd": 0.03062818,
+    "market_cap": 767193032
+   }
+  },
+  {
+   "id": "a85afdad8c3f",
+   "title": "Ethena (ENA) moved +9.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ethena",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T15:02:09Z",
+   "score": 78.25,
+   "tags": [
+    "ena",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ena",
+    "pct24h": 9.3,
+    "pct1h": 0.6,
+    "pct7d": 4.0,
+    "price_usd": 0.088812,
+    "market_cap": 849745676
+   }
+  },
+  {
+   "id": "dbc73c02b506",
+   "title": "Cardano (ADA) moved +8.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cardano",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T15:02:09Z",
+   "score": 76.5,
+   "tags": [
+    "ada",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ada",
+    "pct24h": 8.6,
+    "pct1h": 1.5,
+    "pct7d": 15.6,
+    "price_usd": 0.189836,
+    "market_cap": 7093091792
+   }
+  },
+  {
+   "id": "95d7e9e9288f",
+   "title": "MemeCore (M) moved +7.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/memecore",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T15:02:09Z",
+   "score": 73.75,
+   "tags": [
+    "m",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "m",
+    "pct24h": 7.5,
+    "pct1h": 0.2,
+    "pct7d": -6.9,
+    "price_usd": 1.17,
+    "market_cap": 1555366323
+   }
+  },
+  {
+   "id": "7e85b99505b5",
+   "title": "Pepe (PEPE) moved +5.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pepe",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T15:02:09Z",
+   "score": 69.25,
+   "tags": [
+    "pepe",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pepe",
+    "pct24h": 5.7,
+    "pct1h": 0.9,
+    "pct7d": -0.9,
+    "price_usd": 2.92e-06,
+    "market_cap": 1227396030
+   }
+  },
+  {
+   "id": "34c50ee2ff07",
+   "title": "Algorand (ALGO) moved +4.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/algorand",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T15:02:09Z",
+   "score": 65.5,
+   "tags": [
+    "algo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "algo",
+    "pct24h": 4.2,
+    "pct1h": 1.2,
+    "pct7d": -0.7,
+    "price_usd": 0.08367,
+    "market_cap": 749021796
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 63015,
+   "pct24h": 0.0
+  },
+  "eth": {
+   "price": 1853.44,
+   "pct24h": -0.8
+  },
+  "xrp": {
+   "price": 1.08,
+   "pct24h": 1.6
+  },
+  "sol": {
+   "price": 73.03,
+   "pct24h": 0.1
+  },
+  "doge": {
+   "price": 0.070336,
+   "pct24h": 0.4
+  },
+  "ada": {
+   "price": 0.189836,
+   "pct24h": 8.6
+  },
+  "link": {
+   "price": 8.28,
+   "pct24h": 2.4
+  },
+  "ltc": {
+   "price": 44.63,
+   "pct24h": 0.9
+  },
+  "avax": {
+   "price": 6.58,
+   "pct24h": 3.6
+  },
+  "dot": {
+   "price": 0.797115,
+   "pct24h": 3.6
+  }
+ }
+}
