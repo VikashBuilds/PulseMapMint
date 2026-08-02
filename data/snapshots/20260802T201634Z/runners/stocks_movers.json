@@ -1,0 +1,211 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-02T20:15:30Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.12,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "aaef93bd1d21",
+   "title": "Alphabet surged +6.73% today",
+   "url": "https://finance.yahoo.com/quote/GOOGL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 95.0,
+   "tags": [
+    "GOOGL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GOOGL",
+    "move_pct": 6.73,
+    "price": 356.13,
+    "prev_close": 333.66,
+    "day_high": 358.55,
+    "day_low": 340.0,
+    "volume": 46498023
+   }
+  },
+  {
+   "id": "90362a545f68",
+   "title": "Apple plunged -7.35% today",
+   "url": "https://finance.yahoo.com/quote/AAPL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 95.0,
+   "tags": [
+    "AAPL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AAPL",
+    "move_pct": -7.35,
+    "price": 308.91,
+    "prev_close": 333.43,
+    "day_high": 310.69,
+    "day_low": 300.0,
+    "volume": 132489137
+   }
+  },
+  {
+   "id": "3cd1cfc1a602",
+   "title": "Amazon surged +15.32% today",
+   "url": "https://finance.yahoo.com/quote/AMZN",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 95.0,
+   "tags": [
+    "AMZN",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AMZN",
+    "move_pct": 15.32,
+    "price": 271.58,
+    "prev_close": 235.5,
+    "day_high": 273.23,
+    "day_low": 262.055,
+    "volume": 129054771
+   }
+  },
+  {
+   "id": "01bdce73f0a8",
+   "title": "Micron plunged -5.90% today",
+   "url": "https://finance.yahoo.com/quote/MU",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 90.4172100444558,
+   "tags": [
+    "MU",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MU",
+    "move_pct": -5.9,
+    "price": 823.03,
+    "prev_close": 874.66,
+    "day_high": 930.88,
+    "day_low": 818.0,
+    "volume": 54538600
+   }
+  },
+  {
+   "id": "aa4c8d9f284a",
+   "title": "Moderna plunged -5.35% today",
+   "url": "https://finance.yahoo.com/quote/MRNA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 87.1132596685083,
+   "tags": [
+    "MRNA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MRNA",
+    "move_pct": -5.35,
+    "price": 54.82,
+    "prev_close": 57.92,
+    "day_high": 59.49,
+    "day_low": 54.71,
+    "volume": 7764502
+   }
+  },
+  {
+   "id": "6bb03cab4a8c",
+   "title": "Meta surged +3.28% today",
+   "url": "https://finance.yahoo.com/quote/META",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 74.67979518765196,
+   "tags": [
+    "META",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "META",
+    "move_pct": 3.28,
+    "price": 556.71,
+    "prev_close": 539.03,
+    "day_high": 558.33,
+    "day_low": 540.24,
+    "volume": 24261457
+   }
+  },
+  {
+   "id": "8932ec3402b9",
+   "title": "Microsoft surged +3.02% today",
+   "url": "https://finance.yahoo.com/quote/MSFT",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 73.11571713589005,
+   "tags": [
+    "MSFT",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MSFT",
+    "move_pct": 3.02,
+    "price": 464.72,
+    "prev_close": 451.1,
+    "day_high": 466.84,
+    "day_low": 449.552,
+    "volume": 60845971
+   }
+  },
+  {
+   "id": "495972658d10",
+   "title": "NVIDIA surged +2.93% today",
+   "url": "https://finance.yahoo.com/quote/NVDA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 72.56562756357673,
+   "tags": [
+    "NVDA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NVDA",
+    "move_pct": 2.93,
+    "price": 200.75,
+    "prev_close": 195.04,
+    "day_high": 201.97,
+    "day_low": 194.95,
+    "volume": 139961152
+   }
+  },
+  {
+   "id": "d2309340bb64",
+   "title": "Qualcomm plunged -2.63% today",
+   "url": "https://finance.yahoo.com/quote/QCOM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 70.79155672823211,
+   "tags": [
+    "QCOM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QCOM",
+    "move_pct": -2.63,
+    "price": 147.61,
+    "prev_close": 151.6,
+    "day_high": 153.73,
+    "day_low": 146.15,
+    "volume": 13811248
+   }
+  }
+ ]
+}

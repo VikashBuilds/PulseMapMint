@@ -1,0 +1,694 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-02T20:15:39Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.89,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "bed468048985",
+   "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+   "url": "https://news.ycombinator.com/item?id=49139845",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 13,
+    "hn_id": 49139845
+   }
+  },
+  {
+   "id": "a9d7e377882e",
+   "title": "Tell HN: Amazonbot aggressively scraping my website and ignoring robots.txt",
+   "url": "https://news.ycombinator.com/item?id=49137359",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 35.897247358851686,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 19,
+    "comments": 14,
+    "hn_id": 49137359
+   }
+  },
+  {
+   "id": "1ba0242b28ff",
+   "title": "ask HN: How do I run Android 15 on a system with Andr 12 vendors?",
+   "url": "https://news.ycombinator.com/item?id=49141723",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 2,
+    "hn_id": 49141723
+   }
+  },
+  {
+   "id": "ca7171bade85",
+   "title": "Ask HN: When will ChatGPT Voice be able to control my phone?",
+   "url": "https://news.ycombinator.com/item?id=49142464",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 5,
+    "hn_id": 49142464
+   }
+  },
+  {
+   "id": "80966ce02059",
+   "title": "What if we learned languages like we acquired our first?",
+   "url": "https://news.ycombinator.com/item?id=49142084",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 6,
+    "hn_id": 49142084
+   }
+  },
+  {
+   "id": "c152d435e362",
+   "title": "Created a network that combines Hacker News and geniuses at one place",
+   "url": "https://news.ycombinator.com/item?id=49141738",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 4,
+    "hn_id": 49141738
+   }
+  },
+  {
+   "id": "7051f4b6b4d1",
+   "title": "Ask HN: What's Your BHAG?",
+   "url": "https://news.ycombinator.com/item?id=49143456",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 4,
+    "hn_id": 49143456
+   }
+  },
+  {
+   "id": "d499686f4a66",
+   "title": "Ask HN: How are you using AI to learn?",
+   "url": "https://news.ycombinator.com/item?id=49138466",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 16,
+    "hn_id": 49138466
+   }
+  },
+  {
+   "id": "321c42440f04",
+   "title": "AI will always find a difference",
+   "url": "https://news.ycombinator.com/item?id=49139951",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49139951
+   }
+  },
+  {
+   "id": "a2986aee3467",
+   "title": "Ask HN: Anyone still do work on Intel Macs?",
+   "url": "https://news.ycombinator.com/item?id=49139703",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 35.897247358851686,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 19,
+    "comments": 23,
+    "hn_id": 49139703
+   }
+  },
+  {
+   "id": "2ad0427696e2",
+   "title": "Best way to avoid bloat and AI – selfcontaining OS",
+   "url": "https://news.ycombinator.com/item?id=49143571",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 1,
+    "hn_id": 49143571
+   }
+  },
+  {
+   "id": "f779d8dc6e88",
+   "title": "What is the downside of coaching that I may not be seeing yet?",
+   "url": "https://news.ycombinator.com/item?id=49143243",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49143243
+   }
+  },
+  {
+   "id": "d7f7537d7a40",
+   "title": "Ask HN: What did you learn last month? (July 2026)",
+   "url": "https://news.ycombinator.com/item?id=49129889",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 12,
+    "hn_id": 49129889
+   }
+  },
+  {
+   "id": "711b8e4b0eef",
+   "title": "Tell HN: HackerOne Announces Mandatory identity verification",
+   "url": "https://news.ycombinator.com/item?id=49126558",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 35.30776406404415,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 17,
+    "comments": 1,
+    "hn_id": 49126558
+   }
+  },
+  {
+   "id": "aff655abe447",
+   "title": "Everything that happens in a US airport is under duress",
+   "url": "https://news.ycombinator.com/item?id=49124228",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 22,
+    "hn_id": 49124228
+   }
+  },
+  {
+   "id": "d24f2843516a",
+   "title": "Ask HN: Best Blogging Platform?",
+   "url": "https://news.ycombinator.com/item?id=49138177",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 5,
+    "hn_id": 49138177
+   }
+  },
+  {
+   "id": "96f9c59ff3b1",
+   "title": "Strategic Oil Reserves Down to a Record Low Two-Week Supply",
+   "url": "https://news.ycombinator.com/item?id=49117875",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 35.897247358851686,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 19,
+    "comments": 20,
+    "hn_id": 49117875
+   }
+  },
+  {
+   "id": "dae839aefb8f",
+   "title": "Ask HN: Am I the only one getting so many cursor ads?",
+   "url": "https://news.ycombinator.com/item?id=49142728",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 2,
+    "hn_id": 49142728
+   }
+  },
+  {
+   "id": "079e9f85768f",
+   "title": "Which web browser has no AI?",
+   "url": "https://news.ycombinator.com/item?id=49137677",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 13,
+    "hn_id": 49137677
+   }
+  },
+  {
+   "id": "08f2b152880f",
+   "title": "Ask HN: How did your boss's behavior change with the rise of AI?",
+   "url": "https://news.ycombinator.com/item?id=49132161",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 9,
+    "hn_id": 49132161
+   }
+  },
+  {
+   "id": "02e9c2afd8a6",
+   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+   "url": "https://github.com/wie-project/kakehashi",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 50.24876234590519,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 102,
+    "comments": 26,
+    "hn_id": 49145937
+   }
+  },
+  {
+   "id": "2f4b4ade8d60",
+   "title": "Show HN: Fuse – statically typed functional programming language",
+   "url": "https://fuselang.org",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 48.184046238739256,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 86,
+    "comments": 19,
+    "hn_id": 49143412
+   }
+  },
+  {
+   "id": "2141bbfc9df2",
+   "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+   "url": "https://github.com/syncular/syncular",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 45.91650066335189,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 70,
+    "comments": 24,
+    "hn_id": 49142794
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 97,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "71665a90d644",
+   "title": "Show HN: I added a client-side SQL sanitizer so schema never touches our servers",
+   "url": "https://www.querytuner.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49146371
+   }
+  },
+  {
+   "id": "eab6e8e2d9f7",
+   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 55.82207001484488,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 152,
+    "comments": 19,
+    "hn_id": 49142569
+   }
+  },
+  {
+   "id": "2c8e1b6ab996",
+   "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+   "url": "https://github.com/graham33/nixos-dgx-spark",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 43.2002747232013,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 53,
+    "comments": 13,
+    "hn_id": 49146267
+   }
+  },
+  {
+   "id": "0750a20b6766",
+   "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+   "url": "https://github.com/kamalfarahani/katharos",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 38.22875655532295,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 28,
+    "comments": 8,
+    "hn_id": 49143179
+   }
+  },
+  {
+   "id": "f473469f7740",
+   "title": "Show HN: MCP Emails – An MCP Server for Gmail and IMAP/SMTP Inboxes",
+   "url": "https://github.com/Albretsen/MCPEmails/tree/main/self-host",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49146337
+   }
+  },
+  {
+   "id": "e4089210e5b7",
+   "title": "Show HN: My public second brain – 660 notes, 15 years, open source",
+   "url": "https://www.ssp.sh/brain/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 4,
+    "hn_id": 49147627
+   }
+  },
+  {
+   "id": "d806b6bdab02",
+   "title": "Show HN: Schmess – chess with no turns; pieces freeze on cooldown after moving",
+   "url": "https://schmess.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 3,
+    "hn_id": 49146098
+   }
+  },
+  {
+   "id": "2561350057ce",
+   "title": "Show HN: Elevators",
+   "url": "https://john.fun/elevators",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1618,
+    "comments": 397,
+    "hn_id": 49124218
+   }
+  },
+  {
+   "id": "3a500c10911e",
+   "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+   "url": "https://code.intellios.ai/cwbrowser/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 55.4138126514911,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 148,
+    "comments": 43,
+    "hn_id": 49128826
+   }
+  },
+  {
+   "id": "b2f0bb9351e2",
+   "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+   "url": "https://sprocket-demo.spikonado.com",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 51.457513110645905,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 112,
+    "comments": 22,
+    "hn_id": 49145934
+   }
+  },
+  {
+   "id": "2bc2e6b57afb",
+   "title": "Show HN: What should the GUI for AI agents look like?",
+   "url": "https://marbleos.com/demo",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 53.939592256975565,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 134,
+    "comments": 78,
+    "hn_id": 49119274
+   }
+  },
+  {
+   "id": "42a1ec0b3b1e",
+   "title": "Show HN: Rextio – Compile Python code natively using Rust with CPython fallbacks",
+   "url": "https://github.com/rextio/rextio",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49145704
+   }
+  },
+  {
+   "id": "f79958f239bc",
+   "title": "Show HN: Btfy – a blockchain that uses weather observations",
+   "url": "https://github.com/kotagit75/btfy",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 4,
+    "hn_id": 49141764
+   }
+  },
+  {
+   "id": "797ef9b6a6db",
+   "title": "Show HN: TamedTable, AI ETL in Natural Language",
+   "url": "https://www.tamedtable.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 4,
+    "hn_id": 49142102
+   }
+  },
+  {
+   "id": "e428312c4d82",
+   "title": "Show HN: Aevros .... A kernel that explains itself",
+   "url": "https://github.com/Mobeen0119/Aevros",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 1,
+    "hn_id": 49142156
+   }
+  },
+  {
+   "id": "be44ee6c87cf",
+   "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
+   "url": "https://sinusoft.com/loganbasic/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T20:15:39Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 3,
+    "hn_id": 49115423
+   }
+  }
+ ]
+}

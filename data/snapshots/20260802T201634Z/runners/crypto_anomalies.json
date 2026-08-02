@@ -1,0 +1,371 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-02T20:15:45Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.11,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "55b966579235",
+   "title": "Audiera (BEAT) moved -17.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -17.2,
+    "pct1h": 1.3,
+    "pct7d": -5.5,
+    "price_usd": 3.36,
+    "market_cap": 1038206698
+   }
+  },
+  {
+   "id": "b87aaeed04f8",
+   "title": "Ethena (ENA) moved +11.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ethena",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 82.5,
+   "tags": [
+    "ena",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ena",
+    "pct24h": 11.0,
+    "pct1h": -0.1,
+    "pct7d": 3.4,
+    "price_usd": 0.088497,
+    "market_cap": 846014550
+   }
+  },
+  {
+   "id": "c3ac01276662",
+   "title": "Cardano (ADA) moved +9.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cardano",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 78.25,
+   "tags": [
+    "ada",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ada",
+    "pct24h": 9.3,
+    "pct1h": -0.3,
+    "pct7d": 14.5,
+    "price_usd": 0.188557,
+    "market_cap": 7040543510
+   }
+  },
+  {
+   "id": "bfba941cd8cc",
+   "title": "MemeCore (M) moved +8.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/memecore",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 77.25,
+   "tags": [
+    "m",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "m",
+    "pct24h": 8.9,
+    "pct1h": 0.3,
+    "pct7d": -3.7,
+    "price_usd": 1.19,
+    "market_cap": 1583043309
+   }
+  },
+  {
+   "id": "8ce346c69196",
+   "title": "Algorand (ALGO) moved +8.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/algorand",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 75.75,
+   "tags": [
+    "algo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "algo",
+    "pct24h": 8.3,
+    "pct1h": 0.1,
+    "pct7d": 1.6,
+    "price_usd": 0.083631,
+    "market_cap": 752171406
+   }
+  },
+  {
+   "id": "9640ae7ea435",
+   "title": "Avalanche (AVAX) moved +7.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/avalanche-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 74.25,
+   "tags": [
+    "avax",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "avax",
+    "pct24h": 7.7,
+    "pct1h": -0.5,
+    "pct7d": -1.1,
+    "price_usd": 6.58,
+    "market_cap": 2840608763
+   }
+  },
+  {
+   "id": "abae15dfaccd",
+   "title": "Injective (INJ) moved +6.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/injective-protocol",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 70.25,
+   "tags": [
+    "inj",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "inj",
+    "pct24h": 6.1,
+    "pct1h": 1.8,
+    "pct7d": 4.7,
+    "price_usd": 5.14,
+    "market_cap": 513886545
+   }
+  },
+  {
+   "id": "97184a33c0e3",
+   "title": "币安人生 (BinanceLife) (币安人生) moved -6.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 70.0,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": -6.0,
+    "pct1h": -0.2,
+    "pct7d": -11.6,
+    "price_usd": 0.583607,
+    "market_cap": 583782574
+   }
+  },
+  {
+   "id": "9820b91524d8",
+   "title": "Pepe (PEPE) moved +5.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pepe",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 69.75,
+   "tags": [
+    "pepe",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pepe",
+    "pct24h": 5.9,
+    "pct1h": 0.1,
+    "pct7d": 0.2,
+    "price_usd": 2.91e-06,
+    "market_cap": 1225506538
+   }
+  },
+  {
+   "id": "b30a20d5dad1",
+   "title": "​​Stable (STABLE) moved -5.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/stable-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 68.0,
+   "tags": [
+    "stable",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "stable",
+    "pct24h": -5.2,
+    "pct1h": 0.8,
+    "pct7d": -17.3,
+    "price_usd": 0.0318829,
+    "market_cap": 798742587
+   }
+  },
+  {
+   "id": "c9fdc3aa3874",
+   "title": "Worldcoin (WLD) moved +4.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/worldcoin-wld",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 66.5,
+   "tags": [
+    "wld",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "wld",
+    "pct24h": 4.6,
+    "pct1h": 0.8,
+    "pct7d": -9.7,
+    "price_usd": 0.314211,
+    "market_cap": 1123059401
+   }
+  },
+  {
+   "id": "7e313dc0a4f8",
+   "title": "Zcash (ZEC) moved +4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 65.75,
+   "tags": [
+    "zec",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "zec",
+    "pct24h": 4.3,
+    "pct1h": 2.2,
+    "pct7d": -1.4,
+    "price_usd": 486.32,
+    "market_cap": 8159696107
+   }
+  },
+  {
+   "id": "9fcde38d0a8c",
+   "title": "Chainlink (LINK) moved +4.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/chainlink",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 65.5,
+   "tags": [
+    "link",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "link",
+    "pct24h": 4.2,
+    "pct1h": 0.2,
+    "pct7d": -3.1,
+    "price_usd": 8.32,
+    "market_cap": 6221346474
+   }
+  },
+  {
+   "id": "880e416d96be",
+   "title": "Arbitrum (ARB) moved +4.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/arbitrum",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 65.5,
+   "tags": [
+    "arb",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "arb",
+    "pct24h": 4.2,
+    "pct1h": 0.1,
+    "pct7d": -1.0,
+    "price_usd": 0.081393,
+    "market_cap": 538311409
+   }
+  },
+  {
+   "id": "6021b4fa4a39",
+   "title": "Uniswap (UNI) moved +4.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/uniswap",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T20:15:45Z",
+   "score": 65.25,
+   "tags": [
+    "uni",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "uni",
+    "pct24h": 4.1,
+    "pct1h": 1.3,
+    "pct7d": 8.9,
+    "price_usd": 4.22,
+    "market_cap": 2637641412
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 63369,
+   "pct24h": 1.4
+  },
+  "eth": {
+   "price": 1878.92,
+   "pct24h": 2.4
+  },
+  "xrp": {
+   "price": 1.08,
+   "pct24h": 2.7
+  },
+  "sol": {
+   "price": 73.54,
+   "pct24h": 3.5
+  },
+  "doge": {
+   "price": 0.070574,
+   "pct24h": 3.2
+  },
+  "ada": {
+   "price": 0.188557,
+   "pct24h": 9.3
+  },
+  "link": {
+   "price": 8.32,
+   "pct24h": 4.2
+  },
+  "ltc": {
+   "price": 44.96,
+   "pct24h": 2.2
+  },
+  "avax": {
+   "price": 6.58,
+   "pct24h": 7.7
+  },
+  "dot": {
+   "price": 0.796792,
+   "pct24h": 3.5
+  }
+ }
+}

@@ -401,5 +401,116 @@
     "c": "markets"
    }
   ]
+ },
+ {
+  "ts": "20260802T201634Z",
+  "generated": "2026-08-02T20:16:34.056036+00:00",
+  "events": 1167,
+  "breakers": 120,
+  "avg_heat": 89.9,
+  "prices": {
+   "btc": {
+    "price": 63369,
+    "pct24h": 1.4
+   },
+   "eth": {
+    "price": 1878.92,
+    "pct24h": 2.4
+   },
+   "xrp": {
+    "price": 1.08,
+    "pct24h": 2.7
+   },
+   "sol": {
+    "price": 73.54,
+    "pct24h": 3.5
+   },
+   "doge": {
+    "price": 0.070574,
+    "pct24h": 3.2
+   },
+   "ada": {
+    "price": 0.188557,
+    "pct24h": 9.3
+   },
+   "link": {
+    "price": 8.32,
+    "pct24h": 4.2
+   },
+   "ltc": {
+    "price": 44.96,
+    "pct24h": 2.2
+   },
+   "avax": {
+    "price": 6.58,
+    "pct24h": 7.7
+   },
+   "dot": {
+    "price": 0.796792,
+    "pct24h": 3.5
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved -17.2% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "microsoft/AI-For-Beginners",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "How Google helped destroy adoption of RSS feeds (2023)",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Alphabet surged +6.73% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Apple plunged -7.35% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Amazon surged +15.32% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Micron plunged -5.90% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Moderna plunged -5.35% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   }
+  ]
  }
 ]

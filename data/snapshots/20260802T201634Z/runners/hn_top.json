@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-02T20:15:32Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.46,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "2c8e1b6ab996",
+   "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+   "url": "https://github.com/graham33/nixos-dgx-spark",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 43.2002747232013,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 53,
+    "comments": 13,
+    "hn_id": 49146267
+   }
+  },
+  {
+   "id": "02e9c2afd8a6",
+   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+   "url": "https://github.com/wie-project/kakehashi",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 50.24876234590519,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 102,
+    "comments": 26,
+    "hn_id": 49145937
+   }
+  },
+  {
+   "id": "ca5e1a37e0c2",
+   "title": "Karpathy’s Pelican",
+   "url": "https://twitter.com/karpathy/status/2083749667410727319",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 62.83186487605389,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 229,
+    "comments": 179,
+    "hn_id": 49140998
+   }
+  },
+  {
+   "id": "28097bd39382",
+   "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+   "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 44.03943276465977,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 58,
+    "comments": 7,
+    "hn_id": 49145883
+   }
+  },
+  {
+   "id": "a4111e9aec9d",
+   "title": "How the words we teach English language learners changed",
+   "url": "https://pudding.cool/2026/07/essential-words/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 56.42451272494134,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 158,
+    "comments": 88,
+    "hn_id": 49145590
+   }
+  },
+  {
+   "id": "23b4e4f4f2de",
+   "title": "Twenty Years of RISC OS Open",
+   "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 52.83882181415011,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 124,
+    "comments": 20,
+    "hn_id": 49143967
+   }
+  },
+  {
+   "id": "c8d828e5c597",
+   "title": "Note-Taking and Personal Knowledge Management",
+   "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 36.4564392373896,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 21,
+    "comments": 0,
+    "hn_id": 49084324
+   }
+  },
+  {
+   "id": "849bd3427f7e",
+   "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+   "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 13,
+    "hn_id": 49146605
+   }
+  },
+  {
+   "id": "9eae7a27ffb5",
+   "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+   "url": "https://meshdiff.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 55.618621784789724,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 150,
+    "comments": 14,
+    "hn_id": 49143479
+   }
+  },
+  {
+   "id": "aaf631f1c9e3",
+   "title": "Developers are attached to tools because tools encode trust",
+   "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 46.0653744329409,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 71,
+    "comments": 27,
+    "hn_id": 49097961
+   }
+  },
+  {
+   "id": "bd47810dd352",
+   "title": "When transit passes were designed by hand (2022)",
+   "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 45.15564437074637,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 65,
+    "comments": 18,
+    "hn_id": 49123003
+   }
+  },
+  {
+   "id": "db89c15d5f27",
+   "title": "F*: A general-purpose proof-oriented programming language",
+   "url": "https://fstar-lang.org/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 51.80951323690903,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 115,
+    "comments": 43,
+    "hn_id": 49143925
+   }
+  },
+  {
+   "id": "dba6f61032a4",
+   "title": "EU rules on AI models become enforceable. What's going to change?",
+   "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 5,
+    "hn_id": 49147606
+   }
+  },
+  {
+   "id": "687a311a135f",
+   "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+   "url": "https://publicdomainreview.org/essay/ars-notoria/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 51.457513110645905,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 112,
+    "comments": 26,
+    "hn_id": 49143001
+   }
+  },
+  {
+   "id": "8dfca9636e8c",
+   "title": "German carmakers flood jobs market with managers after wielding axe",
+   "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 34.01387818865997,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 13,
+    "comments": 1,
+    "hn_id": 49147478
+   }
+  },
+  {
+   "id": "238b12fdac9c",
+   "title": "Fasttracker II clone in C using SDL 2",
+   "url": "https://16-bits.org/ft2.php",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 48.9791576165636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 92,
+    "comments": 27,
+    "hn_id": 49094151
+   }
+  },
+  {
+   "id": "2f4b4ade8d60",
+   "title": "Show HN: Fuse – statically typed functional programming language",
+   "url": "https://fuselang.org",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 48.184046238739256,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 86,
+    "comments": 19,
+    "hn_id": 49143412
+   }
+  },
+  {
+   "id": "78b8cfd325bb",
+   "title": "SwiftUI After 7 Years",
+   "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 48.58495283014151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 89,
+    "comments": 51,
+    "hn_id": 49147263
+   }
+  },
+  {
+   "id": "d0c22ab7b389",
+   "title": "Folding Paper Globes",
+   "url": "https://foldingglobes.com/globes",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 51.92582403567252,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 116,
+    "comments": 26,
+    "hn_id": 49093845
+   }
+  },
+  {
+   "id": "eab6e8e2d9f7",
+   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 55.82207001484488,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 152,
+    "comments": 19,
+    "hn_id": 49142569
+   }
+  },
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 70.68916720624267,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 334,
+    "comments": 167,
+    "hn_id": 49140218
+   }
+  },
+  {
+   "id": "5c981354a17e",
+   "title": "Turtle-inspired interactive Python project",
+   "url": "https://www.codembark.com/projects/fv20lz9map/spider-web-drawing",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 34.01387818865997,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 13,
+    "comments": 3,
+    "hn_id": 49083146
+   }
+  },
+  {
+   "id": "51d7eba232f2",
+   "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+   "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 27.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1,
+    "comments": 0,
+    "hn_id": 49143683
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 97,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "15ba4a891119",
+   "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
+   "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 1,
+    "hn_id": 49147450
+   }
+  },
+  {
+   "id": "1a1b795b139f",
+   "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+   "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 35.60660171779821,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 18,
+    "comments": 2,
+    "hn_id": 49147435
+   }
+  },
+  {
+   "id": "bd7ae4f62cb4",
+   "title": "Norway Salmon",
+   "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 51.339134382131846,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 111,
+    "comments": 67,
+    "hn_id": 49078283
+   }
+  },
+  {
+   "id": "68e35388acb5",
+   "title": "Holocloth",
+   "url": "https://holocloth.vercel.app",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 55.31088913245536,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 147,
+    "comments": 26,
+    "hn_id": 49116917
+   }
+  },
+  {
+   "id": "a2bb1d164f66",
+   "title": "Rust All Hands 2026 Retrospective",
+   "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 47.77608394786075,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 83,
+    "comments": 38,
+    "hn_id": 49143096
+   }
+  },
+  {
+   "id": "9dab52081f45",
+   "title": "Diátaxis",
+   "url": "https://diataxis.fr/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T20:15:32Z",
+   "score": 81.0691537300145,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 503,
+    "comments": 57,
+    "hn_id": 49138188
+   }
+  }
+ ]
+}

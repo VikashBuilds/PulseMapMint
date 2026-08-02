@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-02T20:15:30Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.4,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "0b44c3a2a032",
+   "title": "Cursor removed cost information from the usage page and CSV export",
+   "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 70.41475531146237,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 330,
+    "comments": 152,
+    "hn_id": 49135257
+   }
+  },
+  {
+   "id": "dc4940eab365",
+   "title": "How Google helped destroy adoption of RSS feeds (2023)",
+   "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 85.46693311223912,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 585,
+    "comments": 223,
+    "hn_id": 49136821
+   }
+  },
+  {
+   "id": "531cdacba75b",
+   "title": "How to Exist",
+   "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 74.37104414532874,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 390,
+    "comments": 235,
+    "hn_id": 49129990
+   }
+  },
+  {
+   "id": "61fb4973fdff",
+   "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+   "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 289,
+    "hn_id": 49143414
+   }
+  },
+  {
+   "id": "7286114c594d",
+   "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+   "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 70.13867521316948,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 326,
+    "comments": 369,
+    "hn_id": 49139102
+   }
+  },
+  {
+   "id": "55b86ae91ea2",
+   "title": "NetBSD 11.0",
+   "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 148,
+    "hn_id": 49136736
+   }
+  },
+  {
+   "id": "a35c6a727c85",
+   "title": "Seedance 2.5",
+   "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 76.11262075065218,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 418,
+    "comments": 242,
+    "hn_id": 49138302
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 77.97405025104273,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 449,
+    "comments": 318,
+    "hn_id": 49132058
+   }
+  },
+  {
+   "id": "9dab52081f45",
+   "title": "Diátaxis",
+   "url": "https://diataxis.fr/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 81.0691537300145,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 503,
+    "comments": 57,
+    "hn_id": 49138188
+   }
+  },
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 70.68916720624267,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 334,
+    "comments": 167,
+    "hn_id": 49140218
+   }
+  },
+  {
+   "id": "3282db2a5dc9",
+   "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+   "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 68.22904116447646,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 299,
+    "comments": 162,
+    "hn_id": 49134694
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 97,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "a0442eaaf21a",
+   "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+   "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 66.68333000133266,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 278,
+    "comments": 191,
+    "hn_id": 49133889
+   }
+  },
+  {
+   "id": "43507c137c8c",
+   "title": "Google has abandoned Google News?",
+   "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 66.6082924427331,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 277,
+    "comments": 204,
+    "hn_id": 49137681
+   }
+  },
+  {
+   "id": "971340e3c1cd",
+   "title": "BMW Spider-Man in-car advertising",
+   "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 63.81043674065006,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 241,
+    "comments": 163,
+    "hn_id": 49130756
+   }
+  },
+  {
+   "id": "ca5e1a37e0c2",
+   "title": "Karpathy’s Pelican",
+   "url": "https://twitter.com/karpathy/status/2083749667410727319",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 62.83186487605389,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 229,
+    "comments": 179,
+    "hn_id": 49140998
+   }
+  },
+  {
+   "id": "50d4b49a0ae2",
+   "title": "AI doesn't generate working products, that's still your job",
+   "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 65.31128874149275,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 260,
+    "comments": 291,
+    "hn_id": 49132130
+   }
+  },
+  {
+   "id": "f24dfb6ce856",
+   "title": "RamenHaus",
+   "url": "https://ramen.haus/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 63.81043674065006,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 241,
+    "comments": 122,
+    "hn_id": 49132460
+   }
+  },
+  {
+   "id": "f17136604e78",
+   "title": "Flint: A Visualization Language for the AI Era",
+   "url": "https://microsoft.github.io/flint-chart/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 65.85033659592048,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 267,
+    "comments": 68,
+    "hn_id": 49130604
+   }
+  },
+  {
+   "id": "d515a1a31287",
+   "title": "The Silicon Valley Founder Meat Grinder",
+   "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 62.914377220257755,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 230,
+    "comments": 150,
+    "hn_id": 49138045
+   }
+  },
+  {
+   "id": "bc058c8426c5",
+   "title": "Ten Ways NAS Is Getting Enshitified",
+   "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 59.910600109422354,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 195,
+    "comments": 169,
+    "hn_id": 49131367
+   }
+  },
+  {
+   "id": "0ade77b63d30",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 60.35533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 200,
+    "comments": 95,
+    "hn_id": 49141073
+   }
+  },
+  {
+   "id": "ad65303362e2",
+   "title": "The Art of 64-bit Assembly",
+   "url": "https://nostarch.com/art-64-bit-assembly-v2",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 62.83186487605389,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 229,
+    "comments": 113,
+    "hn_id": 49134599
+   }
+  },
+  {
+   "id": "80897fda512d",
+   "title": "Anime User Interfaces",
+   "url": "https://animeuserinterface.tumblr.com",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 59.731109973624505,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 193,
+    "comments": 48,
+    "hn_id": 49139304
+   }
+  },
+  {
+   "id": "b59e82ed8652",
+   "title": "US Treasury undertakes historic intervention in yen market",
+   "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 58.819373146171706,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 183,
+    "comments": 149,
+    "hn_id": 49143188
+   }
+  },
+  {
+   "id": "664e1606a58b",
+   "title": "A directory of people who love RSS",
+   "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 58.166247903553995,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 176,
+    "comments": 89,
+    "hn_id": 49136063
+   }
+  },
+  {
+   "id": "53ce51cd7428",
+   "title": "The development pipeline is a production system",
+   "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 57.01562118716424,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 164,
+    "comments": 86,
+    "hn_id": 49130726
+   }
+  },
+  {
+   "id": "8476eebc935d",
+   "title": "Linux desktop market share has hit over 10% in North America",
+   "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 57.88236609491476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 173,
+    "comments": 87,
+    "hn_id": 49140696
+   }
+  },
+  {
+   "id": "d2761955656b",
+   "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+   "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 56.81980515339464,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 162,
+    "comments": 92,
+    "hn_id": 49135426
+   }
+  },
+  {
+   "id": "f962c329048e",
+   "title": "Postmortem for Kernel Soundness Bug #14576",
+   "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T20:15:30Z",
+   "score": 56.721443851123794,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 161,
+    "comments": 62,
+    "hn_id": 49137060
+   }
+  }
+ ]
+}
