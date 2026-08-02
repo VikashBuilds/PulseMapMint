@@ -1,0 +1,55 @@
+{
+  "rss_world": [
+    "https://feeds.bbci.co.uk/news/rss.xml",
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "https://rss.dw.com/rdf/rss-en-world",
+    "https://www.theguardian.com/world/rss",
+    "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+    "https://www.reutersagency.com/feed/?best-topics=top-news&post_type=best",
+    "https://apnews.com/rss/world",
+    "https://feeds.npr.org/1001/rss.xml",
+    "https://www.france24.com/en/rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "https://feeds.washingtonpost.com/rss/world",
+    "https://www.cbc.ca/rss/cbc-topstories.xml",
+    "https://globalnews.ca/feed/"
+  ],
+  "rss_tech": [
+    "https://www.theverge.com/rss/index.xml",
+    "https://techcrunch.com/feed/",
+    "https://feeds.arstechnica.com/arstechnica/index",
+    "https://www.wired.com/feed/rss",
+    "https://www.technologyreview.com/feed/",
+    "https://openai.com/news/rss.xml",
+    "https://blog.google/technology/ai/rss/",
+    "https://deepmind.google/blog/rss.xml",
+    "https://news.mit.edu/rss/feed",
+    "https://www.quantamagazine.org/feed/",
+    "https://simonwillison.net/atom/everything/",
+    "https://hnrss.org/frontpage",
+    "https://hnrss.org/newest"
+  ],
+  "rss_finance": [
+    "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+    "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    "https://finance.yahoo.com/rss/topstories",
+    "https://www.investing.com/rss/news.rss",
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "https://cointelegraph.com/rss",
+    "https://www.theblock.co/rss.xml"
+  ],
+  "rss_science_space": [
+    "https://www.nasa.gov/news-release/feed/",
+    "https://spacenews.com/feed/",
+    "https://www.space.com/feeds/all",
+    "https://phys.org/rss-feed/",
+    "https://www.sciencedaily.com/rss/all.xml",
+    "https://www.nature.com/nature.rss",
+    "https://www.science.org/rss/news_current.xml",
+    "https://scitechdaily.com/feed/",
+    "https://www.universetoday.com/feed/"
+  ]
+}

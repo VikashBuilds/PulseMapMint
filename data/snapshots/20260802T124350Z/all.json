@@ -1,0 +1,2493 @@
+{
+ "ts": "20260802T124350Z",
+ "generated": "2026-08-02T12:43:51.309616+00:00",
+ "items": [
+  {
+   "id": "5300c789007d",
+   "title": "microsoft/AI-For-Beginners",
+   "url": "https://github.com/microsoft/AI-For-Beginners",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2617,
+    "language": "Jupyter Notebook",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "39f2e61355df",
+   "title": "usekaneo/kaneo",
+   "url": "https://github.com/usekaneo/kaneo",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 491,
+    "language": "TypeScript",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "7047c035c92b",
+   "title": "lyogavin/airllm",
+   "url": "https://github.com/lyogavin/airllm",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 242,
+    "language": "Jupyter Notebook",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "956ce6666df4",
+   "title": "iv-org/invidious",
+   "url": "https://github.com/iv-org/invidious",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 307,
+    "language": "Crystal",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "56c787653409",
+   "title": "codecrafters-io/build-your-own-x",
+   "url": "https://github.com/codecrafters-io/build-your-own-x",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 710,
+    "language": "Markdown",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "c0b4fc7b154e",
+   "title": "zhaoxuya520/reverse-skill",
+   "url": "https://github.com/zhaoxuya520/reverse-skill",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1145,
+    "language": "PowerShell",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "e2804b960207",
+   "title": "different-ai/openwork",
+   "url": "https://github.com/different-ai/openwork",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 585,
+    "language": "TypeScript",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "4e2e64945680",
+   "title": "microsoft/generative-ai-for-beginners",
+   "url": "https://github.com/microsoft/generative-ai-for-beginners",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 588,
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "b2d42d2f099e",
+   "title": "Panniantong/Agent-Reach",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 645,
+    "language": "Python",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "edd4dcbffbf9",
+   "title": "TencentCloud/TencentDB-Agent-Memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 604,
+    "language": "TypeScript",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "d4745636ffcd",
+   "title": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 600,
+    "language": "Python",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "0545ada5dd6f",
+   "title": "NomaDamas/k-skill",
+   "url": "https://github.com/NomaDamas/k-skill",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 179,
+    "language": "JavaScript",
+    "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "94c1e2a49aec",
+   "title": "HarbourMasters/Lighthouse",
+   "url": "https://github.com/HarbourMasters/Lighthouse",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 62,
+    "language": "C",
+    "description": "",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "8f9b826007dd",
+   "title": "antirez/ds4",
+   "url": "https://github.com/antirez/ds4",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 150,
+    "language": "C",
+    "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "cc1dff416328",
+   "title": "esengine/DeepSeek-Reasonix",
+   "url": "https://github.com/esengine/DeepSeek-Reasonix",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-02T12:40:38Z",
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 274,
+    "language": "Go",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "topic": "all"
+   },
+   "heat": 100.0,
+   "age_s": 193
+  },
+  {
+   "id": "8914236a970c",
+   "title": "abus-aikorea/voice-pro",
+   "url": "https://github.com/abus-aikorea/voice-pro",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 401,
+    "language": "Python",
+    "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 &amp; F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal i",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "94d8dc199792",
+   "title": "NousResearch/hermes-agent",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 475,
+    "language": "Python",
+    "description": "The agent that grows with you",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "ff21ba3a7f35",
+   "title": "Huanshere/VideoLingo",
+   "url": "https://github.com/Huanshere/VideoLingo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 48,
+    "language": "Python",
+    "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "e78eb975d8da",
+   "title": "SimplifyJobs/Summer2027-Internships",
+   "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 39,
+    "language": "Python",
+    "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "48d97e08fc4a",
+   "title": "bytedance/deer-flow",
+   "url": "https://github.com/bytedance/deer-flow",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 387,
+    "language": "Python",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "fb5b044cc2df",
+   "title": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 404,
+    "language": "Python",
+    "description": "Hunt down social media accounts by username across social networks",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "13492b200fec",
+   "title": "Emily2040/seedance-2.0",
+   "url": "https://github.com/Emily2040/seedance-2.0",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 101,
+    "language": "Python",
+    "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "470f03a75adc",
+   "title": "yt-dlp/yt-dlp",
+   "url": "https://github.com/yt-dlp/yt-dlp",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 248,
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "66bcbe31bc34",
+   "title": "Z4nzu/hackingtool",
+   "url": "https://github.com/Z4nzu/hackingtool",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 56,
+    "language": "Python",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "a20580adb1d9",
+   "title": "Asabeneh/30-Days-Of-Python",
+   "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 112,
+    "language": "Python",
+    "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos ",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "a299d3604176",
+   "title": "harry0703/MoneyPrinterTurbo",
+   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 262,
+    "language": "Python",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "topic": "python"
+   },
+   "heat": 100.0,
+   "age_s": 191
+  },
+  {
+   "id": "7d87883eaefd",
+   "title": "Narcooo/inkos",
+   "url": "https://github.com/Narcooo/inkos",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 55,
+    "language": "TypeScript",
+    "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "e80d6120b17c",
+   "title": "gitroomhq/postiz-app",
+   "url": "https://github.com/gitroomhq/postiz-app",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 59,
+    "language": "TypeScript",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "3d48ce354fd8",
+   "title": "diegosouzapw/OmniRoute",
+   "url": "https://github.com/diegosouzapw/OmniRoute",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 885,
+    "language": "TypeScript",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "1ff4bb97548c",
+   "title": "jamiepine/voicebox",
+   "url": "https://github.com/jamiepine/voicebox",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 203,
+    "language": "TypeScript",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "568594bd82bd",
+   "title": "garrytan/gstack",
+   "url": "https://github.com/garrytan/gstack",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 201,
+    "language": "TypeScript",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "cffd9a1637d3",
+   "title": "CyberTimon/RapidRAW",
+   "url": "https://github.com/CyberTimon/RapidRAW",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 37,
+    "language": "TypeScript",
+    "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "412de1b2875f",
+   "title": "paperclipai/paperclip",
+   "url": "https://github.com/paperclipai/paperclip",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 98,
+    "language": "TypeScript",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "6d63971ee995",
+   "title": "storybookjs/storybook",
+   "url": "https://github.com/storybookjs/storybook",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 21,
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "2cc24c0fd018",
+   "title": "microsoft/flint-chart",
+   "url": "https://github.com/microsoft/flint-chart",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 291,
+    "language": "TypeScript",
+    "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "c78beb31b741",
+   "title": "simstudioai/sim",
+   "url": "https://github.com/simstudioai/sim",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 30,
+    "language": "TypeScript",
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "0a8fd3071bbe",
+   "title": "can1357/oh-my-pi",
+   "url": "https://github.com/can1357/oh-my-pi",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 185,
+    "language": "TypeScript",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "f78bc01e7efa",
+   "title": "iptv-org/iptv",
+   "url": "https://github.com/iptv-org/iptv",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 131,
+    "language": "TypeScript",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "topic": "typescript"
+   },
+   "heat": 100.0,
+   "age_s": 189
+  },
+  {
+   "id": "2561350057ce",
+   "title": "Show HN: Elevators",
+   "url": "https://john.fun/elevators",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-02T12:40:35Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1602,
+    "comments": 395,
+    "hn_id": 49124218
+   },
+   "heat": 100.0,
+   "age_s": 196
+  },
+  {
+   "id": "637898cf1b83",
+   "title": "qm – Multiplayer agent harness for work",
+   "url": "https://github.com/yc-software/qm",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 657,
+    "comments": 155,
+    "hn_id": 49126604
+   },
+   "heat": 100.0,
+   "age_s": 201
+  },
+  {
+   "id": "71fe3c1e3ad4",
+   "title": "Tailscale didn't stop the Hugging Face intrusion",
+   "url": "https://tailscale.com/blog/hugging-face-intrusion",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 608,
+    "comments": 213,
+    "hn_id": 49127306
+   },
+   "heat": 100.0,
+   "age_s": 201
+  },
+  {
+   "id": "90362a545f68",
+   "title": "Apple plunged -7.35% today",
+   "url": "https://finance.yahoo.com/quote/AAPL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "AAPL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AAPL",
+    "move_pct": -7.35,
+    "price": 308.91,
+    "prev_close": 333.43,
+    "day_high": 310.69,
+    "day_low": 300.0,
+    "volume": 127398021
+   },
+   "heat": 100.0,
+   "age_s": 3
+  },
+  {
+   "id": "3cd1cfc1a602",
+   "title": "Amazon surged +15.32% today",
+   "url": "https://finance.yahoo.com/quote/AMZN",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "AMZN",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AMZN",
+    "move_pct": 15.32,
+    "price": 271.58,
+    "prev_close": 235.5,
+    "day_high": 273.23,
+    "day_low": 262.055,
+    "volume": 125921078
+   },
+   "heat": 100.0,
+   "age_s": 3
+  },
+  {
+   "id": "aaef93bd1d21",
+   "title": "Alphabet surged +6.73% today",
+   "url": "https://finance.yahoo.com/quote/GOOGL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "GOOGL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GOOGL",
+    "move_pct": 6.73,
+    "price": 356.13,
+    "prev_close": 333.66,
+    "day_high": 358.55,
+    "day_low": 340.0,
+    "volume": 46347613
+   },
+   "heat": 100.0,
+   "age_s": 3
+  },
+  {
+   "id": "01bdce73f0a8",
+   "title": "Micron plunged -5.90% today",
+   "url": "https://finance.yahoo.com/quote/MU",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "MU",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MU",
+    "move_pct": -5.9,
+    "price": 823.03,
+    "prev_close": 874.66,
+    "day_high": 930.88,
+    "day_low": 818.0,
+    "volume": 52850199
+   },
+   "heat": 100.0,
+   "age_s": 3
+  },
+  {
+   "id": "aa4c8d9f284a",
+   "title": "Moderna plunged -5.35% today",
+   "url": "https://finance.yahoo.com/quote/MRNA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "MRNA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MRNA",
+    "move_pct": -5.35,
+    "price": 54.82,
+    "prev_close": 57.92,
+    "day_high": 59.49,
+    "day_low": 54.71,
+    "volume": 7754754
+   },
+   "heat": 100.0,
+   "age_s": 3
+  },
+  {
+   "id": "774c7a3b6891",
+   "title": "M5.6 earthquake — 14 km S of Hicks Bay, New Zealand",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.6,
+    "depth_km": 52.8,
+    "lat": -37.73,
+    "lon": 178.329,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 99.8,
+   "age_s": 2
+  },
+  {
+   "id": "dc4940eab365",
+   "title": "How Google helped destroy adoption of RSS feeds (2023)",
+   "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 553,
+    "comments": 194,
+    "hn_id": 49136821
+   },
+   "heat": 98.8,
+   "age_s": 201
+  },
+  {
+   "id": "b71e42198873",
+   "title": "M5.3 earthquake — north of Ascension Island",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.3,
+    "depth_km": 10,
+    "lat": -3.214,
+    "lon": -12.176,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 97.4,
+   "age_s": 2
+  },
+  {
+   "id": "61d81a5c559f",
+   "title": "M5.3 earthquake — 265 km S of ‘Ohonua, Tonga",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.3,
+    "depth_km": 10,
+    "lat": -23.739,
+    "lon": -174.944,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 97.4,
+   "age_s": 2
+  },
+  {
+   "id": "3fe7da9e3636",
+   "title": "M5.2 earthquake — 112 km SW of Severo-Kuril’sk, Russia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.2,
+    "depth_km": 80.7,
+    "lat": 49.867,
+    "lon": 155.171,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 96.6,
+   "age_s": 2
+  },
+  {
+   "id": "ecf51545bb09",
+   "title": "M5.2 earthquake — 160 km SSW of Severo-Kuril’sk, Russia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhr",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.2,
+    "depth_km": 49.7,
+    "lat": 49.324,
+    "lon": 155.327,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 96.6,
+   "age_s": 2
+  },
+  {
+   "id": "ffbd27a93736",
+   "title": "M5.2 earthquake — 48 km ESE of Tsunō, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.2,
+    "depth_km": 26.2,
+    "lat": 32.008,
+    "lon": 132.0,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 96.6,
+   "age_s": 2
+  },
+  {
+   "id": "c5605cd653a0",
+   "title": "Audiera (BEAT) moved -10.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -10.5,
+    "pct1h": -0.8,
+    "pct7d": 17.2,
+    "price_usd": 4.16,
+    "market_cap": 1286856392
+   },
+   "heat": 96.2,
+   "age_s": 3
+  },
+  {
+   "id": "1e1f12f5b434",
+   "title": "M5.1 earthquake — south of the Fiji Islands",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgx",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.1,
+    "depth_km": 69.8,
+    "lat": -24.394,
+    "lon": -176.796,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 95.8,
+   "age_s": 2
+  },
+  {
+   "id": "98cf638a4657",
+   "title": "M5 earthquake — north of Ascension Island",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlb",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5,
+    "depth_km": 10,
+    "lat": -3.295,
+    "lon": -12.244,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 95.0,
+   "age_s": 2
+  },
+  {
+   "id": "2a3907906960",
+   "title": "M4.9 earthquake — 149 km S of Severo-Kuril’sk, Russia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 33.8,
+    "lat": 49.329,
+    "lon": 156.201,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 94.2,
+   "age_s": 2
+  },
+  {
+   "id": "6d2436bfd55e",
+   "title": "M4.9 earthquake — 36 km SSW of Mendi, Papua New Guinea",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": -6.471,
+    "lon": 143.588,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 94.2,
+   "age_s": 2
+  },
+  {
+   "id": "97a200c831a1",
+   "title": "M4.9 earthquake — 83 km SSE of Atka, Alaska",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thii",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 35,
+    "lat": 51.555,
+    "lon": -173.564,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 94.2,
+   "age_s": 2
+  },
+  {
+   "id": "9f8ccee63fd9",
+   "title": "M4.9 earthquake — 3 km W of Matsubase, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgg",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": 32.651,
+    "lon": 130.629,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 94.2,
+   "age_s": 2
+  },
+  {
+   "id": "8701a0736fc6",
+   "title": "M4.8 earthquake — 77 km SE of Atka, Alaska",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.8,
+    "depth_km": 44.3,
+    "lat": 51.658,
+    "lon": -173.48,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 93.4,
+   "age_s": 2
+  },
+  {
+   "id": "a279bf9e89b2",
+   "title": "M4.8 earthquake — 64 km ENE of Noda, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.8,
+    "depth_km": 56.4,
+    "lat": 40.302,
+    "lon": 142.532,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 93.4,
+   "age_s": 2
+  },
+  {
+   "id": "c3ac01276662",
+   "title": "Cardano (ADA) moved +9.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cardano",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "ada",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ada",
+    "pct24h": 9.3,
+    "pct1h": 1.0,
+    "pct7d": 14.2,
+    "price_usd": 0.188936,
+    "market_cap": 7050957214
+   },
+   "heat": 93.2,
+   "age_s": 3
+  },
+  {
+   "id": "c25ec9616451",
+   "title": "The End of an Era",
+   "url": "https://hughhowey.com/the-end-of-an-era/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 436,
+    "comments": 444,
+    "hn_id": 49121980
+   },
+   "heat": 92.2,
+   "age_s": 201
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 434,
+    "comments": 303,
+    "hn_id": 49132058
+   },
+   "heat": 92.1,
+   "age_s": 201
+  },
+  {
+   "id": "61ab560968fc",
+   "title": "M4.6 earthquake — 14 km SE of Honmachi, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlf",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 10,
+    "lat": 32.397,
+    "lon": 130.692,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 91.8,
+   "age_s": 2
+  },
+  {
+   "id": "9f7b4a04dfbb",
+   "title": "M4.6 earthquake — 73 km W of San Antonio de los Cobres, Argentina",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 172.5,
+    "lat": -24.231,
+    "lon": -67.041,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 91.8,
+   "age_s": 2
+  },
+  {
+   "id": "41e9c85f5231",
+   "title": "M4.6 earthquake — 14 km WSW of Honmachi, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgz",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 10,
+    "lat": 32.449,
+    "lon": 130.46,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 91.8,
+   "age_s": 2
+  },
+  {
+   "id": "090e23bbf494",
+   "title": "ccxt/ccxt",
+   "url": "https://github.com/ccxt/ccxt",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 17,
+    "language": "Python",
+    "description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java",
+    "topic": "python"
+   },
+   "heat": 91.0,
+   "age_s": 191
+  },
+  {
+   "id": "f6f5511938d5",
+   "title": "M4.5 earthquake — 7 km SSW of Yumare, Venezuela",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.5,
+    "depth_km": 10,
+    "lat": 10.533,
+    "lon": -68.69,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 91.0,
+   "age_s": 2
+  },
+  {
+   "id": "49e6d0b248bb",
+   "title": "M4.5 earthquake — 188 km W of Abepura, Indonesia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thi4",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.5,
+    "depth_km": 10,
+    "lat": -2.612,
+    "lon": 138.939,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 91.0,
+   "age_s": 2
+  },
+  {
+   "id": "832c76c58ce3",
+   "title": "Ethena (ENA) moved +8.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ethena",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "ena",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ena",
+    "pct24h": 8.1,
+    "pct1h": -1.7,
+    "pct7d": 3.2,
+    "price_usd": 0.088431,
+    "market_cap": 844556966
+   },
+   "heat": 90.2,
+   "age_s": 3
+  },
+  {
+   "id": "f9e468304a2b",
+   "title": "M4.4 earthquake — 42 km W of Cartagena, Chile",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjs",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 25.7,
+    "lat": -33.526,
+    "lon": -72.065,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 90.2,
+   "age_s": 2
+  },
+  {
+   "id": "a9270f8c753d",
+   "title": "M4.4 earthquake — 107 km SW of El Arenal, Mexico",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thit",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 35,
+    "lat": 14.5,
+    "lon": -93.414,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 90.2,
+   "age_s": 2
+  },
+  {
+   "id": "20c3e1df80c4",
+   "title": "M4.4 earthquake — Fiji region",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thid",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 522.7,
+    "lat": -20.187,
+    "lon": -177.999,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 90.2,
+   "age_s": 2
+  },
+  {
+   "id": "cc2f1c27bd34",
+   "title": "Special Marine Warning issued August 2 at 7:42AM CDT until August 2 at 8:45AM CDT by NWS Corpus Christi TX",
+   "url": "urn:oid:2.49.0.1.840.0.bcadfc4d0b771bb1085c3f1585851e4ed36d1c77.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:42:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Special Marine Warning",
+    "area": "San Antonio, Mesquite, and Espiritu Santo Bays",
+    "sender": "NWS Corpus Christi TX",
+    "expires": "2026-08-02T08:45:00-05:00",
+    "description": "SMWCRP\n\nThe National Weather Service in Corpus Christi has issued a\n\n* Special Marine Warning for...\nCoastal waters from Port Aransas to Matagorda Ship Channel out 20\nNM...\nSan Antonio, Mesquite, and "
+   },
+   "heat": 90.0,
+   "age_s": 111
+  },
+  {
+   "id": "05728f699731",
+   "title": "Special Marine Warning issued August 2 at 8:40AM EDT until August 2 at 10:15AM EDT by NWS Tallahassee FL",
+   "url": "urn:oid:2.49.0.1.840.0.d3e86880e7ad0c258e55ec9b11c81101aff0a0f4.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:40:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Special Marine Warning",
+    "area": "Apalachee Bay or Coastal Waters From Keaton Beach to Ochlockonee River Fl out to 20 Nm",
+    "sender": "NWS Tallahassee FL",
+    "expires": "2026-08-02T10:15:00-04:00",
+    "description": "SMWTAE\n\nThe National Weather Service in Tallahassee has issued a\n\n* Special Marine Warning for...\nApalachee Bay or Coastal Waters From Keaton Beach to Ochlockonee\nRiver Fl out to 20 Nm...\nCoastal wate"
+   },
+   "heat": 90.0,
+   "age_s": 231
+  },
+  {
+   "id": "440ea1fe3d52",
+   "title": "Special Marine Warning issued August 2 at 7:35AM CDT until August 2 at 9:00AM CDT by NWS Tallahassee FL",
+   "url": "urn:oid:2.49.0.1.840.0.74627a6689d5c557a73029f55f49675d990874c6.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:35:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Special Marine Warning",
+    "area": "St. Andrews Bay Waterways",
+    "sender": "NWS Tallahassee FL",
+    "expires": "2026-08-02T09:00:00-05:00",
+    "description": "SMWTAE\n\nThe National Weather Service in Tallahassee has issued a\n\n* Special Marine Warning for...\nCoastal Waters from Mexico Beach to Apalachicola out 20 NM...\nCoastal waters from Okaloosa-Walton Coun"
+   },
+   "heat": 90.0,
+   "age_s": 531
+  },
+  {
+   "id": "f057b592b370",
+   "title": "Extreme Heat Warning issued August 2 at 5:32AM PDT until August 3 at 11:00PM PDT by NWS Hanford CA",
+   "url": "urn:oid:2.49.0.1.840.0.ae795685dc139d7deb417999117295ef60ac5c71.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:32:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Indian Wells Valley",
+    "sender": "NWS Hanford CA",
+    "expires": "2026-08-02T14:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with several days of Major to\nExtreme heat risk.\n\n* WHERE...Indian Wells Valley, Mojave Desert, and Mojave Desert\nSlopes.\n\n* WHEN...Until 11 PM PDT Monday.\n\n* IMPAC"
+   },
+   "heat": 90.0,
+   "age_s": 711
+  },
+  {
+   "id": "fde2ea777edc",
+   "title": "Extreme Heat Warning issued August 2 at 5:30AM PDT until August 2 at 8:00PM PDT by NWS San Diego CA",
+   "url": "urn:oid:2.49.0.1.840.0.71aeb1d59a135787f611bef4755b48185d952c59.005.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:30:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "San Diego County Mountains",
+    "sender": "NWS San Diego CA",
+    "expires": "2026-08-02T17:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with high temperatures in the\nmid 90s to low 100s expected.\n\n* WHERE...San Diego County Mountains.\n\n* WHEN...Until 8 PM PDT this evening.\n\n* IMPACTS...Heat related "
+   },
+   "heat": 90.0,
+   "age_s": 831
+  },
+  {
+   "id": "f984afc568c3",
+   "title": "Extreme Heat Warning issued August 2 at 5:30AM PDT until August 3 at 8:00PM PDT by NWS San Diego CA",
+   "url": "urn:oid:2.49.0.1.840.0.71aeb1d59a135787f611bef4755b48185d952c59.007.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:30:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Coachella Valley",
+    "sender": "NWS San Diego CA",
+    "expires": "2026-08-02T17:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with high temperatures of up to\n115 expected.\n\n* WHERE...Coachella Valley, San Diego County Deserts, and San\nGorgonio Pass near Banning.\n\n* WHEN...Until 8 PM PDT Mo"
+   },
+   "heat": 90.0,
+   "age_s": 831
+  },
+  {
+   "id": "b80218b87ba8",
+   "title": "Special Marine Warning issued August 2 at 7:28AM CDT until August 2 at 9:00AM CDT by NWS Mobile AL",
+   "url": "urn:oid:2.49.0.1.840.0.b1ef19dc9adeb3caa426cf516a0dbef6a7f0d24a.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:28:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Special Marine Warning",
+    "area": "Pensacola Bay Area including Santa Rosa Sound",
+    "sender": "NWS Mobile AL",
+    "expires": "2026-08-02T09:00:00-05:00",
+    "description": "SMWMOB\n\nThe National Weather Service in Mobile has issued a\n\n* Special Marine Warning for...\nCoastal waters from Okaloosa-Walton County Line to Pensacola FL out\n20 NM...\nEastern Choctawhatchee Bay...\n"
+   },
+   "heat": 90.0,
+   "age_s": 951
+  },
+  {
+   "id": "05a58779f176",
+   "title": "Special Marine Warning issued August 2 at 8:19AM EDT until August 2 at 9:30AM EDT by NWS Charleston SC",
+   "url": "urn:oid:2.49.0.1.840.0.2b134c83c9146e7156228a14f3d73d7c643e5190.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:19:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Special Marine Warning",
+    "area": "Coastal waters from South Santee River to Edisto Beach SC out 20 NM",
+    "sender": "NWS Charleston SC",
+    "expires": "2026-08-02T09:30:00-04:00",
+    "description": "For the following areas...\nWaters from South Santee River to Edisto Beach out 60 NM...\nCoastal waters from Edisto Beach SC to Savannah GA out 20 NM...\n\nAt 819 AM EDT, severe thunderstorms capable of p"
+   },
+   "heat": 90.0,
+   "age_s": 1491
+  },
+  {
+   "id": "6bb03cab4a8c",
+   "title": "Meta surged +3.28% today",
+   "url": "https://finance.yahoo.com/quote/META",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "META",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "META",
+    "move_pct": 3.28,
+    "price": 556.71,
+    "prev_close": 539.03,
+    "day_high": 558.33,
+    "day_low": 540.24,
+    "volume": 24155637
+   },
+   "heat": 89.7,
+   "age_s": 3
+  },
+  {
+   "id": "ee85b040e284",
+   "title": "M4.3 earthquake — 73 km WSW of Puerto Madero, Mexico",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thin",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.3,
+    "depth_km": 35,
+    "lat": 14.415,
+    "lon": -93.031,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 89.4,
+   "age_s": 2
+  },
+  {
+   "id": "9dab52081f45",
+   "title": "Diátaxis",
+   "url": "https://diataxis.fr/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 389,
+    "comments": 48,
+    "hn_id": 49138188
+   },
+   "heat": 89.3,
+   "age_s": 201
+  },
+  {
+   "id": "531cdacba75b",
+   "title": "How to Exist",
+   "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 382,
+    "comments": 233,
+    "hn_id": 49129990
+   },
+   "heat": 88.9,
+   "age_s": 201
+  },
+  {
+   "id": "cda695af3a26",
+   "title": "M4.2 earthquake — 60 km NE of Bandar Abbas, Iran",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjv",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.2,
+    "depth_km": 10,
+    "lat": 27.636,
+    "lon": 56.621,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 88.6,
+   "age_s": 2
+  },
+  {
+   "id": "7342683fa414",
+   "title": "M4.2 earthquake — 7 km S of El Arenal, Mexico",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj0",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.2,
+    "depth_km": 79.7,
+    "lat": 15.104,
+    "lon": -92.699,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 88.6,
+   "age_s": 2
+  },
+  {
+   "id": "383f645f092f",
+   "title": "M4.2 earthquake — Banda Sea",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgp",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.2,
+    "depth_km": 139.5,
+    "lat": -6.752,
+    "lon": 129.703,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 88.6,
+   "age_s": 2
+  },
+  {
+   "id": "a35c6a727c85",
+   "title": "Seedance 2.5",
+   "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 375,
+    "comments": 197,
+    "hn_id": 49138302
+   },
+   "heat": 88.4,
+   "age_s": 201
+  },
+  {
+   "id": "8932ec3402b9",
+   "title": "Microsoft surged +3.02% today",
+   "url": "https://finance.yahoo.com/quote/MSFT",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "MSFT",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MSFT",
+    "move_pct": 3.02,
+    "price": 464.72,
+    "prev_close": 451.1,
+    "day_high": 466.84,
+    "day_low": 449.552,
+    "volume": 56468734
+   },
+   "heat": 88.1,
+   "age_s": 3
+  },
+  {
+   "id": "495972658d10",
+   "title": "NVIDIA surged +2.93% today",
+   "url": "https://finance.yahoo.com/quote/NVDA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "NVDA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NVDA",
+    "move_pct": 2.93,
+    "price": 200.75,
+    "prev_close": 195.04,
+    "day_high": 201.97,
+    "day_low": 194.95,
+    "volume": 139261166
+   },
+   "heat": 87.6,
+   "age_s": 3
+  },
+  {
+   "id": "64e325f0c720",
+   "title": "M4.07 earthquake — 49 km N of Charlotte Amalie, U.S. Virgin Islands",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026213000",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-02T12:43:49Z",
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.07,
+    "depth_km": 19,
+    "lat": 18.786,
+    "lon": -64.922,
+    "tsunami": false,
+    "status": "reviewed"
+   },
+   "heat": 87.6,
+   "age_s": 2
+  },
+  {
+   "id": "d2309340bb64",
+   "title": "Qualcomm plunged -2.63% today",
+   "url": "https://finance.yahoo.com/quote/QCOM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "QCOM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QCOM",
+    "move_pct": -2.63,
+    "price": 147.61,
+    "prev_close": 151.6,
+    "day_high": 153.73,
+    "day_low": 146.15,
+    "volume": 13778152
+   },
+   "heat": 85.8,
+   "age_s": 3
+  },
+  {
+   "id": "bb762c09ae48",
+   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+   "url": "https://github.com/sqliteai/waste",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 329,
+    "comments": 163,
+    "hn_id": 49123386
+   },
+   "heat": 85.3,
+   "age_s": 201
+  },
+  {
+   "id": "3f7a3ca35f8b",
+   "title": "​​Stable (STABLE) moved -6.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/stable-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "stable",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "stable",
+    "pct24h": -6.1,
+    "pct1h": -0.5,
+    "pct7d": -17.3,
+    "price_usd": 0.0314947,
+    "market_cap": 788029854
+   },
+   "heat": 85.2,
+   "age_s": 3
+  },
+  {
+   "id": "0b44c3a2a032",
+   "title": "Cursor removed cost information from the usage page and CSV export",
+   "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 326,
+    "comments": 148,
+    "hn_id": 49135257
+   },
+   "heat": 85.1,
+   "age_s": 201
+  },
+  {
+   "id": "7286114c594d",
+   "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+   "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 311,
+    "comments": 318,
+    "hn_id": 49139102
+   },
+   "heat": 84.1,
+   "age_s": 201
+  },
+  {
+   "id": "7ffdca24171b",
+   "title": "Pepe (PEPE) moved +5.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pepe",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "pepe",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pepe",
+    "pct24h": 5.4,
+    "pct1h": -0.1,
+    "pct7d": -1.9,
+    "price_usd": 2.89e-06,
+    "market_cap": 1213261725
+   },
+   "heat": 83.5,
+   "age_s": 3
+  },
+  {
+   "id": "ac97290513a9",
+   "title": "Special Marine Warning issued August 2 at 7:02AM CDT until August 2 at 8:00AM CDT by NWS Lake Charles LA",
+   "url": "urn:oid:2.49.0.1.840.0.77f2909611d2a1c22ad2c494182b1bcb07751295.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T12:02:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Special Marine Warning",
+    "area": "Atchafalaya and East Cote Blanche Bays",
+    "sender": "NWS Lake Charles LA",
+    "expires": "2026-08-02T08:00:00-05:00",
+    "description": "SMWLCH\n\nThe National Weather Service in Lake Charles has issued a\n\n* Special Marine Warning for...\nAtchafalaya and East Cote Blanche Bays...\nCoastal waters from Intracoastal City to Cameron LA out 20 "
+   },
+   "heat": 83.0,
+   "age_s": 2511
+  },
+  {
+   "id": "c71a90d4fdfc",
+   "title": "Flood Warning issued August 2 at 7:28AM EDT until August 2 at 2:00PM EDT by NWS Blacksburg VA",
+   "url": "urn:oid:2.49.0.1.840.0.d45f3a82468cb02af2aa244d54d722c83a4eb85a.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T11:28:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "Stokes, NC",
+    "sender": "NWS Blacksburg VA",
+    "expires": "2026-08-02T14:00:00-04:00",
+    "description": "* WHAT...Flooding caused by excessive rainfall continues.\n\n* WHERE...Portions of north central North Carolina, including the\nfollowing counties, Stokes and Surry and southwest Virginia,\nincluding the "
+   },
+   "heat": 83.0,
+   "age_s": 4551
+  },
+  {
+   "id": "20fc8e9f147a",
+   "title": "Flood Warning issued August 2 at 7:26AM EDT until August 2 at 8:00PM EDT by NWS Morristown TN",
+   "url": "urn:oid:2.49.0.1.840.0.06ac805b56f1ce5c2e9572c46dfec66675bf1f3b.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T11:26:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "Fannin, GA",
+    "sender": "NWS Morristown TN",
+    "expires": "2026-08-02T19:30:00-04:00",
+    "description": "...Forecast flooding changed to Minor severity and increased in\nduration for the following rivers in Georgia...Tennessee...\n\nToccoa/Ocoee River Above Copperhill TN affecting Polk and Fannin\nCounties.\n"
+   },
+   "heat": 83.0,
+   "age_s": 4671
+  },
+  {
+   "id": "f39db1c509a6",
+   "title": "Flood Warning issued August 2 at 7:20AM EDT until August 2 at 2:00PM EDT by NWS Blacksburg VA",
+   "url": "urn:oid:2.49.0.1.840.0.3da2e3dcaaf9fb05fb3f1cf61b70f8d36b0bc382.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-02T11:20:00Z",
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "Surry, NC",
+    "sender": "NWS Blacksburg VA",
+    "expires": "2026-08-02T14:00:00-04:00",
+    "description": "* WHAT...Flooding caused by excessive rainfall continues.\n\n* WHERE...Portions of north central North Carolina, including the\nfollowing county, Surry and southwest Virginia, including the\nfollowing cou"
+   },
+   "heat": 83.0,
+   "age_s": 5031
+  },
+  {
+   "id": "3282db2a5dc9",
+   "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+   "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 295,
+    "comments": 162,
+    "hn_id": 49134694
+   },
+   "heat": 82.9,
+   "age_s": 201
+  },
+  {
+   "id": "55b86ae91ea2",
+   "title": "NetBSD 11.0",
+   "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 291,
+    "comments": 134,
+    "hn_id": 49136736
+   },
+   "heat": 82.6,
+   "age_s": 201
+  },
+  {
+   "id": "9faa89f48ba3",
+   "title": "NateBJones-Projects/OB1",
+   "url": "https://github.com/NateBJones-Projects/OB1",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 14,
+    "language": "TypeScript",
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.",
+    "topic": "typescript"
+   },
+   "heat": 82.0,
+   "age_s": 189
+  },
+  {
+   "id": "a0442eaaf21a",
+   "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+   "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 275,
+    "comments": 184,
+    "hn_id": 49133889
+   },
+   "heat": 81.5,
+   "age_s": 201
+  },
+  {
+   "id": "43507c137c8c",
+   "title": "Google has abandoned Google News?",
+   "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 270,
+    "comments": 199,
+    "hn_id": 49137681
+   },
+   "heat": 81.1,
+   "age_s": 201
+  },
+  {
+   "id": "f968daa52a6c",
+   "title": "Arbitrum (ARB) moved +4.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/arbitrum",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "arb",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "arb",
+    "pct24h": 4.4,
+    "pct1h": -0.2,
+    "pct7d": -1.6,
+    "price_usd": 0.081568,
+    "market_cap": 539619036
+   },
+   "heat": 81.0,
+   "age_s": 3
+  },
+  {
+   "id": "b6f416dc8fdc",
+   "title": "Big Food vs. the People",
+   "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 267,
+    "comments": 175,
+    "hn_id": 49124858
+   },
+   "heat": 80.9,
+   "age_s": 201
+  },
+  {
+   "id": "f17136604e78",
+   "title": "Flint: A Visualization Language for the AI Era",
+   "url": "https://microsoft.github.io/flint-chart/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 264,
+    "comments": 68,
+    "hn_id": 49130604
+   },
+   "heat": 80.6,
+   "age_s": 201
+  },
+  {
+   "id": "0dc49bd00a0b",
+   "title": "Severance",
+   "url": "https://lcamtuf.substack.com/p/severance",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 263,
+    "comments": 89,
+    "hn_id": 49125971
+   },
+   "heat": 80.5,
+   "age_s": 201
+  },
+  {
+   "id": "6544a2a50ab5",
+   "title": "Avalanche (AVAX) moved +4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/avalanche-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "avax",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "avax",
+    "pct24h": 4.0,
+    "pct1h": 0.1,
+    "pct7d": -1.9,
+    "price_usd": 6.57,
+    "market_cap": 2836908253
+   },
+   "heat": 80.0,
+   "age_s": 3
+  },
+  {
+   "id": "977dfc5cbbfc",
+   "title": "Polkadot (DOT) moved +4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/polkadot",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-02T12:43:48Z",
+   "tags": [
+    "dot",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "dot",
+    "pct24h": 4.0,
+    "pct1h": -0.3,
+    "pct7d": -3.8,
+    "price_usd": 0.794106,
+    "market_cap": 1346780810
+   },
+   "heat": 80.0,
+   "age_s": 3
+  },
+  {
+   "id": "50d4b49a0ae2",
+   "title": "AI doesn't generate working products, that's still your job",
+   "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 256,
+    "comments": 280,
+    "hn_id": 49132130
+   },
+   "heat": 80.0,
+   "age_s": 201
+  },
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 251,
+    "comments": 102,
+    "hn_id": 49140218
+   },
+   "heat": 79.6,
+   "age_s": 201
+  },
+  {
+   "id": "8f8ab717286b",
+   "title": "PrefectHQ/prefect",
+   "url": "https://github.com/PrefectHQ/prefect",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 13,
+    "language": "Python",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "topic": "python"
+   },
+   "heat": 79.0,
+   "age_s": 191
+  },
+  {
+   "id": "f24dfb6ce856",
+   "title": "RamenHaus",
+   "url": "https://ramen.haus/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 238,
+    "comments": 122,
+    "hn_id": 49132460
+   },
+   "heat": 78.6,
+   "age_s": 201
+  },
+  {
+   "id": "971340e3c1cd",
+   "title": "BMW Spider-Man in-car advertising",
+   "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:40:30Z",
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 236,
+    "comments": 161,
+    "hn_id": 49130756
+   },
+   "heat": 78.4,
+   "age_s": 201
+  }
+ ]
+}

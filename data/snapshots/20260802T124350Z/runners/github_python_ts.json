@@ -1,0 +1,698 @@
+{
+ "runner": "github_python_ts",
+ "generated": "2026-08-02T12:40:42Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 3.22,
+ "args": [
+  "github_python_ts",
+  "python",
+  "typescript"
+ ],
+ "items": [
+  {
+   "id": "b2d42d2f099e",
+   "title": "Panniantong/Agent-Reach",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 645,
+    "language": "Python",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "d4745636ffcd",
+   "title": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 600,
+    "language": "Python",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "8914236a970c",
+   "title": "abus-aikorea/voice-pro",
+   "url": "https://github.com/abus-aikorea/voice-pro",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 401,
+    "language": "Python",
+    "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 &amp; F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal i",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "94d8dc199792",
+   "title": "NousResearch/hermes-agent",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 475,
+    "language": "Python",
+    "description": "The agent that grows with you",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "ff21ba3a7f35",
+   "title": "Huanshere/VideoLingo",
+   "url": "https://github.com/Huanshere/VideoLingo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 48,
+    "language": "Python",
+    "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "e78eb975d8da",
+   "title": "SimplifyJobs/Summer2027-Internships",
+   "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 39,
+    "language": "Python",
+    "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "48d97e08fc4a",
+   "title": "bytedance/deer-flow",
+   "url": "https://github.com/bytedance/deer-flow",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 387,
+    "language": "Python",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "fb5b044cc2df",
+   "title": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 404,
+    "language": "Python",
+    "description": "Hunt down social media accounts by username across social networks",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "090e23bbf494",
+   "title": "ccxt/ccxt",
+   "url": "https://github.com/ccxt/ccxt",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 76.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 17,
+    "language": "Python",
+    "description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "13492b200fec",
+   "title": "Emily2040/seedance-2.0",
+   "url": "https://github.com/Emily2040/seedance-2.0",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 101,
+    "language": "Python",
+    "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "470f03a75adc",
+   "title": "yt-dlp/yt-dlp",
+   "url": "https://github.com/yt-dlp/yt-dlp",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 248,
+    "language": "Python",
+    "description": "A feature-rich command-line audio/video downloader",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "66bcbe31bc34",
+   "title": "Z4nzu/hackingtool",
+   "url": "https://github.com/Z4nzu/hackingtool",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 56,
+    "language": "Python",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "a20580adb1d9",
+   "title": "Asabeneh/30-Days-Of-Python",
+   "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 112,
+    "language": "Python",
+    "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos ",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "8f8ab717286b",
+   "title": "PrefectHQ/prefect",
+   "url": "https://github.com/PrefectHQ/prefect",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 64.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 13,
+    "language": "Python",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "0aed40043a4d",
+   "title": "atilaahmettaner/tradingview-mcp",
+   "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 58.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 11,
+    "language": "Python",
+    "description": "TradingView MCP server — real-time market data, technical analysis, screeners &amp; backtesting for Claude, ChatGPT, Cursor &amp; any MCP client. Stocks, crypto, forex &amp; futures across global exch",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "a265ba4cbe89",
+   "title": "music-assistant/server",
+   "url": "https://github.com/music-assistant/server",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 40.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 5,
+    "language": "Python",
+    "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "a299d3604176",
+   "title": "harry0703/MoneyPrinterTurbo",
+   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:40Z",
+   "score": 95.0,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 262,
+    "language": "Python",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "39f2e61355df",
+   "title": "usekaneo/kaneo",
+   "url": "https://github.com/usekaneo/kaneo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 491,
+    "language": "TypeScript",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "e2804b960207",
+   "title": "different-ai/openwork",
+   "url": "https://github.com/different-ai/openwork",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 585,
+    "language": "TypeScript",
+    "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "edd4dcbffbf9",
+   "title": "TencentCloud/TencentDB-Agent-Memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 604,
+    "language": "TypeScript",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "8b0ec29190dd",
+   "title": "actions/checkout",
+   "url": "https://github.com/actions/checkout",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 55.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 10,
+    "language": "TypeScript",
+    "description": "Action for checking out a repo",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "7d87883eaefd",
+   "title": "Narcooo/inkos",
+   "url": "https://github.com/Narcooo/inkos",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 55,
+    "language": "TypeScript",
+    "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "e80d6120b17c",
+   "title": "gitroomhq/postiz-app",
+   "url": "https://github.com/gitroomhq/postiz-app",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 59,
+    "language": "TypeScript",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "3d48ce354fd8",
+   "title": "diegosouzapw/OmniRoute",
+   "url": "https://github.com/diegosouzapw/OmniRoute",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 885,
+    "language": "TypeScript",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "1ff4bb97548c",
+   "title": "jamiepine/voicebox",
+   "url": "https://github.com/jamiepine/voicebox",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 203,
+    "language": "TypeScript",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "9faa89f48ba3",
+   "title": "NateBJones-Projects/OB1",
+   "url": "https://github.com/NateBJones-Projects/OB1",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 67.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 14,
+    "language": "TypeScript",
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "e9db61aa13e5",
+   "title": "nrwl/nx",
+   "url": "https://github.com/nrwl/nx",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 46.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 7,
+    "language": "TypeScript",
+    "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "568594bd82bd",
+   "title": "garrytan/gstack",
+   "url": "https://github.com/garrytan/gstack",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 201,
+    "language": "TypeScript",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "cffd9a1637d3",
+   "title": "CyberTimon/RapidRAW",
+   "url": "https://github.com/CyberTimon/RapidRAW",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 37,
+    "language": "TypeScript",
+    "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "20033af629a5",
+   "title": "elizaOS/eliza",
+   "url": "https://github.com/elizaOS/eliza",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 52.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 9,
+    "language": "TypeScript",
+    "description": "Open source agentic operating system",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "412de1b2875f",
+   "title": "paperclipai/paperclip",
+   "url": "https://github.com/paperclipai/paperclip",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 98,
+    "language": "TypeScript",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "6d63971ee995",
+   "title": "storybookjs/storybook",
+   "url": "https://github.com/storybookjs/storybook",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 88.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 21,
+    "language": "TypeScript",
+    "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "2cc24c0fd018",
+   "title": "microsoft/flint-chart",
+   "url": "https://github.com/microsoft/flint-chart",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 291,
+    "language": "TypeScript",
+    "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "c78beb31b741",
+   "title": "simstudioai/sim",
+   "url": "https://github.com/simstudioai/sim",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 30,
+    "language": "TypeScript",
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "0a8fd3071bbe",
+   "title": "can1357/oh-my-pi",
+   "url": "https://github.com/can1357/oh-my-pi",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 185,
+    "language": "TypeScript",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "f78bc01e7efa",
+   "title": "iptv-org/iptv",
+   "url": "https://github.com/iptv-org/iptv",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-02T12:40:42Z",
+   "score": 95.0,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 131,
+    "language": "TypeScript",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "topic": "typescript"
+   }
+  }
+ ]
+}

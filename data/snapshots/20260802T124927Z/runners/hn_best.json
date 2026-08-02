@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-02T12:45:12Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 3.32,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "71fe3c1e3ad4",
+   "title": "Tailscale didn't stop the Hugging Face intrusion",
+   "url": "https://tailscale.com/blog/hugging-face-intrusion",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 86.64414002968977,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 608,
+    "comments": 213,
+    "hn_id": 49127306
+   }
+  },
+  {
+   "id": "637898cf1b83",
+   "title": "qm – Multiplayer agent harness for work",
+   "url": "https://github.com/yc-software/qm",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 89.08002808988148,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 657,
+    "comments": 155,
+    "hn_id": 49126604
+   }
+  },
+  {
+   "id": "c25ec9616451",
+   "title": "The End of an Era",
+   "url": "https://hughhowey.com/the-end-of-an-era/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 77.26136240091719,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 437,
+    "comments": 444,
+    "hn_id": 49121980
+   }
+  },
+  {
+   "id": "dc4940eab365",
+   "title": "How Google helped destroy adoption of RSS feeds (2023)",
+   "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 83.78988008152425,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 553,
+    "comments": 194,
+    "hn_id": 49136821
+   }
+  },
+  {
+   "id": "2561350057ce",
+   "title": "Show HN: Elevators",
+   "url": "https://john.fun/elevators",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1604,
+    "comments": 395,
+    "hn_id": 49124218
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 77.08166663999916,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 434,
+    "comments": 303,
+    "hn_id": 49132058
+   }
+  },
+  {
+   "id": "9dab52081f45",
+   "title": "Diátaxis",
+   "url": "https://diataxis.fr/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 74.43429983321298,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 391,
+    "comments": 48,
+    "hn_id": 49138188
+   }
+  },
+  {
+   "id": "531cdacba75b",
+   "title": "How to Exist",
+   "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 73.86205071423016,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 382,
+    "comments": 233,
+    "hn_id": 49129990
+   }
+  },
+  {
+   "id": "a35c6a727c85",
+   "title": "Seedance 2.5",
+   "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 73.4767985741633,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 376,
+    "comments": 197,
+    "hn_id": 49138302
+   }
+  },
+  {
+   "id": "bb762c09ae48",
+   "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+   "url": "https://github.com/sqliteai/waste",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 70.34589286804264,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 329,
+    "comments": 163,
+    "hn_id": 49123386
+   }
+  },
+  {
+   "id": "0b44c3a2a032",
+   "title": "Cursor removed cost information from the usage page and CSV export",
+   "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 70.13867521316948,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 326,
+    "comments": 148,
+    "hn_id": 49135257
+   }
+  },
+  {
+   "id": "7286114c594d",
+   "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+   "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 69.087980221371,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 311,
+    "comments": 322,
+    "hn_id": 49139102
+   }
+  },
+  {
+   "id": "0dc49bd00a0b",
+   "title": "Severance",
+   "url": "https://lcamtuf.substack.com/p/severance",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 65.54318685056714,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 263,
+    "comments": 89,
+    "hn_id": 49125971
+   }
+  },
+  {
+   "id": "50d4b49a0ae2",
+   "title": "AI doesn't generate working products, that's still your job",
+   "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 65.0780488547035,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 257,
+    "comments": 280,
+    "hn_id": 49132130
+   }
+  },
+  {
+   "id": "43507c137c8c",
+   "title": "Google has abandoned Google News?",
+   "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 66.07919181288746,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 270,
+    "comments": 199,
+    "hn_id": 49137681
+   }
+  },
+  {
+   "id": "55b86ae91ea2",
+   "title": "NetBSD 11.0",
+   "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 67.64680527307995,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 291,
+    "comments": 135,
+    "hn_id": 49136736
+   }
+  },
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 64.68626966596887,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 252,
+    "comments": 102,
+    "hn_id": 49140218
+   }
+  },
+  {
+   "id": "f17136604e78",
+   "title": "Flint: A Visualization Language for the AI Era",
+   "url": "https://microsoft.github.io/flint-chart/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 65.62019202317981,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 264,
+    "comments": 68,
+    "hn_id": 49130604
+   }
+  },
+  {
+   "id": "3282db2a5dc9",
+   "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+   "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 67.93891009329417,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 295,
+    "comments": 162,
+    "hn_id": 49134694
+   }
+  },
+  {
+   "id": "a0442eaaf21a",
+   "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+   "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 66.4578098794425,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 275,
+    "comments": 184,
+    "hn_id": 49133889
+   }
+  },
+  {
+   "id": "f24dfb6ce856",
+   "title": "RamenHaus",
+   "url": "https://ramen.haus/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 63.56812155135378,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 238,
+    "comments": 122,
+    "hn_id": 49132460
+   }
+  },
+  {
+   "id": "b6f416dc8fdc",
+   "title": "Big Food vs. the People",
+   "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 65.85033659592048,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 267,
+    "comments": 175,
+    "hn_id": 49124858
+   }
+  },
+  {
+   "id": "971340e3c1cd",
+   "title": "BMW Spider-Man in-car advertising",
+   "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 63.40572873934304,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 236,
+    "comments": 161,
+    "hn_id": 49130756
+   }
+  },
+  {
+   "id": "447317e6085d",
+   "title": "The most official water costs $120k a gallon",
+   "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 63.16084380618437,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 233,
+    "comments": 186,
+    "hn_id": 49124042
+   }
+  },
+  {
+   "id": "d515a1a31287",
+   "title": "The Silicon Valley Founder Meat Grinder",
+   "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 62.583240945932275,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 226,
+    "comments": 149,
+    "hn_id": 49138045
+   }
+  },
+  {
+   "id": "71541aecbe41",
+   "title": "Is AI reasoning right for the wrong reasons?",
+   "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 61.05551275463989,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 208,
+    "comments": 235,
+    "hn_id": 49124358
+   }
+  },
+  {
+   "id": "ad65303362e2",
+   "title": "The Art of 64-bit Assembly",
+   "url": "https://nostarch.com/art-64-bit-assembly-v2",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 62.332961307670196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 223,
+    "comments": 109,
+    "hn_id": 49134599
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 59.820970692960294,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 194,
+    "comments": 58,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "25c53f88508f",
+   "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+   "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 62.74917217635375,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 228,
+    "comments": 114,
+    "hn_id": 49125034
+   }
+  },
+  {
+   "id": "79ceab7c44ec",
+   "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+   "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-02T12:45:12Z",
+   "score": 59.910600109422354,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 195,
+    "comments": 62,
+    "hn_id": 49126765
+   }
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PulseMap — Real-Time Global Event Radar</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="scanlines"></div>
+
+<div class="ticker" id="ticker">
+  <span class="ticker-label">LIVE FEED</span>
+  <div class="ticker-track" id="ticker-track"></div>
+</div>
+
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-logo">
+      <svg viewBox="0 0 40 40" width="34" height="34">
+        <circle cx="20" cy="20" r="16" fill="none" stroke="var(--cyan)" stroke-width="1.4" opacity="0.5"/>
+        <circle cx="20" cy="20" r="9" fill="none" stroke="var(--cyan)" stroke-width="1.4" opacity="0.8"/>
+        <circle cx="20" cy="20" r="2.6" fill="var(--cyan)"/>
+        <line x1="20" y1="20" x2="34" y2="8" stroke="var(--magenta)" stroke-width="1.4"/>
+        <line x1="20" y1="20" x2="8" y2="6" stroke="var(--amber)" stroke-width="1.4"/>
+        <line x1="20" y1="20" x2="20" y2="37" stroke="var(--green)" stroke-width="1.4"/>
+      </svg>
+    </div>
+    <div>
+      <h1>PULSEMAP<span class="cursor">_</span></h1>
+      <div class="subtitle">REAL-TIME GLOBAL EVENT RADAR</div>
+    </div>
+  </div>
+  <div class="top-meta">
+    <div class="live-badge"><span class="live-dot"></span> LIVE</div>
+    <div class="clock" id="clock">--:--:--</div>
+    <div class="last-run" id="last-run">LAST SWEEP: --</div>
+    <button class="refresh" id="refresh">REFRESH</button>
+  </div>
+</header>
+
+<section class="stat-strip" id="stat-strip">
+  <div class="stat"><div class="stat-num" id="stat-events">-</div><div class="stat-label">EVENTS THIS SWEEP</div></div>
+  <div class="stat"><div class="stat-num accent" id="stat-breakers">-</div><div class="stat-label">BREAKING (&ge;70 HEAT)</div></div>
+  <div class="stat"><div class="stat-num green" id="stat-runners">-</div><div class="stat-label">RUNNERS ONLINE</div></div>
+  <div class="stat"><div class="stat-num" id="stat-cats">-</div><div class="stat-label">CATEGORIES</div></div>
+  <div class="stat"><div class="stat-num" id="stat-sweeps">-</div><div class="stat-label">SWEEPS LOGGED</div></div>
+</section>
+
+<main class="layout">
+  <aside class="panel runners-panel">
+    <h2 class="panel-title"><span class="tick">&#9632;</span> RUNNER STATUS</h2>
+    <div id="runners" class="runner-grid"></div>
+  </aside>
+
+  <section class="panel feed-panel">
+    <div class="feed-head">
+      <h2 class="panel-title"><span class="tick">&#9632;</span> EVENT FEED</h2>
+      <div class="feed-controls">
+        <input id="search" type="text" placeholder="SEARCH EVENTS...">
+        <div id="cat-filters" class="cat-filters"></div>
+        <select id="sort" class="sort">
+          <option value="heat">SORT: HEAT</option>
+          <option value="new">SORT: NEWEST</option>
+        </select>
+      </div>
+    </div>
+    <div id="feed" class="feed"></div>
+    <div id="feed-empty" class="feed-empty hidden">NO EVENTS MATCH — SENSORS SILENT.</div>
+  </section>
+
+  <aside class="side">
+    <div class="panel">
+      <h2 class="panel-title"><span class="tick">&#9632;</span> CRYPTO WATCH</h2>
+      <table class="crypto" id="crypto-table">
+        <thead><tr><th>ASSET</th><th>PRICE</th><th>24H</th><th>TREND</th></tr></thead>
+        <tbody id="crypto-body"></tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h2 class="panel-title"><span class="tick">&#9632;</span> SEISMIC RADAR <span class="dim" id="quake-count"></span></h2>
+      <div id="quake-map"></div>
+      <ul id="quake-list" class="quake-list"></ul>
+    </div>
+    <div class="panel">
+      <h2 class="panel-title"><span class="tick">&#9632;</span> WEATHER ALERTS</h2>
+      <div id="weather" class="weather"></div>
+    </div>
+    <div class="panel">
+      <h2 class="panel-title"><span class="tick">&#9632;</span> NETWORK PULSE <span class="dim">(LAST 48 SWEEPS)</span></h2>
+      <canvas id="pulse-chart" height="120"></canvas>
+    </div>
+  </aside>
+</main>
+
+<footer class="footer">
+  <span>PULSEMAP v1.0 — 20 PARALLEL SENSORS &middot; GIT-COMMITTED DATA &middot; FREE API LAYER</span>
+  <span class="dim" id="footer-note"></span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

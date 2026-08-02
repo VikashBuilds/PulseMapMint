@@ -1,0 +1,294 @@
+[
+ {
+  "ts": "20260802T124350Z",
+  "generated": "2026-08-02T12:43:51.309616+00:00",
+  "events": 1129,
+  "breakers": 120,
+  "avg_heat": 92.9,
+  "prices": {
+   "btc": {
+    "price": 63097,
+    "pct24h": -0.1
+   },
+   "eth": {
+    "price": 1856.2,
+    "pct24h": -0.8
+   },
+   "xrp": {
+    "price": 1.077,
+    "pct24h": 1.5
+   },
+   "sol": {
+    "price": 73.0,
+    "pct24h": 0.3
+   },
+   "doge": {
+    "price": 0.069974,
+    "pct24h": 0.2
+   },
+   "ada": {
+    "price": 0.188936,
+    "pct24h": 9.3
+   },
+   "link": {
+    "price": 8.27,
+    "pct24h": 2.2
+   },
+   "ltc": {
+    "price": 44.65,
+    "pct24h": 0.7
+   },
+   "avax": {
+    "price": 6.57,
+    "pct24h": 4.0
+   },
+   "dot": {
+    "price": 0.794106,
+    "pct24h": 4.0
+   }
+  },
+  "top": [
+   {
+    "t": "microsoft/AI-For-Beginners",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "usekaneo/kaneo",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "lyogavin/airllm",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "iv-org/invidious",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "codecrafters-io/build-your-own-x",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "different-ai/openwork",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "microsoft/generative-ai-for-beginners",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Panniantong/Agent-Reach",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   }
+  ]
+ },
+ {
+  "ts": "20260802T125000Z",
+  "generated": "2026-08-02T12:44:34.978938+00:00",
+  "events": 15,
+  "breakers": 15,
+  "avg_heat": 91.9,
+  "prices": {},
+  "top": [
+   {
+    "t": "microsoft/AI-For-Beginners",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "codecrafters-io/build-your-own-x",
+    "s": "github_all",
+    "h": 96.3,
+    "c": "github"
+   },
+   {
+    "t": "Panniantong/Agent-Reach",
+    "s": "github_all",
+    "h": 95.6,
+    "c": "github"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_all",
+    "h": 95.1,
+    "c": "github"
+   },
+   {
+    "t": "mvanhorn/last30days-skill",
+    "s": "github_all",
+    "h": 95.0,
+    "c": "github"
+   },
+   {
+    "t": "microsoft/generative-ai-for-beginners",
+    "s": "github_all",
+    "h": 94.9,
+    "c": "github"
+   },
+   {
+    "t": "different-ai/openwork",
+    "s": "github_all",
+    "h": 94.8,
+    "c": "github"
+   },
+   {
+    "t": "usekaneo/kaneo",
+    "s": "github_all",
+    "h": 93.5,
+    "c": "github"
+   },
+   {
+    "t": "iv-org/invidious",
+    "s": "github_all",
+    "h": 89.8,
+    "c": "github"
+   }
+  ]
+ },
+ {
+  "ts": "20260802T124927Z",
+  "generated": "2026-08-02T12:49:28.514125+00:00",
+  "events": 1088,
+  "breakers": 120,
+  "avg_heat": 88.6,
+  "prices": {
+   "btc": {
+    "price": 63087,
+    "pct24h": -0.1
+   },
+   "eth": {
+    "price": 1855.77,
+    "pct24h": -0.8
+   },
+   "xrp": {
+    "price": 1.077,
+    "pct24h": 1.5
+   },
+   "sol": {
+    "price": 72.95,
+    "pct24h": 0.3
+   },
+   "doge": {
+    "price": 0.070005,
+    "pct24h": 0.2
+   },
+   "ada": {
+    "price": 0.189705,
+    "pct24h": 9.3
+   },
+   "link": {
+    "price": 8.28,
+    "pct24h": 2.2
+   },
+   "ltc": {
+    "price": 44.67,
+    "pct24h": 0.7
+   },
+   "avax": {
+    "price": 6.57,
+    "pct24h": 4.0
+   },
+   "dot": {
+    "price": 0.794078,
+    "pct24h": 4.0
+   }
+  },
+  "top": [
+   {
+    "t": "microsoft/AI-For-Beginners",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Tailscale didn't stop the Hugging Face intrusion",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "qm – Multiplayer agent harness for work",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Apple plunged -7.35% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Alphabet surged +6.73% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Amazon surged +15.32% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Micron plunged -5.90% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Moderna plunged -5.35% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   }
+  ]
+ }
+]

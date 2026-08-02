@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-02T12:45:08Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 2.93,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "7c7d728d4311",
+   "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+   "url": "https://website-auditor.io/ai-visibility-index",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 6,
+    "hn_id": 49143630
+   }
+  },
+  {
+   "id": "eab6e8e2d9f7",
+   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 44.68501968502953,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 62,
+    "comments": 11,
+    "hn_id": 49142569
+   }
+  },
+  {
+   "id": "61fb4973fdff",
+   "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+   "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 49.49489742783178,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 96,
+    "comments": 34,
+    "hn_id": 49143414
+   }
+  },
+  {
+   "id": "9eae7a27ffb5",
+   "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+   "url": "https://meshdiff.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 41.393596310755,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 43,
+    "comments": 3,
+    "hn_id": 49143479
+   }
+  },
+  {
+   "id": "687a311a135f",
+   "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+   "url": "https://publicdomainreview.org/essay/ars-notoria/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 40.20690632574555,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 37,
+    "comments": 4,
+    "hn_id": 49143001
+   }
+  },
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 64.68626966596887,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 252,
+    "comments": 102,
+    "hn_id": 49140218
+   }
+  },
+  {
+   "id": "2141bbfc9df2",
+   "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+   "url": "https://github.com/syncular/syncular",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 38.46291201783626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 29,
+    "comments": 12,
+    "hn_id": 49142794
+   }
+  },
+  {
+   "id": "51d7eba232f2",
+   "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+   "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 27.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1,
+    "comments": 0,
+    "hn_id": 49143683
+   }
+  },
+  {
+   "id": "c9b74fa0cfcb",
+   "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+   "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 1,
+    "hn_id": 49095763
+   }
+  },
+  {
+   "id": "30d564e4b004",
+   "title": "Cyberscript",
+   "url": "https://cyberscript.dev",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 22,
+    "hn_id": 49142130
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 59.820970692960294,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 194,
+    "comments": 58,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "2f4b4ade8d60",
+   "title": "Show HN: Fuse – statically typed functional programming language",
+   "url": "https://fuselang.org",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "hn_id": 49143412
+   }
+  },
+  {
+   "id": "026a7e7bcc25",
+   "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+   "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 45.310096011589906,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 66,
+    "comments": 3,
+    "hn_id": 49140702
+   }
+  },
+  {
+   "id": "9dab52081f45",
+   "title": "Diátaxis",
+   "url": "https://diataxis.fr/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 74.43429983321298,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 391,
+    "comments": 48,
+    "hn_id": 49138188
+   }
+  },
+  {
+   "id": "a35c6a727c85",
+   "title": "Seedance 2.5",
+   "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 73.4767985741633,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 376,
+    "comments": 197,
+    "hn_id": 49138302
+   }
+  },
+  {
+   "id": "966d3064b350",
+   "title": "IBM i (OS/400) the Database Operating System",
+   "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 11,
+    "hn_id": 49141937
+   }
+  },
+  {
+   "id": "0750a20b6766",
+   "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+   "url": "https://github.com/kamalfarahani/katharos",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49143179
+   }
+  },
+  {
+   "id": "d71bb6097e05",
+   "title": "Mathematics Without Mathematicians",
+   "url": "https://borretti.me/article/mathematics-without-mathematicians",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 39.14213562373095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 32,
+    "comments": 35,
+    "hn_id": 49142083
+   }
+  },
+  {
+   "id": "dea682ec058c",
+   "title": "A big win for Android interoperability",
+   "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 55.82207001484488,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 152,
+    "comments": 105,
+    "hn_id": 49124051
+   }
+  },
+  {
+   "id": "0ade77b63d30",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 55.618621784789724,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 150,
+    "comments": 65,
+    "hn_id": 49141073
+   }
+  },
+  {
+   "id": "68e35388acb5",
+   "title": "Holocloth",
+   "url": "https://holocloth.vercel.app",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 38.69306393762915,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 30,
+    "comments": 7,
+    "hn_id": 49116917
+   }
+  },
+  {
+   "id": "06d34e10ddbc",
+   "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+   "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 0,
+    "hn_id": 49143688
+   }
+  },
+  {
+   "id": "5233f60a5849",
+   "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+   "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 45.46338192968113,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 67,
+    "comments": 32,
+    "hn_id": 49140599
+   }
+  },
+  {
+   "id": "707f98ca9351",
+   "title": "When random.bytes() runs but doesn't work",
+   "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 45.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 64,
+    "comments": 26,
+    "hn_id": 49140405
+   }
+  },
+  {
+   "id": "bb481877c95a",
+   "title": "Atom is better than RSS, in ways that matter",
+   "url": "https://chrismorgan.info/atom%3Erss",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 50.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 100,
+    "comments": 51,
+    "hn_id": 49138897
+   }
+  },
+  {
+   "id": "32f4d9360f26",
+   "title": "ASRock BC-250: Building the Budget Steam Machine",
+   "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 46.36000936329383,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 73,
+    "comments": 33,
+    "hn_id": 49140213
+   }
+  },
+  {
+   "id": "72a62fb6eb5e",
+   "title": "Elena, a library for building Progressive Web Components",
+   "url": "https://elenajs.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 40.612494995995995,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 39,
+    "comments": 3,
+    "hn_id": 49109759
+   }
+  },
+  {
+   "id": "a1a1cd3f3533",
+   "title": "Unraveling the mysteries of habit formation",
+   "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 48.184046238739256,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 86,
+    "comments": 31,
+    "hn_id": 49139383
+   }
+  },
+  {
+   "id": "6d766b56d1d5",
+   "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+   "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 45.15564437074637,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 65,
+    "comments": 16,
+    "hn_id": 49139711
+   }
+  },
+  {
+   "id": "f962c329048e",
+   "title": "Postmortem for Kernel Soundness Bug #14576",
+   "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-02T12:45:08Z",
+   "score": 55.92329219213245,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 153,
+    "comments": 58,
+    "hn_id": 49137060
+   }
+  }
+ ]
+}
