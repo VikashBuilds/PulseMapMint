@@ -1,0 +1,203 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-03T10:56:29Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.17,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "27192f8682db",
+   "title": "Audiera (BEAT) moved -16.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T10:56:29Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -16.5,
+    "pct1h": 11.1,
+    "pct7d": -4.4,
+    "price_usd": 3.34,
+    "market_cap": 1032858768
+   }
+  },
+  {
+   "id": "d35efebd63ac",
+   "title": "币安人生 (BinanceLife) (币安人生) moved -12.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T10:56:29Z",
+   "score": 86.5,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": -12.6,
+    "pct1h": 1.1,
+    "pct7d": -14.4,
+    "price_usd": 0.542289,
+    "market_cap": 542211914
+   }
+  },
+  {
+   "id": "9305d7ee5df0",
+   "title": "MemeCore (M) moved +7.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/memecore",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T10:56:29Z",
+   "score": 73.5,
+   "tags": [
+    "m",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "m",
+    "pct24h": 7.4,
+    "pct1h": -1.7,
+    "pct7d": -3.9,
+    "price_usd": 1.17,
+    "market_cap": 1551670577
+   }
+  },
+  {
+   "id": "3719f18c8875",
+   "title": "Algorand (ALGO) moved +7.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/algorand",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T10:56:29Z",
+   "score": 72.5,
+   "tags": [
+    "algo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "algo",
+    "pct24h": 7.0,
+    "pct1h": 0.7,
+    "pct7d": 2.8,
+    "price_usd": 0.086152,
+    "market_cap": 772642999
+   }
+  },
+  {
+   "id": "60c8d1b0b225",
+   "title": "Talus (US) moved +4.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/talus",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T10:56:29Z",
+   "score": 67.25,
+   "tags": [
+    "us",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "us",
+    "pct24h": 4.9,
+    "pct1h": 4.4,
+    "pct7d": 17.2,
+    "price_usd": 0.054468,
+    "market_cap": 544654040
+   }
+  },
+  {
+   "id": "5664447604fe",
+   "title": "Ondo (ONDO) moved -4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ondo-finance",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T10:56:29Z",
+   "score": 65.75,
+   "tags": [
+    "ondo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ondo",
+    "pct24h": -4.3,
+    "pct1h": 0.7,
+    "pct7d": -9.6,
+    "price_usd": 0.370229,
+    "market_cap": 1802912100
+   }
+  },
+  {
+   "id": "4484e5c6c173",
+   "title": "Pi Network (PI) moved -4.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pi-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T10:56:29Z",
+   "score": 65.25,
+   "tags": [
+    "pi",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pi",
+    "pct24h": -4.1,
+    "pct1h": -0.4,
+    "pct7d": 0.6,
+    "price_usd": 0.082283,
+    "market_cap": 904627317
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 62611,
+   "pct24h": -0.5
+  },
+  "eth": {
+   "price": 1842.9,
+   "pct24h": -0.7
+  },
+  "xrp": {
+   "price": 1.069,
+   "pct24h": -0.6
+  },
+  "sol": {
+   "price": 72.5,
+   "pct24h": -0.5
+  },
+  "doge": {
+   "price": 0.069429,
+   "pct24h": -0.3
+  },
+  "ada": {
+   "price": 0.186872,
+   "pct24h": 0.7
+  },
+  "link": {
+   "price": 8.2,
+   "pct24h": -0.8
+  },
+  "ltc": {
+   "price": 44.18,
+   "pct24h": -0.7
+  },
+  "avax": {
+   "price": 6.44,
+   "pct24h": -1.8
+  },
+  "dot": {
+   "price": 0.801649,
+   "pct24h": 1.3
+  }
+ }
+}

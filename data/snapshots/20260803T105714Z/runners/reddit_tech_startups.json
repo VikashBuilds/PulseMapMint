@@ -1,0 +1,14 @@
+{
+ "runner": "reddit_tech_startups",
+ "generated": "2026-08-03T10:56:50Z",
+ "status": "error",
+ "error": "RuntimeError: HTTP 403 for https://api.reddit.com/r/technology+programming+startups+gadgets+artificial/rising?limit=25",
+ "took_s": 12.13,
+ "args": [
+  "reddit_tech_startups",
+  "technology,programming,startups,gadgets,artificial",
+  "tech",
+  "25"
+ ],
+ "items": []
+}

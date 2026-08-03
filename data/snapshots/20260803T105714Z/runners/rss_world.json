@@ -1,0 +1,4008 @@
+{
+ "runner": "rss_world",
+ "generated": "2026-08-03T10:57:03Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 35.86,
+ "args": [
+  "rss_world",
+  "rss_world"
+ ],
+ "items": [
+  {
+   "id": "9f78e376d5f5",
+   "title": "English FA set to withdraw support for Fifa president Infantino",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:49:33Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 07:49:33 GMT"
+   }
+  },
+  {
+   "id": "a5472a89aef5",
+   "title": "Mother has ground-breaking surgery while pregnant to treat baby",
+   "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:02:25Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 05:02:25 GMT"
+   }
+  },
+  {
+   "id": "5ce972a0e865",
+   "title": "Reform UK's Richard Tice investigated by parliamentary standards watchdog",
+   "url": "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:55:11Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:55:11 GMT"
+   }
+  },
+  {
+   "id": "cea2c42d02ca",
+   "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+   "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T03:32:21Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 03:32:21 GMT"
+   }
+  },
+  {
+   "id": "824b78e77f82",
+   "title": "Iran denies Trump's claim that new talks will begin on Monday",
+   "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:23:35Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:23:35 GMT"
+   }
+  },
+  {
+   "id": "193ae31ff5ec",
+   "title": "Former X Factor finalist denies murder and GBH",
+   "url": "https://www.bbc.co.uk/news/articles/c75gq56qrwno?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:37:25Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:37:25 GMT"
+   }
+  },
+  {
+   "id": "4e62e5d3f7c4",
+   "title": "How parents and pupils took on 'cruel', 'authoritarian' schools - and won",
+   "url": "https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:01:18Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 05:01:18 GMT"
+   }
+  },
+  {
+   "id": "ec719f06c5e0",
+   "title": "Glasgow praised for saving Commonwealth Games as baton passes to Amdavad",
+   "url": "https://www.bbc.co.uk/news/articles/cgk4rjz8dxlo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:44:31Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 09:44:31 GMT"
+   }
+  },
+  {
+   "id": "5f66b77ac071",
+   "title": "Heat health alerts in England as temperatures set to reach 34C",
+   "url": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:01:23Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:01:23 GMT"
+   }
+  },
+  {
+   "id": "9643029e79a5",
+   "title": "Reform says it would use Navy to stop small boats",
+   "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:47:41Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 09:47:41 GMT"
+   }
+  },
+  {
+   "id": "62b8b3feeacf",
+   "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+   "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T06:53:09Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 06:53:09 GMT"
+   }
+  },
+  {
+   "id": "bcd0bd6ed7d9",
+   "title": "What are the 'luteal uglies' and how are they affecting women?",
+   "url": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T00:57:22Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 00:57:22 GMT"
+   }
+  },
+  {
+   "id": "d134efd7d75a",
+   "title": "Steve Rosenberg at the Moscow restaurant where bomb killed three",
+   "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T03:53:05Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 03:53:05 GMT"
+   }
+  },
+  {
+   "id": "70d9f42b540e",
+   "title": "'What was my fault?': How India's exam paper leak ended young lives",
+   "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T23:35:54Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 23:35:54 GMT"
+   }
+  },
+  {
+   "id": "d38a6fde7004",
+   "title": "Starting uni? What to know about the free NHS meningitis B jab in England",
+   "url": "https://www.bbc.co.uk/news/articles/cvgmyggpg42o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T01:00:09Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 01:00:09 GMT"
+   }
+  },
+  {
+   "id": "8ece497433af",
+   "title": "It may be easier to get your first mortgage than you think - here's why",
+   "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:55:36Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 09:55:36 GMT"
+   }
+  },
+  {
+   "id": "4671d4ee6d71",
+   "title": "More protein or less? The foods to get you through",
+   "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-08T09:05:56Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Wed, 08 Jul 2026 09:05:56 GMT"
+   }
+  },
+  {
+   "id": "424aa04bbf98",
+   "title": "Why women feel the heat more - and some simple things that can help",
+   "url": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-08T23:49:12Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Wed, 08 Jul 2026 23:49:12 GMT"
+   }
+  },
+  {
+   "id": "6b87ce6ecd6a",
+   "title": "How to get the most out of your electric fan",
+   "url": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-08T17:07:05Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Wed, 08 Jul 2026 17:07:05 GMT"
+   }
+  },
+  {
+   "id": "fb35e76a62cc",
+   "title": "How to keep dogs and other pets cool",
+   "url": "https://www.bbc.co.uk/news/articles/ce839egxynwo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-06-22T13:49:22Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 22 Jun 2026 13:49:22 GMT"
+   }
+  },
+  {
+   "id": "2c54ac4f25ab",
+   "title": "Ariana Grande to take a break from public life citing 'endless, ongoing scrutiny'",
+   "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:08:44Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:08:44 GMT"
+   }
+  },
+  {
+   "id": "f3437e83a4d4",
+   "title": "Father felt helpess trying to save son, 7, from sea",
+   "url": "https://www.bbc.co.uk/news/articles/c04kq0xd0l7o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:48:28Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:48:28 GMT"
+   }
+  },
+  {
+   "id": "e771d0852876",
+   "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+   "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T04:10:16Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 04:10:16 GMT"
+   }
+  },
+  {
+   "id": "e65c91ec17b3",
+   "title": "Washington state wildfires force 60,000 people to evacuate homes",
+   "url": "https://www.bbc.co.uk/news/articles/c3046g80yj7o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:39:19Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:39:19 GMT"
+   }
+  },
+  {
+   "id": "b94ea707fcdf",
+   "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+   "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:40:22Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:40:22 GMT"
+   }
+  },
+  {
+   "id": "594cb7a1e5e3",
+   "title": "Conservatives call for greater use of facial recognition from police",
+   "url": "https://www.bbc.co.uk/news/articles/c07rv3dlpndo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:58:39Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:58:39 GMT"
+   }
+  },
+  {
+   "id": "e7ffc1c03fe7",
+   "title": "Man arrested after death of nine-year-old girl found injured in industrial estate",
+   "url": "https://www.bbc.co.uk/news/articles/cg5lejjdlr6o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:56:43Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:56:43 GMT"
+   }
+  },
+  {
+   "id": "c744c064e481",
+   "title": "BBC News app",
+   "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-04-30T14:04:28Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Wed, 30 Apr 2025 14:04:28 GMT"
+   }
+  },
+  {
+   "id": "b2db905ae320",
+   "title": "Is The World Cup For Sale?",
+   "url": "https://www.bbc.co.uk/sounds/play/p0p1380w?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-31T15:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Fri, 31 Jul 2026 15:30:00 GMT"
+   }
+  },
+  {
+   "id": "b545ea082d35",
+   "title": "The Democrats need to win Michigan… so why is it splitting the party?",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8lzf?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-31T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Fri, 31 Jul 2026 14:00:00 GMT"
+   }
+  },
+  {
+   "id": "959d6f0c03e3",
+   "title": "English FA set to join Welsh in withdrawing support for Infantino",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:49:33Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 07:49:33 GMT"
+   }
+  },
+  {
+   "id": "6b495fb23ad2",
+   "title": "Liverpool ship four second-half goals to leave Iraola with much to ponder",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T23:18:36Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 23:18:36 GMT"
+   }
+  },
+  {
+   "id": "45a815ca878c",
+   "title": "Celtic drawn against LASK in Champions League play-off",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cddjm88m4vno?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:18:24Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:18:24 GMT"
+   }
+  },
+  {
+   "id": "eb69b39a8ab1",
+   "title": "From European hopes to relegation form - will Moyes reignite Everton?",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cy5dw9xeekvo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:03:44Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 07:03:44 GMT"
+   }
+  },
+  {
+   "id": "ee058394e0e9",
+   "title": "Man Utd boss Skinner leaves role before WSL season",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cdewr8w0r80o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:05:47Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:05:47 GMT"
+   }
+  },
+  {
+   "id": "5e16e98ff34d",
+   "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:00:39Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:00:39 GMT"
+   }
+  },
+  {
+   "id": "6c9accc87f6c",
+   "title": "Irish boxer Reeves critical but stable in hospital",
+   "url": "https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T19:06:52Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 19:06:52 GMT"
+   }
+  },
+  {
+   "id": "824b78e77f82",
+   "title": "Iran denies Trump's claim that new talks will begin on Monday",
+   "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:23:35Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:23:35 GMT"
+   }
+  },
+  {
+   "id": "868404770991",
+   "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+   "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T03:32:21Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 03:32:21 GMT"
+   }
+  },
+  {
+   "id": "62b8b3feeacf",
+   "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+   "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T06:53:09Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 06:53:09 GMT"
+   }
+  },
+  {
+   "id": "b94ea707fcdf",
+   "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+   "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:40:22Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 08:40:22 GMT"
+   }
+  },
+  {
+   "id": "f1984cfd2c0f",
+   "title": "US and Japan take action to prop up yen in rare joint move",
+   "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:30:52Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 07:30:52 GMT"
+   }
+  },
+  {
+   "id": "0776be665cb8",
+   "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+   "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:08:44Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:08:44 GMT"
+   }
+  },
+  {
+   "id": "0ba3ff1e258c",
+   "title": "Massive Attack respond after Singapore ban over Palestine display",
+   "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T01:31:05Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 01:31:05 GMT"
+   }
+  },
+  {
+   "id": "f41be80cd48e",
+   "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+   "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:46:34Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:46:34 GMT"
+   }
+  },
+  {
+   "id": "80f4579e3f6e",
+   "title": "Sudan army drone strike on court session kills 35, rights group says",
+   "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:29:24Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 10:29:24 GMT"
+   }
+  },
+  {
+   "id": "e603af3ef0fe",
+   "title": "Malaysian boy on trial for allegedly murdering girl in school",
+   "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T01:43:16Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 01:43:16 GMT"
+   }
+  },
+  {
+   "id": "171a5f61cbc3",
+   "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+   "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T01:03:31Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 01:03:31 GMT"
+   }
+  },
+  {
+   "id": "9324aa55e061",
+   "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+   "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T15:50:59Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 15:50:59 GMT"
+   }
+  },
+  {
+   "id": "393a8f1baec2",
+   "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+   "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:37:02Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 16:37:02 GMT"
+   }
+  },
+  {
+   "id": "3fbb29cbd4bd",
+   "title": "Tourist plane crashes in Peru, killing 13",
+   "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T00:29:55Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 00:29:55 GMT"
+   }
+  },
+  {
+   "id": "c2cd54cf5721",
+   "title": "Italy putting nearly all major cities on highest heat alert",
+   "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T17:51:46Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sat, 01 Aug 2026 17:51:46 GMT"
+   }
+  },
+  {
+   "id": "2a049df96c27",
+   "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+   "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T10:54:44Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 10:54:44 GMT"
+   }
+  },
+  {
+   "id": "70d9f42b540e",
+   "title": "'What was my fault?': How India's exam paper leak ended young lives",
+   "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T23:35:54Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 23:35:54 GMT"
+   }
+  },
+  {
+   "id": "b12103f53d0b",
+   "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+   "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:31:55Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 05:31:55 GMT"
+   }
+  },
+  {
+   "id": "3807268d4baf",
+   "title": "Outside the Moscow restaurant where bomb killed three",
+   "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T03:53:05Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Mon, 03 Aug 2026 03:53:05 GMT"
+   }
+  },
+  {
+   "id": "dc90bcab8bed",
+   "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+   "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T23:56:19Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sat, 01 Aug 2026 23:56:19 GMT"
+   }
+  },
+  {
+   "id": "d53adc7f1abb",
+   "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+   "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T07:58:51Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 07:58:51 GMT"
+   }
+  },
+  {
+   "id": "9c9153c497a7",
+   "title": "At the scene of deadly Moscow bomb blast",
+   "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:52:35Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 16:52:35 GMT"
+   }
+  },
+  {
+   "id": "ac10ca15e29e",
+   "title": "Fastest runner to cross the Alps says it was an incredible experience",
+   "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T10:59:55Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 10:59:55 GMT"
+   }
+  },
+  {
+   "id": "bdfc2d80b882",
+   "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
+   "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T10:20:10Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sun, 02 Aug 2026 10:20:10 GMT"
+   }
+  },
+  {
+   "id": "2f5975ce5cfb",
+   "title": "Crowds line Amsterdam's canals for Pride boat parade",
+   "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T19:39:48Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sat, 01 Aug 2026 19:39:48 GMT"
+   }
+  },
+  {
+   "id": "ddab33cc1c0d",
+   "title": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
+   "url": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T02:44:09Z",
+   "score": 45.0,
+   "tags": [
+    "BBC News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "BBC News",
+    "published_raw": "Sat, 01 Aug 2026 02:44:09 GMT"
+   }
+  },
+  {
+   "id": "2ef05152c464",
+   "title": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/north-koreans-flood-new-tourist-zone-beach-amid-heatwave?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:10:50Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 10:10:50 +0000"
+   }
+  },
+  {
+   "id": "4eb61bae9ea9",
+   "title": "First moments of Egypt earthquake caught during livestream",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/first-moments-of-egypt-earthquake-caught-during-livestream?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:04:27Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 10:04:27 +0000"
+   }
+  },
+  {
+   "id": "2ad2165c9355",
+   "title": "Vozinha gets hero’s welcome in Chile after Cape Verde’s historic World Cup",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/vozinha-gets-heros-welcome-in-chile-after-cape-verdes-historic-world-cup?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:52:44Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:52:44 +0000"
+   }
+  },
+  {
+   "id": "5a25d880add7",
+   "title": "Trump says new Iran negotiations starting: What we know",
+   "url": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:44:53Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:44:53 +0000"
+   }
+  },
+  {
+   "id": "3a5a6e5a85d7",
+   "title": "Wildfires still burning in France and Spain amid fears of more to come",
+   "url": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:32:43Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:32:43 +0000"
+   }
+  },
+  {
+   "id": "6f7b7beeb35a",
+   "title": "England set to follow Wales in withdrawing support for FIFA’s Infantino",
+   "url": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:23:05Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:23:05 +0000"
+   }
+  },
+  {
+   "id": "ecca0477e3f2",
+   "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
+   "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:13:59Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:13:59 +0000"
+   }
+  },
+  {
+   "id": "ea8ba56e6b7b",
+   "title": "‘He had a lot of profiles’: The rise of online drug-facilitated rape gangs",
+   "url": "https://www.aljazeera.com/news/2026/8/3/he-had-a-lot-of-profiles-the-rise-of-online-drug-facilitated-rape-gangs?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:12:14Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:12:14 +0000"
+   }
+  },
+  {
+   "id": "7a1c8212c80c",
+   "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:05:04Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:05:04 +0000"
+   }
+  },
+  {
+   "id": "650848913d4f",
+   "title": "Australia warns H5N1 likely to spread after first mass mortality episode",
+   "url": "https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:04:57Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:04:57 +0000"
+   }
+  },
+  {
+   "id": "7f09c5efe6f3",
+   "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+   "url": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:01:15Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 09:01:15 +0000"
+   }
+  },
+  {
+   "id": "c5e97d8f7f6c",
+   "title": "‘US backs off from Iran before markets open on weekdays’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/us-backs-off-from-iran-before-markets-open-on?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:55:13Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 08:55:13 +0000"
+   }
+  },
+  {
+   "id": "1a769bbfefab",
+   "title": "Michael Thorbjornsen wins first PGA Tour title at Rocket Classic",
+   "url": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:25:22Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 08:25:22 +0000"
+   }
+  },
+  {
+   "id": "8d4ade6fcb9f",
+   "title": "Spanish farmer finds donkeys alive after wildfires destroy her property",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:23:55Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 08:23:55 +0000"
+   }
+  },
+  {
+   "id": "702028a4d8b7",
+   "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to injury",
+   "url": "https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:50:06Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 07:50:06 +0000"
+   }
+  },
+  {
+   "id": "711074ab73e2",
+   "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+   "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T06:09:00Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 06:09:00 +0000"
+   }
+  },
+  {
+   "id": "4821ec2bc1d6",
+   "title": "Grid failure plunges Cuba into nationwide blackout",
+   "url": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T04:35:39Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 04:35:39 +0000"
+   }
+  },
+  {
+   "id": "1a7db3d32abd",
+   "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+   "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T03:26:08Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 03:26:08 +0000"
+   }
+  },
+  {
+   "id": "35688579c61e",
+   "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T03:17:33Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 03:17:33 +0000"
+   }
+  },
+  {
+   "id": "0c5db807a9f4",
+   "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T02:54:25Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 02:54:25 +0000"
+   }
+  },
+  {
+   "id": "b4218d5c93d7",
+   "title": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
+   "url": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T01:57:58Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 01:57:58 +0000"
+   }
+  },
+  {
+   "id": "40bfe0add20d",
+   "title": "Japan and US confirm rare joint intervention to prop up yen",
+   "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T01:34:19Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 01:34:19 +0000"
+   }
+  },
+  {
+   "id": "003f57ccdfeb",
+   "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T00:18:50Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 00:18:50 +0000"
+   }
+  },
+  {
+   "id": "d3c55eac03ca",
+   "title": "Iran war live: Iranian foreign ministry says no current talks with US",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T00:00:15Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Mon, 03 Aug 2026 00:00:15 +0000"
+   }
+  },
+  {
+   "id": "90b0bd208a8b",
+   "title": "Trump says new round of Iran talks will begin Monday",
+   "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T23:48:08Z",
+   "score": 45.0,
+   "tags": [
+    "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "published_raw": "Sun, 02 Aug 2026 23:48:08 +0000"
+   }
+  },
+  {
+   "id": "342ca3aebc44",
+   "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+   "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T13:11:56Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sun, 02 Aug 2026 13:11:56 GMT"
+   }
+  },
+  {
+   "id": "cdcf8c96c689",
+   "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+   "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T04:00:11Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sun, 02 Aug 2026 04:00:11 GMT"
+   }
+  },
+  {
+   "id": "781b03d2ff96",
+   "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+   "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T19:03:39Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sat, 01 Aug 2026 19:03:39 GMT"
+   }
+  },
+  {
+   "id": "1449c98efdb3",
+   "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+   "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-31T17:52:11Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Fri, 31 Jul 2026 17:52:11 GMT"
+   }
+  },
+  {
+   "id": "6f7968ec1541",
+   "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
+   "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-31T11:38:46Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Fri, 31 Jul 2026 11:38:46 GMT"
+   }
+  },
+  {
+   "id": "6c41538334ff",
+   "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
+   "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:16:38Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 08:16:38 GMT"
+   }
+  },
+  {
+   "id": "394d4f89d502",
+   "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+   "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T22:31:13Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sat, 01 Aug 2026 22:31:13 GMT"
+   }
+  },
+  {
+   "id": "00195f83668f",
+   "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+   "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-31T16:29:14Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Fri, 31 Jul 2026 16:29:14 GMT"
+   }
+  },
+  {
+   "id": "66c2383e4715",
+   "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+   "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-28T16:46:05Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Tue, 28 Jul 2026 16:46:05 GMT"
+   }
+  },
+  {
+   "id": "a053f891bee4",
+   "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+   "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-28T13:00:04Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Tue, 28 Jul 2026 13:00:04 GMT"
+   }
+  },
+  {
+   "id": "4b72ca4305d0",
+   "title": "Nauru officially changes its name to Naoero",
+   "url": "https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:45:45Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 09:45:45 GMT"
+   }
+  },
+  {
+   "id": "fb622a7a9e27",
+   "title": "Yen hits three-month high after Trump helps prop up currency",
+   "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:34:06Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 08:34:06 GMT"
+   }
+  },
+  {
+   "id": "269b9d8b4659",
+   "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
+   "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:17:47Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 05:17:47 GMT"
+   }
+  },
+  {
+   "id": "f831b33280dd",
+   "title": "New Zealand legislation making English an official language ridiculed as ‘pathetic’",
+   "url": "https://www.theguardian.com/world/2026/aug/03/new-zealand-english-an-official-language-bill",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T04:06:41Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 04:06:41 GMT"
+   }
+  },
+  {
+   "id": "f2c75731f87b",
+   "title": "Massive Attack speak about ‘surreal experience’ of being banned from Singapore over Palestinian flag",
+   "url": "https://www.theguardian.com/music/2026/aug/03/massive-attack-singapore-ban-palestine-flag",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T02:19:26Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 02:19:26 GMT"
+   }
+  },
+  {
+   "id": "8161e4b484d9",
+   "title": "Suspected mass bird flu deaths found in second state as Murray Watt warns ‘this is the beginning’",
+   "url": "https://www.theguardian.com/world/2026/aug/03/suspected-mass-bird-flu-deaths-found-in-second-state-as-murray-watt-warns-this-is-the-beginning",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:27:17Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:27:17 GMT"
+   }
+  },
+  {
+   "id": "291947332ab7",
+   "title": "Teenager didn’t tell anyone Alan Jones allegedly kissed and touched him as he feared losing financial help, trial hears",
+   "url": "https://www.theguardian.com/australia-news/2026/aug/03/alan-jones-trial-update-sydney-court-case-day-1-news-ntwnfb",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:16:43Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 08:16:43 GMT"
+   }
+  },
+  {
+   "id": "7eb5283cff25",
+   "title": "Greens senator brands Pauline Hanson a ‘political coward’ over press conference bans – as it happened",
+   "url": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:59:47Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 07:59:47 GMT"
+   }
+  },
+  {
+   "id": "f8ab66d790cd",
+   "title": "Two men seriously injured after Sydney building suddenly collapses",
+   "url": "https://www.theguardian.com/australia-news/2026/aug/03/sydney-building-collapse-wattle-st-ultimo",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:28:57Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 05:28:57 GMT"
+   }
+  },
+  {
+   "id": "177561eb37de",
+   "title": "One Nation names eight Victorian election candidates as Hanson bars ABC and Guardian from press conferences",
+   "url": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T04:33:57Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 04:33:57 GMT"
+   }
+  },
+  {
+   "id": "433f622ac4ba",
+   "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – Europe live",
+   "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:43:20Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:43:20 GMT"
+   }
+  },
+  {
+   "id": "b6dc6985f4e6",
+   "title": "Russia blames Ukraine for deadly restaurant bombing in Moscow",
+   "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:27:16Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:27:16 GMT"
+   }
+  },
+  {
+   "id": "a91abcf200a6",
+   "title": "Man arrested after Scottish woman found dead inside suitcase in Athens",
+   "url": "https://www.theguardian.com/world/2026/aug/02/man-arrested-scottish-woman-dead-suitcase-athens",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T18:29:33Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sun, 02 Aug 2026 18:29:33 GMT"
+   }
+  },
+  {
+   "id": "5765b20682ec",
+   "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+   "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T17:36:18Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sun, 02 Aug 2026 17:36:18 GMT"
+   }
+  },
+  {
+   "id": "4ff4876c1c72",
+   "title": "Moscow bomb kills at least three as device carried by woman explodes",
+   "url": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T13:51:41Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sun, 02 Aug 2026 13:51:41 GMT"
+   }
+  },
+  {
+   "id": "a76d8d3e18a8",
+   "title": "Trump’s attorney general pick says he has reached deal with senators after standoff – US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:49:34Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:49:34 GMT"
+   }
+  },
+  {
+   "id": "8abdc82af188",
+   "title": "Middle East crisis live: Iran denies Trump’s claims that talks due to take place",
+   "url": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:41:51Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:41:51 GMT"
+   }
+  },
+  {
+   "id": "112f24672057",
+   "title": "Abandoned by the US: Palestinian Americans trapped in a surge of Israeli settler violence",
+   "url": "https://www.theguardian.com/world/2026/aug/03/palestinian-village-trapped-surge-settler-violence-turmus-ayya-west-bank",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:00:14Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:00:14 GMT"
+   }
+  },
+  {
+   "id": "ade2580df712",
+   "title": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
+   "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T20:16:50Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sun, 02 Aug 2026 20:16:50 GMT"
+   }
+  },
+  {
+   "id": "d640bee17ba8",
+   "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+   "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T07:00:45Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sat, 01 Aug 2026 07:00:45 GMT"
+   }
+  },
+  {
+   "id": "4ee57080b720",
+   "title": "Red Cross visits Aung San Suu Kyi after Myanmar military pushed to prove she is alive",
+   "url": "https://www.theguardian.com/world/2026/aug/03/myanmar-detained-former-leader-aung-san-suu-kyi-red-cross",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:36:33Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 09:36:33 GMT"
+   }
+  },
+  {
+   "id": "3a9c38af07e6",
+   "title": "Top mountaineer Nirmal Purja confirmed dead after 11 hit by avalanche in Pakistan",
+   "url": "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T13:41:44Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Sat, 01 Aug 2026 13:41:44 GMT"
+   }
+  },
+  {
+   "id": "af41d3ac690e",
+   "title": "India’s monsoon rains in danger as UN chief warns planet is ‘on fire’",
+   "url": "https://www.theguardian.com/environment/2026/jul/31/india-monsoon-el-nino-hot-dry-conditions-meteorologists",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-31T17:37:32Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Fri, 31 Jul 2026 17:37:32 GMT"
+   }
+  },
+  {
+   "id": "7dbcdace944f",
+   "title": "World-renowned climber Nirmal Purja among 11 struck by avalanche on Pakistan mountain",
+   "url": "https://www.theguardian.com/world/2026/jul/31/nirmal-purja-10-climbers-missing-pakistan-broad-peak-mountain",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-31T15:35:53Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Fri, 31 Jul 2026 15:35:53 GMT"
+   }
+  },
+  {
+   "id": "a41114d62425",
+   "title": "Pakistan accused of fatally shooting 30 unarmed protesters in Kashmir",
+   "url": "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-07-28T16:41:14Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Tue, 28 Jul 2026 16:41:14 GMT"
+   }
+  },
+  {
+   "id": "ea46d01deaf4",
+   "title": "Reform UK hold press conference on immigration after criticism of pledge to use Navy to stop small boats – politics live",
+   "url": "https://www.theguardian.com/politics/live/2026/aug/03/reform-immigration-small-boats-nigel-farage-restore-clacton-latest-news-updates",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:39:23Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:39:23 GMT"
+   }
+  },
+  {
+   "id": "194f0c3bf2e4",
+   "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
+   "url": "https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:29:26Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:29:26 GMT"
+   }
+  },
+  {
+   "id": "18f7965d856e",
+   "title": "AstraZeneca holds talks with US cancer drug developer in $400bn merger",
+   "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:22:41Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:22:41 GMT"
+   }
+  },
+  {
+   "id": "797a7d0f91af",
+   "title": "Standards watchdog investigating Reform UK’s Richard Tice",
+   "url": "https://www.theguardian.com/uk-news/2026/aug/03/standards-watchdog-investigating-reform-richard-tice",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:19:50Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 10:19:50 GMT"
+   }
+  },
+  {
+   "id": "ac83d4eab259",
+   "title": "Phil Collins details serious alcoholism: ‘People were coming to say goodbye’",
+   "url": "https://www.theguardian.com/music/2026/aug/03/phil-collins-serious-alcoholism-people-were-coming-to-say-goodbye",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:01:28Z",
+   "score": 45.0,
+   "tags": [
+    "World news | The Guardian",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World news | The Guardian",
+    "published_raw": "Mon, 03 Aug 2026 09:01:28 GMT"
+   }
+  },
+  {
+   "id": "f5e86bf93f75",
+   "title": "Palestinians Stream Back to Northern Gaza on Foot",
+   "url": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T19:23:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 14:23:00 -0500"
+   }
+  },
+  {
+   "id": "2d73153266ff",
+   "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+   "url": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T17:32:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 12:32:00 -0500"
+   }
+  },
+  {
+   "id": "a8d160772c46",
+   "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+   "url": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T17:12:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 12:12:00 -0500"
+   }
+  },
+  {
+   "id": "d20b6f8493c4",
+   "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+   "url": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T16:22:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 11:22:00 -0500"
+   }
+  },
+  {
+   "id": "cfaa3044a049",
+   "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+   "url": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T15:07:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 10:07:00 -0500"
+   }
+  },
+  {
+   "id": "4530d988673f",
+   "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+   "url": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 07:00:00 -0500"
+   }
+  },
+  {
+   "id": "bc4c84b21a10",
+   "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+   "url": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T10:34:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 05:34:00 -0500"
+   }
+  },
+  {
+   "id": "cae913d9280e",
+   "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+   "url": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T06:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 01:05:00 -0500"
+   }
+  },
+  {
+   "id": "06ad2662f312",
+   "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+   "url": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T06:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Mon, 27 Jan 2025 01:05:00 -0500"
+   }
+  },
+  {
+   "id": "b204541054d4",
+   "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+   "url": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T03:59:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sun, 26 Jan 2025 22:59:00 -0500"
+   }
+  },
+  {
+   "id": "88fd0decf182",
+   "title": "Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike",
+   "url": "https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T03:53:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sun, 26 Jan 2025 22:53:00 -0500"
+   }
+  },
+  {
+   "id": "d3abf6a0fec2",
+   "title": "Germany's Economic Model Is Broken, and No One Has a Plan B",
+   "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-27T02:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sun, 26 Jan 2025 21:00:00 -0500"
+   }
+  },
+  {
+   "id": "16872ba8850e",
+   "title": "Trump Says He Wants to 'Clean Out' Gaza, Send Refugees to Egypt and Jordan",
+   "url": "https://www.wsj.com/articles/trump-says-he-wants-to-clean-out-gaza-send-refugees-to-egypt-and-jordan-d90beccc",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-26T23:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sun, 26 Jan 2025 18:30:00 -0500"
+   }
+  },
+  {
+   "id": "3f2ec347f506",
+   "title": "Hamas Releases Four Female Israeli Soldiers Under Gaza Cease-Fire Deal",
+   "url": "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-25T18:45:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sat, 25 Jan 2025 13:45:00 -0500"
+   }
+  },
+  {
+   "id": "45532eb6c96f",
+   "title": "Hamas Took More Than 200 Hostages From Israel. Here's What We Know.",
+   "url": "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-25T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sat, 25 Jan 2025 12:00:00 -0500"
+   }
+  },
+  {
+   "id": "4340bb110dbd",
+   "title": "U.N. and Congolese Troops Struggle to Halt Lightning Rebel Attack",
+   "url": "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-25T14:32:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sat, 25 Jan 2025 09:32:00 -0500"
+   }
+  },
+  {
+   "id": "89375cb1a10e",
+   "title": "Who Are the Israeli Hostages Released by Hamas?",
+   "url": "https://www.wsj.com/articles/who-israeli-hostages-released-hamas-gaza-efdfd57f",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-25T11:57:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sat, 25 Jan 2025 06:57:00 -0500"
+   }
+  },
+  {
+   "id": "21b338031204",
+   "title": "The Latest Gaza Hostages Freed: Women Whose Hamas Warnings Were Ignored",
+   "url": "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-25T10:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Sat, 25 Jan 2025 05:05:00 -0500"
+   }
+  },
+  {
+   "id": "01eaf8949783",
+   "title": "Beijing Signals Readiness to Talk to Trump's Team, Even Old Foes",
+   "url": "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-25T00:58:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Fri, 24 Jan 2025 19:58:00 -0500"
+   }
+  },
+  {
+   "id": "8aa240c53d3a",
+   "title": "Canada Is Becoming a Fentanyl Exporter, and a Target for Trump",
+   "url": "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2025-01-24T22:56:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: World News",
+    "published_raw": "Fri, 24 Jan 2025 17:56:00 -0500"
+   }
+  },
+  {
+   "id": "697a9a378094",
+   "title": "This lawyer believes in second chances. Now AI is providing a boost",
+   "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:42:28Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 05:42:28 -0400"
+   }
+  },
+  {
+   "id": "51ea9079ebf6",
+   "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+   "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:42:04Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 05:42:04 -0400"
+   }
+  },
+  {
+   "id": "d3dea51dee07",
+   "title": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
+   "url": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "2bf75a0fa0c9",
+   "title": "The DOJ is increasingly charging ICE protesters with criminal conspiracy",
+   "url": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "73eb5873fc38",
+   "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+   "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "433761f656e2",
+   "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
+   "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "1c17f405789f",
+   "title": "Israel says it has serious concerns with Hamas disarmament deal",
+   "url": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:03:52Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 03:03:52 -0400"
+   }
+  },
+  {
+   "id": "b67919ccd917",
+   "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
+   "url": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T06:49:13Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 02:49:13 -0400"
+   }
+  },
+  {
+   "id": "c774bcd2e2c3",
+   "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
+   "url": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:41:31Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 01:41:31 -0400"
+   }
+  },
+  {
+   "id": "84b0f8eab523",
+   "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+   "url": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:04:19Z",
+   "score": 45.0,
+   "tags": [
+    "NPR Topics: News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NPR Topics: News",
+    "published_raw": "Mon, 03 Aug 2026 01:04:19 -0400"
+   }
+  },
+  {
+   "id": "b5c6a477a409",
+   "title": "French court rejects pro-Kremlin commentator's expulsion appeal",
+   "url": "https://www.france24.com/en/france/20260803-french-court-rejects-pro-kremlin-commentator-expulsion-appeal",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:05:24Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 10:05:24 GMT"
+   }
+  },
+  {
+   "id": "ec86f74f2028",
+   "title": "Infantino's grip on FIFA weakened following investor plan controversy",
+   "url": "https://www.france24.com/en/infantino-s-grip-on-fifa-weakened-following-investor-plan-controversy",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:52:19Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 09:52:19 GMT"
+   }
+  },
+  {
+   "id": "7fa93c7fe79f",
+   "title": "'It's going to be a very close election': Brazil's Lula launches fourth term bid",
+   "url": "https://www.france24.com/en/video/20260803-it-s-going-to-be-a-very-close-election-brazil-s-lula-launches-fourth-term-bid",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:48:53Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 09:48:53 GMT"
+   }
+  },
+  {
+   "id": "f23d3e25a66d",
+   "title": "For his seventh election campaign, Brazil's president focuses on sovereignty",
+   "url": "https://www.france24.com/en/lula-launches-seventh-presidential-campaign-centred-around-brazil-s-sovereignty",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:43:15Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 09:43:15 GMT"
+   }
+  },
+  {
+   "id": "084eef53bbf4",
+   "title": "Virulent wildfires raze entire neighbourhoods in Washington state",
+   "url": "https://www.france24.com/en/virulent-wildfires-raze-entire-neighbourhoods-in-washington-state",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:36:59Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 09:36:59 GMT"
+   }
+  },
+  {
+   "id": "b0c0e1a1eb32",
+   "title": "How did nearly 700,000 euros in cash wash up on a Sicilian beach?",
+   "url": "https://www.france24.com/en/how-did-nearly-700-000-euros-in-cash-wash-up-on-a-sicilian-beach",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:31:15Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 09:31:15 GMT"
+   }
+  },
+  {
+   "id": "2f361ca1890d",
+   "title": "US, Israel agree to pause further strikes on Iran after weeks of violence",
+   "url": "https://www.france24.com/en/video/20260803-us-israel-agree-to-pause-further-strikes-on-iran-after-weeks-of-violence",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:20:19Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 09:20:19 GMT"
+   }
+  },
+  {
+   "id": "0b0c0bc01c6d",
+   "title": "In blazing Greece, anger grows among residents forced to evacuate",
+   "url": "https://www.france24.com/en/in-blazing-greece-anger-grows-among-residents-forced-to-evacuate",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:46:30Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 08:46:30 GMT"
+   }
+  },
+  {
+   "id": "73100e5c69d8",
+   "title": "As Ceuta returns to normal, far right vilifies Spain's immigration policy",
+   "url": "https://www.france24.com/en/as-ceuta-returns-to-normal-far-right-vilifies-spain-s-immigration-policy",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:39:23Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 08:39:23 GMT"
+   }
+  },
+  {
+   "id": "bb23629c6d29",
+   "title": "'Pure political theatre': Ceuta migrant crisis 'used politically' to portray Europe as under attack",
+   "url": "https://www.france24.com/en/video/20260803-pure-political-theatre-ceuta-migrant-crisis-used-politically-to-make-europe-seem-under-attack-1",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:37:42Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 08:37:42 GMT"
+   }
+  },
+  {
+   "id": "674a2e2acdc9",
+   "title": "Infantino under growing pressure after FIFA scraps World Cup investor proposal",
+   "url": "https://www.france24.com/en/tv-shows/sports/20260803-infantino-under-growing-pressure-after-fifa-scraps-world-cup-investor-proposal",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T06:41:24Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 06:41:24 GMT"
+   }
+  },
+  {
+   "id": "5c80be8dc5b8",
+   "title": "Russia's online retailer Wildberries says warehouse on fire after Ukrainian drone attack",
+   "url": "https://www.france24.com/en/europe/20260803-russia-online-retailer-wildberries-says-warehouse-on-fire-after-ukrainian-drone-attack",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T06:38:35Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 06:38:35 GMT"
+   }
+  },
+  {
+   "id": "ccd3b084b049",
+   "title": "Morocco blames Ceuta migrant rush on 'misleading information' on social media",
+   "url": "https://www.france24.com/en/europe/20260803-morocco-blames-ceuta-migrant-rush-on-misleading-information-on-social-media",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:56:26Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 05:56:26 GMT"
+   }
+  },
+  {
+   "id": "a0efbe02acc1",
+   "title": "Cuba plunges into darkness as state energy firm reports new nationwide blackout",
+   "url": "https://www.france24.com/en/americas/20260803-cuba-plunges-into-darkness-as-state-energy-firm-reports-new-nationwide-blackout",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T04:19:15Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 04:19:15 GMT"
+   }
+  },
+  {
+   "id": "e2c419bf128f",
+   "title": "Fast moving wildfires raze neighborhoods in US northwest city of Spokane",
+   "url": "https://www.france24.com/en/americas/20260803-wildfires-us-northwest-city-spokane",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T02:54:34Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 02:54:34 GMT"
+   }
+  },
+  {
+   "id": "6ba70dfc7ab8",
+   "title": "Sudan army drone strike kills 35 at Darfur court, rights group says",
+   "url": "https://www.france24.com/en/africa/20260803-sudan-darfur-drone-army-kill",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T01:30:16Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Mon, 03 Aug 2026 01:30:16 GMT"
+   }
+  },
+  {
+   "id": "dff5109b5970",
+   "title": "Trump says US backed Japanese yen in rare currency intervention",
+   "url": "https://www.france24.com/en/economy/20260802-trump-us-backed-japanese-yen-currency-intervention",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T23:19:13Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 23:19:13 GMT"
+   }
+  },
+  {
+   "id": "ac257a76bfba",
+   "title": "Middle East live: Israel conveys 'concerns' to US on Gaza plan",
+   "url": "https://www.france24.com/en/middle-east/20260802-live-trump-says-new-talks-with-iran-to-begin-monday-after-calling-off-strikes",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T22:11:19Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 22:11:19 GMT"
+   }
+  },
+  {
+   "id": "c3e0696c2857",
+   "title": "Brazil's Lula says he is 'in great shape' as he launches fourth term bid",
+   "url": "https://www.france24.com/en/americas/20260802-brazil-s-lula-80-says-in-great-shape-as-he-launches-reelection-bid",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T17:26:01Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 17:26:01 GMT"
+   }
+  },
+  {
+   "id": "ce9de2ebc139",
+   "title": "Lorena Wiebes takes second win at Women's Tour de France",
+   "url": "https://www.france24.com/en/sport/20260802-wiebes-wins-second-consecutive-tour-de-france-femmes-stage",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:34:20Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 16:34:20 GMT"
+   }
+  },
+  {
+   "id": "5943c299c813",
+   "title": "At least 14 dead as Ukraine and Russia exchange strikes",
+   "url": "https://www.france24.com/en/europe/20260802-ukrainian-drone-strikes-kill-at-least-five-russia-set-another-wildberries-warehouse-ablaze",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:06:04Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 16:06:04 GMT"
+   }
+  },
+  {
+   "id": "1e7c0b4a07c3",
+   "title": "Fire spread deeper into Athens region",
+   "url": "https://www.france24.com/en/fire-spread-deeper-into-athens-region",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T15:12:24Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 15:12:24 GMT"
+   }
+  },
+  {
+   "id": "81322337163d",
+   "title": "US, Israel to hold off on Iran strikes",
+   "url": "https://www.france24.com/en/us-israel-to-hold-off-on-iran-strikes",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T15:11:30Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 15:11:30 GMT"
+   }
+  },
+  {
+   "id": "4d5a4fb0b90a",
+   "title": "France steps up fire prevention",
+   "url": "https://www.france24.com/en/video/20260802-france-steps-up-fire-prevention",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T14:25:18Z",
+   "score": 45.0,
+   "tags": [
+    "France 24 - International breaking news, top stories and headlines",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "France 24 - International breaking news, top stories and headlines",
+    "published_raw": "Sun, 02 Aug 2026 14:25:18 GMT"
+   }
+  },
+  {
+   "id": "59c3b05a0002",
+   "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
+   "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T08:50:11Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 08:50:11 +0000"
+   }
+  },
+  {
+   "id": "1509086af8ec",
+   "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+   "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:05:12Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 09:05:12 +0000"
+   }
+  },
+  {
+   "id": "d9c899151af1",
+   "title": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
+   "url": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:00:47Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 09:00:47 +0000"
+   }
+  },
+  {
+   "id": "54b752db06ea",
+   "title": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+   "url": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T04:01:09Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 04:01:09 +0000"
+   }
+  },
+  {
+   "id": "1504e7795e73",
+   "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+   "url": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:35:49Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 10:35:49 +0000"
+   }
+  },
+  {
+   "id": "b442e2a4349c",
+   "title": "2 Killed as Firefighting Helicopters Collide in Greece",
+   "url": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:25:07Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 10:25:07 +0000"
+   }
+  },
+  {
+   "id": "440a46f13de5",
+   "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+   "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T07:03:22Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 07:03:22 +0000"
+   }
+  },
+  {
+   "id": "276e63f8376b",
+   "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+   "url": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T11:05:56Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 11:05:56 +0000"
+   }
+  },
+  {
+   "id": "9e4dd7eb268b",
+   "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
+   "url": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T09:00:17Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 09:00:17 +0000"
+   }
+  },
+  {
+   "id": "b383aac8a241",
+   "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+   "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T21:49:48Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 21:49:48 +0000"
+   }
+  },
+  {
+   "id": "a4b9483af10b",
+   "title": "Pakistan Police Station Bombing Kills at Least 14",
+   "url": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T18:25:12Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 18:25:12 +0000"
+   }
+  },
+  {
+   "id": "8c1efcf38b65",
+   "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+   "url": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T07:30:02Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 07:30:02 +0000"
+   }
+  },
+  {
+   "id": "2e768b180e49",
+   "title": "How China Keeps Tabs on Foreigners",
+   "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T04:03:06Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 04:03:06 +0000"
+   }
+  },
+  {
+   "id": "cb4fe6c1a91e",
+   "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+   "url": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T20:32:25Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 20:32:25 +0000"
+   }
+  },
+  {
+   "id": "b7c40eb4242c",
+   "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+   "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:41:46Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 10:41:46 +0000"
+   }
+  },
+  {
+   "id": "254420da5329",
+   "title": "Meet the Bee Vet, Now Making Hive Calls",
+   "url": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T09:00:16Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 09:00:16 +0000"
+   }
+  },
+  {
+   "id": "20a771e99bfc",
+   "title": "Unraveling the Chaos in Ceuta",
+   "url": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T05:13:53Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Mon, 03 Aug 2026 05:13:53 +0000"
+   }
+  },
+  {
+   "id": "c55b2f4ec936",
+   "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
+   "url": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T15:22:14Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 15:22:14 +0000"
+   }
+  },
+  {
+   "id": "fe69d10fe0f2",
+   "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+   "url": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:29:12Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 16:29:12 +0000"
+   }
+  },
+  {
+   "id": "6037163139b1",
+   "title": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
+   "url": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T11:25:31Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 11:25:31 +0000"
+   }
+  },
+  {
+   "id": "e596c11528f9",
+   "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+   "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T22:07:46Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 22:07:46 +0000"
+   }
+  },
+  {
+   "id": "34664d03979b",
+   "title": "Teen Hikers Rescued 12 Hours Into Google Maps Hike",
+   "url": "https://www.nytimes.com/2026/08/01/world/canada/canada-hiking-rescue-google-maps.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T23:38:44Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 23:38:44 +0000"
+   }
+  },
+  {
+   "id": "f11d589e44f4",
+   "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+   "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T11:55:03Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 11:55:03 +0000"
+   }
+  },
+  {
+   "id": "c40d158158c2",
+   "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+   "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T20:14:08Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 20:14:08 +0000"
+   }
+  },
+  {
+   "id": "a57ae94a99d7",
+   "title": "Iran Plotted Wider War With Help of Its Proxies",
+   "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T18:36:29Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 18:36:29 +0000"
+   }
+  },
+  {
+   "id": "cddd36f5bee6",
+   "title": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+   "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T06:53:14Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 06:53:14 +0000"
+   }
+  },
+  {
+   "id": "126aacb6bc9f",
+   "title": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
+   "url": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T16:32:22Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 16:32:22 +0000"
+   }
+  },
+  {
+   "id": "ac0507747390",
+   "title": "Migration Surge on the Spain-Morocco Border",
+   "url": "https://www.nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T16:01:07Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 16:01:07 +0000"
+   }
+  },
+  {
+   "id": "cafd31260b6f",
+   "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+   "url": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T19:59:09Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 19:59:09 +0000"
+   }
+  },
+  {
+   "id": "b36780cb207b",
+   "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+   "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:22:38Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 16:22:38 +0000"
+   }
+  },
+  {
+   "id": "520d52893998",
+   "title": "Making Rounds",
+   "url": "https://www.nytimes.com/2026/08/01/briefing/making-rounds.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T10:18:44Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 10:18:44 +0000"
+   }
+  },
+  {
+   "id": "e19c0eb1cec9",
+   "title": "A Weekend That Marks a Historical Moment for Black Canadians",
+   "url": "https://www.nytimes.com/2026/08/01/world/canada/emancipation-day-uncle-toms-cabin-ontario-canada.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T10:00:02Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 10:00:02 +0000"
+   }
+  },
+  {
+   "id": "e8dacf2605e6",
+   "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
+   "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T20:13:38Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 20:13:38 +0000"
+   }
+  },
+  {
+   "id": "6468739a641c",
+   "title": "A French Village Becomes a Ghost Town After the Wildfires",
+   "url": "https://www.nytimes.com/video/world/europe/100000011063710/france-wildfires-evacuation-pets.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T09:02:04Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 09:02:04 +0000"
+   }
+  },
+  {
+   "id": "2b6a62551270",
+   "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
+   "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T14:46:20Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 14:46:20 +0000"
+   }
+  },
+  {
+   "id": "03c010a12c8c",
+   "title": "The U.S. Deported Him to Jail in Russia. Then He Escaped.",
+   "url": "https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T09:00:09Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 09:00:09 +0000"
+   }
+  },
+  {
+   "id": "118917140c61",
+   "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+   "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T21:23:42Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 21:23:42 +0000"
+   }
+  },
+  {
+   "id": "0a80c64a99a0",
+   "title": "Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge",
+   "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T13:49:10Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 13:49:10 +0000"
+   }
+  },
+  {
+   "id": "1c66874eb5be",
+   "title": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say",
+   "url": "https://www.nytimes.com/2026/08/01/world/asia/pakistan-avalanche-climbers-purja.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T15:37:09Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sun, 02 Aug 2026 15:37:09 +0000"
+   }
+  },
+  {
+   "id": "ebe3eb8ffa8e",
+   "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
+   "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T07:28:21Z",
+   "score": 45.0,
+   "tags": [
+    "NYT > World News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "NYT > World News",
+    "published_raw": "Sat, 01 Aug 2026 07:28:21 +0000"
+   }
+  },
+  {
+   "id": "36242c086f88",
+   "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
+   "url": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T17:56:57Z",
+   "score": 45.0,
+   "tags": [
+    "World",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World",
+    "published_raw": "Sat, 01 Aug 2026 17:56:57 +0000"
+   }
+  },
+  {
+   "id": "aecada2bcbbf",
+   "title": "Zelensky says Ukraine has ‘no interceptors’ as ballistic missiles hit Kyiv",
+   "url": "https://www.washingtonpost.com/world/2026/08/01/russia-hits-kyiv-with-second-ballistic-missile-assault-week/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T14:19:54Z",
+   "score": 45.0,
+   "tags": [
+    "World",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World",
+    "published_raw": "Sat, 01 Aug 2026 14:19:54 +0000"
+   }
+  },
+  {
+   "id": "b81da89badfc",
+   "title": "U.S. general warns Pentagon he lacks sufficient forces to protect Israel",
+   "url": "https://www.washingtonpost.com/national-security/2026/08/01/general-warns-pentagon-he-lacks-sufficient-forces-protect-israel/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-01T11:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "World",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "World",
+    "published_raw": "Sat, 01 Aug 2026 11:00:00 +0000"
+   }
+  },
+  {
+   "id": "df6be665391b",
+   "title": "ANALYSIS: With four vacant ridings, why did Carney call just three byelections?",
+   "url": "https://globalnews.ca/news/12006327/analysis-four-vacant-ridings-why-only-three-byelections/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-03T10:41:27Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Mon, 03 Aug 2026 10:41:27 +0000"
+   }
+  },
+  {
+   "id": "bbe094e6e952",
+   "title": "The Curator: Four outdoor maintenance jobs to get your yard summer-ready",
+   "url": "https://globalnews.ca/the-curator/11813955/long-weekend-cleaning-edition/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T23:00:09Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 23:00:09 +0000"
+   }
+  },
+  {
+   "id": "4a856b2810ad",
+   "title": "B.C. wildfires grow, put more than 5K under evacuation orders in past 24 hours",
+   "url": "https://globalnews.ca/news/12007078/bc-wildfires-thousands-evacuation-orders/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T22:21:05Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 22:21:05 +0000"
+   }
+  },
+  {
+   "id": "4589375b18b6",
+   "title": "WATCH: Global News Hour at 6 BC: Aug. 2",
+   "url": "https://globalnews.ca/news/1149299/watch-news-hour/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T22:00:41Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 22:00:41 +0000"
+   }
+  },
+  {
+   "id": "bfd0c13804fc",
+   "title": "Sask. government saves human-trafficking response program in Saskatoon",
+   "url": "https://globalnews.ca/news/12006574/sask-provincial-government-funds-human-trafficking-response-program-saskatoon/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T21:47:10Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 21:47:10 +0000"
+   }
+  },
+  {
+   "id": "371433ad6ff9",
+   "title": "Flipping the script: USask research focuses on therapy dog’s perspective",
+   "url": "https://globalnews.ca/news/12007060/usask-research-focus-therapy-dogs/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T21:23:30Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 21:23:30 +0000"
+   }
+  },
+  {
+   "id": "7b06fb6ce907",
+   "title": "Dozens protest Meta data centre planned for county north of Edmonton",
+   "url": "https://globalnews.ca/news/12006999/alberta-meta-data-centre-protest/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T19:25:39Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 19:25:39 +0000"
+   }
+  },
+  {
+   "id": "0a96c52f5136",
+   "title": "Fire at kosher restaurant in Montreal being investigated as arson: police",
+   "url": "https://globalnews.ca/news/12006993/montreal-fire-kosher-restaurant-alleged-arson/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T19:12:16Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 19:12:16 +0000"
+   }
+  },
+  {
+   "id": "934272b0dbb6",
+   "title": "Best running shoes: Top-rated picks for every runner and budget",
+   "url": "https://globalnews.ca/the-curator/11760242/best-running-shoes/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:30:27Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 16:30:27 +0000"
+   }
+  },
+  {
+   "id": "76cedd8c84c0",
+   "title": "Some Hershey Kisses recalled in Canada due to undeclared almonds",
+   "url": "https://globalnews.ca/news/12006843/hershey-kisses-recall-undeclared-almonds/",
+   "source": "rss_world",
+   "category": "world",
+   "published": "2026-08-02T16:27:51Z",
+   "score": 45.0,
+   "tags": [
+    null,
+    "rss"
+   ],
+   "metrics": {
+    "feed": null,
+    "published_raw": "Sun, 02 Aug 2026 16:27:51 +0000"
+   }
+  }
+ ]
+}

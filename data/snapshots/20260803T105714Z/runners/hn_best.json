@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-03T10:56:37Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.62,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 71.90415759823429,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 352,
+    "comments": 188,
+    "hn_id": 49140218
+   }
+  },
+  {
+   "id": "dc4940eab365",
+   "title": "How Google helped destroy adoption of RSS feeds (2023)",
+   "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 87.24949798994365,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 620,
+    "comments": 235,
+    "hn_id": 49136821
+   }
+  },
+  {
+   "id": "0b44c3a2a032",
+   "title": "Cursor removed cost information from the usage page and CSV export",
+   "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 70.75751304430781,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 335,
+    "comments": 153,
+    "hn_id": 49135257
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 70.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 324,
+    "comments": 109,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "55b86ae91ea2",
+   "title": "NetBSD 11.0",
+   "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 69.22951503238534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 313,
+    "comments": 159,
+    "hn_id": 49136736
+   }
+  },
+  {
+   "id": "f2d0346e67cc",
+   "title": "Don't be a meat proxy",
+   "url": "https://gruhn.me/blog/2026-08-03/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 89.22616289332565,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 660,
+    "comments": 291,
+    "hn_id": 49151933
+   }
+  },
+  {
+   "id": "a35c6a727c85",
+   "title": "Seedance 2.5",
+   "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 76.96152422706632,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 432,
+    "comments": 248,
+    "hn_id": 49138302
+   }
+  },
+  {
+   "id": "9dab52081f45",
+   "title": "Diátaxis",
+   "url": "https://diataxis.fr/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 83.25590098865521,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 543,
+    "comments": 59,
+    "hn_id": 49138188
+   }
+  },
+  {
+   "id": "61fb4973fdff",
+   "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+   "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 70.96194077712559,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 338,
+    "comments": 320,
+    "hn_id": 49143414
+   }
+  },
+  {
+   "id": "7286114c594d",
+   "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+   "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 71.16546328154847,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 341,
+    "comments": 388,
+    "hn_id": 49139102
+   }
+  },
+  {
+   "id": "dc320cc431df",
+   "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+   "url": "https://qwen.ai/blog?id=qwen3.8",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 86.74544517614234,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 610,
+    "comments": 308,
+    "hn_id": 49150470
+   }
+  },
+  {
+   "id": "ca5e1a37e0c2",
+   "title": "Karpathy’s Pelican",
+   "url": "https://twitter.com/karpathy/status/2083749667410727319",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 85.05206074732158,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 577,
+    "comments": 391,
+    "hn_id": 49140998
+   }
+  },
+  {
+   "id": "3282db2a5dc9",
+   "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+   "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 68.80353866983808,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 307,
+    "comments": 161,
+    "hn_id": 49134694
+   }
+  },
+  {
+   "id": "efc3a741044b",
+   "title": "More German than many Germans",
+   "url": "https://mertbulan.com/more-german-than-many-germans/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 67.0565096031518,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 283,
+    "comments": 223,
+    "hn_id": 49151734
+   }
+  },
+  {
+   "id": "43507c137c8c",
+   "title": "Google has abandoned Google News?",
+   "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 66.98213905936666,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 282,
+    "comments": 206,
+    "hn_id": 49137681
+   }
+  },
+  {
+   "id": "1a1b795b139f",
+   "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+   "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 63.56812155135378,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 238,
+    "comments": 122,
+    "hn_id": 49147435
+   }
+  },
+  {
+   "id": "d515a1a31287",
+   "title": "The Silicon Valley Founder Meat Grinder",
+   "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 63.40572873934304,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 236,
+    "comments": 152,
+    "hn_id": 49138045
+   }
+  },
+  {
+   "id": "cff6076c0afb",
+   "title": "Show HN: Isopolis – Isometric pixel map of SF",
+   "url": "https://sf.isopolis.city/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 62.83186487605389,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 229,
+    "comments": 50,
+    "hn_id": 49149966
+   }
+  },
+  {
+   "id": "02e9c2afd8a6",
+   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+   "url": "https://github.com/wie-project/kakehashi",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 62.24916106437835,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 222,
+    "comments": 55,
+    "hn_id": 49145937
+   }
+  },
+  {
+   "id": "a0442eaaf21a",
+   "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+   "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 66.83300132670378,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 280,
+    "comments": 194,
+    "hn_id": 49133889
+   }
+  },
+  {
+   "id": "ad65303362e2",
+   "title": "The Art of 64-bit Assembly",
+   "url": "https://nostarch.com/art-64-bit-assembly-v2",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 63.16084380618437,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 233,
+    "comments": 116,
+    "hn_id": 49134599
+   }
+  },
+  {
+   "id": "aec4ab4aa770",
+   "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+   "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 61.05551275463989,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 208,
+    "comments": 138,
+    "hn_id": 49148128
+   }
+  },
+  {
+   "id": "a4111e9aec9d",
+   "title": "How the words we teach English language learners changed",
+   "url": "https://pudding.cool/2026/07/essential-words/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 62.16517186829626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 221,
+    "comments": 170,
+    "hn_id": 49145590
+   }
+  },
+  {
+   "id": "0ade77b63d30",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 60.968736424845396,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 207,
+    "comments": 102,
+    "hn_id": 49141073
+   }
+  },
+  {
+   "id": "78b8cfd325bb",
+   "title": "SwiftUI After 7 Years",
+   "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 60.35533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 200,
+    "comments": 180,
+    "hn_id": 49147263
+   }
+  },
+  {
+   "id": "80897fda512d",
+   "title": "Anime User Interfaces",
+   "url": "https://animeuserinterface.tumblr.com",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 60.178118198675726,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 198,
+    "comments": 49,
+    "hn_id": 49139304
+   }
+  },
+  {
+   "id": "b59e82ed8652",
+   "title": "US Treasury undertakes historic intervention in yen market",
+   "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 59.731109973624505,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 193,
+    "comments": 172,
+    "hn_id": 49143188
+   }
+  },
+  {
+   "id": "9eae7a27ffb5",
+   "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+   "url": "https://meshdiff.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 59.55068740271313,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 191,
+    "comments": 21,
+    "hn_id": 49143479
+   }
+  },
+  {
+   "id": "db89c15d5f27",
+   "title": "F*: A general-purpose proof-oriented programming language",
+   "url": "https://fstar-lang.org/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 58.447720400649125,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 179,
+    "comments": 88,
+    "hn_id": 49143925
+   }
+  },
+  {
+   "id": "8561dff7a28b",
+   "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+   "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 58.63406011768427,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 181,
+    "comments": 80,
+    "hn_id": 49150561
+   }
+  }
+ ]
+}

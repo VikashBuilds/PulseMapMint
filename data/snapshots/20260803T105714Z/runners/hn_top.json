@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-03T10:56:28Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.39,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "836ebddaeea2",
+   "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+   "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 5,
+    "hn_id": 49153029
+   }
+  },
+  {
+   "id": "642557b30c82",
+   "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+   "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 33.66025403784439,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 12,
+    "comments": 4,
+    "hn_id": 49152871
+   }
+  },
+  {
+   "id": "805755683d71",
+   "title": "What DMARC Protects You From, and What It Does Not",
+   "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 4,
+    "hn_id": 49153361
+   }
+  },
+  {
+   "id": "cff6076c0afb",
+   "title": "Show HN: Isopolis – Isometric pixel map of SF",
+   "url": "https://sf.isopolis.city/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 62.83186487605389,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 229,
+    "comments": 50,
+    "hn_id": 49149966
+   }
+  },
+  {
+   "id": "3598d11fea80",
+   "title": "The true power of regular expressions (2012)",
+   "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 2,
+    "hn_id": 49152973
+   }
+  },
+  {
+   "id": "47d09b08287b",
+   "title": "Bonsai: Janestreet's UI Library",
+   "url": "https://github.com/janestreet/bonsai",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 43.2002747232013,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 53,
+    "comments": 11,
+    "hn_id": 49152842
+   }
+  },
+  {
+   "id": "acf5c739829d",
+   "title": "Show HN: ssh ssh.place",
+   "url": "https://ssh.place",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 52.27178028658929,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 119,
+    "comments": 72,
+    "hn_id": 49149805
+   }
+  },
+  {
+   "id": "86aa673780cc",
+   "title": "Octane – React's programming model, compiled",
+   "url": "https://octanejs.dev",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 8,
+    "hn_id": 49152640
+   }
+  },
+  {
+   "id": "dc320cc431df",
+   "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+   "url": "https://qwen.ai/blog?id=qwen3.8",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 86.74544517614234,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 610,
+    "comments": 307,
+    "hn_id": 49150470
+   }
+  },
+  {
+   "id": "6b4bc227c19a",
+   "title": "Rust project goals: Immobile types and guaranteed destructors",
+   "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 48.048861143232216,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 85,
+    "comments": 18,
+    "hn_id": 49152023
+   }
+  },
+  {
+   "id": "f2d0346e67cc",
+   "title": "Don't be a meat proxy",
+   "url": "https://gruhn.me/blog/2026-08-03/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 89.22616289332565,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 660,
+    "comments": 291,
+    "hn_id": 49151933
+   }
+  },
+  {
+   "id": "0195025a2fc1",
+   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+   "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 43.54049621773916,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 55,
+    "comments": 31,
+    "hn_id": 49153374
+   }
+  },
+  {
+   "id": "79da1ee8b68f",
+   "title": "Show HN: A Handwritten Blogging Platform",
+   "url": "https://handwritten.blog/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 51.457513110645905,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 112,
+    "comments": 55,
+    "hn_id": 49119751
+   }
+  },
+  {
+   "id": "0fa0bc6cb204",
+   "title": "The Shape of Things to Come",
+   "url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 20,
+    "hn_id": 49152316
+   }
+  },
+  {
+   "id": "c6b56a14bea5",
+   "title": "Autoregressive Language Model on the 6502 Processor",
+   "url": "https://mattbeton.com/blog/bitnet-6502.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 51.339134382131846,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 111,
+    "comments": 10,
+    "hn_id": 49122655
+   }
+  },
+  {
+   "id": "9b44480cdb48",
+   "title": "Why we write our own C and C++ inference engines",
+   "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 44.68501968502953,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 62,
+    "comments": 28,
+    "hn_id": 49125065
+   }
+  },
+  {
+   "id": "112e0b39ee3c",
+   "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+   "url": "https://github.com/johnsonjh/cpm386",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 45.91650066335189,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 70,
+    "comments": 31,
+    "hn_id": 49149898
+   }
+  },
+  {
+   "id": "21a80671f2eb",
+   "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+   "url": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 35.897247358851686,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 19,
+    "comments": 5,
+    "hn_id": 49153308
+   }
+  },
+  {
+   "id": "c6b05b3ceb9a",
+   "title": "Train Simulator Controller",
+   "url": "https://z80.me/blog/tsc-2026-july/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "hn_id": 49115935
+   }
+  },
+  {
+   "id": "0075cb740a70",
+   "title": "The AI Productivity Gap",
+   "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 43.37117307087384,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 54,
+    "comments": 54,
+    "hn_id": 49152222
+   }
+  },
+  {
+   "id": "aaf631f1c9e3",
+   "title": "Developers are attached to tools because tools encode trust",
+   "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 61.742346141747674,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 216,
+    "comments": 119,
+    "hn_id": 49097961
+   }
+  },
+  {
+   "id": "c8d828e5c597",
+   "title": "Note-Taking and Personal Knowledge Management",
+   "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 60.968736424845396,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 207,
+    "comments": 67,
+    "hn_id": 49084324
+   }
+  },
+  {
+   "id": "02e9c2afd8a6",
+   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+   "url": "https://github.com/wie-project/kakehashi",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 62.24916106437835,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 222,
+    "comments": 55,
+    "hn_id": 49145937
+   }
+  },
+  {
+   "id": "8b0397f62897",
+   "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+   "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 50.495097567963924,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 104,
+    "comments": 60,
+    "hn_id": 49149746
+   }
+  },
+  {
+   "id": "ef50230d834e",
+   "title": "Situational Awareness and the Impending Stock Market Volatility",
+   "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 9,
+    "hn_id": 49151871
+   }
+  },
+  {
+   "id": "78b8cfd325bb",
+   "title": "SwiftUI After 7 Years",
+   "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 60.35533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 200,
+    "comments": 180,
+    "hn_id": 49147263
+   }
+  },
+  {
+   "id": "614ec45561e2",
+   "title": "Convergence is not enough",
+   "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 39.577379737113255,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 34,
+    "comments": 6,
+    "hn_id": 49076945
+   }
+  },
+  {
+   "id": "48a7aa9e5e34",
+   "title": "The myth of Snow Leopard",
+   "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 50.124689052802225,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 101,
+    "comments": 84,
+    "hn_id": 49146960
+   }
+  },
+  {
+   "id": "ba1648a97877",
+   "title": "Read the novels and forget everything else",
+   "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 50.495097567963924,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 104,
+    "comments": 87,
+    "hn_id": 49129676
+   }
+  },
+  {
+   "id": "7eaa643ff174",
+   "title": "Norway became a global salmon behemoth. Now it's facing the consequences",
+   "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T10:56:28Z",
+   "score": 57.21024681681281,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 166,
+    "comments": 127,
+    "hn_id": 49078283
+   }
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "runner": "github_all",
+ "generated": "2026-08-03T10:56:37Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 1.48,
+ "args": [
+  "github_all",
+  null
+ ],
+ "items": [
+  {
+   "id": "7047c035c92b",
+   "title": "lyogavin/airllm",
+   "url": "https://github.com/lyogavin/airllm",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 82.4486493429069,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 819,
+    "language": "Jupyter Notebook",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "c0b4fc7b154e",
+   "title": "zhaoxuya520/reverse-skill",
+   "url": "https://github.com/zhaoxuya520/reverse-skill",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 85.03798987037693,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1141,
+    "language": "PowerShell",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "6c9418ece44c",
+   "title": "firecrawl/pdf-inspector",
+   "url": "https://github.com/firecrawl/pdf-inspector",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 88.46351879451252,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1769,
+    "language": "Rust",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "cc1dff416328",
+   "title": "esengine/DeepSeek-Reasonix",
+   "url": "https://github.com/esengine/DeepSeek-Reasonix",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 75.42743640260817,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 333,
+    "language": "Go",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "edd4dcbffbf9",
+   "title": "TencentCloud/TencentDB-Agent-Memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 80.04571161852272,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 602,
+    "language": "TypeScript",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "5300c789007d",
+   "title": "microsoft/AI-For-Beginners",
+   "url": "https://github.com/microsoft/AI-For-Beginners",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 91.55920347281565,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2629,
+    "language": "Jupyter Notebook",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "4e2e64945680",
+   "title": "microsoft/generative-ai-for-beginners",
+   "url": "https://github.com/microsoft/generative-ai-for-beginners",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 79.86207530616782,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 588,
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "9e0b3b607c64",
+   "title": "donnemartin/system-design-primer",
+   "url": "https://github.com/donnemartin/system-design-primer",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 68.5742664045737,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 138,
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "8f9b826007dd",
+   "title": "antirez/ds4",
+   "url": "https://github.com/antirez/ds4",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 68.63030464220829,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 139,
+    "language": "C",
+    "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "a9913055819c",
+   "title": "shiyu-coder/Kronos",
+   "url": "https://github.com/shiyu-coder/Kronos",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 72.09221688488287,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 217,
+    "language": "Python",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "b2d42d2f099e",
+   "title": "Panniantong/Agent-Reach",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 80.75179083975364,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 659,
+    "language": "Python",
+    "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "8b06d3684728",
+   "title": "Alishahryar1/free-claude-code",
+   "url": "https://github.com/Alishahryar1/free-claude-code",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 74.37689132607153,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 291,
+    "language": "Python",
+    "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "956ce6666df4",
+   "title": "iv-org/invidious",
+   "url": "https://github.com/iv-org/invidious",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 74.74298567666844,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 305,
+    "language": "Crystal",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "882eb68110d0",
+   "title": "livekit/agents",
+   "url": "https://github.com/livekit/agents",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 68.05098034152306,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 129,
+    "language": "Python",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "39f2e61355df",
+   "title": "usekaneo/kaneo",
+   "url": "https://github.com/usekaneo/kaneo",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 78.53441499719997,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 496,
+    "language": "TypeScript",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "1ff4bb97548c",
+   "title": "jamiepine/voicebox",
+   "url": "https://github.com/jamiepine/voicebox",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-03T10:56:37Z",
+   "score": 72.37395190465321,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 225,
+    "language": "TypeScript",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "topic": "all"
+   }
+  }
+ ]
+}
