@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-03T23:49:07Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.58,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 45.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 64,
+    "comments": 83,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "f43a180d392b",
+   "title": "Devtools must be open source",
+   "url": "https://blog.exe.dev/devtools-must-be-open-source",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 79.4288526426931,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 474,
+    "comments": 171,
+    "hn_id": 49156111
+   }
+  },
+  {
+   "id": "131bf852bef6",
+   "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+   "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 52.15695122800054,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 118,
+    "comments": 32,
+    "hn_id": 49158474
+   }
+  },
+  {
+   "id": "13c2dd892ec1",
+   "title": "LLMs reward expertise",
+   "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 68.37337893224367,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 301,
+    "comments": 126,
+    "hn_id": 49161518
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 74.11720676097124,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 386,
+    "comments": 673,
+    "hn_id": 49157930
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 38.22875655532295,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 28,
+    "comments": 143,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "0195025a2fc1",
+   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+   "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 72.63139720814412,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 363,
+    "comments": 299,
+    "hn_id": 49153374
+   }
+  },
+  {
+   "id": "f57a8bc70d86",
+   "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+   "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 39.577379737113255,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 34,
+    "comments": 4,
+    "hn_id": 49162086
+   }
+  },
+  {
+   "id": "59aa9bac4f7d",
+   "title": "Battle of the Beams",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_the_Beams",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 1,
+    "hn_id": 49131250
+   }
+  },
+  {
+   "id": "d18219882d77",
+   "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+   "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 63.81043674065006,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 241,
+    "comments": 76,
+    "hn_id": 49155629
+   }
+  },
+  {
+   "id": "e2a8bca6d7c9",
+   "title": "200 Milliseconds",
+   "url": "https://200ms.thenodebook.com",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 56.81980515339464,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 162,
+    "comments": 48,
+    "hn_id": 49132992
+   }
+  },
+  {
+   "id": "2fad0cce63a6",
+   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+   "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 52.83882181415011,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 124,
+    "comments": 33,
+    "hn_id": 49158581
+   }
+  },
+  {
+   "id": "a1dde7935d52",
+   "title": "Replacing the Kobo Libra H2O Battery",
+   "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 40.41103500742244,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 38,
+    "comments": 10,
+    "hn_id": 49106935
+   }
+  },
+  {
+   "id": "8b3d39a606af",
+   "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+   "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 64.92179855667828,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 255,
+    "comments": 54,
+    "hn_id": 49156011
+   }
+  },
+  {
+   "id": "33480a551952",
+   "title": "ZX Spectrum System Tour: Text Mode",
+   "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 33.66025403784439,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 12,
+    "comments": 0,
+    "hn_id": 49161801
+   }
+  },
+  {
+   "id": "6b2fda454843",
+   "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+   "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 51.100766272276374,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 109,
+    "comments": 109,
+    "hn_id": 49160437
+   }
+  },
+  {
+   "id": "388d417ffcba",
+   "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+   "url": "https://hoplite.sh",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 42.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 49,
+    "comments": 50,
+    "hn_id": 49157997
+   }
+  },
+  {
+   "id": "c4cf0dee26a2",
+   "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+   "url": "https://github.com/SwagSoftware/KisakCOD",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 38.919410907075054,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 31,
+    "comments": 3,
+    "hn_id": 49159970
+   }
+  },
+  {
+   "id": "e2ec91a75594",
+   "title": "How Hollywood stopped making movies in Hollywood",
+   "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 56.324910215354166,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 157,
+    "comments": 180,
+    "hn_id": 49082937
+   }
+  },
+  {
+   "id": "cf8f1ab6bb89",
+   "title": "AirLLM 70B inference with single 4GB GPU",
+   "url": "https://github.com/lyogavin/airllm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 58.63406011768427,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 181,
+    "comments": 70,
+    "hn_id": 49154228
+   }
+  },
+  {
+   "id": "98f1d8745033",
+   "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
+   "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 59.18698582794336,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 187,
+    "comments": 188,
+    "hn_id": 49125168
+   }
+  },
+  {
+   "id": "9e3645d595e8",
+   "title": "Kelly Criterion Simulator",
+   "url": "https://kellysimulator.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 42.32050807568878,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 48,
+    "comments": 22,
+    "hn_id": 49123105
+   }
+  },
+  {
+   "id": "47d09b08287b",
+   "title": "Bonsai: Janestreet's UI Library",
+   "url": "https://github.com/janestreet/bonsai",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 67.72001872658765,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 292,
+    "comments": 111,
+    "hn_id": 49152842
+   }
+  },
+  {
+   "id": "45dc43bb8056",
+   "title": "Massively Parallel Postgres Backups",
+   "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 47.9128784747792,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 84,
+    "comments": 10,
+    "hn_id": 49124213
+   }
+  },
+  {
+   "id": "21b35b065c8d",
+   "title": "Twenty Years of Pandoc",
+   "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 47.079402165819616,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 78,
+    "comments": 9,
+    "hn_id": 49156750
+   }
+  },
+  {
+   "id": "3ee158fba000",
+   "title": "What's the largest software project AI can complete on its own?",
+   "url": "https://epoch.ai/MirrorCode",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 44.364916731037084,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 60,
+    "comments": 64,
+    "hn_id": 49157786
+   }
+  },
+  {
+   "id": "3f264c6e4703",
+   "title": "ZX Spectrum System Tour: Sound",
+   "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 38.22875655532295,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 28,
+    "comments": 5,
+    "hn_id": 49159676
+   }
+  },
+  {
+   "id": "76e9a8feb8ff",
+   "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+   "url": "https://blog.cloudflare.com/billable-usage-api/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 40.612494995995995,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 39,
+    "comments": 6,
+    "hn_id": 49158714
+   }
+  },
+  {
+   "id": "991037f35b45",
+   "title": "Use Task Runners for Common Coding Tasks",
+   "url": "https://hamvocke.com/blog/task-runners/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 45.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 64,
+    "comments": 24,
+    "hn_id": 49158287
+   }
+  },
+  {
+   "id": "8b4428ac2a86",
+   "title": "SearXNG in Rust",
+   "url": "https://github.com/MikeLuu99/searxng-rust",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T23:49:07Z",
+   "score": 43.7082869338697,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 56,
+    "comments": 21,
+    "hn_id": 49158141
+   }
+  }
+ ]
+}

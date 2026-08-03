@@ -1,0 +1,412 @@
+{
+ "runner": "usgs_quakes",
+ "generated": "2026-08-03T23:49:05Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.1,
+ "args": [
+  "usgs_quakes",
+  "4.0"
+ ],
+ "items": [
+  {
+   "id": "3905772ea68f",
+   "title": "M5.2 earthquake — 66 km WNW of San Alejandro, Peru",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 81.6,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.2,
+    "depth_km": 125.3,
+    "lat": -8.572,
+    "lon": -75.76,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "3d9af26275af",
+   "title": "M5 earthquake — 36 km NNE of Suez, Egypt",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 80.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5,
+    "depth_km": 10,
+    "lat": 30.292,
+    "lon": 32.627,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "18453519cc2f",
+   "title": "M4.9 earthquake — 85 km S of Severo-Kuril’sk, Russia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 79.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 57.7,
+    "lat": 49.919,
+    "lon": 155.945,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "faec4d68d920",
+   "title": "M4.9 earthquake — Fiji region",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thra",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 79.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": -17.123,
+    "lon": -176.677,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "f8b4717b492f",
+   "title": "M4.9 earthquake — 14 km ESE of Yibin, China",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqf",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 79.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": 28.688,
+    "lon": 104.763,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "c76cf0028d8a",
+   "title": "M4.8 earthquake — 198 km SE of Severo-Kuril’sk, Russia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvj",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 78.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.8,
+    "depth_km": 10,
+    "lat": 49.307,
+    "lon": 157.899,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "a09907ff9a18",
+   "title": "M4.8 earthquake — 106 km NW of Gizo, Solomon Islands",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 78.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.8,
+    "depth_km": 35,
+    "lat": -7.496,
+    "lon": 156.087,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "5267c1121502",
+   "title": "M4.8 earthquake — 152 km S of Hydaburg, Alaska",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attj6shm",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 78.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.8,
+    "depth_km": 15,
+    "lat": 53.837,
+    "lon": -132.974,
+    "tsunami": false,
+    "status": "automatic"
+   }
+  },
+  {
+   "id": "cf750ae7430f",
+   "title": "M4.7 earthquake — 64 km SSW of Midelt, Morocco",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thv7",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 77.6,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.7,
+    "depth_km": 10,
+    "lat": 32.201,
+    "lon": -5.125,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "50a1a1857d0a",
+   "title": "M4.7 earthquake — 61 km S of Shikotan, Russia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 77.6,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.7,
+    "depth_km": 35,
+    "lat": 43.255,
+    "lon": 146.848,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "5bdd8ca21e99",
+   "title": "M4.6 earthquake — 88 km WSW of San Antonio de los Cobres, Argentina",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrb",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 76.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 182.5,
+    "lat": -24.495,
+    "lon": -67.135,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "5225a3c968b4",
+   "title": "M4.5 earthquake — 123 km E of Miyako, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths9",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 76.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.5,
+    "depth_km": 35,
+    "lat": 39.7,
+    "lon": 143.375,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "bf4f203c91bb",
+   "title": "M4.5 earthquake — 149 km WSW of Puerto Madero, Mexico",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thr2",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 76.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.5,
+    "depth_km": 10,
+    "lat": 14.014,
+    "lon": -93.601,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "b3ca3171a1af",
+   "title": "M4.5 earthquake — 5 km NNW of Sánchez, Dominican Republic",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqe",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 76.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.5,
+    "depth_km": 10,
+    "lat": 19.274,
+    "lon": -69.627,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "f0b30687f2f2",
+   "title": "M4.4 earthquake — 34 km ESE of Vallenar, Chile",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thva",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 75.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 95.7,
+    "lat": -28.746,
+    "lon": -70.469,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "5bb22496a5f5",
+   "title": "M4.3 earthquake — 26 km SW of Urakawa, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqj",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 74.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.3,
+    "depth_km": 64.6,
+    "lat": 42.005,
+    "lon": 142.535,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "ac82f638e430",
+   "title": "M4.3 earthquake — Fiji region",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thps",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 74.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.3,
+    "depth_km": 574.4,
+    "lat": -19.23,
+    "lon": -177.45,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "4045fddf6fc9",
+   "title": "M4 earthquake — 232 km ESE of Attu Station, Alaska",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgkpfy",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 72.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4,
+    "depth_km": 0.2,
+    "lat": 51.999,
+    "lon": 176.314,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "99589347a3fc",
+   "title": "M4 earthquake — 56 km E of La Tirana, Chile",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqm",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-03T23:49:05Z",
+   "score": 72.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4,
+    "depth_km": 90.5,
+    "lat": -20.289,
+    "lon": -69.119,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  }
+ ]
+}

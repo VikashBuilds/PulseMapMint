@@ -1,0 +1,161 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-03T23:54:01Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.16,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "4ce96877d948",
+   "title": "Uniswap (UNI) moved -7.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/uniswap",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T23:54:01Z",
+   "score": 74.0,
+   "tags": [
+    "uni",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "uni",
+    "pct24h": -7.6,
+    "pct1h": -0.7,
+    "pct7d": 3.9,
+    "price_usd": 3.9,
+    "market_cap": 2436898504
+   }
+  },
+  {
+   "id": "5ee9c214a871",
+   "title": "Algorand (ALGO) moved +7.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/algorand",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T23:54:01Z",
+   "score": 73.25,
+   "tags": [
+    "algo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "algo",
+    "pct24h": 7.3,
+    "pct1h": -0.3,
+    "pct7d": 11.2,
+    "price_usd": 0.089948,
+    "market_cap": 806158059
+   }
+  },
+  {
+   "id": "0ca580fa4788",
+   "title": "Cosmos Hub (ATOM) moved +7.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cosmos",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T23:54:01Z",
+   "score": 72.75,
+   "tags": [
+    "atom",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "atom",
+    "pct24h": 7.1,
+    "pct1h": -0.9,
+    "pct7d": 2.2,
+    "price_usd": 1.36,
+    "market_cap": 712510171
+   }
+  },
+  {
+   "id": "5a571e6faa80",
+   "title": "Audiera (BEAT) moved -6.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T23:54:01Z",
+   "score": 72.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -6.8,
+    "pct1h": -0.9,
+    "pct7d": 10.9,
+    "price_usd": 2.99,
+    "market_cap": 926813615
+   }
+  },
+  {
+   "id": "8c044f1075db",
+   "title": "Ondo (ONDO) moved -4.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ondo-finance",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T23:54:01Z",
+   "score": 66.5,
+   "tags": [
+    "ondo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ondo",
+    "pct24h": -4.6,
+    "pct1h": -0.6,
+    "pct7d": -6.3,
+    "price_usd": 0.370777,
+    "market_cap": 1805968354
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 63433,
+   "pct24h": -0.2
+  },
+  "eth": {
+   "price": 1856.6,
+   "pct24h": -1.9
+  },
+  "xrp": {
+   "price": 1.074,
+   "pct24h": -1.1
+  },
+  "sol": {
+   "price": 73.44,
+   "pct24h": -0.8
+  },
+  "doge": {
+   "price": 0.070103,
+   "pct24h": -0.9
+  },
+  "ada": {
+   "price": 0.193433,
+   "pct24h": 3.0
+  },
+  "link": {
+   "price": 8.17,
+   "pct24h": -2.4
+  },
+  "ltc": {
+   "price": 44.23,
+   "pct24h": -1.7
+  },
+  "avax": {
+   "price": 6.56,
+   "pct24h": -1.2
+  },
+  "dot": {
+   "price": 0.822718,
+   "pct24h": 3.2
+  }
+ }
+}

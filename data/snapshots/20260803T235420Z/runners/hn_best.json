@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-03T23:48:59Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.38,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "0195025a2fc1",
+   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+   "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 72.63139720814412,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 363,
+    "comments": 299,
+    "hn_id": 49153374
+   }
+  },
+  {
+   "id": "f43a180d392b",
+   "title": "Devtools must be open source",
+   "url": "https://blog.exe.dev/devtools-must-be-open-source",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 79.4288526426931,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 474,
+    "comments": 171,
+    "hn_id": 49156111
+   }
+  },
+  {
+   "id": "0fd7b0fc1d74",
+   "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+   "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 70.5521678957215,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 332,
+    "comments": 260,
+    "hn_id": 49155359
+   }
+  },
+  {
+   "id": "61fb4973fdff",
+   "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+   "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 71.63689526544408,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 348,
+    "comments": 340,
+    "hn_id": 49143414
+   }
+  },
+  {
+   "id": "efc3a741044b",
+   "title": "More German than many Germans",
+   "url": "https://mertbulan.com/more-german-than-many-germans/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 72.9583152331272,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 368,
+    "comments": 304,
+    "hn_id": 49151734
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 74.11720676097124,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 386,
+    "comments": 673,
+    "hn_id": 49157930
+   }
+  },
+  {
+   "id": "cff6076c0afb",
+   "title": "Show HN: Isopolis – Isometric pixel map of SF",
+   "url": "https://sf.isopolis.city/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 70.62071897723665,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 333,
+    "comments": 75,
+    "hn_id": 49149966
+   }
+  },
+  {
+   "id": "c9797c8f0ea0",
+   "title": "Go 1.27 Interactive Tour",
+   "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 72.43416490252568,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 360,
+    "comments": 195,
+    "hn_id": 49140218
+   }
+  },
+  {
+   "id": "dc320cc431df",
+   "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+   "url": "https://qwen.ai/blog?id=qwen3.8",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1045,
+    "comments": 561,
+    "hn_id": 49150470
+   }
+  },
+  {
+   "id": "ca5e1a37e0c2",
+   "title": "Karpathy’s Pelican",
+   "url": "https://twitter.com/karpathy/status/2083749667410727319",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 86.5934249737746,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 607,
+    "comments": 420,
+    "hn_id": 49140998
+   }
+  },
+  {
+   "id": "f2d0346e67cc",
+   "title": "Don't be a meat proxy",
+   "url": "https://gruhn.me/blog/2026-08-03/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1685,
+    "comments": 687,
+    "hn_id": 49151933
+   }
+  },
+  {
+   "id": "82b937aad345",
+   "title": "SQLite Critical CVEs or LLM Slop?",
+   "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 90.90713163232034,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 695,
+    "comments": 346,
+    "hn_id": 49154332
+   }
+  },
+  {
+   "id": "02f66d84bda3",
+   "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+   "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 70.48351349665063,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 331,
+    "comments": 111,
+    "hn_id": 49140396
+   }
+  },
+  {
+   "id": "13c2dd892ec1",
+   "title": "LLMs reward expertise",
+   "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 68.37337893224367,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 301,
+    "comments": 126,
+    "hn_id": 49161518
+   }
+  },
+  {
+   "id": "8b3d39a606af",
+   "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+   "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 64.92179855667828,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 255,
+    "comments": 54,
+    "hn_id": 49156011
+   }
+  },
+  {
+   "id": "a4111e9aec9d",
+   "title": "How the words we teach English language learners changed",
+   "url": "https://pudding.cool/2026/07/essential-words/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 63.97114317029974,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 243,
+    "comments": 185,
+    "hn_id": 49145590
+   }
+  },
+  {
+   "id": "78b8cfd325bb",
+   "title": "SwiftUI After 7 Years",
+   "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 65.31128874149275,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 260,
+    "comments": 271,
+    "hn_id": 49147263
+   }
+  },
+  {
+   "id": "47d09b08287b",
+   "title": "Bonsai: Janestreet's UI Library",
+   "url": "https://github.com/janestreet/bonsai",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 67.72001872658765,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 292,
+    "comments": 111,
+    "hn_id": 49152842
+   }
+  },
+  {
+   "id": "0ba369e612b8",
+   "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+   "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 66.68333000133266,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 278,
+    "comments": 224,
+    "hn_id": 49157128
+   }
+  },
+  {
+   "id": "1a1b795b139f",
+   "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+   "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 65.62019202317981,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 264,
+    "comments": 133,
+    "hn_id": 49147435
+   }
+  },
+  {
+   "id": "02e9c2afd8a6",
+   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+   "url": "https://github.com/wie-project/kakehashi",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 64.2109678533953,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 246,
+    "comments": 61,
+    "hn_id": 49145937
+   }
+  },
+  {
+   "id": "6b4bc227c19a",
+   "title": "Rust project goals: Immobile types and guaranteed destructors",
+   "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 63.07886552931954,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 232,
+    "comments": 89,
+    "hn_id": 49152023
+   }
+  },
+  {
+   "id": "d18219882d77",
+   "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+   "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 63.81043674065006,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 241,
+    "comments": 76,
+    "hn_id": 49155629
+   }
+  },
+  {
+   "id": "421e8dc2281f",
+   "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+   "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 63.242646351945886,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 234,
+    "comments": 103,
+    "hn_id": 49154237
+   }
+  },
+  {
+   "id": "b59e82ed8652",
+   "title": "US Treasury undertakes historic intervention in yen market",
+   "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 60.178118198675726,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 198,
+    "comments": 191,
+    "hn_id": 49143188
+   }
+  },
+  {
+   "id": "aec4ab4aa770",
+   "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+   "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 62.24916106437835,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 222,
+    "comments": 181,
+    "hn_id": 49148128
+   }
+  },
+  {
+   "id": "0ade77b63d30",
+   "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+   "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 61.742346141747674,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 216,
+    "comments": 106,
+    "hn_id": 49141073
+   }
+  },
+  {
+   "id": "8561dff7a28b",
+   "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+   "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 60.79455265819088,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 205,
+    "comments": 104,
+    "hn_id": 49150561
+   }
+  },
+  {
+   "id": "9eae7a27ffb5",
+   "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+   "url": "https://meshdiff.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 60.26683994916471,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 199,
+    "comments": 21,
+    "hn_id": 49143479
+   }
+  },
+  {
+   "id": "eab6e8e2d9f7",
+   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-03T23:48:59Z",
+   "score": 58.91164991562634,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 184,
+    "comments": 28,
+    "hn_id": 49142569
+   }
+  }
+ ]
+}

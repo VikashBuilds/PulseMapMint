@@ -1,0 +1,694 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-03T23:49:16Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.68,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 38.22875655532295,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 28,
+    "comments": 143,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "54b9a1ebf742",
+   "title": "Local, Open source AI meeting recorder that sees and hears everything",
+   "url": "https://news.ycombinator.com/item?id=49150911",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 3,
+    "hn_id": 49150911
+   }
+  },
+  {
+   "id": "541f2ae750e9",
+   "title": "Ask HN: Early Feedback on Dez?",
+   "url": "https://news.ycombinator.com/item?id=49158021",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 3,
+    "hn_id": 49158021
+   }
+  },
+  {
+   "id": "a40363079044",
+   "title": "Ask HN: Have LLMs Plateaued?",
+   "url": "https://news.ycombinator.com/item?id=49150433",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 22,
+    "hn_id": 49150433
+   }
+  },
+  {
+   "id": "a2986aee3467",
+   "title": "Ask HN: Anyone still do work on Intel Macs?",
+   "url": "https://news.ycombinator.com/item?id=49139703",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 36.4564392373896,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 21,
+    "comments": 28,
+    "hn_id": 49139703
+   }
+  },
+  {
+   "id": "261ef68257e1",
+   "title": "Tips for Landing a YC Internship?",
+   "url": "https://news.ycombinator.com/item?id=49149028",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 9,
+    "hn_id": 49149028
+   }
+  },
+  {
+   "id": "dd95a52793c1",
+   "title": "Ask HN: Who is quitting? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49161877",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 0,
+    "hn_id": 49161877
+   }
+  },
+  {
+   "id": "350d909c51ff",
+   "title": "Ask HN: Who is firing? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49161893",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 3,
+    "hn_id": 49161893
+   }
+  },
+  {
+   "id": "0cd25434d06c",
+   "title": "New open sourced eval tool for building agents",
+   "url": "https://news.ycombinator.com/item?id=49152073",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 2,
+    "hn_id": 49152073
+   }
+  },
+  {
+   "id": "1304a06d9510",
+   "title": "Ask HN: ReAct vs. Planning Pattern",
+   "url": "https://news.ycombinator.com/item?id=49158267",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 1,
+    "hn_id": 49158267
+   }
+  },
+  {
+   "id": "9ec318842fe9",
+   "title": "Tell HN: Pretending not to use AI has made me a better developer",
+   "url": "https://news.ycombinator.com/item?id=49157839",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 4,
+    "hn_id": 49157839
+   }
+  },
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 45.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 64,
+    "comments": 83,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "4eba996d2fec",
+   "title": "Ask HN: What's Next for LLMs?",
+   "url": "https://news.ycombinator.com/item?id=49149599",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 5,
+    "hn_id": 49149599
+   }
+  },
+  {
+   "id": "a9d7e377882e",
+   "title": "Tell HN: Amazonbot aggressively scraping my website and ignoring robots.txt",
+   "url": "https://news.ycombinator.com/item?id=49137359",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 21,
+    "hn_id": 49137359
+   }
+  },
+  {
+   "id": "bed468048985",
+   "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+   "url": "https://news.ycombinator.com/item?id=49139845",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 15,
+    "hn_id": 49139845
+   }
+  },
+  {
+   "id": "96f9c59ff3b1",
+   "title": "Strategic Oil Reserves Down to a Record Low Two-Week Supply",
+   "url": "https://news.ycombinator.com/item?id=49117875",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 23,
+    "hn_id": 49117875
+   }
+  },
+  {
+   "id": "2ad0427696e2",
+   "title": "Best way to avoid bloat and AI – selfcontaining OS",
+   "url": "https://news.ycombinator.com/item?id=49143571",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 3,
+    "hn_id": 49143571
+   }
+  },
+  {
+   "id": "711b8e4b0eef",
+   "title": "Tell HN: HackerOne Announces Mandatory identity verification",
+   "url": "https://news.ycombinator.com/item?id=49126558",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 35.30776406404415,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 17,
+    "comments": 1,
+    "hn_id": 49126558
+   }
+  },
+  {
+   "id": "f779d8dc6e88",
+   "title": "What is the downside of coaching that I may not be seeing yet?",
+   "url": "https://news.ycombinator.com/item?id=49143243",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 1,
+    "hn_id": 49143243
+   }
+  },
+  {
+   "id": "d499686f4a66",
+   "title": "Ask HN: How are you using AI to learn?",
+   "url": "https://news.ycombinator.com/item?id=49138466",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:15Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 23,
+    "hn_id": 49138466
+   }
+  },
+  {
+   "id": "434f74582b3f",
+   "title": "Show HN: Freqcast, an Android radio player that finds streams from a website URL",
+   "url": "https://github.com/z0rats/freqcast",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49161754
+   }
+  },
+  {
+   "id": "88b4ef8a3560",
+   "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+   "url": "https://armature.tech/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 40.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 36,
+    "comments": 2,
+    "hn_id": 49157807
+   }
+  },
+  {
+   "id": "642557b30c82",
+   "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+   "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 45.6155281280883,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 68,
+    "comments": 34,
+    "hn_id": 49152871
+   }
+  },
+  {
+   "id": "903d0f23fc27",
+   "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+   "url": "https://github.com/garagehq/nightcrawler/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 50.124689052802225,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 101,
+    "comments": 30,
+    "hn_id": 49154127
+   }
+  },
+  {
+   "id": "eab6e8e2d9f7",
+   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 58.91164991562634,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 184,
+    "comments": 28,
+    "hn_id": 49142569
+   }
+  },
+  {
+   "id": "acf5c739829d",
+   "title": "Show HN: ssh ssh.place",
+   "url": "https://ssh.place",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 57.69174207655505,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 171,
+    "comments": 102,
+    "hn_id": 49149805
+   }
+  },
+  {
+   "id": "0df612c14940",
+   "title": "Show HN: Svelte-rs – a Svelte compiler in Rust",
+   "url": "https://github.com/MrWaip/svelte-rs",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49161336
+   }
+  },
+  {
+   "id": "79da1ee8b68f",
+   "title": "Show HN: A Handwritten Blogging Platform",
+   "url": "https://handwritten.blog/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 57.78719262151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 172,
+    "comments": 81,
+    "hn_id": 49119751
+   }
+  },
+  {
+   "id": "cc7b5006783d",
+   "title": "Show HN: Spellfolio – my stock market game with news events and inside info",
+   "url": "https://www.spellfolio.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49162364
+   }
+  },
+  {
+   "id": "cff6076c0afb",
+   "title": "Show HN: Isopolis – Isometric pixel map of SF",
+   "url": "https://sf.isopolis.city/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 70.62071897723665,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 333,
+    "comments": 75,
+    "hn_id": 49149966
+   }
+  },
+  {
+   "id": "a5e915e2d584",
+   "title": "Show HN: Golars (Go Equivalent of Polars)",
+   "url": "https://guywaldman.com/posts/polars-dataframe-contributions",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49160674
+   }
+  },
+  {
+   "id": "2c8e1b6ab996",
+   "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+   "url": "https://github.com/graham33/nixos-dgx-spark",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 53.06243040080456,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 126,
+    "comments": 40,
+    "hn_id": 49146267
+   }
+  },
+  {
+   "id": "02e9c2afd8a6",
+   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+   "url": "https://github.com/wie-project/kakehashi",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 64.2109678533953,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 246,
+    "comments": 61,
+    "hn_id": 49145937
+   }
+  },
+  {
+   "id": "569202047374",
+   "title": "Show HN: 11-Node Agentic RAG with MCP and PII Shield Under 512MB RAM",
+   "url": "https://agentic-rag-financial-parser.onrender.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49158734
+   }
+  },
+  {
+   "id": "54803f434b54",
+   "title": "Show HN: Make your Framework 12 sound like a creaky door",
+   "url": "https://github.com/ArcaEge/creakwork12",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 48.9791576165636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 92,
+    "comments": 18,
+    "hn_id": 49148048
+   }
+  },
+  {
+   "id": "47d1201b1192",
+   "title": "Show HN: Vinyl – Animated vinyl record wallpaper for Mac, synced to Spotify",
+   "url": "https://www.vinylformac.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "hn_id": 49158883
+   }
+  },
+  {
+   "id": "4a8f30d20cf7",
+   "title": "Show HN: Hacker News with AI stories filtered out",
+   "url": "https://hcker.news/?view=frontpage&ai=exclude",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 40.612494995995995,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 39,
+    "comments": 9,
+    "hn_id": 49159018
+   }
+  },
+  {
+   "id": "2561350057ce",
+   "title": "Show HN: Elevators",
+   "url": "https://john.fun/elevators",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1651,
+    "comments": 408,
+    "hn_id": 49124218
+   }
+  },
+  {
+   "id": "583ae846d0b9",
+   "title": "Show HN: Mstat a temperature and stat tracker for macOS in Zig and SwiftUI",
+   "url": "https://git.cafe/versecafe/mstat",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 0,
+    "hn_id": 49158573
+   }
+  },
+  {
+   "id": "2f4b4ade8d60",
+   "title": "Show HN: Fuse – statically typed functional programming language",
+   "url": "https://fuselang.org",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T23:49:16Z",
+   "score": 51.80951323690903,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 115,
+    "comments": 47,
+    "hn_id": 49143412
+   }
+  }
+ ]
+}

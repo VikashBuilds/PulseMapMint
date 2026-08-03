@@ -734,5 +734,116 @@
     "c": "markets"
    }
   ]
+ },
+ {
+  "ts": "20260803T235420Z",
+  "generated": "2026-08-03T23:54:20.522333+00:00",
+  "events": 1121,
+  "breakers": 120,
+  "avg_heat": 87.8,
+  "prices": {
+   "btc": {
+    "price": 63433,
+    "pct24h": -0.2
+   },
+   "eth": {
+    "price": 1856.6,
+    "pct24h": -1.9
+   },
+   "xrp": {
+    "price": 1.074,
+    "pct24h": -1.1
+   },
+   "sol": {
+    "price": 73.44,
+    "pct24h": -0.8
+   },
+   "doge": {
+    "price": 0.070103,
+    "pct24h": -0.9
+   },
+   "ada": {
+    "price": 0.193433,
+    "pct24h": 3.0
+   },
+   "link": {
+    "price": 8.17,
+    "pct24h": -2.4
+   },
+   "ltc": {
+    "price": 44.23,
+    "pct24h": -1.7
+   },
+   "avax": {
+    "price": 6.56,
+    "pct24h": -1.2
+   },
+   "dot": {
+    "price": 0.822718,
+    "pct24h": 3.2
+   }
+  },
+  "top": [
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "microsoft/AI-For-Beginners",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Karpathy’s Pelican",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Don't be a meat proxy",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "SQLite Critical CVEs or LLM Slop?",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Oracle surged +9.22% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "Boeing surged +8.03% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   }
+  ]
  }
 ]
