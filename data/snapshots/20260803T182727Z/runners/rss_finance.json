@@ -1,0 +1,3668 @@
+{
+ "runner": "rss_finance",
+ "generated": "2026-08-03T18:26:26Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 1.36,
+ "args": [
+  "rss_finance",
+  "rss_finance"
+ ],
+ "items": [
+  {
+   "id": "11498433f9e8",
+   "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+   "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T19:26:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 14:26:00 -0500"
+   }
+  },
+  {
+   "id": "3996abcccd06",
+   "title": "Comex Gold, Silver Settle Lower",
+   "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T19:01:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 14:01:00 -0500"
+   }
+  },
+  {
+   "id": "3859e573c666",
+   "title": "DeepSeek Won't Sink U.S. AI Titans",
+   "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T18:12:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 13:12:00 -0500"
+   }
+  },
+  {
+   "id": "620dd20f7775",
+   "title": "Financial Services Roundup: Market Talk",
+   "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T17:27:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 12:27:00 -0500"
+   }
+  },
+  {
+   "id": "0581a916296c",
+   "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+   "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T17:20:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 12:20:00 -0500"
+   }
+  },
+  {
+   "id": "f74f7a622660",
+   "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+   "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T14:55:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 09:55:00 -0500"
+   }
+  },
+  {
+   "id": "8c7af5777b64",
+   "title": "Natural Gas Falls on Shifting Weather Forecasts",
+   "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T14:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 09:05:00 -0500"
+   }
+  },
+  {
+   "id": "0d75be12fd98",
+   "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+   "url": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T13:28:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 08:28:00 -0500"
+   }
+  },
+  {
+   "id": "413bcd2ccd3d",
+   "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+   "url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T11:57:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 06:57:00 -0500"
+   }
+  },
+  {
+   "id": "83ee88abe64d",
+   "title": "What's New This Tax Season That Can Save You Money",
+   "url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 05:30:00 -0500"
+   }
+  },
+  {
+   "id": "88958405547f",
+   "title": "Chinese Investors With Few Options Turn to Dividends",
+   "url": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 05:30:00 -0500"
+   }
+  },
+  {
+   "id": "c0078ddf7661",
+   "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+   "url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T10:02:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 05:02:00 -0500"
+   }
+  },
+  {
+   "id": "aa0827f5e66e",
+   "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+   "url": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T09:46:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 04:46:00 -0500"
+   }
+  },
+  {
+   "id": "c6523d804e91",
+   "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+   "url": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T06:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Mon, 27 Jan 2025 01:05:00 -0500"
+   }
+  },
+  {
+   "id": "6a9ddbd305fc",
+   "title": "Heard on the Street's Stock-Picking Series",
+   "url": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-27T03:33:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Sun, 26 Jan 2025 22:33:00 -0500"
+   }
+  },
+  {
+   "id": "6ecdb1a028cc",
+   "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
+   "url": "https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-26T11:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Sun, 26 Jan 2025 06:00:00 -0500"
+   }
+  },
+  {
+   "id": "c65526a86433",
+   "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
+   "url": "https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-26T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Sun, 26 Jan 2025 05:30:00 -0500"
+   }
+  },
+  {
+   "id": "be5f9e0b9f21",
+   "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
+   "url": "https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-26T05:01:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Sun, 26 Jan 2025 00:01:00 -0500"
+   }
+  },
+  {
+   "id": "5ca1b47abe43",
+   "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
+   "url": "https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-26T02:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Sat, 25 Jan 2025 21:00:00 -0500"
+   }
+  },
+  {
+   "id": "cbbdca960129",
+   "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+   "url": "https://www.wsj.com/articles/trump-big-bank-conservative-bias-accusations-168abb27?mod=rss_markets_main",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-01-25T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WSJ.com: Markets",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WSJ.com: Markets",
+    "published_raw": "Sat, 25 Jan 2025 05:30:00 -0500"
+   }
+  },
+  {
+   "id": "44d310557640",
+   "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+   "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:45:02Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 13:45:02 GMT"
+   }
+  },
+  {
+   "id": "d50d24794038",
+   "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+   "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:28:17Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 17:28:17 GMT"
+   }
+  },
+  {
+   "id": "99aa1481c76d",
+   "title": "Michigan confirms first two deaths in cyclospora outbreak",
+   "url": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:18:06Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 17:18:06 GMT"
+   }
+  },
+  {
+   "id": "126e420b8ba6",
+   "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+   "url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:04:52Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 18:04:52 GMT"
+   }
+  },
+  {
+   "id": "f963ec806d37",
+   "title": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
+   "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:39:37Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 16:39:37 GMT"
+   }
+  },
+  {
+   "id": "4d685d533546",
+   "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+   "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:54:19Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 16:54:19 GMT"
+   }
+  },
+  {
+   "id": "1d69f35e1f94",
+   "title": "'The Odyssey' fuels Imax stock to all-time high. CEO calls momentum a 'flywheel'",
+   "url": "https://www.cnbc.com/2026/08/03/imax-stock-the-odyssey.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:16:41Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 18:16:41 GMT"
+   }
+  },
+  {
+   "id": "979ddbc288be",
+   "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+   "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:46:27Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 15:46:27 GMT"
+   }
+  },
+  {
+   "id": "b0b724d2b2df",
+   "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+   "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:57:42Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 16:57:42 GMT"
+   }
+  },
+  {
+   "id": "d3895409b99c",
+   "title": "White House to host AI companies Tuesday to review new model-testing framework",
+   "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:56:52Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 16:56:52 GMT"
+   }
+  },
+  {
+   "id": "5e29b9f99f79",
+   "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+   "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:50:20Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 15:50:20 GMT"
+   }
+  },
+  {
+   "id": "b13a164fe60e",
+   "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+   "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:27:52Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 15:27:52 GMT"
+   }
+  },
+  {
+   "id": "c97941fbeb44",
+   "title": "Kalshi traders are not expecting a U.S. and Iran nuclear deal soon",
+   "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-are-not-expecting-a-us-and-iran-nuclear-deal-soon.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:51:19Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 16:51:19 GMT"
+   }
+  },
+  {
+   "id": "081f1e1e360c",
+   "title": "More tech millionaires are using donor-advised funds for tax savings and giving",
+   "url": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:04:57Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 17:04:57 GMT"
+   }
+  },
+  {
+   "id": "603a39e226f8",
+   "title": "What the market is saying about the U.S. intervention to prop up the yen",
+   "url": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:43:55Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 13:43:55 GMT"
+   }
+  },
+  {
+   "id": "8a3078275c91",
+   "title": "Jim Cramer wants to 'replenish' our position in this data center play",
+   "url": "https://www.cnbc.com/2026/08/03/jim-cramer-wants-to-replenish-our-position-in-this-data-center-play.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:12:31Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 17:12:31 GMT"
+   }
+  },
+  {
+   "id": "ce21c4d7d77e",
+   "title": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
+   "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:21:44Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 16:21:44 GMT"
+   }
+  },
+  {
+   "id": "64646abc63e3",
+   "title": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
+   "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:59:04Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 15:59:04 GMT"
+   }
+  },
+  {
+   "id": "86765b3de99b",
+   "title": "Oil prices tumble after Trump calls off attack on Iran",
+   "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:47:24Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 15:47:24 GMT"
+   }
+  },
+  {
+   "id": "2be0b57cde0e",
+   "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+   "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:44:25Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 16:44:25 GMT"
+   }
+  },
+  {
+   "id": "2bc949086052",
+   "title": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
+   "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:49:17Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 13:49:17 GMT"
+   }
+  },
+  {
+   "id": "f373adc0f32b",
+   "title": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'",
+   "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T11:35:03Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 11:35:03 GMT"
+   }
+  },
+  {
+   "id": "407e10e6d597",
+   "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
+   "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T11:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 11:00:01 GMT"
+   }
+  },
+  {
+   "id": "bb90f8cce9b4",
+   "title": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+   "url": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T05:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 05:00:01 GMT"
+   }
+  },
+  {
+   "id": "1386029bd129",
+   "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+   "url": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T19:13:47Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Sun, 02 Aug 2026 19:13:47 GMT"
+   }
+  },
+  {
+   "id": "7c12d4db7ffe",
+   "title": "Why flights are so expensive and will likely stay that way",
+   "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Sun, 02 Aug 2026 12:00:01 GMT"
+   }
+  },
+  {
+   "id": "421563301cdd",
+   "title": "Buying a condo with a mortgage may soon get more complicated. Here's why",
+   "url": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T13:30:01Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Sat, 01 Aug 2026 13:30:01 GMT"
+   }
+  },
+  {
+   "id": "7637ad821fd8",
+   "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
+   "url": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T12:30:01Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Sat, 01 Aug 2026 12:30:01 GMT"
+   }
+  },
+  {
+   "id": "fd7cbd17c204",
+   "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+   "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T12:00:01Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Sat, 01 Aug 2026 12:00:01 GMT"
+   }
+  },
+  {
+   "id": "a9990739e9e0",
+   "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+   "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:38:33Z",
+   "score": 45.0,
+   "tags": [
+    "US Top News and Analysis",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "US Top News and Analysis",
+    "published_raw": "Mon, 03 Aug 2026 13:38:33 GMT"
+   }
+  },
+  {
+   "id": "64646abc63e3",
+   "title": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
+   "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:59:04Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Mon, 03 Aug 2026 15:59:04 GMT"
+   }
+  },
+  {
+   "id": "b13a164fe60e",
+   "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+   "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:27:52Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Mon, 03 Aug 2026 15:27:52 GMT"
+   }
+  },
+  {
+   "id": "2be0b57cde0e",
+   "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+   "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:44:25Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Mon, 03 Aug 2026 16:44:25 GMT"
+   }
+  },
+  {
+   "id": "171d2537577f",
+   "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
+   "url": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:32:09Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Mon, 03 Aug 2026 10:32:09 GMT"
+   }
+  },
+  {
+   "id": "68183546e517",
+   "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+   "url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:52:33Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Sun, 02 Aug 2026 13:52:33 GMT"
+   }
+  },
+  {
+   "id": "738d96f0ddb0",
+   "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+   "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T18:46:45Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 31 Jul 2026 18:46:45 GMT"
+   }
+  },
+  {
+   "id": "9dcdaffca956",
+   "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+   "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T21:49:40Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 31 Jul 2026 21:49:40 GMT"
+   }
+  },
+  {
+   "id": "de0d92b3cfe4",
+   "title": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
+   "url": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T16:14:54Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 31 Jul 2026 16:14:54 GMT"
+   }
+  },
+  {
+   "id": "85da9c2c962b",
+   "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+   "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T20:19:03Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 31 Jul 2026 20:19:03 GMT"
+   }
+  },
+  {
+   "id": "5fe33ee434fc",
+   "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+   "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T15:31:24Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 31 Jul 2026 15:31:24 GMT"
+   }
+  },
+  {
+   "id": "11349f688ce9",
+   "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+   "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T14:35:52Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 31 Jul 2026 14:35:52 GMT"
+   }
+  },
+  {
+   "id": "7818baa393cf",
+   "title": "More consumer companies are staying private for longer, avoiding the IPO road",
+   "url": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T11:30:01Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 31 Jul 2026 11:30:01 GMT"
+   }
+  },
+  {
+   "id": "86d6a70072ed",
+   "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+   "url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-30T22:01:01Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Thu, 30 Jul 2026 22:01:01 GMT"
+   }
+  },
+  {
+   "id": "861c358a408f",
+   "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+   "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-30T02:52:30Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Thu, 30 Jul 2026 02:52:30 GMT"
+   }
+  },
+  {
+   "id": "54bcecb29d26",
+   "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+   "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-29T23:10:46Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Wed, 29 Jul 2026 23:10:46 GMT"
+   }
+  },
+  {
+   "id": "b06a117d7f2b",
+   "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+   "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-30T13:39:36Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Thu, 30 Jul 2026 13:39:36 GMT"
+   }
+  },
+  {
+   "id": "eb39c007e02e",
+   "title": "Here are the five big takeaways from this week's Fed meeting",
+   "url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-29T22:54:09Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Wed, 29 Jul 2026 22:54:09 GMT"
+   }
+  },
+  {
+   "id": "62f3ca108d00",
+   "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+   "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-29T22:20:18Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Wed, 29 Jul 2026 22:20:18 GMT"
+   }
+  },
+  {
+   "id": "e7369f6cc7bb",
+   "title": "Here's what changed in the second Fed statement under Warsh",
+   "url": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-30T13:42:07Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Thu, 30 Jul 2026 13:42:07 GMT"
+   }
+  },
+  {
+   "id": "8f4bb6cc2d68",
+   "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+   "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-29T18:58:16Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Wed, 29 Jul 2026 18:58:16 GMT"
+   }
+  },
+  {
+   "id": "2f662447c4e8",
+   "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+   "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-28T18:27:43Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Tue, 28 Jul 2026 18:27:43 GMT"
+   }
+  },
+  {
+   "id": "39fe75f84d35",
+   "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
+   "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-28T17:40:03Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Tue, 28 Jul 2026 17:40:03 GMT"
+   }
+  },
+  {
+   "id": "a9a3f7d37776",
+   "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+   "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-28T16:16:25Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Tue, 28 Jul 2026 16:16:25 GMT"
+   }
+  },
+  {
+   "id": "42ee04c89116",
+   "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+   "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-28T15:35:48Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Tue, 28 Jul 2026 15:35:48 GMT"
+   }
+  },
+  {
+   "id": "83493077a81b",
+   "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+   "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-27T18:06:35Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Mon, 27 Jul 2026 18:06:35 GMT"
+   }
+  },
+  {
+   "id": "a52b5ab62c19",
+   "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+   "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-24T22:43:56Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 24 Jul 2026 22:43:56 GMT"
+   }
+  },
+  {
+   "id": "81265977eebe",
+   "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+   "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-24T02:42:21Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 24 Jul 2026 02:42:21 GMT"
+   }
+  },
+  {
+   "id": "8c3f38bb7042",
+   "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+   "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-23T20:25:28Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Thu, 23 Jul 2026 20:25:28 GMT"
+   }
+  },
+  {
+   "id": "8703b434c4a8",
+   "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+   "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-23T17:10:06Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Thu, 23 Jul 2026 17:10:06 GMT"
+   }
+  },
+  {
+   "id": "6da3d914db95",
+   "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+   "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-24T14:10:40Z",
+   "score": 45.0,
+   "tags": [
+    "Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Finance",
+    "published_raw": "Fri, 24 Jul 2026 14:10:40 GMT"
+   }
+  },
+  {
+   "id": "da401ff32ce1",
+   "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+   "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:15:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 18:15:00 GMT"
+   }
+  },
+  {
+   "id": "4b8a8265126c",
+   "title": "Boeing clears key hurdle and stock rallies, leading the Dow",
+   "url": "https://www.marketwatch.com/story/boeing-clears-key-hurdle-and-stock-rallies-leading-the-dow-ffd2dcbd?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:15:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 18:15:00 GMT"
+   }
+  },
+  {
+   "id": "3f099e625de0",
+   "title": "Many boomers are desperate to move but can’t afford to",
+   "url": "https://www.marketwatch.com/story/many-boomers-are-desperate-to-move-but-cant-afford-to-6c9907ea?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:12:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 18:12:00 GMT"
+   }
+  },
+  {
+   "id": "f9db4c366cd5",
+   "title": "Micron’s stock sees choppy trading as China fears loom large",
+   "url": "https://www.marketwatch.com/story/microns-stock-sees-choppy-trading-as-china-fears-loom-large-0965123f?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:07:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 18:07:00 GMT"
+   }
+  },
+  {
+   "id": "6dc15bb40459",
+   "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
+   "url": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:44:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 17:44:00 GMT"
+   }
+  },
+  {
+   "id": "cc17ec6050bd",
+   "title": "SpaceX’s stock is down nearly 50% from its high. Why it’s still not a bargain.",
+   "url": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:05:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 17:05:00 GMT"
+   }
+  },
+  {
+   "id": "e64db2fa5e9d",
+   "title": "AMD has two big engines roaring as it heads into earnings",
+   "url": "https://www.marketwatch.com/story/amd-has-two-big-engines-roaring-as-it-heads-into-earnings-28b20033?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:31:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 16:31:00 GMT"
+   }
+  },
+  {
+   "id": "f90e10d4c900",
+   "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+   "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 16:00:00 GMT"
+   }
+  },
+  {
+   "id": "0dc1242eb088",
+   "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
+   "url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:20:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 15:20:00 GMT"
+   }
+  },
+  {
+   "id": "a70ede328437",
+   "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+   "url": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:17:00Z",
+   "score": 45.0,
+   "tags": [
+    "MarketWatch.com - Top Stories",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MarketWatch.com - Top Stories",
+    "published_raw": "Mon, 03 Aug 2026 15:17:00 GMT"
+   }
+  },
+  {
+   "id": "90365867abca",
+   "title": "Warren Buffett keeps pointing at the same ETF for a reason",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T16:03:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T16:03:00Z"
+   }
+  },
+  {
+   "id": "9c873d363779",
+   "title": "Cathie Wood sells $5.5 million of surging tech stock",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T16:33:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T16:33:00Z"
+   }
+  },
+  {
+   "id": "f9301765c1cf",
+   "title": "LeBron James took a 92% pay cut to chase a title — here's how regular workers can survive a pay cut too",
+   "url": "https://finance.yahoo.com/small-business/articles/lebron-james-took-92-pay-093000216.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T09:30:00Z"
+   }
+  },
+  {
+   "id": "e66edc28d853",
+   "title": "I paid off $15,000 in credit card debt. A credit counseling expert explains how to never go back",
+   "url": "https://finance.yahoo.com/markets/articles/paid-off-15-000-credit-100000627.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T10:00:00Z"
+   }
+  },
+  {
+   "id": "406289e8672c",
+   "title": "The July jobs report, SpaceX earnings, and AI struggles: What to watch this week",
+   "url": "https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T10:00:00Z"
+   }
+  },
+  {
+   "id": "124963a903d9",
+   "title": "Analyst Report: Enterprise Products Pntr LP",
+   "url": "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:15:10Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-03T17:15:10Z"
+   }
+  },
+  {
+   "id": "2f633333be63",
+   "title": "We put $50,000 in medical bills on our credit cards — now we can barely keep up with the monthly payments. What now?",
+   "url": "https://finance.yahoo.com/healthcare/articles/put-50-000-medical-bills-101000777.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T10:10:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T10:10:00Z"
+   }
+  },
+  {
+   "id": "649b2c8040fd",
+   "title": "Dan Ives Says Nvidia Demand Is Outpacing Supply \"12 to 1.\" Here's What That Means for the Stock's Next Move.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-nvidia-demand-092700472.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:27:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T09:27:00Z"
+   }
+  },
+  {
+   "id": "0b76b3f7baaa",
+   "title": "More of the uber rich are turning to this ‘slam dunk’ method of avoiding taxes that’s perfectly legal",
+   "url": "https://finance.yahoo.com/economy/policy/articles/more-uber-rich-turning-slam-113000937.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T11:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T11:30:00Z"
+   }
+  },
+  {
+   "id": "29c8dc6fa5c1",
+   "title": "Ted Benna built the 401(k) 40 years ago — now he says it fails lower-income workers and is pushing a simpler alternative",
+   "url": "https://finance.yahoo.com/markets/options/articles/ted-benna-built-401-k-113000384.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T11:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T11:30:00Z"
+   }
+  },
+  {
+   "id": "d2b6b367423e",
+   "title": "The magic number for retirement might be closer than you think — if you reach this ‘tipping point.’ Are you there yet?",
+   "url": "https://finance.yahoo.com/markets/articles/magic-number-retirement-might-closer-114500063.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T11:45:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T11:45:00Z"
+   }
+  },
+  {
+   "id": "bf653610db02",
+   "title": "Analyst Report: Valero Energy Corp",
+   "url": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:15:10Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-03T17:15:10Z"
+   }
+  },
+  {
+   "id": "6779b56261cb",
+   "title": "Jim Cramer says Wall Street is 'fleeing' AI stocks after a 7% drop — and buying Salesforce, Walmart instead",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wall-street-120000352.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:00:00Z"
+   }
+  },
+  {
+   "id": "4256d25ec24f",
+   "title": "Workers Seeking Compensation for Injuries Face New Challenge: Fewer Lawyers",
+   "url": "https://www.wsj.com/us-news/law/workers-seeking-compensation-for-injuries-face-new-challenge-fewer-lawyers-8a2b4b48?siteid=yhoof2&yptr=yahoo",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T09:30:00Z"
+   }
+  },
+  {
+   "id": "df104cf337e9",
+   "title": "Has Index Investing Gone Too Far?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/index-investing-gone-too-far-120000039.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:00:00Z"
+   }
+  },
+  {
+   "id": "601b1f56a365",
+   "title": "Leopold Aschenbrenner just learned Wall Street's oldest lesson: Chart of the Day",
+   "url": "https://finance.yahoo.com/markets/article/leopold-aschenbrenner-just-learned-wall-streets-oldest-lesson-chart-of-the-day-120146045.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:01:46Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:01:46Z"
+   }
+  },
+  {
+   "id": "f65cc4e3a6ee",
+   "title": "Xi Jinping warns world is ‘crumbling into disarray’ as 'dangerous' U.S. blockade hits markets. Protect your nest egg now",
+   "url": "https://finance.yahoo.com/economy/articles/xi-jinping-warns-world-crumbling-121000621.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:10:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:10:00Z"
+   }
+  },
+  {
+   "id": "ba1f71766e03",
+   "title": "Analyst Report: Stanley Black & Decker Inc",
+   "url": "https://finance.yahoo.com/research/reports/ARGUS_3424_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:15:10Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-03T17:15:10Z"
+   }
+  },
+  {
+   "id": "db184ea942ee",
+   "title": "The tech stock dumpster fire should remind you of this important investing lesson",
+   "url": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:30:00Z"
+   }
+  },
+  {
+   "id": "f8749b70f4f3",
+   "title": "Helicopter Parents Are Co-Piloting Their Adult Children’s Careers",
+   "url": "https://www.wsj.com/lifestyle/careers/helicopter-parents-adult-children-careers-146601ab?siteid=yhoof2&yptr=yahoo",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T09:30:00Z"
+   }
+  },
+  {
+   "id": "69e968118c74",
+   "title": "55% of Americans say their finances are getting worse — here's how to budget when your income changes every month",
+   "url": "https://finance.yahoo.com/markets/articles/55-americans-finances-getting-worse-123000953.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:30:00Z"
+   }
+  },
+  {
+   "id": "8547cbe956e3",
+   "title": "South Dakota couple built a 3,600 sq. ft. home for $410,000 — but 3 advantages helped make it possible",
+   "url": "https://finance.yahoo.com/real-estate/articles/south-dakota-couple-built-3-123000126.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:30:00Z"
+   }
+  },
+  {
+   "id": "5cb4762d5e12",
+   "title": "3 brilliant quotes on the challenge of valuing companies",
+   "url": "https://finance.yahoo.com/economy/article/3-brilliant-quotes-on-the-challenge-of-valuing-companies-123224694.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:32:24Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T12:32:24Z"
+   }
+  },
+  {
+   "id": "3a6b0754d015",
+   "title": "Market Update: EPD, GLW, LUV, SWK, VLO",
+   "url": "https://finance.yahoo.com/research/reports/ARGUS_47805_MarketUpdate_1785776410000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:00:10Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-03T17:00:10Z"
+   }
+  },
+  {
+   "id": "32df0abf6d17",
+   "title": "Wedbush Flags Near-Term Risks From Nvidia’s Alleged OpenAI Data Center Support",
+   "url": "https://finance.yahoo.com/technology/ai/articles/wedbush-flags-near-term-risks-130002595.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:00:02Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T13:00:02Z"
+   }
+  },
+  {
+   "id": "320567535c4b",
+   "title": "Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-coreweave-stocks-plummeting-time-092000735.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:20:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T09:20:00Z"
+   }
+  },
+  {
+   "id": "123a6b76aa8f",
+   "title": "Apple Delivers Strong Free Cash Flow, But What is the Best AAPL Play?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/apple-delivers-strong-free-cash-130002188.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:00:02Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T13:00:02Z"
+   }
+  },
+  {
+   "id": "374477810a28",
+   "title": "Seagate Rallies on Strong Q4 Results and Guidance. What Does This Mean for STX Stock Here.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-rallies-strong-q4-results-130002827.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:00:02Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T13:00:02Z"
+   }
+  },
+  {
+   "id": "01db2d923a8e",
+   "title": "Ramit Sethi helps newlyweds tackle $165,000 in debt — including the $30,000 he hid before their wedding",
+   "url": "https://finance.yahoo.com/small-business/articles/ramit-sethi-helps-newlyweds-tackle-133000103.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T13:30:00Z"
+   }
+  },
+  {
+   "id": "bb6deb121caf",
+   "title": "After a More Than 20% Sell-Off on Earnings, Corning Stock Is Still a ‘Buy’ for the AI Infrastructure Trade",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/more-20-sell-off-earnings-133002721.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:30:02Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T13:30:02Z"
+   }
+  },
+  {
+   "id": "5cf63c3f6570",
+   "title": "Claim Social Security at 62 and the Check Shrinks 30% Forever. These 3 ETFs Pay You While You Wait",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/claim-social-security-62-check-093745818.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:37:45Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T09:37:45Z"
+   }
+  },
+  {
+   "id": "8d628a5c4829",
+   "title": "Stock Market Week Ahead: Citadel, SpaceX, Palantir And This Key Market Signal",
+   "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-citadel-spacex-palantir-and-a-possible-follow-through-day/?src=A00220&yptr=yahoo",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:33:18Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T13:33:18Z"
+   }
+  },
+  {
+   "id": "ac468a1ce5f0",
+   "title": "10 best high-yield savings accounts for August 2026: Earn up to 4.10% APY",
+   "url": "https://finance.yahoo.com/personal-finance/banking/article/10-best-high-yield-savings-accounts-for-august-2026-earn-up-to-410-apy-171334072.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-07-01T17:13:34Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2025-07-01T17:13:34Z"
+   }
+  },
+  {
+   "id": "8ae6c28d9a8e",
+   "title": "10 best money market accounts and rates for August 2026: Rates up to 3.9% APY",
+   "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-accounts-rates-160154089.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2025-04-15T16:01:54Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2025-04-15T16:01:54Z"
+   }
+  },
+  {
+   "id": "7cf20b8864e6",
+   "title": "10 best free checking accounts for August 2026",
+   "url": "https://finance.yahoo.com/personal-finance/banking/article/best-free-checking-accounts-195709452.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2024-04-11T19:57:09Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2024-04-11T19:57:09Z"
+   }
+  },
+  {
+   "id": "9277d5464541",
+   "title": "Billionaire Steve Cohen Is Buying This Overlooked Stock While Dumping Big Tech",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-steve-cohen-buying-overlooked-090400208.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:04:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-02T09:04:00Z"
+   }
+  },
+  {
+   "id": "2fad86ca5dcb",
+   "title": "15 best new bank account promotions and bonuses for August 2026: Earn up to $3,000",
+   "url": "https://finance.yahoo.com/personal-finance/banking/article/new-bank-account-bonuses-214704427.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2024-09-18T21:47:04Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2024-09-18T21:47:04Z"
+   }
+  },
+  {
+   "id": "f06fd9094dcc",
+   "title": "Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY",
+   "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-03T10:00:00Z"
+   }
+  },
+  {
+   "id": "406d41969a8a",
+   "title": "Best high-yield savings interest rates today, Monday, August 3, 2026: You can earn up to 4.15% APY",
+   "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-3-2026-you-can-earn-up-to-415-apy-100000400.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-03T10:00:00Z"
+   }
+  },
+  {
+   "id": "dfb012abc18f",
+   "title": "HELOC and home equity loan rates today, Monday, August 3, 2026: Just a 2-basis-point differential",
+   "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-3-2026-just-a-2-basis-point-differential-100000140.html",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "Yahoo Finance",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Yahoo Finance",
+    "published_raw": "2026-08-03T10:00:00Z"
+   }
+  },
+  {
+   "id": "f389e0686ff0",
+   "title": "Fed lending officer survey finds stable standard for many types of commercial, industrial loans",
+   "url": "https://www.investing.com/news/economy-news/fed-lending-officer-survey-finds-stable-standard-for-many-types-of-commercial-industrial-loans-4832084",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:18:32Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:18:32"
+   }
+  },
+  {
+   "id": "4fefe9243e2f",
+   "title": "Form 144 Rocky Brands Inc. For: 3 August",
+   "url": "https://www.investing.com/news/filings/form-144-rocky-brands-inc-for-3-august-93CH-4832082",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:15:12Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:15:12"
+   }
+  },
+  {
+   "id": "a99ab794c0d0",
+   "title": "Form 144 Airbnb For: 3 August",
+   "url": "https://www.investing.com/news/filings/form-144-airbnb-for-3-august-93CH-4832081",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:15:11Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:15:11"
+   }
+  },
+  {
+   "id": "f854b4c21c66",
+   "title": "This is Evercore ISI’s top media pick on venue growth",
+   "url": "https://www.investing.com/news/stock-market-news/this-is-evercore-isis-top-media-pick-on-venue-growth-93CH-4832080",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:15:05Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:15:05"
+   }
+  },
+  {
+   "id": "263cb5bf3533",
+   "title": "Explainer-What to know about the US outbreak of cyclosporiasis intestinal illness",
+   "url": "https://www.investing.com/news/world-news/explainerwhat-to-know-about-the-us-outbreak-of-cyclosporiasis-intestinal-illness-4831936",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:12:33Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:12:33"
+   }
+  },
+  {
+   "id": "1dde5195551a",
+   "title": "Apple launches legal challenge over UK encrypted data access",
+   "url": "https://www.investing.com/news/stock-market-news/apple-launches-legal-challenge-over-uk-encrypted-data-access-93CH-4832079",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:10:53Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:10:53"
+   }
+  },
+  {
+   "id": "1a2330a61912",
+   "title": "Why is Oracle stock surging today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-surging-today-93CH-4832078",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:09:32Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:09:32"
+   }
+  },
+  {
+   "id": "fcad3c87a006",
+   "title": "Trump says talks with Iran are going on ’right now’",
+   "url": "https://www.investing.com/news/commodities-news/trump-says-talks-with-iran-are-going-on-right-now-4832077",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:07:07Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:07:07"
+   }
+  },
+  {
+   "id": "8c1412a45d9b",
+   "title": "Apple launches new legal challenge to UK attempt to access encrypted user data, FT reports",
+   "url": "https://www.investing.com/news/stock-market-news/apple-launches-new-legal-challenge-to-uk-attempt-to-access-encrypted-user-data-ft-reports-4832076",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:06:48Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:06:48"
+   }
+  },
+  {
+   "id": "77a7eb9f2cef",
+   "title": "Why is NVIDIA stock rallying today?",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-4832075",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T18:06:40Z",
+   "score": 45.0,
+   "tags": [
+    "All News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "All News",
+    "published_raw": "2026-08-03 18:06:40"
+   }
+  },
+  {
+   "id": "b9c197126d15",
+   "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
+   "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:24:45Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 15:24:45 +0000"
+   }
+  },
+  {
+   "id": "3145538a4d58",
+   "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
+   "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T14:46:08Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 14:46:08 +0000"
+   }
+  },
+  {
+   "id": "884ae8d9f4f9",
+   "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
+   "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:59:50Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 13:59:50 +0000"
+   }
+  },
+  {
+   "id": "42987d3c05f6",
+   "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+   "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:49:40Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 13:49:40 +0000"
+   }
+  },
+  {
+   "id": "71728481e5ed",
+   "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+   "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:15:46Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 13:15:46 +0000"
+   }
+  },
+  {
+   "id": "e1b10b6dd121",
+   "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
+   "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T12:53:21Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 12:53:21 +0000"
+   }
+  },
+  {
+   "id": "df4cd64efe9d",
+   "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
+   "url": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T12:17:10Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 12:17:10 +0000"
+   }
+  },
+  {
+   "id": "a23895c7b003",
+   "title": "Bitget set to exit Japan, close all remaining positions by year-end",
+   "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T12:03:41Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 12:03:41 +0000"
+   }
+  },
+  {
+   "id": "9f8abfb0f4ab",
+   "title": "Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment",
+   "url": "https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T11:18:31Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 11:18:31 +0000"
+   }
+  },
+  {
+   "id": "4f4af5fc8949",
+   "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
+   "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:51:37Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 10:51:37 +0000"
+   }
+  },
+  {
+   "id": "5bb2e896eebc",
+   "title": "Bithumb now targets 2028 IPO after major internal restructuring",
+   "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:41:08Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 10:41:08 +0000"
+   }
+  },
+  {
+   "id": "b8c2e64a12c7",
+   "title": "Live updates: Bitcoin rises above $63,000 as stocks surge to start August",
+   "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:29:23Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 10:29:23 +0000"
+   }
+  },
+  {
+   "id": "c92b7a10bb78",
+   "title": "The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes",
+   "url": "https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:13:50Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 10:13:50 +0000"
+   }
+  },
+  {
+   "id": "333b415bfcae",
+   "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
+   "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T09:38:53Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 09:38:53 +0000"
+   }
+  },
+  {
+   "id": "0f5f85e6a250",
+   "title": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
+   "url": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T08:51:39Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 08:51:39 +0000"
+   }
+  },
+  {
+   "id": "58181c102f7a",
+   "title": "U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead",
+   "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T08:16:28Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 08:16:28 +0000"
+   }
+  },
+  {
+   "id": "d19928f4825b",
+   "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
+   "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T06:15:38Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 06:15:38 +0000"
+   }
+  },
+  {
+   "id": "60194801d578",
+   "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
+   "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T05:52:29Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 05:52:29 +0000"
+   }
+  },
+  {
+   "id": "7caa08a07a1c",
+   "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
+   "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T05:07:49Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Mon, 03 Aug 2026 05:07:49 +0000"
+   }
+  },
+  {
+   "id": "06b168401f82",
+   "title": "Counting down the days: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T18:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Sun, 02 Aug 2026 18:30:00 +0000"
+   }
+  },
+  {
+   "id": "3dfa84dcfe79",
+   "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+   "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Sun, 02 Aug 2026 17:00:00 +0000"
+   }
+  },
+  {
+   "id": "45e929ed99a0",
+   "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+   "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Sun, 02 Aug 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "d66d57db297f",
+   "title": "The reverse bridge: Crypto meets Wall Street using perps",
+   "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Sun, 02 Aug 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "cad2dc00355a",
+   "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+   "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T12:03:51Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Sun, 02 Aug 2026 12:03:51 +0000"
+   }
+  },
+  {
+   "id": "08bdbd02c7e2",
+   "title": "Strategy holds STRC dividend at 12%",
+   "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T22:01:57Z",
+   "score": 45.0,
+   "tags": [
+    "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+    "published_raw": "Sat, 01 Aug 2026 22:01:57 +0000"
+   }
+  },
+  {
+   "id": "f50d54fe8f98",
+   "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
+   "url": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:46:22Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 16:46:22 +0000"
+   }
+  },
+  {
+   "id": "73502185c4eb",
+   "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+   "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:13:12Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 16:13:12 +0000"
+   }
+  },
+  {
+   "id": "7ceaa871ff61",
+   "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
+   "url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T15:24:43Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 15:24:43 +0000"
+   }
+  },
+  {
+   "id": "f515b88f2748",
+   "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
+   "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T14:11:26Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 14:11:26 +0000"
+   }
+  },
+  {
+   "id": "0d16cd831409",
+   "title": "How Fake World Assets and onchain gacha became crypto’s latest craze",
+   "url": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 13:30:00 +0000"
+   }
+  },
+  {
+   "id": "6da6901821b3",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:17:41Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 13:17:41 +0000"
+   }
+  },
+  {
+   "id": "f00a1a832cce",
+   "title": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases",
+   "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T12:27:07Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 12:27:07 +0000"
+   }
+  },
+  {
+   "id": "d857160cd8f4",
+   "title": "Bithumb sets 2028 IPO timetable as it overhauls internal controls",
+   "url": "https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T12:21:19Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 12:21:19 +0000"
+   }
+  },
+  {
+   "id": "16f3bd44481a",
+   "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
+   "url": "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T12:07:42Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 12:07:42 +0000"
+   }
+  },
+  {
+   "id": "05d2ae6920b4",
+   "title": "Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss",
+   "url": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T11:40:09Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 11:40:09 +0000"
+   }
+  },
+  {
+   "id": "af5ece26f766",
+   "title": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
+   "url": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:58:36Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 10:58:36 +0000"
+   }
+  },
+  {
+   "id": "7f9e2864f027",
+   "title": "Bitcoin may find bear market bottom in August: 10x Research",
+   "url": "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T10:25:32Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 10:25:32 +0000"
+   }
+  },
+  {
+   "id": "90f2f57ba078",
+   "title": "HashKey receives JPMorgan approval to open client money account",
+   "url": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T09:14:38Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 09:14:38 +0000"
+   }
+  },
+  {
+   "id": "1001d5cfafdc",
+   "title": "Bitget to exit Japan, close remaining positions after Dec. 31",
+   "url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T08:21:23Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 08:21:23 +0000"
+   }
+  },
+  {
+   "id": "1f0c4e5abe6d",
+   "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
+   "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T07:15:56Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 07:15:56 +0000"
+   }
+  },
+  {
+   "id": "de62df09f49f",
+   "title": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak",
+   "url": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T05:58:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 05:58:00 +0000"
+   }
+  },
+  {
+   "id": "9006ac949895",
+   "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+   "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T04:09:44Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 04:09:44 +0000"
+   }
+  },
+  {
+   "id": "cdf8796d3f22",
+   "title": "South Korean stablecoin outflows top $367M in June: Report",
+   "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T04:05:11Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 04:05:11 +0000"
+   }
+  },
+  {
+   "id": "5b8931fa5856",
+   "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
+   "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T01:57:40Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Mon, 03 Aug 2026 01:57:40 +0000"
+   }
+  },
+  {
+   "id": "a10b43de5e42",
+   "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
+   "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T23:44:04Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sun, 02 Aug 2026 23:44:04 +0000"
+   }
+  },
+  {
+   "id": "360ec1fda5d1",
+   "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+   "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T15:24:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sun, 02 Aug 2026 15:24:00 +0000"
+   }
+  },
+  {
+   "id": "d665ae7e6909",
+   "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+   "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T11:24:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sun, 02 Aug 2026 11:24:00 +0000"
+   }
+  },
+  {
+   "id": "fa46ef9a4a0d",
+   "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+   "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T09:31:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sun, 02 Aug 2026 09:31:00 +0000"
+   }
+  },
+  {
+   "id": "329551308b06",
+   "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+   "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T08:07:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sun, 02 Aug 2026 08:07:00 +0000"
+   }
+  },
+  {
+   "id": "6799344238b2",
+   "title": "Onchain, in court: What happened in crypto legal news this week",
+   "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T21:19:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sat, 01 Aug 2026 21:19:00 +0000"
+   }
+  },
+  {
+   "id": "caf392ef9621",
+   "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+   "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T18:09:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sat, 01 Aug 2026 18:09:00 +0000"
+   }
+  },
+  {
+   "id": "4bc5612475d3",
+   "title": "Crypto PAC pours another $1M into Michigan House race",
+   "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T15:49:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sat, 01 Aug 2026 15:49:00 +0000"
+   }
+  },
+  {
+   "id": "857ff895f566",
+   "title": "Russia expands crypto mining ban to Moscow through 2032",
+   "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sat, 01 Aug 2026 10:30:00 +0000"
+   }
+  },
+  {
+   "id": "e13b15ac425c",
+   "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+   "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T09:23:56Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sat, 01 Aug 2026 09:23:56 +0000"
+   }
+  },
+  {
+   "id": "e2c0fa441a71",
+   "title": "Bitcoin ETFs end July in the green despite late-month selling",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T07:25:00Z",
+   "score": 45.0,
+   "tags": [
+    "Cointelegraph.com News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Cointelegraph.com News",
+    "published_raw": "Sat, 01 Aug 2026 07:25:00 +0000"
+   }
+  },
+  {
+   "id": "f40970276d92",
+   "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
+   "url": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T17:48:09Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 13:48:09 -0400"
+   }
+  },
+  {
+   "id": "d80e1af30a05",
+   "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra",
+   "url": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:59:42Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 12:59:42 -0400"
+   }
+  },
+  {
+   "id": "5eae594864c5",
+   "title": "Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC",
+   "url": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T16:57:22Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 12:57:22 -0400"
+   }
+  },
+  {
+   "id": "fd7bbc0ff14d",
+   "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
+   "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:48:47Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 09:48:47 -0400"
+   }
+  },
+  {
+   "id": "bcdd42b7ba6a",
+   "title": "Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record",
+   "url": "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T13:03:00Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 09:03:00 -0400"
+   }
+  },
+  {
+   "id": "e3ccd026bb61",
+   "title": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",
+   "url": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T12:13:30Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 08:13:30 -0400"
+   }
+  },
+  {
+   "id": "3d4242aadc6e",
+   "title": "BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more",
+   "url": "https://www.theblock.co/post/410408/bitgo-link-coinbase-kraken-crypto-com?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T11:50:02Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 07:50:02 -0400"
+   }
+  },
+  {
+   "id": "137dbad085ad",
+   "title": "Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking",
+   "url": "https://www.theblock.co/post/410395/bernstein-says-clarity-act-failure-could-accelerate-sec-cftc-crypto-rulemaking?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T09:49:47Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 05:49:47 -0400"
+   }
+  },
+  {
+   "id": "484273ad9e09",
+   "title": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push",
+   "url": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T09:38:48Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 05:38:48 -0400"
+   }
+  },
+  {
+   "id": "d87848463915",
+   "title": "South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap",
+   "url": "https://www.theblock.co/post/410391/south-korea-bithumb-ipo-2028?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T09:21:28Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 05:21:28 -0400"
+   }
+  },
+  {
+   "id": "7d9e6bb93524",
+   "title": "Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion",
+   "url": "https://www.theblock.co/post/410382/kalshi-polymarket-volume-july?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T04:34:46Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Mon, 03 Aug 2026 00:34:46 -0400"
+   }
+  },
+  {
+   "id": "7ade19974b41",
+   "title": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
+   "url": "https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-03T03:42:16Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Sun, 02 Aug 2026 23:42:16 -0400"
+   }
+  },
+  {
+   "id": "4c7f08cfc654",
+   "title": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
+   "url": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T21:25:36Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Sun, 02 Aug 2026 17:25:36 -0400"
+   }
+  },
+  {
+   "id": "9788172bd60c",
+   "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
+   "url": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T18:10:43Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Sun, 02 Aug 2026 14:10:43 -0400"
+   }
+  },
+  {
+   "id": "139b7cee1cfc",
+   "title": "Trump Media says $165 million bitcoin transfer to Crypto.com wasn’t a sale",
+   "url": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-02T15:16:08Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Sun, 02 Aug 2026 11:16:08 -0400"
+   }
+  },
+  {
+   "id": "52e6016d4373",
+   "title": "Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters",
+   "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T21:18:45Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Sat, 01 Aug 2026 17:18:45 -0400"
+   }
+  },
+  {
+   "id": "d9a69a972736",
+   "title": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet",
+   "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T19:09:57Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Sat, 01 Aug 2026 15:09:57 -0400"
+   }
+  },
+  {
+   "id": "447c45d76194",
+   "title": "Russian decree bans crypto mining across Moscow region through 2032",
+   "url": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-08-01T16:09:15Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Sat, 01 Aug 2026 12:09:15 -0400"
+   }
+  },
+  {
+   "id": "17c33a932eb8",
+   "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
+   "url": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T20:25:30Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Fri, 31 Jul 2026 16:25:30 -0400"
+   }
+  },
+  {
+   "id": "94db8634fbd2",
+   "title": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
+   "url": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss",
+   "source": "rss_finance",
+   "category": "finance",
+   "published": "2026-07-31T20:20:52Z",
+   "score": 45.0,
+   "tags": [
+    "The Block",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Block",
+    "published_raw": "Fri, 31 Jul 2026 16:20:52 -0400"
+   }
+  }
+ ]
+}

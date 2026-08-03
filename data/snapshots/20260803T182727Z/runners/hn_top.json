@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-03T18:26:24Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.27,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 48.452078799117146,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 88,
+    "comments": 391,
+    "hn_id": 49157930
+   }
+  },
+  {
+   "id": "e2ec91a75594",
+   "title": "How Hollywood stopped making movies in Hollywood",
+   "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 49.62214450449026,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 97,
+    "comments": 93,
+    "hn_id": 49082937
+   }
+  },
+  {
+   "id": "131bf852bef6",
+   "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+   "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 39.79019945774904,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 35,
+    "comments": 5,
+    "hn_id": 49158474
+   }
+  },
+  {
+   "id": "f43a180d392b",
+   "title": "Devtools must be open source",
+   "url": "https://blog.exe.dev/devtools-must-be-open-source",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 66.38236339311712,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 274,
+    "comments": 96,
+    "hn_id": 49156111
+   }
+  },
+  {
+   "id": "45dc43bb8056",
+   "title": "Massively Parallel Postgres Backups",
+   "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 0,
+    "hn_id": 49124213
+   }
+  },
+  {
+   "id": "d18219882d77",
+   "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+   "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 58.26033673912517,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 177,
+    "comments": 51,
+    "hn_id": 49155629
+   }
+  },
+  {
+   "id": "8b3d39a606af",
+   "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+   "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 55.618621784789724,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 150,
+    "comments": 28,
+    "hn_id": 49156011
+   }
+  },
+  {
+   "id": "0fd7b0fc1d74",
+   "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+   "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 56.622776601683796,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 160,
+    "comments": 81,
+    "hn_id": 49155359
+   }
+  },
+  {
+   "id": "88b4ef8a3560",
+   "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+   "url": "https://armature.tech/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 1,
+    "hn_id": 49157807
+   }
+  },
+  {
+   "id": "cf8f1ab6bb89",
+   "title": "AirLLM 70B inference with single 4GB GPU",
+   "url": "https://github.com/lyogavin/airllm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 54.15475947422651,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 136,
+    "comments": 47,
+    "hn_id": 49154228
+   }
+  },
+  {
+   "id": "47d09b08287b",
+   "title": "Bonsai: Janestreet's UI Library",
+   "url": "https://github.com/janestreet/bonsai",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 63.40572873934304,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 236,
+    "comments": 88,
+    "hn_id": 49152842
+   }
+  },
+  {
+   "id": "388d417ffcba",
+   "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+   "url": "https://hoplite.sh",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 20,
+    "hn_id": 49157997
+   }
+  },
+  {
+   "id": "82b937aad345",
+   "title": "SQLite Critical CVEs or LLM Slop?",
+   "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 88.44288770224759,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 644,
+    "comments": 277,
+    "hn_id": 49154332
+   }
+  },
+  {
+   "id": "8b4428ac2a86",
+   "title": "SearXNG in Rust",
+   "url": "https://github.com/MikeLuu99/searxng-rust",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 6,
+    "hn_id": 49158141
+   }
+  },
+  {
+   "id": "77c8968a9fd9",
+   "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+   "url": "https://dmarcguard.io/blog/spf-record-syntax/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 39.14213562373095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 32,
+    "comments": 8,
+    "hn_id": 49155626
+   }
+  },
+  {
+   "id": "4ebf5f8e6a3c",
+   "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+   "url": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 4,
+    "hn_id": 49157645
+   }
+  },
+  {
+   "id": "f2d0346e67cc",
+   "title": "Don't be a meat proxy",
+   "url": "https://gruhn.me/blog/2026-08-03/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1492,
+    "comments": 630,
+    "hn_id": 49151933
+   }
+  },
+  {
+   "id": "903d0f23fc27",
+   "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+   "url": "https://github.com/garagehq/nightcrawler/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 48.452078799117146,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 88,
+    "comments": 25,
+    "hn_id": 49154127
+   }
+  },
+  {
+   "id": "6b4bc227c19a",
+   "title": "Rust project goals: Immobile types and guaranteed destructors",
+   "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 60.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 196,
+    "comments": 74,
+    "hn_id": 49152023
+   }
+  },
+  {
+   "id": "0ba369e612b8",
+   "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+   "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 63.40572873934304,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 236,
+    "comments": 140,
+    "hn_id": 49157128
+   }
+  },
+  {
+   "id": "0195025a2fc1",
+   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+   "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 68.22904116447646,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 299,
+    "comments": 262,
+    "hn_id": 49153374
+   }
+  },
+  {
+   "id": "dc320cc431df",
+   "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+   "url": "https://qwen.ai/blog?id=qwen3.8",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 974,
+    "comments": 505,
+    "hn_id": 49150470
+   }
+  },
+  {
+   "id": "15987c1be1d0",
+   "title": "C++ float-to-int conversion can be undefined behavior",
+   "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 37.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 25,
+    "comments": 21,
+    "hn_id": 49107888
+   }
+  },
+  {
+   "id": "805755683d71",
+   "title": "What DMARC Protects You From, and What It Does Not",
+   "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 50.24876234590519,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 102,
+    "comments": 25,
+    "hn_id": 49153361
+   }
+  },
+  {
+   "id": "76e9a8feb8ff",
+   "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+   "url": "https://blog.cloudflare.com/billable-usage-api/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "hn_id": 49158714
+   }
+  },
+  {
+   "id": "8dc7ba48bce0",
+   "title": "Kraid is a now a real compiler",
+   "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 4,
+    "hn_id": 49110912
+   }
+  },
+  {
+   "id": "c6b05b3ceb9a",
+   "title": "Train Simulator Controller",
+   "url": "https://z80.me/blog/tsc-2026-july/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 47.9128784747792,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 84,
+    "comments": 5,
+    "hn_id": 49115935
+   }
+  },
+  {
+   "id": "78d443309ea3",
+   "title": "Games at the press of a button: The Rip-O-Bot (1989)",
+   "url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 37.74754878398196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 26,
+    "comments": 5,
+    "hn_id": 49147907
+   }
+  },
+  {
+   "id": "962f32e8478c",
+   "title": "Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech",
+   "url": "https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 0,
+    "hn_id": 49158837
+   }
+  },
+  {
+   "id": "2fad0cce63a6",
+   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+   "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49158581
+   }
+  }
+ ]
+}

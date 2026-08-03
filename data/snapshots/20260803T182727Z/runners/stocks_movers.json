@@ -1,0 +1,211 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-03T18:26:26Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.17,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "f537f0e3b3d7",
+   "title": "Oracle surged +8.14% today",
+   "url": "https://finance.yahoo.com/quote/ORCL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 95.0,
+   "tags": [
+    "ORCL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "ORCL",
+    "move_pct": 8.14,
+    "price": 140.44,
+    "prev_close": 129.87,
+    "day_high": 140.93,
+    "day_low": 130.21,
+    "volume": 30845008
+   }
+  },
+  {
+   "id": "840626d74c84",
+   "title": "Boeing surged +7.04% today",
+   "url": "https://finance.yahoo.com/quote/BA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 95.0,
+   "tags": [
+    "BA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "BA",
+    "move_pct": 7.04,
+    "price": 231.35,
+    "prev_close": 216.14,
+    "day_high": 231.54,
+    "day_low": 219.5,
+    "volume": 7231281
+   }
+  },
+  {
+   "id": "639210ecd5d3",
+   "title": "Meta surged +6.25% today",
+   "url": "https://finance.yahoo.com/quote/META",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 92.47372958991214,
+   "tags": [
+    "META",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "META",
+    "move_pct": 6.25,
+    "price": 591.48,
+    "prev_close": 556.71,
+    "day_high": 597.52,
+    "day_low": 559.36,
+    "volume": 17609134
+   }
+  },
+  {
+   "id": "1aea3a87f767",
+   "title": "Crude Oil (futures) plunged -5.85% today",
+   "url": "https://finance.yahoo.com/quote/CL=F",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 90.07735915908825,
+   "tags": [
+    "CL=F",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "CL=F",
+    "move_pct": -5.85,
+    "price": 79.72,
+    "prev_close": 84.67,
+    "day_high": 81.3,
+    "day_low": 78.43,
+    "volume": 228737
+   }
+  },
+  {
+   "id": "4accbf7497a9",
+   "title": "Microsoft surged +5.50% today",
+   "url": "https://finance.yahoo.com/quote/MSFT",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 87.9811499397486,
+   "tags": [
+    "MSFT",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MSFT",
+    "move_pct": 5.5,
+    "price": 490.26,
+    "prev_close": 464.72,
+    "day_high": 491.37,
+    "day_low": 475.0,
+    "volume": 43703135
+   }
+  },
+  {
+   "id": "5de64c8bffb1",
+   "title": "Alphabet surged +5.00% today",
+   "url": "https://finance.yahoo.com/quote/GOOGL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 84.9890489428018,
+   "tags": [
+    "GOOGL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GOOGL",
+    "move_pct": 5.0,
+    "price": 373.93,
+    "prev_close": 356.13,
+    "day_high": 376.693,
+    "day_low": 363.35,
+    "volume": 25388257
+   }
+  },
+  {
+   "id": "a5b9c4fb9daa",
+   "title": "Amazon surged +4.08% today",
+   "url": "https://finance.yahoo.com/quote/AMZN",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 79.50106782531859,
+   "tags": [
+    "AMZN",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AMZN",
+    "move_pct": 4.08,
+    "price": 282.67,
+    "prev_close": 271.58,
+    "day_high": 287.16,
+    "day_low": 278.0,
+    "volume": 64575748
+   }
+  },
+  {
+   "id": "4c69b3186dc4",
+   "title": "NVIDIA surged +3.65% today",
+   "url": "https://finance.yahoo.com/quote/NVDA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 76.87496886674965,
+   "tags": [
+    "NVDA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NVDA",
+    "move_pct": 3.65,
+    "price": 208.07,
+    "prev_close": 200.75,
+    "day_high": 208.74,
+    "day_low": 196.85,
+    "volume": 83730638
+   }
+  },
+  {
+   "id": "6db431330789",
+   "title": "Tesla surged +3.31% today",
+   "url": "https://finance.yahoo.com/quote/TSLA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-03T18:26:26Z",
+   "score": 74.86182963272392,
+   "tags": [
+    "TSLA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "TSLA",
+    "move_pct": 3.31,
+    "price": 321.51,
+    "prev_close": 311.21,
+    "day_high": 324.2,
+    "day_low": 310.425,
+    "volume": 27349412
+   }
+  }
+ ]
+}

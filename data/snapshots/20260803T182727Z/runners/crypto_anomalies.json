@@ -1,0 +1,245 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-03T18:26:24Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.18,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "fa3461d27587",
+   "title": "Audiera (BEAT) moved -28.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -28.7,
+    "pct1h": 2.4,
+    "pct7d": -29.7,
+    "price_usd": 2.81,
+    "market_cap": 870478581
+   }
+  },
+  {
+   "id": "f14abddd2ad9",
+   "title": "Cosmos Hub (ATOM) moved +7.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cosmos",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 74.5,
+   "tags": [
+    "atom",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "atom",
+    "pct24h": 7.8,
+    "pct1h": 1.2,
+    "pct7d": 0.4,
+    "price_usd": 1.34,
+    "market_cap": 703109567
+   }
+  },
+  {
+   "id": "8a7fef8d1d0d",
+   "title": "币安人生 (BinanceLife) (币安人生) moved -7.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 74.25,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": -7.7,
+    "pct1h": 0.5,
+    "pct7d": -14.2,
+    "price_usd": 0.547528,
+    "market_cap": 547525377
+   }
+  },
+  {
+   "id": "75c5c0985f08",
+   "title": "Uniswap (UNI) moved -6.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/uniswap",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 71.5,
+   "tags": [
+    "uni",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "uni",
+    "pct24h": -6.6,
+    "pct1h": 0.3,
+    "pct7d": 1.9,
+    "price_usd": 3.91,
+    "market_cap": 2442306664
+   }
+  },
+  {
+   "id": "969f87f35557",
+   "title": "Algorand (ALGO) moved +5.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/algorand",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 69.5,
+   "tags": [
+    "algo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "algo",
+    "pct24h": 5.8,
+    "pct1h": 2.0,
+    "pct7d": 10.4,
+    "price_usd": 0.09086,
+    "market_cap": 814928546
+   }
+  },
+  {
+   "id": "796c93d8b8ed",
+   "title": "Venice Token (VVV) moved +5.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/venice-token",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 69.0,
+   "tags": [
+    "vvv",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "vvv",
+    "pct24h": 5.6,
+    "pct1h": 3.9,
+    "pct7d": -4.9,
+    "price_usd": 12.34,
+    "market_cap": 586677847
+   }
+  },
+  {
+   "id": "1de4786a8f96",
+   "title": "Hyperliquid (HYPE) moved +4.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/hyperliquid",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 66.75,
+   "tags": [
+    "hype",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "hype",
+    "pct24h": 4.7,
+    "pct1h": 0.1,
+    "pct7d": -5.0,
+    "price_usd": 54.62,
+    "market_cap": 12149854438
+   }
+  },
+  {
+   "id": "b1e1f5861e46",
+   "title": "Polkadot (DOT) moved +4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/polkadot",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 65.75,
+   "tags": [
+    "dot",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "dot",
+    "pct24h": 4.3,
+    "pct1h": 0.4,
+    "pct7d": 4.1,
+    "price_usd": 0.828649,
+    "market_cap": 1405655266
+   }
+  },
+  {
+   "id": "5c0f8f49908f",
+   "title": "Zcash (ZEC) moved +4.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-03T18:26:24Z",
+   "score": 65.5,
+   "tags": [
+    "zec",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "zec",
+    "pct24h": 4.2,
+    "pct1h": -0.1,
+    "pct7d": 0.8,
+    "price_usd": 490.22,
+    "market_cap": 8228261058
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 63829,
+   "pct24h": 1.1
+  },
+  "eth": {
+   "price": 1869.56,
+   "pct24h": 0.3
+  },
+  "xrp": {
+   "price": 1.081,
+   "pct24h": 0.1
+  },
+  "sol": {
+   "price": 74.06,
+   "pct24h": 0.7
+  },
+  "doge": {
+   "price": 0.070329,
+   "pct24h": 0.0
+  },
+  "ada": {
+   "price": 0.193043,
+   "pct24h": 1.2
+  },
+  "link": {
+   "price": 8.24,
+   "pct24h": -0.4
+  },
+  "ltc": {
+   "price": 44.08,
+   "pct24h": -1.5
+  },
+  "avax": {
+   "price": 6.53,
+   "pct24h": -0.8
+  },
+  "dot": {
+   "price": 0.828649,
+   "pct24h": 4.3
+  }
+ }
+}

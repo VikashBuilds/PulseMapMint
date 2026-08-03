@@ -1,0 +1,677 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-03T18:26:30Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.57,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "9ec318842fe9",
+   "title": "Tell HN: Pretending not to use AI has made me a better developer",
+   "url": "https://news.ycombinator.com/item?id=49157839",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 3,
+    "hn_id": 49157839
+   }
+  },
+  {
+   "id": "a9d7e377882e",
+   "title": "Tell HN: Amazonbot aggressively scraping my website and ignoring robots.txt",
+   "url": "https://news.ycombinator.com/item?id=49137359",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 20,
+    "hn_id": 49137359
+   }
+  },
+  {
+   "id": "a2986aee3467",
+   "title": "Ask HN: Anyone still do work on Intel Macs?",
+   "url": "https://news.ycombinator.com/item?id=49139703",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 36.4564392373896,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 21,
+    "comments": 28,
+    "hn_id": 49139703
+   }
+  },
+  {
+   "id": "261ef68257e1",
+   "title": "Tips for Landing a YC Internship?",
+   "url": "https://news.ycombinator.com/item?id=49149028",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 8,
+    "hn_id": 49149028
+   }
+  },
+  {
+   "id": "a40363079044",
+   "title": "Ask HN: Have LLMs Plateaued?",
+   "url": "https://news.ycombinator.com/item?id=49150433",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 19,
+    "hn_id": 49150433
+   }
+  },
+  {
+   "id": "1304a06d9510",
+   "title": "Ask HN: ReAct vs. Planning Pattern",
+   "url": "https://news.ycombinator.com/item?id=49158267",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49158267
+   }
+  },
+  {
+   "id": "541f2ae750e9",
+   "title": "Ask HN: Early Feedback on Dez?",
+   "url": "https://news.ycombinator.com/item?id=49158021",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 3,
+    "hn_id": 49158021
+   }
+  },
+  {
+   "id": "4eba996d2fec",
+   "title": "Ask HN: What's Next for LLMs?",
+   "url": "https://news.ycombinator.com/item?id=49149599",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 4,
+    "hn_id": 49149599
+   }
+  },
+  {
+   "id": "0cd25434d06c",
+   "title": "New open sourced eval tool for building agents",
+   "url": "https://news.ycombinator.com/item?id=49152073",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 2,
+    "hn_id": 49152073
+   }
+  },
+  {
+   "id": "f779d8dc6e88",
+   "title": "What is the downside of coaching that I may not be seeing yet?",
+   "url": "https://news.ycombinator.com/item?id=49143243",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 1,
+    "hn_id": 49143243
+   }
+  },
+  {
+   "id": "2ad0427696e2",
+   "title": "Best way to avoid bloat and AI – selfcontaining OS",
+   "url": "https://news.ycombinator.com/item?id=49143571",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 3,
+    "hn_id": 49143571
+   }
+  },
+  {
+   "id": "54b9a1ebf742",
+   "title": "Local, Open source AI meeting recorder that sees and hears everything",
+   "url": "https://news.ycombinator.com/item?id=49150911",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 3,
+    "hn_id": 49150911
+   }
+  },
+  {
+   "id": "bed468048985",
+   "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+   "url": "https://news.ycombinator.com/item?id=49139845",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 15,
+    "hn_id": 49139845
+   }
+  },
+  {
+   "id": "711b8e4b0eef",
+   "title": "Tell HN: HackerOne Announces Mandatory identity verification",
+   "url": "https://news.ycombinator.com/item?id=49126558",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 35.30776406404415,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 17,
+    "comments": 1,
+    "hn_id": 49126558
+   }
+  },
+  {
+   "id": "7051f4b6b4d1",
+   "title": "Ask HN: What's Your BHAG?",
+   "url": "https://news.ycombinator.com/item?id=49143456",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 12,
+    "hn_id": 49143456
+   }
+  },
+  {
+   "id": "d499686f4a66",
+   "title": "Ask HN: How are you using AI to learn?",
+   "url": "https://news.ycombinator.com/item?id=49138466",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 23,
+    "hn_id": 49138466
+   }
+  },
+  {
+   "id": "96f9c59ff3b1",
+   "title": "Strategic Oil Reserves Down to a Record Low Two-Week Supply",
+   "url": "https://news.ycombinator.com/item?id=49117875",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 21,
+    "hn_id": 49117875
+   }
+  },
+  {
+   "id": "80966ce02059",
+   "title": "What if we learned languages like we acquired our first?",
+   "url": "https://news.ycombinator.com/item?id=49142084",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 9,
+    "hn_id": 49142084
+   }
+  },
+  {
+   "id": "ca7171bade85",
+   "title": "Ask HN: When will ChatGPT Voice be able to control my phone?",
+   "url": "https://news.ycombinator.com/item?id=49142464",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 7,
+    "hn_id": 49142464
+   }
+  },
+  {
+   "id": "903d0f23fc27",
+   "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+   "url": "https://github.com/garagehq/nightcrawler/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 48.452078799117146,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 88,
+    "comments": 25,
+    "hn_id": 49154127
+   }
+  },
+  {
+   "id": "4a8f30d20cf7",
+   "title": "Show HN: Hacker News with AI stories filtered out",
+   "url": "https://hcker.news/?view=frontpage&ai=exclude",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 5,
+    "hn_id": 49159018
+   }
+  },
+  {
+   "id": "4f63dcb9063d",
+   "title": "Show HN: Pushyourthing. Everyone mashes one button to push links up",
+   "url": "https://pushyourthing.com",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49158559
+   }
+  },
+  {
+   "id": "642557b30c82",
+   "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+   "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 44.202864369671516,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 59,
+    "comments": 34,
+    "hn_id": 49152871
+   }
+  },
+  {
+   "id": "c5c0e4e9434b",
+   "title": "Show HN: Laurie, play chords from your laptop keyboard",
+   "url": "https://laurie.fm/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49158509
+   }
+  },
+  {
+   "id": "88b4ef8a3560",
+   "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+   "url": "https://armature.tech/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 1,
+    "hn_id": 49157807
+   }
+  },
+  {
+   "id": "569202047374",
+   "title": "Show HN: 11-Node Agentic RAG with MCP and PII Shield Under 512MB RAM",
+   "url": "https://agentic-rag-financial-parser.onrender.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49158734
+   }
+  },
+  {
+   "id": "acf5c739829d",
+   "title": "Show HN: ssh ssh.place",
+   "url": "https://ssh.place",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 57.01562118716424,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 164,
+    "comments": 96,
+    "hn_id": 49149805
+   }
+  },
+  {
+   "id": "583ae846d0b9",
+   "title": "Show HN: Mstat a temperature and stat tracker for macOS in Zig and SwiftUI",
+   "url": "https://git.cafe/versecafe/mstat",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 0,
+    "hn_id": 49158573
+   }
+  },
+  {
+   "id": "47d1201b1192",
+   "title": "Show HN: Vinyl – Animated vinyl record wallpaper for Mac, synced to Spotify",
+   "url": "https://www.vinylformac.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49158883
+   }
+  },
+  {
+   "id": "3c4490a540c1",
+   "title": "Show HN: HostBlock – A menu bar app that blocks ads and malware (for my grandma)",
+   "url": "https://hostblock.app",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49158497
+   }
+  },
+  {
+   "id": "0482d3167d14",
+   "title": "Show HN: Trawl – a self-hosted engine for scraping sites behind challenge walls",
+   "url": "https://trawl.germondai.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49158557
+   }
+  },
+  {
+   "id": "e6240a19e90d",
+   "title": "Show HN: Add secure widgets on your Windows Desktop or write your own",
+   "url": "https://www.desktop-dashboard.com",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49158415
+   }
+  },
+  {
+   "id": "f7482d550593",
+   "title": "Show HN: ApeiroCraft – Proposals that track views, e-sign and invoice",
+   "url": "https://news.ycombinator.com/item?id=49158160",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49158160
+   }
+  },
+  {
+   "id": "330b2ed953a7",
+   "title": "Show HN: Find the perfect name for your startup, app or domain",
+   "url": "https://www.howdowesay.com",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49158145
+   }
+  },
+  {
+   "id": "94578117a9e3",
+   "title": "Show HN: Latex.to – LaTeX to PDF via Full Tex Live in the Browser",
+   "url": "https://latex.to/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49158317
+   }
+  },
+  {
+   "id": "79da1ee8b68f",
+   "title": "Show HN: A Handwritten Blogging Platform",
+   "url": "https://handwritten.blog/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 57.113081446662825,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 165,
+    "comments": 80,
+    "hn_id": 49119751
+   }
+  },
+  {
+   "id": "1c42ac7730e9",
+   "title": "Show HN: Python Projects in the Browser – Event ticket preview",
+   "url": "https://www.codembark.com/projects/q7r4n2v8mk/event-ticket-preview",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49158084
+   }
+  },
+  {
+   "id": "9d5d78ca9de2",
+   "title": "Show HN: CCo – Go-style coroutines in C",
+   "url": "https://github.com/gtutino/CCo",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49157992
+   }
+  },
+  {
+   "id": "008cecf869ea",
+   "title": "Show HN: Popkorn – A CSS based alternative for Lottie animations",
+   "url": "https://github.com/ayarse/popkorn",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-03T18:26:30Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 2,
+    "hn_id": 49158140
+   }
+  }
+ ]
+}
