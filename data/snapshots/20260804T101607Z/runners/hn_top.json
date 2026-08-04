@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-04T10:15:16Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.35,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "7eef34753b64",
+   "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+   "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 35.60660171779821,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 18,
+    "comments": 6,
+    "hn_id": 49166182
+   }
+  },
+  {
+   "id": "f43a180d392b",
+   "title": "Devtools must be open source",
+   "url": "https://blog.exe.dev/devtools-must-be-open-source",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 86.79603547154139,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 611,
+    "comments": 207,
+    "hn_id": 49156111
+   }
+  },
+  {
+   "id": "3e3c1d735bb2",
+   "title": "FFmpeg 9.0",
+   "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 48.58495283014151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 89,
+    "comments": 6,
+    "hn_id": 49166202
+   }
+  },
+  {
+   "id": "2dd02cb7ffb5",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+   "url": "https://github.com/leonickson1/Swiftlet",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 59.09545424246464,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 186,
+    "comments": 79,
+    "hn_id": 49158333
+   }
+  },
+  {
+   "id": "928f27bfd2e3",
+   "title": "That time when I failed the Microsoft interview",
+   "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 44.68501968502953,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 62,
+    "comments": 109,
+    "hn_id": 49095386
+   }
+  },
+  {
+   "id": "4e144a2f351a",
+   "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+   "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 56.22498999199199,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 156,
+    "comments": 123,
+    "hn_id": 49099336
+   }
+  },
+  {
+   "id": "a7231183da8c",
+   "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+   "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 38.46291201783626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 29,
+    "comments": 16,
+    "hn_id": 49165665
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 83.14851674806503,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 541,
+    "comments": 830,
+    "hn_id": 49157930
+   }
+  },
+  {
+   "id": "13c2dd892ec1",
+   "title": "LLMs reward expertise",
+   "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 961,
+    "comments": 407,
+    "hn_id": 49161518
+   }
+  },
+  {
+   "id": "4fb4b5ec86d5",
+   "title": "Harness Engineering for Self-Improvement",
+   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 43.027756377319946,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 52,
+    "comments": 5,
+    "hn_id": 49164896
+   }
+  },
+  {
+   "id": "292a5aec40b4",
+   "title": "CollectWise (YC F24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 27.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1,
+    "comments": 0,
+    "hn_id": 49165170
+   }
+  },
+  {
+   "id": "3e09192b450f",
+   "title": "There Will Come Soft Rains (1950) [pdf]",
+   "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 56.622776601683796,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 160,
+    "comments": 57,
+    "hn_id": 49162653
+   }
+  },
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 58.354160160315836,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 178,
+    "comments": 169,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "0195025a2fc1",
+   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+   "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 80.11351921262151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 486,
+    "comments": 399,
+    "hn_id": 49153374
+   }
+  },
+  {
+   "id": "b318b7796ba2",
+   "title": "Beauty in my backyard",
+   "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 8,
+    "hn_id": 49119671
+   }
+  },
+  {
+   "id": "101cd391dd06",
+   "title": "Archaeologists Find Ancient Glyphs in the Amazon",
+   "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 2,
+    "hn_id": 49135005
+   }
+  },
+  {
+   "id": "9f31d4627d1c",
+   "title": "Trembling Photons in Non-Abelian Electric Fields",
+   "url": "https://physics.aps.org/articles/v19/89",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 0,
+    "hn_id": 49127492
+   }
+  },
+  {
+   "id": "2fad0cce63a6",
+   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+   "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 62.16517186829626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 221,
+    "comments": 55,
+    "hn_id": 49158581
+   }
+  },
+  {
+   "id": "d18219882d77",
+   "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+   "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 68.08421984903521,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 297,
+    "comments": 86,
+    "hn_id": 49155629
+   }
+  },
+  {
+   "id": "388d417ffcba",
+   "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+   "url": "https://hoplite.sh",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 46.0653744329409,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 71,
+    "comments": 59,
+    "hn_id": 49157997
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 52.04163456597992,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 117,
+    "comments": 277,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "21b35b065c8d",
+   "title": "Twenty Years of Pandoc",
+   "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 65.62019202317981,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 264,
+    "comments": 31,
+    "hn_id": 49156750
+   }
+  },
+  {
+   "id": "d581315cf2af",
+   "title": "The US is not a democracy but an oligarchy, study concludes (2014)",
+   "url": "https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 35.897247358851686,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 19,
+    "comments": 4,
+    "hn_id": 49166254
+   }
+  },
+  {
+   "id": "8b3d39a606af",
+   "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+   "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 69.22951503238534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 313,
+    "comments": 66,
+    "hn_id": 49156011
+   }
+  },
+  {
+   "id": "e2a8bca6d7c9",
+   "title": "200 Milliseconds",
+   "url": "https://200ms.thenodebook.com",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 67.27883631321941,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 286,
+    "comments": 87,
+    "hn_id": 49132992
+   }
+  },
+  {
+   "id": "131bf852bef6",
+   "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+   "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 57.21024681681281,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 166,
+    "comments": 43,
+    "hn_id": 49158474
+   }
+  },
+  {
+   "id": "47d09b08287b",
+   "title": "Bonsai: Janestreet's UI Library",
+   "url": "https://github.com/janestreet/bonsai",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 72.23610906922795,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 357,
+    "comments": 147,
+    "hn_id": 49152842
+   }
+  },
+  {
+   "id": "f57a8bc70d86",
+   "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+   "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 50.860201081971496,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 107,
+    "comments": 60,
+    "hn_id": 49162086
+   }
+  },
+  {
+   "id": "a1dde7935d52",
+   "title": "Replacing the Kobo Libra H2O Battery",
+   "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 47.079402165819616,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 78,
+    "comments": 28,
+    "hn_id": 49106935
+   }
+  },
+  {
+   "id": "e2ec91a75594",
+   "title": "How Hollywood stopped making movies in Hollywood",
+   "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T10:15:16Z",
+   "score": 60.26683994916471,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 199,
+    "comments": 240,
+    "hn_id": 49082937
+   }
+  }
+ ]
+}
