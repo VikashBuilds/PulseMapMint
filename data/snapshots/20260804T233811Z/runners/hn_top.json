@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-04T23:37:17Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.46,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "8c461d711d80",
+   "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+   "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 49.10912690248239,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 93,
+    "comments": 46,
+    "hn_id": 49175826
+   }
+  },
+  {
+   "id": "024215ec12a7",
+   "title": "libexpat now funded by the City of Munich for up to 6 months",
+   "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 0,
+    "hn_id": 49176606
+   }
+  },
+  {
+   "id": "806739466eab",
+   "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+   "url": "https://techascent.com/blog/just-ducking-around.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 0,
+    "hn_id": 49175924
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 77.61891294962297,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 443,
+    "comments": 87,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "68b13a624931",
+   "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+   "url": "https://twitter.com/gwern/status/2084739205071343837",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 45.46338192968113,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 67,
+    "comments": 24,
+    "hn_id": 49174900
+   }
+  },
+  {
+   "id": "8ade8d9ac9b0",
+   "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+   "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 93.28250141873832,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 746,
+    "comments": 43,
+    "hn_id": 49173165
+   }
+  },
+  {
+   "id": "aa6140d3cea1",
+   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+   "url": "https://mistral.ai/news/shieldstral/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 66.68333000133266,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 278,
+    "comments": 69,
+    "hn_id": 49171268
+   }
+  },
+  {
+   "id": "e5d555676f01",
+   "title": "Waymo in Dallas",
+   "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 62.41657386773941,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 224,
+    "comments": 272,
+    "hn_id": 49172836
+   }
+  },
+  {
+   "id": "317e9315df6e",
+   "title": "Video2NAND – Abusing video codecs for great computational power",
+   "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 35.60660171779821,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 18,
+    "comments": 2,
+    "hn_id": 49145037
+   }
+  },
+  {
+   "id": "717693ff7be4",
+   "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+   "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49176644
+   }
+  },
+  {
+   "id": "0d9ba9bbaee4",
+   "title": "We finally learned to center a div, then browsers added sidebars",
+   "url": "https://seg6.space/posts/center-div/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 9,
+    "hn_id": 49176055
+   }
+  },
+  {
+   "id": "9c4533547af1",
+   "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+   "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49176634
+   }
+  },
+  {
+   "id": "3ea6f0139614",
+   "title": "Third-party cyber evaluations involving OpenAI models",
+   "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 37.74754878398196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 26,
+    "comments": 2,
+    "hn_id": 49175248
+   }
+  },
+  {
+   "id": "38e2373bac6a",
+   "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+   "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 72.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 361,
+    "comments": 87,
+    "hn_id": 49166386
+   }
+  },
+  {
+   "id": "ea86b0a153d3",
+   "title": "Oxide Computer raises $445M (SEC Form D)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 55.31088913245536,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 147,
+    "comments": 60,
+    "hn_id": 49174407
+   }
+  },
+  {
+   "id": "907b93f185fd",
+   "title": "Hop.earth – OpenStreetMap based car racing game",
+   "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 46.50581316760656,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 74,
+    "comments": 37,
+    "hn_id": 49172405
+   }
+  },
+  {
+   "id": "cec668b2aaa0",
+   "title": "Pi's Minimalism Is Its Advantage",
+   "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 1,
+    "hn_id": 49176038
+   }
+  },
+  {
+   "id": "f00b228e7677",
+   "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+   "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 27.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1,
+    "comments": 0,
+    "hn_id": 49171650
+   }
+  },
+  {
+   "id": "f7b9aa1c6231",
+   "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+   "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 58.726843908080106,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 182,
+    "comments": 44,
+    "hn_id": 49175192
+   }
+  },
+  {
+   "id": "034b380a0af3",
+   "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+   "url": "https://deepgrove.ai/maple-preview",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 7,
+    "hn_id": 49173984
+   }
+  },
+  {
+   "id": "0604183a52cc",
+   "title": "Most tech revolutions made work worse for employees",
+   "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 47.9128784747792,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 84,
+    "comments": 46,
+    "hn_id": 49170076
+   }
+  },
+  {
+   "id": "6c74cd32ec0d",
+   "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+   "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 62.66629793329841,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 227,
+    "comments": 115,
+    "hn_id": 49166874
+   }
+  },
+  {
+   "id": "fde083b9e232",
+   "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+   "url": "https://arxiv.org/abs/2602.16763",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 46.0653744329409,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 71,
+    "comments": 78,
+    "hn_id": 49170915
+   }
+  },
+  {
+   "id": "d0fd0255a41e",
+   "title": "Don't stop early: Case-folding source code at memory speed",
+   "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 41.00781059358212,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 41,
+    "comments": 9,
+    "hn_id": 49127983
+   }
+  },
+  {
+   "id": "8ea4c8fd42b8",
+   "title": "Why some people mow a lawn better than others",
+   "url": "https://pudding.cool/2026/06/mow/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 56.622776601683796,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 160,
+    "comments": 142,
+    "hn_id": 49172550
+   }
+  },
+  {
+   "id": "144e703089b9",
+   "title": "The physics of Docker build caching",
+   "url": "https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 34.01387818865997,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 13,
+    "comments": 2,
+    "hn_id": 49123372
+   }
+  },
+  {
+   "id": "7dc865ecbc28",
+   "title": "Xbox goes down. You can't play games you own on disc",
+   "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 84.37171043518958,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 564,
+    "comments": 607,
+    "hn_id": 49167448
+   }
+  },
+  {
+   "id": "5fd10ab6d6fa",
+   "title": "Show HN: SIMD Viterbi Decoder in Rust",
+   "url": "https://github.com/brian-armstrong/fec",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49176212
+   }
+  },
+  {
+   "id": "5a126c6e3946",
+   "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+   "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 69.93050188902858,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 323,
+    "comments": 243,
+    "hn_id": 49170479
+   }
+  },
+  {
+   "id": "b48f454d5ce6",
+   "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+   "url": "https://edotenv.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T23:37:17Z",
+   "score": 37.74754878398196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 26,
+    "comments": 20,
+    "hn_id": 49172936
+   }
+  }
+ ]
+}

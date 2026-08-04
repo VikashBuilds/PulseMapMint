@@ -1,0 +1,203 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-04T23:37:23Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.05,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "4e6e82c1032a",
+   "title": "Audiera (BEAT) moved -19.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T23:37:23Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -19.3,
+    "pct1h": -1.4,
+    "pct7d": -24.6,
+    "price_usd": 2.58,
+    "market_cap": 797180969
+   }
+  },
+  {
+   "id": "598d2e78144f",
+   "title": "Pump.fun (PUMP) moved +14.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pump-fun",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T23:37:23Z",
+   "score": 91.25,
+   "tags": [
+    "pump",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pump",
+    "pct24h": 14.5,
+    "pct1h": -1.0,
+    "pct7d": 23.3,
+    "price_usd": 0.00241865,
+    "market_cap": 955033872
+   }
+  },
+  {
+   "id": "eb9a0f77a569",
+   "title": "币安人生 (BinanceLife) (币安人生) moved -7.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T23:37:23Z",
+   "score": 73.0,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": -7.2,
+    "pct1h": -1.1,
+    "pct7d": -16.9,
+    "price_usd": 0.523311,
+    "market_cap": 523927919
+   }
+  },
+  {
+   "id": "ac5481433a78",
+   "title": "Canton (CC) moved -5.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/canton-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T23:37:23Z",
+   "score": 68.75,
+   "tags": [
+    "cc",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cc",
+    "pct24h": -5.5,
+    "pct1h": 0.3,
+    "pct7d": -8.9,
+    "price_usd": 0.108763,
+    "market_cap": 4269785146
+   }
+  },
+  {
+   "id": "25ce4407b582",
+   "title": "Zcash (ZEC) moved +5.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T23:37:23Z",
+   "score": 68.0,
+   "tags": [
+    "zec",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "zec",
+    "pct24h": 5.2,
+    "pct1h": 1.1,
+    "pct7d": 8.5,
+    "price_usd": 506.57,
+    "market_cap": 8504640852
+   }
+  },
+  {
+   "id": "32bf1fc36ef5",
+   "title": "Polkadot (DOT) moved +5.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/polkadot",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T23:37:23Z",
+   "score": 68.0,
+   "tags": [
+    "dot",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "dot",
+    "pct24h": 5.2,
+    "pct1h": 1.4,
+    "pct7d": 13.0,
+    "price_usd": 0.858136,
+    "market_cap": 1456020477
+   }
+  },
+  {
+   "id": "cbe990935b88",
+   "title": "Venice Token (VVV) moved -5.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/venice-token",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T23:37:23Z",
+   "score": 68.0,
+   "tags": [
+    "vvv",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "vvv",
+    "pct24h": -5.2,
+    "pct1h": 0.3,
+    "pct7d": -10.4,
+    "price_usd": 11.67,
+    "market_cap": 555227865
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64140,
+   "pct24h": 1.1
+  },
+  "eth": {
+   "price": 1867.66,
+   "pct24h": 0.7
+  },
+  "xrp": {
+   "price": 1.073,
+   "pct24h": -0.3
+  },
+  "sol": {
+   "price": 73.75,
+   "pct24h": 0.7
+  },
+  "doge": {
+   "price": 0.070116,
+   "pct24h": 0.1
+  },
+  "ada": {
+   "price": 0.191905,
+   "pct24h": -0.4
+  },
+  "link": {
+   "price": 8.15,
+   "pct24h": -0.3
+  },
+  "ltc": {
+   "price": 44.95,
+   "pct24h": 1.5
+  },
+  "avax": {
+   "price": 6.69,
+   "pct24h": 2.3
+  },
+  "dot": {
+   "price": 0.858136,
+   "pct24h": 5.2
+  }
+ }
+}

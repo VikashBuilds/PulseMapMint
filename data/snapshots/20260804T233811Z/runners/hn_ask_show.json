@@ -1,0 +1,694 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-04T23:37:33Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.58,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "415c40912f3f",
+   "title": "Ask HN: Can we direct AI on our personal projects during work hours?",
+   "url": "https://news.ycombinator.com/item?id=49171630",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 3,
+    "hn_id": 49171630
+   }
+  },
+  {
+   "id": "a424ea4edc91",
+   "title": "ArXiv",
+   "url": "https://news.ycombinator.com/item?id=49171335",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49171335
+   }
+  },
+  {
+   "id": "6b5a32c69f19",
+   "title": "Tell HN: Seedance 2.5 API Pricing",
+   "url": "https://news.ycombinator.com/item?id=49170050",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49170050
+   }
+  },
+  {
+   "id": "3f0b6752f7e1",
+   "title": "An agent built for Mobile",
+   "url": "https://news.ycombinator.com/item?id=49170404",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49170404
+   }
+  },
+  {
+   "id": "b3d44bd8f815",
+   "title": "Why remote roles are region specific and not 100% remote?",
+   "url": "https://news.ycombinator.com/item?id=49170764",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 7,
+    "hn_id": 49170764
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 54.68585521759479,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 141,
+    "comments": 382,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "a7e204c03016",
+   "title": "Ask HN: What if there was an 8th day of the week?",
+   "url": "https://news.ycombinator.com/item?id=49175242",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "hn_id": 49175242
+   }
+  },
+  {
+   "id": "1d3bdfe19495",
+   "title": "The LLMs Problems",
+   "url": "https://news.ycombinator.com/item?id=49169366",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 1,
+    "hn_id": 49169366
+   }
+  },
+  {
+   "id": "37c6a66a8617",
+   "title": "Ask HN: What is a good format for a tool to report data to a LLM?",
+   "url": "https://news.ycombinator.com/item?id=49176440",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 1,
+    "hn_id": 49176440
+   }
+  },
+  {
+   "id": "602b5e209687",
+   "title": "Ask HN: What was your big failure? How did you get around it?",
+   "url": "https://news.ycombinator.com/item?id=49173922",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49173922
+   }
+  },
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 61.99662146737185,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 219,
+    "comments": 224,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "0b269ddd4c6d",
+   "title": "How to Pivot?",
+   "url": "https://news.ycombinator.com/item?id=49172513",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 3,
+    "hn_id": 49172513
+   }
+  },
+  {
+   "id": "54b9a1ebf742",
+   "title": "Local, Open source AI meeting recorder that sees and hears everything",
+   "url": "https://news.ycombinator.com/item?id=49150911",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 3,
+    "hn_id": 49150911
+   }
+  },
+  {
+   "id": "a9a44c78d18f",
+   "title": "How did Wikipedia layout become so bloated?",
+   "url": "https://news.ycombinator.com/item?id=49167493",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 36.4564392373896,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 21,
+    "comments": 27,
+    "hn_id": 49167493
+   }
+  },
+  {
+   "id": "a2986aee3467",
+   "title": "Ask HN: Anyone still do work on Intel Macs?",
+   "url": "https://news.ycombinator.com/item?id=49139703",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 28,
+    "hn_id": 49139703
+   }
+  },
+  {
+   "id": "6ebb16b69f58",
+   "title": "Ask HN: Does AI research need \"world models\" more than bigger LLMs?",
+   "url": "https://news.ycombinator.com/item?id=49162887",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 2,
+    "hn_id": 49162887
+   }
+  },
+  {
+   "id": "0cc780723b14",
+   "title": "Bibliograph: A Prototypical AppView for Books – Share Your Project – Atmosphere",
+   "url": "https://news.ycombinator.com/item?id=49169706",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49169706
+   }
+  },
+  {
+   "id": "0504d511e1ae",
+   "title": "Ask HN: Are you working 996 hours?",
+   "url": "https://news.ycombinator.com/item?id=49169758",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 15,
+    "hn_id": 49169758
+   }
+  },
+  {
+   "id": "a40363079044",
+   "title": "Ask HN: Have LLMs Plateaued?",
+   "url": "https://news.ycombinator.com/item?id=49150433",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 26,
+    "hn_id": 49150433
+   }
+  },
+  {
+   "id": "350d909c51ff",
+   "title": "Ask HN: Who is firing? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49161893",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 35.897247358851686,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 19,
+    "comments": 5,
+    "hn_id": 49161893
+   }
+  },
+  {
+   "id": "034b380a0af3",
+   "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+   "url": "https://deepgrove.ai/maple-preview",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 7,
+    "hn_id": 49173984
+   }
+  },
+  {
+   "id": "f0a543755299",
+   "title": "Show HN: Turn customer complaints into winning, researched startups",
+   "url": "https://blink-ideas-web.onrender.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49176613
+   }
+  },
+  {
+   "id": "dd467160907d",
+   "title": "Show HN: My tool scanned 256 AI-built apps and most had exposed credentials",
+   "url": "https://necktochoke.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49174388
+   }
+  },
+  {
+   "id": "4348e6155aaa",
+   "title": "Show HN: Mint MCP – Generate 3D assets from coding agents",
+   "url": "https://mcp.mint.gg",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49176574
+   }
+  },
+  {
+   "id": "afc3b8fea67e",
+   "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+   "url": "https://github.com/MakazhanAlpamys/Soup",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 51.92582403567252,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 116,
+    "comments": 23,
+    "hn_id": 49166984
+   }
+  },
+  {
+   "id": "5fd10ab6d6fa",
+   "title": "Show HN: SIMD Viterbi Decoder in Rust",
+   "url": "https://github.com/brian-armstrong/fec",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49176212
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 77.61891294962297,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 443,
+    "comments": 87,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "2dd02cb7ffb5",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+   "url": "https://github.com/leonickson1/Swiftlet",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 68.15669125408017,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 298,
+    "comments": 134,
+    "hn_id": 49158333
+   }
+  },
+  {
+   "id": "cee967196e8c",
+   "title": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
+   "url": "https://jido.run/blog/jido-assembly-slack-clone",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 0,
+    "hn_id": 49170704
+   }
+  },
+  {
+   "id": "36cbd32e531f",
+   "title": "Show HN: TormentNexus – Local-first Go control plane with persistent memory",
+   "url": "https://tormentnexus.site",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49173549
+   }
+  },
+  {
+   "id": "7f32ee2339e7",
+   "title": "Show HN: SIEMatic, a fair-sourced observability and security platform",
+   "url": "https://github.com/mcindi/siematic",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 4,
+    "hn_id": 49171404
+   }
+  },
+  {
+   "id": "35398c38167b",
+   "title": "Show HN: A faster coding agent than Codex and Claude Code",
+   "url": "https://www.codewithbullet.com",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 5,
+    "hn_id": 49173799
+   }
+  },
+  {
+   "id": "362e80d16368",
+   "title": "Show HN: OpenEdit – Your coding agent can now edit videos",
+   "url": "https://github.com/veedstudio/open-edit",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 2,
+    "hn_id": 49169818
+   }
+  },
+  {
+   "id": "c27eba9e7acc",
+   "title": "Show HN: Adapt, Automatically Turns Files into REST APIs, Web UI, and MCP",
+   "url": "https://github.com/mcindi/adapt",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49170622
+   }
+  },
+  {
+   "id": "acf5c739829d",
+   "title": "Show HN: ssh ssh.place",
+   "url": "https://ssh.place",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 58.726843908080106,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 182,
+    "comments": 112,
+    "hn_id": 49149805
+   }
+  },
+  {
+   "id": "53109deae8e9",
+   "title": "Show HN: Korvo – Local-first AI workspace that traces answers to the source",
+   "url": "https://www.korvo.xyz/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "hn_id": 49170374
+   }
+  },
+  {
+   "id": "cfb6bde54e4b",
+   "title": "Show HN: Simple self-hosted LLM assistant with user-steered compounding context",
+   "url": "https://github.com/kol3x/pawmc",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49169771
+   }
+  },
+  {
+   "id": "f529f9244669",
+   "title": "Show HN: Pure front end only image tools – Trustedimagetools",
+   "url": "https://trustedimagetools.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 4,
+    "hn_id": 49172569
+   }
+  },
+  {
+   "id": "7454263eb8d4",
+   "title": "Show HN: Hackercast – Listen to Hacker News stories as a podcast",
+   "url": "https://hackercast.app",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 1,
+    "hn_id": 49172320
+   }
+  },
+  {
+   "id": "1790de737c41",
+   "title": "Show HN: Terminal stock dashboard in Rust with SEC Form 4 insider trades",
+   "url": "https://github.com/makeev/alphai-tui",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-04T23:37:33Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49172140
+   }
+  }
+ ]
+}

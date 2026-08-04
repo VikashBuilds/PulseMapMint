@@ -1067,5 +1067,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260804T233811Z",
+  "generated": "2026-08-04T23:38:11.910001+00:00",
+  "events": 1131,
+  "breakers": 120,
+  "avg_heat": 89.8,
+  "prices": {
+   "btc": {
+    "price": 64140,
+    "pct24h": 1.1
+   },
+   "eth": {
+    "price": 1867.66,
+    "pct24h": 0.7
+   },
+   "xrp": {
+    "price": 1.073,
+    "pct24h": -0.3
+   },
+   "sol": {
+    "price": 73.75,
+    "pct24h": 0.7
+   },
+   "doge": {
+    "price": 0.070116,
+    "pct24h": 0.1
+   },
+   "ada": {
+    "price": 0.191905,
+    "pct24h": -0.4
+   },
+   "link": {
+    "price": 8.15,
+    "pct24h": -0.3
+   },
+   "ltc": {
+    "price": 44.95,
+    "pct24h": 1.5
+   },
+   "avax": {
+    "price": 6.69,
+    "pct24h": 2.3
+   },
+   "dot": {
+    "price": 0.858136,
+    "pct24h": 5.2
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved -19.3% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "Pump.fun (PUMP) moved +14.5% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "lyogavin/airllm",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Devtools must be open source",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "LLMs reward expertise",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]
