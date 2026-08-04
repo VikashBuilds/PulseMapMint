@@ -956,5 +956,116 @@
     "c": "markets"
    }
   ]
+ },
+ {
+  "ts": "20260804T181429Z",
+  "generated": "2026-08-04T18:14:29.182867+00:00",
+  "events": 1100,
+  "breakers": 120,
+  "avg_heat": 88.0,
+  "prices": {
+   "btc": {
+    "price": 64069,
+    "pct24h": 0.4
+   },
+   "eth": {
+    "price": 1872.47,
+    "pct24h": 0.2
+   },
+   "xrp": {
+    "price": 1.075,
+    "pct24h": -0.7
+   },
+   "sol": {
+    "price": 73.96,
+    "pct24h": 0.5
+   },
+   "doge": {
+    "price": 0.070309,
+    "pct24h": -0.1
+   },
+   "ada": {
+    "price": 0.191377,
+    "pct24h": -0.5
+   },
+   "link": {
+    "price": 8.2,
+    "pct24h": -0.9
+   },
+   "ltc": {
+    "price": 44.54,
+    "pct24h": 0.9
+   },
+   "avax": {
+    "price": 6.71,
+    "pct24h": 2.8
+   },
+   "dot": {
+    "price": 0.837863,
+    "pct24h": 1.5
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved -12.4% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "lyogavin/airllm",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Ten advances in mathematics and theoretical computer science",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "SQLite Critical CVEs or LLM Slop?",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Don't be a meat proxy",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

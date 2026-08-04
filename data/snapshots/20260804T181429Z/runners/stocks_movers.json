@@ -1,0 +1,387 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-04T18:13:41Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.13,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "7538b23dc04d",
+   "title": "AMD surged +8.63% today",
+   "url": "https://finance.yahoo.com/quote/AMD",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 95.0,
+   "tags": [
+    "AMD",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AMD",
+    "move_pct": 8.63,
+    "price": 526.48,
+    "prev_close": 484.64,
+    "day_high": 530.13,
+    "day_low": 502.2,
+    "volume": 23686312
+   }
+  },
+  {
+   "id": "961422881295",
+   "title": "Qualcomm surged +6.86% today",
+   "url": "https://finance.yahoo.com/quote/QCOM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 95.0,
+   "tags": [
+    "QCOM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QCOM",
+    "move_pct": 6.86,
+    "price": 161.97,
+    "prev_close": 151.57,
+    "day_high": 163.09,
+    "day_low": 155.312,
+    "volume": 7728345
+   }
+  },
+  {
+   "id": "b4d834c08dde",
+   "title": "Super Micro surged +10.67% today",
+   "url": "https://finance.yahoo.com/quote/SMCI",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 95.0,
+   "tags": [
+    "SMCI",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SMCI",
+    "move_pct": 10.67,
+    "price": 31.7,
+    "prev_close": 28.64,
+    "day_high": 31.77,
+    "day_low": 29.07,
+    "volume": 33327507
+   }
+  },
+  {
+   "id": "9ab425b91c47",
+   "title": "Intel surged +10.30% today",
+   "url": "https://finance.yahoo.com/quote/INTC",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 95.0,
+   "tags": [
+    "INTC",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "INTC",
+    "move_pct": 10.3,
+    "price": 100.37,
+    "prev_close": 91.0,
+    "day_high": 100.99,
+    "day_low": 94.32,
+    "volume": 74134619
+   }
+  },
+  {
+   "id": "7340b5763efc",
+   "title": "Palantir surged +29.70% today",
+   "url": "https://finance.yahoo.com/quote/PLTR",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 95.0,
+   "tags": [
+    "PLTR",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "PLTR",
+    "move_pct": 29.7,
+    "price": 162.97,
+    "prev_close": 125.65,
+    "day_high": 164.51,
+    "day_low": 143.28,
+    "volume": 131915953
+   }
+  },
+  {
+   "id": "455a42ee6cb9",
+   "title": "Broadcom surged +7.43% today",
+   "url": "https://finance.yahoo.com/quote/AVGO",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 95.0,
+   "tags": [
+    "AVGO",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AVGO",
+    "move_pct": 7.43,
+    "price": 421.36,
+    "prev_close": 392.23,
+    "day_high": 422.065,
+    "day_low": 400.68,
+    "volume": 15441006
+   }
+  },
+  {
+   "id": "582fdfcddd95",
+   "title": "Micron surged +7.52% today",
+   "url": "https://finance.yahoo.com/quote/MU",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 95.0,
+   "tags": [
+    "MU",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MU",
+    "move_pct": 7.52,
+    "price": 891.87,
+    "prev_close": 829.5,
+    "day_high": 902.43,
+    "day_low": 858.5,
+    "volume": 25586535
+   }
+  },
+  {
+   "id": "ce9c8800eca8",
+   "title": "Caterpillar surged +6.32% today",
+   "url": "https://finance.yahoo.com/quote/CAT",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 92.93236389046182,
+   "tags": [
+    "CAT",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "CAT",
+    "move_pct": 6.32,
+    "price": 882.5,
+    "prev_close": 830.03,
+    "day_high": 934.999,
+    "day_low": 866.85,
+    "volume": 4086856
+   }
+  },
+  {
+   "id": "18f304a68099",
+   "title": "Crude Oil (futures) plunged -5.50% today",
+   "url": "https://finance.yahoo.com/quote/CL=F",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 88.00970873786409,
+   "tags": [
+    "CL=F",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "CL=F",
+    "move_pct": -5.5,
+    "price": 75.92,
+    "prev_close": 80.34,
+    "day_high": 82.33,
+    "day_low": 75.16,
+    "volume": 286785
+   }
+  },
+  {
+   "id": "1ca5651e5592",
+   "title": "Silver (futures) surged +3.71% today",
+   "url": "https://finance.yahoo.com/quote/SI=F",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 77.23451327433627,
+   "tags": [
+    "SI=F",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SI=F",
+    "move_pct": 3.71,
+    "price": 60.0,
+    "prev_close": 57.86,
+    "day_high": 60.285,
+    "day_low": 58.185,
+    "volume": 37834
+   }
+  },
+  {
+   "id": "a3139f98a809",
+   "title": "Moderna surged +3.70% today",
+   "url": "https://finance.yahoo.com/quote/MRNA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 77.19804134929271,
+   "tags": [
+    "MRNA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MRNA",
+    "move_pct": 3.7,
+    "price": 57.18,
+    "prev_close": 55.14,
+    "day_high": 58.34,
+    "day_low": 55.875,
+    "volume": 2238710
+   }
+  },
+  {
+   "id": "9ac480149233",
+   "title": "Natural Gas (futures) plunged -3.63% today",
+   "url": "https://finance.yahoo.com/quote/NG=F",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 76.79072276159654,
+   "tags": [
+    "NG=F",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NG=F",
+    "move_pct": -3.63,
+    "price": 2.68,
+    "prev_close": 2.78,
+    "day_high": 2.786,
+    "day_low": 2.659,
+    "volume": 107854
+   }
+  },
+  {
+   "id": "3534f920e246",
+   "title": "Oracle surged +3.63% today",
+   "url": "https://finance.yahoo.com/quote/ORCL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 76.7835741980966,
+   "tags": [
+    "ORCL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "ORCL",
+    "move_pct": 3.63,
+    "price": 147.0,
+    "prev_close": 141.85,
+    "day_high": 148.7,
+    "day_low": 141.03,
+    "volume": 28216378
+   }
+  },
+  {
+   "id": "2fb5a8099da3",
+   "title": "Nasdaq 100 ETF surged +3.27% today",
+   "url": "https://finance.yahoo.com/quote/QQQ",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 74.61803819618036,
+   "tags": [
+    "QQQ",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QQQ",
+    "move_pct": 3.27,
+    "price": 722.96,
+    "prev_close": 700.07,
+    "day_high": 724.28,
+    "day_low": 707.59,
+    "volume": 40774465
+   }
+  },
+  {
+   "id": "379d77aeb104",
+   "title": "Silver ETF surged +2.92% today",
+   "url": "https://finance.yahoo.com/quote/SLV",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 72.49904689287078,
+   "tags": [
+    "SLV",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SLV",
+    "move_pct": 2.92,
+    "price": 53.99,
+    "prev_close": 52.46,
+    "day_high": 54.275,
+    "day_low": 53.58,
+    "volume": 10353300
+   }
+  },
+  {
+   "id": "f56ca7c52484",
+   "title": "Goldman Sachs surged +2.89% today",
+   "url": "https://finance.yahoo.com/quote/GS",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 72.35049558935216,
+   "tags": [
+    "GS",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GS",
+    "move_pct": 2.89,
+    "price": 1056.76,
+    "prev_close": 1027.06,
+    "day_high": 1066.16,
+    "day_low": 1043.27,
+    "volume": 1066938
+   }
+  },
+  {
+   "id": "8392373d6f84",
+   "title": "IBM surged +2.83% today",
+   "url": "https://finance.yahoo.com/quote/IBM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-04T18:13:41Z",
+   "score": 71.95461976934297,
+   "tags": [
+    "IBM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "IBM",
+    "move_pct": 2.83,
+    "price": 232.71,
+    "prev_close": 226.31,
+    "day_high": 233.09,
+    "day_low": 223.3,
+    "volume": 4208345
+   }
+  }
+ ]
+}

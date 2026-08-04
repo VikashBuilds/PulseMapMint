@@ -1,0 +1,349 @@
+{
+ "runner": "usgs_quakes",
+ "generated": "2026-08-04T18:13:36Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.12,
+ "args": [
+  "usgs_quakes",
+  "4.0"
+ ],
+ "items": [
+  {
+   "id": "712d46fad9ad",
+   "title": "M5.1 earthquake — south of Tonga",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 80.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.1,
+    "depth_km": 10,
+    "lat": -24.606,
+    "lon": -175.23,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "859cadf29d7c",
+   "title": "M4.9 earthquake — 204 km SE of Severo-Kuril’sk, Russia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvj",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 79.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": 49.232,
+    "lon": 157.899,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "cf750ae7430f",
+   "title": "M4.7 earthquake — 64 km SSW of Midelt, Morocco",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thv7",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 77.6,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.7,
+    "depth_km": 10,
+    "lat": 32.201,
+    "lon": -5.125,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "32bd41e997ff",
+   "title": "M4.6 earthquake — 79 km E of Onagawa Chō, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0a",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 76.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 40.4,
+    "lat": 38.313,
+    "lon": 142.343,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "80968f2d3efa",
+   "title": "M4.6 earthquake — 112 km WSW of Puerto Madero, Mexico",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thym",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 76.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 10,
+    "lat": 14.322,
+    "lon": -93.38,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "4f064a50a69d",
+   "title": "M4.4 earthquake — 227 km SSE of Shimoda, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thxt",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 75.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 105.4,
+    "lat": 32.95,
+    "lon": 140.276,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "85c0a048f45e",
+   "title": "M4.4 earthquake — south of the Fiji Islands",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thx7",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 75.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 514.1,
+    "lat": -24.25,
+    "lon": 179.94,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "d30c69da939d",
+   "title": "M4.4 earthquake — South Sandwich Islands region",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thwz",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 75.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 214.1,
+    "lat": -57.681,
+    "lon": -27.286,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "f0b30687f2f2",
+   "title": "M4.4 earthquake — 34 km ESE of Vallenar, Chile",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thva",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 75.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.4,
+    "depth_km": 95.7,
+    "lat": -28.746,
+    "lon": -70.469,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "7bc3ece02faa",
+   "title": "M4.3 earthquake — 79 km SSE of Atka, Alaska",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pigqhn",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 74.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.3,
+    "depth_km": 37.6,
+    "lat": 51.588,
+    "lon": -173.59,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "e74d31a7a4b4",
+   "title": "M4.3 earthquake — 94 km WSW of Aquiles Serdán, Mexico",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thzg",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 74.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.3,
+    "depth_km": 34.2,
+    "lat": 14.517,
+    "lon": -93.281,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "32071c19a11a",
+   "title": "M4.3 earthquake — 92 km WSW of Puerto Madero, Mexico",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thyc",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 74.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.3,
+    "depth_km": 10,
+    "lat": 14.468,
+    "lon": -93.237,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "012f10f434f5",
+   "title": "M4.1 earthquake — 116 km NNE of Mīnāb, Iran",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thyw",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 72.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.1,
+    "depth_km": 30.7,
+    "lat": 28.086,
+    "lon": 57.573,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "ec6d49d1270a",
+   "title": "M4.1 earthquake — 39 km SE of Ḩājjīābād, Iran",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvq",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 72.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.1,
+    "depth_km": 10,
+    "lat": 28.061,
+    "lon": 56.185,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "2fc52168f919",
+   "title": "M4 earthquake — off the coast of Oregon",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thx2",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 72.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4,
+    "depth_km": 10,
+    "lat": 43.967,
+    "lon": -128.277,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "12614e2db892",
+   "title": "M4 earthquake — 229 km ESE of Attu Station, Alaska",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phamvi",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-04T18:13:36Z",
+   "score": 72.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4,
+    "depth_km": 5,
+    "lat": 51.973,
+    "lon": 176.246,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  }
+ ]
+}

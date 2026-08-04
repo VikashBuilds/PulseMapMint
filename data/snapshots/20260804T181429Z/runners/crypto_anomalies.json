@@ -1,0 +1,77 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-04T18:13:24Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.04,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "d631383f5e3b",
+   "title": "Audiera (BEAT) moved -12.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-04T18:13:24Z",
+   "score": 86.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -12.4,
+    "pct1h": 0.1,
+    "pct7d": -21.3,
+    "price_usd": 2.43,
+    "market_cap": 752694992
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64069,
+   "pct24h": 0.4
+  },
+  "eth": {
+   "price": 1872.47,
+   "pct24h": 0.2
+  },
+  "xrp": {
+   "price": 1.075,
+   "pct24h": -0.7
+  },
+  "sol": {
+   "price": 73.96,
+   "pct24h": 0.5
+  },
+  "doge": {
+   "price": 0.070309,
+   "pct24h": -0.1
+  },
+  "ada": {
+   "price": 0.191377,
+   "pct24h": -0.5
+  },
+  "link": {
+   "price": 8.2,
+   "pct24h": -0.9
+  },
+  "ltc": {
+   "price": 44.54,
+   "pct24h": 0.9
+  },
+  "avax": {
+   "price": 6.71,
+   "pct24h": 2.8
+  },
+  "dot": {
+   "price": 0.837863,
+   "pct24h": 1.5
+  }
+ }
+}

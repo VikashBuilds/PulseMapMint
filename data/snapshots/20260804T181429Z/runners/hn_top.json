@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-04T18:13:23Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.37,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "6de6fb2c870b",
+   "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
+   "url": "https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 0,
+    "hn_id": 49172079
+   }
+  },
+  {
+   "id": "21fa15c926dd",
+   "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+   "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 37.99038105676658,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 27,
+    "comments": 7,
+    "hn_id": 49171656
+   }
+  },
+  {
+   "id": "11264c14de41",
+   "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+   "url": "https://github.com/agentrust-io/cmcp",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49172545
+   }
+  },
+  {
+   "id": "41b1596b881b",
+   "title": "Haters",
+   "url": "https://www.paulgraham.com/fh.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 1,
+    "hn_id": 49172534
+   }
+  },
+  {
+   "id": "250cde57d13d",
+   "title": "The Judgment Reservoir",
+   "url": "https://shannph.com/writing/the-judgment-reservoir/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49172540
+   }
+  },
+  {
+   "id": "38e2373bac6a",
+   "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+   "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 68.37337893224367,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 301,
+    "comments": 66,
+    "hn_id": 49166386
+   }
+  },
+  {
+   "id": "dc93591352f0",
+   "title": "Vlt 1.0 and Hosted Package Registries",
+   "url": "https://www.vlt.io/blog/1-0",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 33.66025403784439,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 12,
+    "comments": 0,
+    "hn_id": 49172251
+   }
+  },
+  {
+   "id": "6c74cd32ec0d",
+   "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+   "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 57.69174207655505,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 171,
+    "comments": 85,
+    "hn_id": 49166874
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 63.56812155135378,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 238,
+    "comments": 59,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "f00b228e7677",
+   "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+   "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 27.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1,
+    "comments": 0,
+    "hn_id": 49171650
+   }
+  },
+  {
+   "id": "60778807a2b0",
+   "title": "The Warp Agent CLI",
+   "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 0,
+    "hn_id": 49171766
+   }
+  },
+  {
+   "id": "907b93f185fd",
+   "title": "Hop.earth – OpenStreetMap based car racing game",
+   "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 4,
+    "hn_id": 49172405
+   }
+  },
+  {
+   "id": "efcb7cfaf551",
+   "title": "Buckminster Fuller: everything I know (1975)",
+   "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 50.24876234590519,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 102,
+    "comments": 30,
+    "hn_id": 49167147
+   }
+  },
+  {
+   "id": "4365bb6ed789",
+   "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+   "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 54.261749776799064,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 137,
+    "comments": 42,
+    "hn_id": 49170001
+   }
+  },
+  {
+   "id": "4fb4b5ec86d5",
+   "title": "Harness Engineering for Self-Improvement",
+   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 63.81043674065006,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 241,
+    "comments": 52,
+    "hn_id": 49164896
+   }
+  },
+  {
+   "id": "5a126c6e3946",
+   "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+   "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 55.4138126514911,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 148,
+    "comments": 112,
+    "hn_id": 49170479
+   }
+  },
+  {
+   "id": "e95fe79ca8da",
+   "title": "Dates That Don't Exist (2015)",
+   "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 47.22048604328897,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 79,
+    "comments": 51,
+    "hn_id": 49136363
+   }
+  },
+  {
+   "id": "902616ca67cd",
+   "title": "Why Large Language Models Fail at Tabular Prediction",
+   "url": "https://arxiv.org/abs/2608.02412",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 48.048861143232216,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 85,
+    "comments": 30,
+    "hn_id": 49166442
+   }
+  },
+  {
+   "id": "afc3b8fea67e",
+   "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+   "url": "https://github.com/MakazhanAlpamys/Soup",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 49.874685927665496,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 99,
+    "comments": 16,
+    "hn_id": 49166984
+   }
+  },
+  {
+   "id": "1d17851db49b",
+   "title": "Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019)",
+   "url": "https://www.righto.com/2019/07/looking-inside-1970s-prom-chip-that.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 38.22875655532295,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 28,
+    "comments": 5,
+    "hn_id": 49130117
+   }
+  },
+  {
+   "id": "ed380d864979",
+   "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+   "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 51.57536453183663,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 113,
+    "comments": 128,
+    "hn_id": 49168886
+   }
+  },
+  {
+   "id": "5a783c3231a8",
+   "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+   "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 36.4564392373896,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 21,
+    "comments": 12,
+    "hn_id": 49169227
+   }
+  },
+  {
+   "id": "7dc865ecbc28",
+   "title": "Xbox goes down. You can't play games you own on disc",
+   "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 76.47815070493499,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 424,
+    "comments": 493,
+    "hn_id": 49167448
+   }
+  },
+  {
+   "id": "534a72b56c29",
+   "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
+   "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 47.63846284534354,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 82,
+    "comments": 16,
+    "hn_id": 49129545
+   }
+  },
+  {
+   "id": "2dd02cb7ffb5",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+   "url": "https://github.com/leonickson1/Swiftlet",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 67.35268586524353,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 287,
+    "comments": 131,
+    "hn_id": 49158333
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 86.69481339626535,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 609,
+    "comments": 892,
+    "hn_id": 49157930
+   }
+  },
+  {
+   "id": "13c2dd892ec1",
+   "title": "LLMs reward expertise",
+   "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1276,
+    "comments": 524,
+    "hn_id": 49161518
+   }
+  },
+  {
+   "id": "7c1f24d61fa1",
+   "title": "The AI Demand Bubble",
+   "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 48.31844763272204,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 87,
+    "comments": 45,
+    "hn_id": 49170648
+   }
+  },
+  {
+   "id": "676eb79877dd",
+   "title": "RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",
+   "url": "https://www.youtube.com/watch?v=W-OpIbLUOU0",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 38.69306393762915,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 30,
+    "comments": 7,
+    "hn_id": 49103059
+   }
+  },
+  {
+   "id": "bf3b84ec053f",
+   "title": "Rebuilding and analysing 4 years of Wordle stats from WhatsApp chat logs",
+   "url": "https://blog.omgmog.net/post/rebuilding-wordle-stats-from-whatsapp/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-04T18:13:23Z",
+   "score": 35.30776406404415,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 17,
+    "comments": 4,
+    "hn_id": 49156969
+   }
+  }
+ ]
+}
