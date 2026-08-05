@@ -1178,5 +1178,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260805T100659Z",
+  "generated": "2026-08-05T10:06:59.521237+00:00",
+  "events": 1115,
+  "breakers": 120,
+  "avg_heat": 90.7,
+  "prices": {
+   "btc": {
+    "price": 64098,
+    "pct24h": 0.9
+   },
+   "eth": {
+    "price": 1870.33,
+    "pct24h": 0.8
+   },
+   "xrp": {
+    "price": 1.064,
+    "pct24h": -0.9
+   },
+   "sol": {
+    "price": 73.97,
+    "pct24h": 1.0
+   },
+   "doge": {
+    "price": 0.069768,
+    "pct24h": -0.4
+   },
+   "ada": {
+    "price": 0.196126,
+    "pct24h": 1.3
+   },
+   "link": {
+    "price": 8.18,
+    "pct24h": 0.5
+   },
+   "ltc": {
+    "price": 44.89,
+    "pct24h": 1.6
+   },
+   "avax": {
+    "price": 6.66,
+    "pct24h": -1.4
+   },
+   "dot": {
+    "price": 0.849596,
+    "pct24h": 2.2
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved -13.7% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "Pump.fun (PUMP) moved +12.4% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "zhaoxuya520/reverse-skill",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "lyogavin/airllm",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Devtools must be open source",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "LLMs reward expertise",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Ten advances in mathematics and theoretical computer science",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

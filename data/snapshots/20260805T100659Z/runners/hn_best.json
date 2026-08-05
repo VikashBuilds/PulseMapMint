@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-05T10:05:59Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.66,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "33664007a1c3",
+   "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+   "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 93.87488656977955,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 759,
+    "comments": 442,
+    "hn_id": 49167113
+   }
+  },
+  {
+   "id": "8ade8d9ac9b0",
+   "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+   "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1361,
+    "comments": 79,
+    "hn_id": 49173165
+   }
+  },
+  {
+   "id": "f43a180d392b",
+   "title": "Devtools must be open source",
+   "url": "https://blog.exe.dev/devtools-must-be-open-source",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 91.70832032063167,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 712,
+    "comments": 231,
+    "hn_id": 49156111
+   }
+  },
+  {
+   "id": "13c2dd892ec1",
+   "title": "LLMs reward expertise",
+   "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1354,
+    "comments": 559,
+    "hn_id": 49161518
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 82.66281297335398,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 532,
+    "comments": 92,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 87.04836822995429,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 616,
+    "comments": 918,
+    "hn_id": 49157930
+   }
+  },
+  {
+   "id": "78be65f5ca48",
+   "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+   "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 80.73374202401988,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 497,
+    "comments": 6,
+    "hn_id": 49166491
+   }
+  },
+  {
+   "id": "0195025a2fc1",
+   "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+   "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 82.60859310901456,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 531,
+    "comments": 436,
+    "hn_id": 49153374
+   }
+  },
+  {
+   "id": "aa6140d3cea1",
+   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+   "url": "https://mistral.ai/news/shieldstral/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 76.29571132170798,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 421,
+    "comments": 109,
+    "hn_id": 49171268
+   }
+  },
+  {
+   "id": "82b937aad345",
+   "title": "SQLite Critical CVEs or LLM Slop?",
+   "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 92.12860791048776,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 721,
+    "comments": 372,
+    "hn_id": 49154332
+   }
+  },
+  {
+   "id": "7dc865ecbc28",
+   "title": "Xbox goes down. You can't play games you own on disc",
+   "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 88.9335592627221,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 654,
+    "comments": 679,
+    "hn_id": 49167448
+   }
+  },
+  {
+   "id": "3e3c1d735bb2",
+   "title": "FFmpeg 9.0",
+   "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 77.67826876426369,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 444,
+    "comments": 96,
+    "hn_id": 49166202
+   }
+  },
+  {
+   "id": "21b35b065c8d",
+   "title": "Twenty Years of Pandoc",
+   "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 75.06246098625196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 401,
+    "comments": 51,
+    "hn_id": 49156750
+   }
+  },
+  {
+   "id": "cec668b2aaa0",
+   "title": "Pi's Minimalism Is Its Advantage",
+   "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 73.15340071064557,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 371,
+    "comments": 146,
+    "hn_id": 49176038
+   }
+  },
+  {
+   "id": "d474b8777726",
+   "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+   "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 72.9583152331272,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 368,
+    "comments": 663,
+    "hn_id": 49166860
+   }
+  },
+  {
+   "id": "0fd7b0fc1d74",
+   "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+   "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 73.28301978956992,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 373,
+    "comments": 323,
+    "hn_id": 49155359
+   }
+  },
+  {
+   "id": "38e2373bac6a",
+   "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+   "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 73.08846015417836,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 370,
+    "comments": 95,
+    "hn_id": 49166386
+   }
+  },
+  {
+   "id": "21fa15c926dd",
+   "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+   "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 73.28301978956992,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 373,
+    "comments": 224,
+    "hn_id": 49171656
+   }
+  },
+  {
+   "id": "5a126c6e3946",
+   "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+   "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 72.89311015167004,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 367,
+    "comments": 262,
+    "hn_id": 49170479
+   }
+  },
+  {
+   "id": "8b3d39a606af",
+   "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+   "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 70.75751304430781,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 335,
+    "comments": 75,
+    "hn_id": 49156011
+   }
+  },
+  {
+   "id": "d18219882d77",
+   "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+   "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 70.34589286804264,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 329,
+    "comments": 93,
+    "hn_id": 49155629
+   }
+  },
+  {
+   "id": "4fb4b5ec86d5",
+   "title": "Harness engineering for self-improvement",
+   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 69.15880433163923,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 312,
+    "comments": 73,
+    "hn_id": 49164896
+   }
+  },
+  {
+   "id": "3e09192b450f",
+   "title": "There Will Come Soft Rains (1950) [pdf]",
+   "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 74.11720676097124,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 386,
+    "comments": 403,
+    "hn_id": 49162653
+   }
+  },
+  {
+   "id": "2dd02cb7ffb5",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+   "url": "https://github.com/leonickson1/Swiftlet",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 137,
+    "hn_id": 49158333
+   }
+  },
+  {
+   "id": "0ba369e612b8",
+   "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+   "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 68.51723796382302,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 303,
+    "comments": 259,
+    "hn_id": 49157128
+   }
+  },
+  {
+   "id": "f7b9aa1c6231",
+   "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+   "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 67.93891009329417,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 295,
+    "comments": 74,
+    "hn_id": 49175192
+   }
+  },
+  {
+   "id": "68b13a624931",
+   "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+   "url": "https://twitter.com/gwern/status/2084739205071343837",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 66.53311931459038,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 276,
+    "comments": 193,
+    "hn_id": 49174900
+   }
+  },
+  {
+   "id": "e5d555676f01",
+   "title": "Waymo in Dallas",
+   "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 67.72001872658765,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 292,
+    "comments": 518,
+    "hn_id": 49172836
+   }
+  },
+  {
+   "id": "024215ec12a7",
+   "title": "libexpat now funded by the City of Munich for up to 6 months",
+   "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 66.68333000133266,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 278,
+    "comments": 63,
+    "hn_id": 49176606
+   }
+  },
+  {
+   "id": "09748692c6cd",
+   "title": "Apple is getting this wrong",
+   "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T10:05:59Z",
+   "score": 66.6082924427331,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 277,
+    "comments": 287,
+    "hn_id": 49164649
+   }
+  }
+ ]
+}

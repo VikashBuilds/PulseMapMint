@@ -1,0 +1,387 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-05T10:05:58Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.18,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "1e5b1cf8eb97",
+   "title": "AMD surged +7.00% today",
+   "url": "https://finance.yahoo.com/quote/AMD",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 95.0,
+   "tags": [
+    "AMD",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AMD",
+    "move_pct": 7.0,
+    "price": 518.58,
+    "prev_close": 484.64,
+    "day_high": 530.13,
+    "day_low": 502.2,
+    "volume": 37266340
+   }
+  },
+  {
+   "id": "d55065393df7",
+   "title": "Intel surged +10.84% today",
+   "url": "https://finance.yahoo.com/quote/INTC",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 95.0,
+   "tags": [
+    "INTC",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "INTC",
+    "move_pct": 10.84,
+    "price": 100.86,
+    "prev_close": 91.0,
+    "day_high": 101.39,
+    "day_low": 94.32,
+    "volume": 117064891
+   }
+  },
+  {
+   "id": "e2ca2bdb7acb",
+   "title": "Super Micro surged +10.65% today",
+   "url": "https://finance.yahoo.com/quote/SMCI",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 95.0,
+   "tags": [
+    "SMCI",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SMCI",
+    "move_pct": 10.65,
+    "price": 31.69,
+    "prev_close": 28.64,
+    "day_high": 31.84,
+    "day_low": 29.07,
+    "volume": 52445555
+   }
+  },
+  {
+   "id": "a66b06a0dc31",
+   "title": "Qualcomm surged +7.32% today",
+   "url": "https://finance.yahoo.com/quote/QCOM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 95.0,
+   "tags": [
+    "QCOM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QCOM",
+    "move_pct": 7.32,
+    "price": 162.67,
+    "prev_close": 151.57,
+    "day_high": 163.48,
+    "day_low": 155.312,
+    "volume": 15323813
+   }
+  },
+  {
+   "id": "800c43772d74",
+   "title": "Palantir surged +29.45% today",
+   "url": "https://finance.yahoo.com/quote/PLTR",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 95.0,
+   "tags": [
+    "PLTR",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "PLTR",
+    "move_pct": 29.45,
+    "price": 162.66,
+    "prev_close": 125.65,
+    "day_high": 164.51,
+    "day_low": 143.28,
+    "volume": 172005673
+   }
+  },
+  {
+   "id": "12eadef17980",
+   "title": "Micron surged +7.62% today",
+   "url": "https://finance.yahoo.com/quote/MU",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 95.0,
+   "tags": [
+    "MU",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MU",
+    "move_pct": 7.62,
+    "price": 892.67,
+    "prev_close": 829.5,
+    "day_high": 902.43,
+    "day_low": 858.5,
+    "volume": 35997655
+   }
+  },
+  {
+   "id": "bc6916d3e128",
+   "title": "Broadcom surged +6.61% today",
+   "url": "https://finance.yahoo.com/quote/AVGO",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 94.66550238380543,
+   "tags": [
+    "AVGO",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AVGO",
+    "move_pct": 6.61,
+    "price": 418.16,
+    "prev_close": 392.23,
+    "day_high": 422.065,
+    "day_low": 400.68,
+    "volume": 28050687
+   }
+  },
+  {
+   "id": "d69dc1127c2a",
+   "title": "Caterpillar surged +5.60% today",
+   "url": "https://finance.yahoo.com/quote/CAT",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 88.62047154922111,
+   "tags": [
+    "CAT",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "CAT",
+    "move_pct": 5.6,
+    "price": 876.54,
+    "prev_close": 830.03,
+    "day_high": 934.999,
+    "day_low": 866.85,
+    "volume": 6059222
+   }
+  },
+  {
+   "id": "912d67f6c37e",
+   "title": "IBM surged +3.91% today",
+   "url": "https://finance.yahoo.com/quote/IBM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 78.43687861782512,
+   "tags": [
+    "IBM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "IBM",
+    "move_pct": 3.91,
+    "price": 235.15,
+    "prev_close": 226.31,
+    "day_high": 235.28,
+    "day_low": 223.3,
+    "volume": 6081375
+   }
+  },
+  {
+   "id": "3203ba33ac0f",
+   "title": "Nasdaq 100 ETF surged +3.40% today",
+   "url": "https://finance.yahoo.com/quote/QQQ",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 75.38081906095103,
+   "tags": [
+    "QQQ",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QQQ",
+    "move_pct": 3.4,
+    "price": 723.85,
+    "prev_close": 700.07,
+    "day_high": 725.65,
+    "day_low": 707.59,
+    "volume": 58988820
+   }
+  },
+  {
+   "id": "e2f837605f04",
+   "title": "Moderna surged +3.36% today",
+   "url": "https://finance.yahoo.com/quote/MRNA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 75.13057671381938,
+   "tags": [
+    "MRNA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MRNA",
+    "move_pct": 3.36,
+    "price": 56.99,
+    "prev_close": 55.14,
+    "day_high": 58.34,
+    "day_low": 55.875,
+    "volume": 3929148
+   }
+  },
+  {
+   "id": "f824e2e30b4d",
+   "title": "Oracle surged +2.74% today",
+   "url": "https://finance.yahoo.com/quote/ORCL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 71.4540007049701,
+   "tags": [
+    "ORCL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "ORCL",
+    "move_pct": 2.74,
+    "price": 145.74,
+    "prev_close": 141.85,
+    "day_high": 148.7,
+    "day_low": 141.03,
+    "volume": 36501127
+   }
+  },
+  {
+   "id": "e08d09b39a1d",
+   "title": "Salesforce surged +2.71% today",
+   "url": "https://finance.yahoo.com/quote/CRM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 71.26243613874703,
+   "tags": [
+    "CRM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "CRM",
+    "move_pct": 2.71,
+    "price": 190.99,
+    "prev_close": 185.95,
+    "day_high": 191.285,
+    "day_low": 183.0,
+    "volume": 8787984
+   }
+  },
+  {
+   "id": "6fc2bd7d6e20",
+   "title": "Silver ETF surged +2.63% today",
+   "url": "https://finance.yahoo.com/quote/SLV",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 70.7834540602364,
+   "tags": [
+    "SLV",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SLV",
+    "move_pct": 2.63,
+    "price": 53.84,
+    "prev_close": 52.46,
+    "day_high": 54.275,
+    "day_low": 53.58,
+    "volume": 13547588
+   }
+  },
+  {
+   "id": "2f7722b7fd56",
+   "title": "Nike plunged -2.60% today",
+   "url": "https://finance.yahoo.com/quote/NKE",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 70.61913696060037,
+   "tags": [
+    "NKE",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NKE",
+    "move_pct": -2.6,
+    "price": 41.53,
+    "prev_close": 42.64,
+    "day_high": 42.09,
+    "day_low": 40.911,
+    "volume": 24839723
+   }
+  },
+  {
+   "id": "d8e32eb8b107",
+   "title": "NVIDIA surged +2.56% today",
+   "url": "https://finance.yahoo.com/quote/NVDA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 70.38908246225323,
+   "tags": [
+    "NVDA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NVDA",
+    "move_pct": 2.56,
+    "price": 211.94,
+    "prev_close": 206.64,
+    "day_high": 213.06,
+    "day_low": 209.05,
+    "volume": 130429698
+   }
+  },
+  {
+   "id": "9f93f0f60711",
+   "title": "Goldman Sachs surged +2.52% today",
+   "url": "https://finance.yahoo.com/quote/GS",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 70.14225069616191,
+   "tags": [
+    "GS",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GS",
+    "move_pct": 2.52,
+    "price": 1052.98,
+    "prev_close": 1027.06,
+    "day_high": 1066.16,
+    "day_low": 1043.27,
+    "volume": 1546041
+   }
+  }
+ ]
+}

@@ -1,0 +1,626 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-05T10:06:03Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.66,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 62.080992435478315,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 220,
+    "comments": 238,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "3389b6c5f1b2",
+   "title": "Ask HN: Did GitHub remove the stargazers list?",
+   "url": "https://news.ycombinator.com/item?id=49179728",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49179728
+   }
+  },
+  {
+   "id": "dc999c5a306f",
+   "title": "Ask HN: Dear Anthropic, can we please have thought traces back?",
+   "url": "https://news.ycombinator.com/item?id=49175422",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 6,
+    "hn_id": 49175422
+   }
+  },
+  {
+   "id": "37c6a66a8617",
+   "title": "Ask HN: What is a good format for a tool to report data to a LLM?",
+   "url": "https://news.ycombinator.com/item?id=49176440",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 6,
+    "hn_id": 49176440
+   }
+  },
+  {
+   "id": "b3d44bd8f815",
+   "title": "Why remote roles are region specific and not 100% remote?",
+   "url": "https://news.ycombinator.com/item?id=49170764",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 9,
+    "hn_id": 49170764
+   }
+  },
+  {
+   "id": "a424ea4edc91",
+   "title": "ArXiv",
+   "url": "https://news.ycombinator.com/item?id=49171335",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49171335
+   }
+  },
+  {
+   "id": "6b5a32c69f19",
+   "title": "Tell HN: Seedance 2.5 API Pricing",
+   "url": "https://news.ycombinator.com/item?id=49170050",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 1,
+    "hn_id": 49170050
+   }
+  },
+  {
+   "id": "3f0b6752f7e1",
+   "title": "An agent built for Mobile",
+   "url": "https://news.ycombinator.com/item?id=49170404",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49170404
+   }
+  },
+  {
+   "id": "415c40912f3f",
+   "title": "Ask HN: Can we direct AI on our personal projects during work hours?",
+   "url": "https://news.ycombinator.com/item?id=49171630",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 6,
+    "hn_id": 49171630
+   }
+  },
+  {
+   "id": "602b5e209687",
+   "title": "Ask HN: What was your big failure? How did you get around it?",
+   "url": "https://news.ycombinator.com/item?id=49173922",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 4,
+    "hn_id": 49173922
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 54.790938219532464,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 142,
+    "comments": 401,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "0b269ddd4c6d",
+   "title": "How to Pivot?",
+   "url": "https://news.ycombinator.com/item?id=49172513",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 5,
+    "hn_id": 49172513
+   }
+  },
+  {
+   "id": "1d3bdfe19495",
+   "title": "The LLMs Problems",
+   "url": "https://news.ycombinator.com/item?id=49169366",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 3,
+    "hn_id": 49169366
+   }
+  },
+  {
+   "id": "a7e204c03016",
+   "title": "Ask HN: What if there was an 8th day of the week?",
+   "url": "https://news.ycombinator.com/item?id=49175242",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 5,
+    "hn_id": 49175242
+   }
+  },
+  {
+   "id": "a9a44c78d18f",
+   "title": "How did Wikipedia layout become so bloated?",
+   "url": "https://news.ycombinator.com/item?id=49167493",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 29,
+    "hn_id": 49167493
+   }
+  },
+  {
+   "id": "6ebb16b69f58",
+   "title": "Ask HN: Does AI research need \"world models\" more than bigger LLMs?",
+   "url": "https://news.ycombinator.com/item?id=49162887",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 2,
+    "hn_id": 49162887
+   }
+  },
+  {
+   "id": "5fd10ab6d6fa",
+   "title": "Show HN: SIMD Viterbi Decoder in Rust",
+   "url": "https://github.com/brian-armstrong/fec",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 42.13913650100261,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 47,
+    "comments": 5,
+    "hn_id": 49176212
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 82.66281297335398,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 532,
+    "comments": 92,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "cee967196e8c",
+   "title": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
+   "url": "https://jido.run/blog/jido-assembly-slack-clone",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 1,
+    "hn_id": 49170704
+   }
+  },
+  {
+   "id": "b4c00bbd29fc",
+   "title": "Show HN: Bitbead – Photo to printable bead pattern, in the browser",
+   "url": "https://www.bitbead.app/en",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49180394
+   }
+  },
+  {
+   "id": "2dd02cb7ffb5",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+   "url": "https://github.com/leonickson1/Swiftlet",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 137,
+    "hn_id": 49158333
+   }
+  },
+  {
+   "id": "034b380a0af3",
+   "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+   "url": "https://deepgrove.ai/maple-preview",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 52.3861278752583,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 120,
+    "comments": 34,
+    "hn_id": 49173984
+   }
+  },
+  {
+   "id": "2ca8e306577e",
+   "title": "Show HN: Systematic reporting in under an hour, not months",
+   "url": "https://octigen.com/blog/posts/2026-08-04-systematic-reporting/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "hn_id": 49180550
+   }
+  },
+  {
+   "id": "f5d7484b197f",
+   "title": "Show HN: Arabic–Hebrew artifact in GPT-5.4, 12,160 frozen trials",
+   "url": "https://zenodo.org/records/21799525",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49178522
+   }
+  },
+  {
+   "id": "afc3b8fea67e",
+   "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+   "url": "https://github.com/MakazhanAlpamys/Soup",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 53.2842712474619,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 128,
+    "comments": 27,
+    "hn_id": 49166984
+   }
+  },
+  {
+   "id": "88c249d04275",
+   "title": "Show HN: Bean Network Tester – open-source bad network simulator",
+   "url": "https://github.com/donislawdev/BeanNetworkTester",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49179765
+   }
+  },
+  {
+   "id": "8657214371fb",
+   "title": "Show HN: A little physical breakout clone",
+   "url": "https://brontosaurusrex.github.io/physical/v7/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 13,
+    "hn_id": 49123821
+   }
+  },
+  {
+   "id": "7fd05e9aa174",
+   "title": "Show HN: Mcpscore – validate any MCP server compliance with a new MCP version",
+   "url": "https://github.com/mcp-box/mcpscore",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 1,
+    "hn_id": 49175296
+   }
+  },
+  {
+   "id": "acf5c739829d",
+   "title": "Show HN: ssh ssh.place",
+   "url": "https://ssh.place",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 58.726843908080106,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 182,
+    "comments": 115,
+    "hn_id": 49149805
+   }
+  },
+  {
+   "id": "362e80d16368",
+   "title": "Show HN: OpenEdit – Your coding agent can now edit videos",
+   "url": "https://github.com/veedstudio/open-edit",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 3,
+    "hn_id": 49169818
+   }
+  },
+  {
+   "id": "7f32ee2339e7",
+   "title": "Show HN: SIEMatic, a fair-sourced observability and security platform",
+   "url": "https://github.com/mcindi/siematic",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 5,
+    "hn_id": 49171404
+   }
+  },
+  {
+   "id": "ca21955aadcc",
+   "title": "Show HN: Sign language translation with smart glasses",
+   "url": "https://github.com/aadisang/hand-wave",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49175774
+   }
+  },
+  {
+   "id": "e683afc89646",
+   "title": "Show HN: Hinode – Cloud Linux desktop with a dedicated GPU that auto-pauses",
+   "url": "https://hinode.run",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "hn_id": 49176133
+   }
+  },
+  {
+   "id": "a7ab5b9ef8bb",
+   "title": "Show HN: I gave my video editor an MCP server so Claude can edit videos for me",
+   "url": "https://www.shorz.ai",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "hn_id": 49175711
+   }
+  },
+  {
+   "id": "60ac6c95f938",
+   "title": "Show HN: AI gateway open source integrated with cursor and open router",
+   "url": "https://www.routerfuel.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49177455
+   }
+  },
+  {
+   "id": "903d0f23fc27",
+   "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+   "url": "https://github.com/garagehq/nightcrawler/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T10:06:03Z",
+   "score": 52.15695122800054,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 118,
+    "comments": 34,
+    "hn_id": 49154127
+   }
+  }
+ ]
+}

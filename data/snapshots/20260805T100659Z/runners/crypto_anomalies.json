@@ -1,0 +1,245 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-05T10:06:00Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.18,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "4aa3cace6fc5",
+   "title": "Audiera (BEAT) moved -13.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 89.25,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -13.7,
+    "pct1h": -4.3,
+    "pct7d": -35.3,
+    "price_usd": 2.41,
+    "market_cap": 745240940
+   }
+  },
+  {
+   "id": "4d3d566b8c7e",
+   "title": "Pump.fun (PUMP) moved +12.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pump-fun",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 86.0,
+   "tags": [
+    "pump",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pump",
+    "pct24h": 12.4,
+    "pct1h": 0.2,
+    "pct7d": 33.7,
+    "price_usd": 0.00250214,
+    "market_cap": 988966071
+   }
+  },
+  {
+   "id": "51e115b2c023",
+   "title": "币安人生 (BinanceLife) (币安人生) moved -9.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 79.75,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": -9.9,
+    "pct1h": -0.1,
+    "pct7d": -22.5,
+    "price_usd": 0.494345,
+    "market_cap": 494541485
+   }
+  },
+  {
+   "id": "0bcba37cfac6",
+   "title": "Zcash (ZEC) moved +6.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 70.0,
+   "tags": [
+    "zec",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "zec",
+    "pct24h": 6.0,
+    "pct1h": -0.2,
+    "pct7d": 11.9,
+    "price_usd": 516.87,
+    "market_cap": 8675794152
+   }
+  },
+  {
+   "id": "b9863be85964",
+   "title": "Pi Network (PI) moved +5.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pi-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 69.5,
+   "tags": [
+    "pi",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pi",
+    "pct24h": 5.8,
+    "pct1h": 2.2,
+    "pct7d": 10.9,
+    "price_usd": 0.087746,
+    "market_cap": 965547764
+   }
+  },
+  {
+   "id": "08d88ec6c660",
+   "title": "Lighter (LIT) moved +5.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/lighter",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 67.75,
+   "tags": [
+    "lit",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "lit",
+    "pct24h": 5.1,
+    "pct1h": 0.1,
+    "pct7d": -5.9,
+    "price_usd": 2.12,
+    "market_cap": 530168250
+   }
+  },
+  {
+   "id": "1de4786a8f96",
+   "title": "Hyperliquid (HYPE) moved +4.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/hyperliquid",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 66.75,
+   "tags": [
+    "hype",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "hype",
+    "pct24h": 4.7,
+    "pct1h": -0.4,
+    "pct7d": 4.5,
+    "price_usd": 57.22,
+    "market_cap": 12731698109
+   }
+  },
+  {
+   "id": "b9eb2b9b58f8",
+   "title": "​​Stable (STABLE) moved +4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/stable-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 65.75,
+   "tags": [
+    "stable",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "stable",
+    "pct24h": 4.3,
+    "pct1h": 0.2,
+    "pct7d": -9.0,
+    "price_usd": 0.03267947,
+    "market_cap": 820658192
+   }
+  },
+  {
+   "id": "f6f75c2243d5",
+   "title": "Bittensor (TAO) moved +4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bittensor",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T10:06:00Z",
+   "score": 65.0,
+   "tags": [
+    "tao",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "tao",
+    "pct24h": 4.0,
+    "pct1h": 0.6,
+    "pct7d": 2.1,
+    "price_usd": 197.7,
+    "market_cap": 1896978116
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64098,
+   "pct24h": 0.9
+  },
+  "eth": {
+   "price": 1870.33,
+   "pct24h": 0.8
+  },
+  "xrp": {
+   "price": 1.064,
+   "pct24h": -0.9
+  },
+  "sol": {
+   "price": 73.97,
+   "pct24h": 1.0
+  },
+  "doge": {
+   "price": 0.069768,
+   "pct24h": -0.4
+  },
+  "ada": {
+   "price": 0.196126,
+   "pct24h": 1.3
+  },
+  "link": {
+   "price": 8.18,
+   "pct24h": 0.5
+  },
+  "ltc": {
+   "price": 44.89,
+   "pct24h": 1.6
+  },
+  "avax": {
+   "price": 6.66,
+   "pct24h": -1.4
+  },
+  "dot": {
+   "price": 0.849596,
+   "pct24h": 2.2
+  }
+ }
+}

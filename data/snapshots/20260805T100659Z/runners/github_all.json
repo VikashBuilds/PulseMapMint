@@ -1,0 +1,355 @@
+{
+ "runner": "github_all",
+ "generated": "2026-08-05T10:05:58Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 1.07,
+ "args": [
+  "github_all",
+  null
+ ],
+ "items": [
+  {
+   "id": "edd4dcbffbf9",
+   "title": "TencentCloud/TencentDB-Agent-Memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 84.8298861704287,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1111,
+    "language": "TypeScript",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "c0b4fc7b154e",
+   "title": "zhaoxuya520/reverse-skill",
+   "url": "https://github.com/zhaoxuya520/reverse-skill",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 90.50430043834079,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2297,
+    "language": "PowerShell",
+    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "6c9418ece44c",
+   "title": "firecrawl/pdf-inspector",
+   "url": "https://github.com/firecrawl/pdf-inspector",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 91.29008397090665,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2540,
+    "language": "Rust",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "b15ae5d5b8e9",
+   "title": "uber/ADR",
+   "url": "https://github.com/uber/ADR",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 69.11735283142093,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 148,
+    "language": "Python",
+    "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "8267181a5a1a",
+   "title": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 80.6803994698368,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 653,
+    "language": "Shell",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "4e2e64945680",
+   "title": "microsoft/generative-ai-for-beginners",
+   "url": "https://github.com/microsoft/generative-ai-for-beginners",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 82.0976891283199,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 783,
+    "language": "Jupyter Notebook",
+    "description": "21 Lessons, Get Started Building with Generative AI",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "ad3ef114db7a",
+   "title": "cypress-io/cypress",
+   "url": "https://github.com/cypress-io/cypress",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 49.42526242885725,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 11,
+    "language": "TypeScript",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "7047c035c92b",
+   "title": "lyogavin/airllm",
+   "url": "https://github.com/lyogavin/airllm",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 88.20306768614041,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1711,
+    "language": "Jupyter Notebook",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "8b9a148a9c63",
+   "title": "webpack/webpack",
+   "url": "https://github.com/webpack/webpack",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 48.74506833284805,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 10,
+    "language": "JavaScript",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AM",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "daca88690fb3",
+   "title": "gabime/spdlog",
+   "url": "https://github.com/gabime/spdlog",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 48.74506833284805,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 10,
+    "language": "C++",
+    "description": "Fast C++ logging library.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "2963fa7542cd",
+   "title": "denoland/deno",
+   "url": "https://github.com/denoland/deno",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 57.09269960975831,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 31,
+    "language": "Rust",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "39f2e61355df",
+   "title": "usekaneo/kaneo",
+   "url": "https://github.com/usekaneo/kaneo",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 79.4673844861116,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 559,
+    "language": "TypeScript",
+    "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "882eb68110d0",
+   "title": "livekit/agents",
+   "url": "https://github.com/livekit/agents",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 77.45678213436058,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 432,
+    "language": "Python",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "065572974198",
+   "title": "angular/angular",
+   "url": "https://github.com/angular/angular",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 50.63030464220829,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 13,
+    "language": "TypeScript",
+    "description": "Deliver web apps with confidence 🚀",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "9677eb07ae57",
+   "title": "tailwindlabs/tailwindcss",
+   "url": "https://github.com/tailwindlabs/tailwindcss",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 61.0369656528142,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 52,
+    "language": "TypeScript",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "af196b7a0c33",
+   "title": "browser-use/video-use",
+   "url": "https://github.com/browser-use/video-use",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 75.11709058328769,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 320,
+    "language": "Python",
+    "description": "Edit videos with coding agents",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "cc1dff416328",
+   "title": "esengine/DeepSeek-Reasonix",
+   "url": "https://github.com/esengine/DeepSeek-Reasonix",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 83.37363061846642,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 922,
+    "language": "Go",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "bea151a09a83",
+   "title": "EveryInc/compound-engineering-plugin",
+   "url": "https://github.com/EveryInc/compound-engineering-plugin",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-05T10:05:58Z",
+   "score": 59.03010942095524,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 40,
+    "language": "TypeScript",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "topic": "all"
+   }
+  }
+ ]
+}
