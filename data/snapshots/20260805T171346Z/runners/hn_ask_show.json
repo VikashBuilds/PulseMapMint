@@ -1,0 +1,694 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-05T17:13:01Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 1.53,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "d11306fb8190",
+   "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
+   "url": "https://news.ycombinator.com/item?id=49183198",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 39.14213562373095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 32,
+    "comments": 4,
+    "hn_id": 49183198
+   }
+  },
+  {
+   "id": "dc999c5a306f",
+   "title": "Ask HN: Dear Anthropic, can we please have thought traces back?",
+   "url": "https://news.ycombinator.com/item?id=49175422",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 6,
+    "hn_id": 49175422
+   }
+  },
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 62.16517186829626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 221,
+    "comments": 253,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 55.31088913245536,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 147,
+    "comments": 426,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "f215367bf309",
+   "title": "Ask HN: Show your micro-SaaS / MRR updates (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49181766",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49181766
+   }
+  },
+  {
+   "id": "aa907d100cb7",
+   "title": "Ask HN: Anyone interested in building a harness-only benchmark?",
+   "url": "https://news.ycombinator.com/item?id=49181014",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 5,
+    "hn_id": 49181014
+   }
+  },
+  {
+   "id": "c7eb9b8ac00c",
+   "title": "Empower the people not the AI – self containing OS",
+   "url": "https://news.ycombinator.com/item?id=49182880",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49182880
+   }
+  },
+  {
+   "id": "d72a90a526c6",
+   "title": "Blitz Agent Your specialized agent -> https://blitzagent.studio",
+   "url": "https://news.ycombinator.com/item?id=49181736",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49181736
+   }
+  },
+  {
+   "id": "c7508d625d39",
+   "title": "Ask HN: I built bribes.fyi, now I am stuck what to with it",
+   "url": "https://news.ycombinator.com/item?id=49181347",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 3,
+    "hn_id": 49181347
+   }
+  },
+  {
+   "id": "3389b6c5f1b2",
+   "title": "Ask HN: Did GitHub remove the stargazers list?",
+   "url": "https://news.ycombinator.com/item?id=49179728",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 35.30776406404415,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 17,
+    "comments": 1,
+    "hn_id": 49179728
+   }
+  },
+  {
+   "id": "b7686a54e94b",
+   "title": "Ask HN: How do you correct spatial reasoning of LLMs?",
+   "url": "https://news.ycombinator.com/item?id=49181570",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 4,
+    "hn_id": 49181570
+   }
+  },
+  {
+   "id": "f1f7caa020a1",
+   "title": "Ask HN: What Happened to Spec-Driven Development?",
+   "url": "https://news.ycombinator.com/item?id=49182353",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 2,
+    "hn_id": 49182353
+   }
+  },
+  {
+   "id": "a424ea4edc91",
+   "title": "ArXiv",
+   "url": "https://news.ycombinator.com/item?id=49171335",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "hn_id": 49171335
+   }
+  },
+  {
+   "id": "37c6a66a8617",
+   "title": "Ask HN: What is a good format for a tool to report data to a LLM?",
+   "url": "https://news.ycombinator.com/item?id=49176440",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 6,
+    "hn_id": 49176440
+   }
+  },
+  {
+   "id": "602b5e209687",
+   "title": "Ask HN: What was your big failure? How did you get around it?",
+   "url": "https://news.ycombinator.com/item?id=49173922",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 5,
+    "hn_id": 49173922
+   }
+  },
+  {
+   "id": "3f0b6752f7e1",
+   "title": "An agent built for Mobile",
+   "url": "https://news.ycombinator.com/item?id=49170404",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49170404
+   }
+  },
+  {
+   "id": "03a365353bd7",
+   "title": "Ask HN: What are the most underrated developer tools you've discovered this year",
+   "url": "https://news.ycombinator.com/item?id=49182115",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49182115
+   }
+  },
+  {
+   "id": "b3d44bd8f815",
+   "title": "Why remote roles are region specific and not 100% remote?",
+   "url": "https://news.ycombinator.com/item?id=49170764",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 9,
+    "hn_id": 49170764
+   }
+  },
+  {
+   "id": "415c40912f3f",
+   "title": "Ask HN: Can we direct AI on our personal projects during work hours?",
+   "url": "https://news.ycombinator.com/item?id=49171630",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 6,
+    "hn_id": 49171630
+   }
+  },
+  {
+   "id": "0b269ddd4c6d",
+   "title": "How to Pivot?",
+   "url": "https://news.ycombinator.com/item?id=49172513",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:00Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 7,
+    "hn_id": 49172513
+   }
+  },
+  {
+   "id": "479b669b47f2",
+   "title": "Show HN: Twocal – Calendar sync that verifies both sides actually agree",
+   "url": "https://twocal.app/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49183657
+   }
+  },
+  {
+   "id": "cdbe8da93eaf",
+   "title": "Show HN: Mvn-lite – I taught Maven to be an introvert for coding agents",
+   "url": "https://pvrlabs.xyz/articles/introverted-maven.html",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49183989
+   }
+  },
+  {
+   "id": "5d7bcb4f03d9",
+   "title": "Show HN: Modern Browsers Don't Need the Cookie Anymore",
+   "url": "https://kuber.studio/cookie/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 4,
+    "hn_id": 49182352
+   }
+  },
+  {
+   "id": "38c8134bb326",
+   "title": "Show HN: Kotro – local control plane for coding agents",
+   "url": "https://github.com/kotro-labs/kotro-proxy-engine",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49183995
+   }
+  },
+  {
+   "id": "581628bd8cf2",
+   "title": "Show HN: We built an open USB-C Power Delivery analyzer and programmable sink",
+   "url": "https://github.com/T76-org/drpd",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49184082
+   }
+  },
+  {
+   "id": "b2064d431f7a",
+   "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+   "url": "https://quantsignals.xyz/fst",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 3,
+    "hn_id": 49182263
+   }
+  },
+  {
+   "id": "0686f3b1a908",
+   "title": "Show HN: Sixteen sign-in pages for one app, switchable with one env var",
+   "url": "https://wordhoard-design-lab.vercel.app",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49184065
+   }
+  },
+  {
+   "id": "fe5d300c82c3",
+   "title": "Show HN: LLM control of deterministic coder – Sif 1.0 – LLMs as vibe coders",
+   "url": "https://github.com/Mac-at-SifSys/Sif-1.0",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49184049
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 85.67330549755798,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 589,
+    "comments": 99,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "0c22b20113af",
+   "title": "Show HN: Diffing Binary Files",
+   "url": "https://withkord.com/diff",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "hn_id": 49184845
+   }
+  },
+  {
+   "id": "2aa48ae71807",
+   "title": "Show HN: TestFlight iOS native Buzz client \"Hive for Buzz\"",
+   "url": "https://testflight.apple.com/join/ecMyGtBy",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49183981
+   }
+  },
+  {
+   "id": "20eda0b7dd25",
+   "title": "Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
+   "url": "https://github.com/adrida/hud-mode",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49184388
+   }
+  },
+  {
+   "id": "1930a0423ec2",
+   "title": "Show HN: Arxid – keyed, non-enumerable ID obfuscation",
+   "url": "https://github.com/lucasolopes/arxid",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49183506
+   }
+  },
+  {
+   "id": "e001f31323fb",
+   "title": "Show HN: I built one of the most advanced web-based drum/beat sequencers",
+   "url": "https://maximecb.github.io/groovie/#a_96_bar_berlin_techno_arrangement/FdAnck8QxEjUoejHv1EvwfEK6CeBmwopEcII9JpEroPEWkq1BNYCSCCGuJfjJXg-IlIsCRaIxHSJy3kypqJbIWInFCJnoAKRACYV6k66nWHiLAkKcUOiNHoJYx8spdj6AiiApQ4MYQYiORhGkyyR7YlJspwJJsWUzW0gmxi1h5BQCgiABSWcUtGvoirKXQx6x8gkTVroJyQDVpJIPpIGD0lvoyQHMeHgCKIFK8SfJ5dlnnng",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 2,
+    "hn_id": 49182903
+   }
+  },
+  {
+   "id": "5fd10ab6d6fa",
+   "title": "Show HN: SIMD Viterbi Decoder in Rust",
+   "url": "https://github.com/brian-armstrong/fec",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 44.03943276465977,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 58,
+    "comments": 10,
+    "hn_id": 49176212
+   }
+  },
+  {
+   "id": "b116ec500c0e",
+   "title": "Show HN: Buy My Agent MCP Server – Search AI Agents from Any MCP Client",
+   "url": "https://www.buy-my-agent.com/connect",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49182825
+   }
+  },
+  {
+   "id": "034b380a0af3",
+   "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+   "url": "https://deepgrove.ai/maple-preview",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 56.42451272494134,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 158,
+    "comments": 49,
+    "hn_id": 49173984
+   }
+  },
+  {
+   "id": "cc902116a810",
+   "title": "Show HN: RequestGuard – Protect AI from following your links",
+   "url": "https://go.requestguard.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49182793
+   }
+  },
+  {
+   "id": "b39eb1cb6e44",
+   "title": "Show HN: AgentTerm – open tools to replace the terminal for any coding-agent CLI",
+   "url": "https://github.com/albertwujj/agent-term",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49183152
+   }
+  },
+  {
+   "id": "a3b685dd7148",
+   "title": "Show HN: Audio-tldr – Summarize any video or podcast locally with Whisper",
+   "url": "https://github.com/AugustusW/audio-tldr-skill",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T17:13:01Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49182617
+   }
+  }
+ ]
+}

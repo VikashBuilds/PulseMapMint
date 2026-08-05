@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-05T17:13:04Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.46,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "7dc865ecbc28",
+   "title": "Xbox goes down. You can't play games you own on disc",
+   "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 90.3834841531101,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 684,
+    "comments": 737,
+    "hn_id": 49167448
+   }
+  },
+  {
+   "id": "13c2dd892ec1",
+   "title": "LLMs reward expertise",
+   "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1373,
+    "comments": 564,
+    "hn_id": 49161518
+   }
+  },
+  {
+   "id": "78be65f5ca48",
+   "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+   "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 80.8457697592217,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 499,
+    "comments": 6,
+    "hn_id": 49166491
+   }
+  },
+  {
+   "id": "aa6140d3cea1",
+   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+   "url": "https://mistral.ai/news/shieldstral/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 78.85164807134504,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 464,
+    "comments": 126,
+    "hn_id": 49171268
+   }
+  },
+  {
+   "id": "cec668b2aaa0",
+   "title": "Pi's Minimalism Is Its Advantage",
+   "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 80.56527692723218,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 494,
+    "comments": 262,
+    "hn_id": 49176038
+   }
+  },
+  {
+   "id": "33664007a1c3",
+   "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+   "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 94.50719387228922,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 773,
+    "comments": 458,
+    "hn_id": 49167113
+   }
+  },
+  {
+   "id": "3e3c1d735bb2",
+   "title": "FFmpeg 9.0",
+   "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 78.09190145398826,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 451,
+    "comments": 97,
+    "hn_id": 49166202
+   }
+  },
+  {
+   "id": "8ade8d9ac9b0",
+   "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+   "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1558,
+    "comments": 93,
+    "hn_id": 49173165
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 85.67330549755798,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 589,
+    "comments": 99,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "3e09192b450f",
+   "title": "There Will Come Soft Rains (1950) [pdf]",
+   "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 75.9288719686584,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 415,
+    "comments": 425,
+    "hn_id": 49162653
+   }
+  },
+  {
+   "id": "21fa15c926dd",
+   "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+   "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 73.92596447695232,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 383,
+    "comments": 243,
+    "hn_id": 49171656
+   }
+  },
+  {
+   "id": "fd773c42d9b3",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 87.24949798994365,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 620,
+    "comments": 920,
+    "hn_id": 49157930
+   }
+  },
+  {
+   "id": "5a126c6e3946",
+   "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+   "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 73.86205071423016,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 382,
+    "comments": 277,
+    "hn_id": 49170479
+   }
+  },
+  {
+   "id": "38e2373bac6a",
+   "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+   "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 73.41229182759271,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 375,
+    "comments": 102,
+    "hn_id": 49166386
+   }
+  },
+  {
+   "id": "d474b8777726",
+   "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+   "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 73.3476990145343,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 374,
+    "comments": 686,
+    "hn_id": 49166860
+   }
+  },
+  {
+   "id": "70e7f2a36d88",
+   "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+   "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 71.16546328154847,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 341,
+    "comments": 162,
+    "hn_id": 49181099
+   }
+  },
+  {
+   "id": "f7b9aa1c6231",
+   "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+   "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 70.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 324,
+    "comments": 79,
+    "hn_id": 49175192
+   }
+  },
+  {
+   "id": "4fb4b5ec86d5",
+   "title": "Harness engineering for self-improvement",
+   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 69.58138625031751,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 318,
+    "comments": 75,
+    "hn_id": 49164896
+   }
+  },
+  {
+   "id": "68b13a624931",
+   "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+   "url": "https://twitter.com/gwern/status/2084739205071343837",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 67.93891009329417,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 295,
+    "comments": 220,
+    "hn_id": 49174900
+   }
+  },
+  {
+   "id": "e5d555676f01",
+   "title": "Waymo in Dallas",
+   "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 69.087980221371,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 311,
+    "comments": 646,
+    "hn_id": 49172836
+   }
+  },
+  {
+   "id": "2dd02cb7ffb5",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+   "url": "https://github.com/leonickson1/Swiftlet",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 68.80353866983808,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 307,
+    "comments": 137,
+    "hn_id": 49158333
+   }
+  },
+  {
+   "id": "024215ec12a7",
+   "title": "libexpat now funded by the City of Munich for up to 6 months",
+   "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 68.87482193696061,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 308,
+    "comments": 70,
+    "hn_id": 49176606
+   }
+  },
+  {
+   "id": "8c461d711d80",
+   "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+   "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 66.90763653560053,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 281,
+    "comments": 225,
+    "hn_id": 49175826
+   }
+  },
+  {
+   "id": "beba669d927f",
+   "title": "Cloudflare OS: an open platform for agents, apps, and work",
+   "url": "https://blog.cloudflare.com/cloudflare-os/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 67.86607049870562,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 294,
+    "comments": 163,
+    "hn_id": 49182996
+   }
+  },
+  {
+   "id": "09748692c6cd",
+   "title": "Apple is getting this wrong",
+   "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 66.83300132670378,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 280,
+    "comments": 291,
+    "hn_id": 49164649
+   }
+  },
+  {
+   "id": "67f81a46597c",
+   "title": "Eight Myths on Software Engineering and GenAI",
+   "url": "https://queue.acm.org/detail.cfm?id=3807963",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 65.62019202317981,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 264,
+    "comments": 233,
+    "hn_id": 49176830
+   }
+  },
+  {
+   "id": "2fad0cce63a6",
+   "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+   "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 65.69705149024927,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 265,
+    "comments": 66,
+    "hn_id": 49158581
+   }
+  },
+  {
+   "id": "ea86b0a153d3",
+   "title": "Oxide Computer raises $445M (SEC Form D)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 64.84344362627306,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 254,
+    "comments": 178,
+    "hn_id": 49174407
+   }
+  },
+  {
+   "id": "6c74cd32ec0d",
+   "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+   "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 64.37003937005906,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 248,
+    "comments": 134,
+    "hn_id": 49166874
+   }
+  },
+  {
+   "id": "4365bb6ed789",
+   "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+   "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T17:13:04Z",
+   "score": 63.81043674065006,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 241,
+    "comments": 100,
+    "hn_id": 49170001
+   }
+  }
+ ]
+}

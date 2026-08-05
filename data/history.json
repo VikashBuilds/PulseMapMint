@@ -1289,5 +1289,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260805T171346Z",
+  "generated": "2026-08-05T17:13:46.080583+00:00",
+  "events": 1117,
+  "breakers": 120,
+  "avg_heat": 89.1,
+  "prices": {
+   "btc": {
+    "price": 64554,
+    "pct24h": 0.9
+   },
+   "eth": {
+    "price": 1892.42,
+    "pct24h": 1.1
+   },
+   "xrp": {
+    "price": 1.066,
+    "pct24h": -0.9
+   },
+   "sol": {
+    "price": 74.16,
+    "pct24h": 0.4
+   },
+   "doge": {
+    "price": 0.070009,
+    "pct24h": -0.1
+   },
+   "ada": {
+    "price": 0.190698,
+    "pct24h": -1.1
+   },
+   "link": {
+    "price": 8.18,
+    "pct24h": 0.1
+   },
+   "ltc": {
+    "price": 45.13,
+    "pct24h": 1.7
+   },
+   "avax": {
+    "price": 6.66,
+    "pct24h": -1.1
+   },
+   "dot": {
+    "price": 0.852913,
+    "pct24h": 2.3
+   }
+  },
+  "top": [
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Xbox goes down. You can't play games you own on disc",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "LLMs reward expertise",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Ten advances in mathematics and theoretical computer science",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AMD plunged -6.10% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "M6.3 earthquake — south of the Kermadec Islands",
+    "s": "usgs_quakes",
+    "h": 100.0,
+    "c": "geohazard"
+   }
+  ]
  }
 ]

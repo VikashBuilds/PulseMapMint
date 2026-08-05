@@ -1,0 +1,211 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-05T17:12:58Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.33,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "30e067c0aa77",
+   "title": "AMD plunged -6.10% today",
+   "url": "https://finance.yahoo.com/quote/AMD",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 91.61922943422427,
+   "tags": [
+    "AMD",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AMD",
+    "move_pct": -6.1,
+    "price": 486.93,
+    "prev_close": 518.58,
+    "day_high": 502.0,
+    "day_low": 478.2,
+    "volume": 34198432
+   }
+  },
+  {
+   "id": "cc30b1d13d69",
+   "title": "NVIDIA surged +4.47% today",
+   "url": "https://finance.yahoo.com/quote/NVDA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 81.79531943002738,
+   "tags": [
+    "NVDA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NVDA",
+    "move_pct": 4.47,
+    "price": 221.41,
+    "prev_close": 211.94,
+    "day_high": 222.22,
+    "day_low": 216.4,
+    "volume": 95382224
+   }
+  },
+  {
+   "id": "6911b42d727b",
+   "title": "Silver ETF surged +4.12% today",
+   "url": "https://finance.yahoo.com/quote/SLV",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 79.73997028231797,
+   "tags": [
+    "SLV",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SLV",
+    "move_pct": 4.12,
+    "price": 56.06,
+    "prev_close": 53.84,
+    "day_high": 56.74,
+    "day_low": 55.8,
+    "volume": 15336696
+   }
+  },
+  {
+   "id": "345d9b2166a1",
+   "title": "Gold ETF surged +4.03% today",
+   "url": "https://finance.yahoo.com/quote/GLD",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 79.19820397690823,
+   "tags": [
+    "GLD",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GLD",
+    "move_pct": 4.03,
+    "price": 389.25,
+    "prev_close": 374.16,
+    "day_high": 391.24,
+    "day_low": 384.32,
+    "volume": 10556690
+   }
+  },
+  {
+   "id": "10092c84dc31",
+   "title": "Alphabet plunged -3.68% today",
+   "url": "https://finance.yahoo.com/quote/GOOGL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 77.09982788296037,
+   "tags": [
+    "GOOGL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GOOGL",
+    "move_pct": -3.68,
+    "price": 363.74,
+    "prev_close": 377.65,
+    "day_high": 384.47,
+    "day_low": 356.82,
+    "volume": 29759083
+   }
+  },
+  {
+   "id": "0f3a567a47f9",
+   "title": "Gold (futures) surged +3.56% today",
+   "url": "https://finance.yahoo.com/quote/GC=F",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 76.34084669845396,
+   "tags": [
+    "GC=F",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GC=F",
+    "move_pct": 3.56,
+    "price": 4300.3,
+    "prev_close": 4152.6,
+    "day_high": 4325.5,
+    "day_low": 4121.6,
+    "volume": 181071
+   }
+  },
+  {
+   "id": "6e23917feb4e",
+   "title": "Silver (futures) surged +3.26% today",
+   "url": "https://finance.yahoo.com/quote/SI=F",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 74.57008880405016,
+   "tags": [
+    "SI=F",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SI=F",
+    "move_pct": 3.26,
+    "price": 62.21,
+    "prev_close": 60.24,
+    "day_high": 63.02,
+    "day_low": 59.62,
+    "volume": 41442
+   }
+  },
+  {
+   "id": "593da77ae782",
+   "title": "Micron surged +3.14% today",
+   "url": "https://finance.yahoo.com/quote/MU",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 73.83137105537324,
+   "tags": [
+    "MU",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MU",
+    "move_pct": 3.14,
+    "price": 920.69,
+    "prev_close": 892.67,
+    "day_high": 928.95,
+    "day_low": 881.93,
+    "volume": 22107958
+   }
+  },
+  {
+   "id": "38f23aec2ebb",
+   "title": "Qualcomm plunged -2.86% today",
+   "url": "https://finance.yahoo.com/quote/QCOM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-05T17:12:58Z",
+   "score": 72.15128788344492,
+   "tags": [
+    "QCOM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QCOM",
+    "move_pct": -2.86,
+    "price": 158.02,
+    "prev_close": 162.67,
+    "day_high": 162.8,
+    "day_low": 157.12,
+    "volume": 5000027
+   }
+  }
+ ]
+}
