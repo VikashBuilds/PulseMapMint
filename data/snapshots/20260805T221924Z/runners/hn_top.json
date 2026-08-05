@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-05T22:18:27Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.64,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "df8e82f50ccc",
+   "title": "Discovery Loop",
+   "url": "https://www.discoveryloop.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 79.6008241696039,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 477,
+    "comments": 295,
+    "hn_id": 49184960
+   }
+  },
+  {
+   "id": "9db0a82b0466",
+   "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+   "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 4,
+    "hn_id": 49189287
+   }
+  },
+  {
+   "id": "79deca9108e4",
+   "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+   "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 2,
+    "hn_id": 49189234
+   }
+  },
+  {
+   "id": "ce569d17d129",
+   "title": "Muse Code and Muse Spark 1.2",
+   "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 51.457513110645905,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 112,
+    "comments": 64,
+    "hn_id": 49187575
+   }
+  },
+  {
+   "id": "93b054cb87ac",
+   "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+   "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 55.92329219213245,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 153,
+    "comments": 29,
+    "hn_id": 49186762
+   }
+  },
+  {
+   "id": "9af015edf438",
+   "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 71.63689526544408,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 348,
+    "comments": 490,
+    "hn_id": 49184755
+   }
+  },
+  {
+   "id": "565596d6bdf7",
+   "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+   "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 53.17356917396161,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 127,
+    "comments": 40,
+    "hn_id": 49185983
+   }
+  },
+  {
+   "id": "3daaf44022c0",
+   "title": "I'm switching my phone from Android to Linux",
+   "url": "https://runarcn.no/android-to-linux/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 49.10912690248239,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 93,
+    "comments": 64,
+    "hn_id": 49188022
+   }
+  },
+  {
+   "id": "767639a1c6b2",
+   "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+   "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 57.9772648956823,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 174,
+    "comments": 128,
+    "hn_id": 49187977
+   }
+  },
+  {
+   "id": "0a11197fb5f2",
+   "title": "Prime Agent: A self-improving RLM agent",
+   "url": "https://www.primeintellect.ai/blog/prime-agent",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 37.74754878398196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 26,
+    "comments": 0,
+    "hn_id": 49189075
+   }
+  },
+  {
+   "id": "19d46c1b64ce",
+   "title": "Zed DeltaDB",
+   "url": "https://zed.dev/deltadb",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 62.080992435478315,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 220,
+    "comments": 99,
+    "hn_id": 49187256
+   }
+  },
+  {
+   "id": "e831892f1edf",
+   "title": "GNU Hurd News 2026-Q2",
+   "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 49.62214450449026,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 97,
+    "comments": 59,
+    "hn_id": 49146183
+   }
+  },
+  {
+   "id": "3f1f374f5cb2",
+   "title": "Online Friends Are Real Friends",
+   "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 41.201851746019656,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 42,
+    "comments": 26,
+    "hn_id": 49124917
+   }
+  },
+  {
+   "id": "549ab19fc72f",
+   "title": "The Valley of Webhooks",
+   "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 53.50438562747844,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 130,
+    "comments": 59,
+    "hn_id": 49184216
+   }
+  },
+  {
+   "id": "7dce452a12a7",
+   "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+   "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 40.20690632574555,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 37,
+    "comments": 11,
+    "hn_id": 49126716
+   }
+  },
+  {
+   "id": "2843174091b5",
+   "title": "Celld: Self-hosted, distributed Durable Objects",
+   "url": "https://github.com/denoland/celld",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 50.37222891273055,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 103,
+    "comments": 16,
+    "hn_id": 49185430
+   }
+  },
+  {
+   "id": "385aac332787",
+   "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+   "url": "https://sagredo.dev/projects/sula/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 37.99038105676658,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 27,
+    "comments": 1,
+    "hn_id": 49187259
+   }
+  },
+  {
+   "id": "b7da30002661",
+   "title": "The Entropy of a Markov Chain",
+   "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 48.9791576165636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 92,
+    "comments": 7,
+    "hn_id": 49183017
+   }
+  },
+  {
+   "id": "beba669d927f",
+   "title": "Cloudflare OS: an open platform for agents, apps, and work",
+   "url": "https://blog.cloudflare.com/cloudflare-os/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 75.80600358225394,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 413,
+    "comments": 218,
+    "hn_id": 49182996
+   }
+  },
+  {
+   "id": "72904f11d59e",
+   "title": "What happens if you put work into the second dimension?",
+   "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 37.99038105676658,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 27,
+    "comments": 22,
+    "hn_id": 49187084
+   }
+  },
+  {
+   "id": "586be2f5261e",
+   "title": "Phishers are hijacking legitimate cloud infrastructure",
+   "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 39.79019945774904,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 35,
+    "comments": 10,
+    "hn_id": 49185931
+   }
+  },
+  {
+   "id": "8362d354d60a",
+   "title": "Aristotle quotes on virtue, knowledge, and happiness",
+   "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 54.790938219532464,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 142,
+    "comments": 66,
+    "hn_id": 49183115
+   }
+  },
+  {
+   "id": "04ed0a954896",
+   "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+   "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 49.23839928708165,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 94,
+    "comments": 34,
+    "hn_id": 49115096
+   }
+  },
+  {
+   "id": "e9b70752c86c",
+   "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+   "url": "https://www.hyperprobe.co",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 39.577379737113255,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 34,
+    "comments": 24,
+    "hn_id": 49185389
+   }
+  },
+  {
+   "id": "f357e825c147",
+   "title": "Building an Advanced Agentic Harness",
+   "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 49.10912690248239,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 93,
+    "comments": 40,
+    "hn_id": 49182946
+   }
+  },
+  {
+   "id": "3652a80a67d0",
+   "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+   "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 46.93741096848031,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 77,
+    "comments": 11,
+    "hn_id": 49183079
+   }
+  },
+  {
+   "id": "0443eeb9fbc1",
+   "title": "I’m leaving OpenAI to build telepathy",
+   "url": "https://naomibashkansky.com/blog/telepathy/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 50.124689052802225,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 101,
+    "comments": 157,
+    "hn_id": 49185370
+   }
+  },
+  {
+   "id": "ecc8ea61f685",
+   "title": "Painting with Gaussians",
+   "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 48.048861143232216,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 85,
+    "comments": 14,
+    "hn_id": 49182695
+   }
+  },
+  {
+   "id": "fb2405127cbb",
+   "title": "Western Sahara",
+   "url": "https://en.wikipedia.org/wiki/Western_Sahara",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 51.100766272276374,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 109,
+    "comments": 67,
+    "hn_id": 49176192
+   }
+  },
+  {
+   "id": "a0a6ba66d083",
+   "title": "Nikita Bier Steps Down as Head of Product at X",
+   "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 22,
+    "hn_id": 49189113
+   }
+  }
+ ]
+}

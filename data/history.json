@@ -1400,5 +1400,116 @@
     "c": "geohazard"
    }
   ]
+ },
+ {
+  "ts": "20260805T221924Z",
+  "generated": "2026-08-05T22:19:24.156064+00:00",
+  "events": 1133,
+  "breakers": 120,
+  "avg_heat": 89.6,
+  "prices": {
+   "btc": {
+    "price": 64621,
+    "pct24h": 0.7
+   },
+   "eth": {
+    "price": 1909.66,
+    "pct24h": 1.8
+   },
+   "xrp": {
+    "price": 1.063,
+    "pct24h": -1.2
+   },
+   "sol": {
+    "price": 74.04,
+    "pct24h": -0.1
+   },
+   "doge": {
+    "price": 0.070031,
+    "pct24h": -0.3
+   },
+   "ada": {
+    "price": 0.190752,
+    "pct24h": -1.0
+   },
+   "link": {
+    "price": 8.15,
+    "pct24h": -0.6
+   },
+   "ltc": {
+    "price": 45.22,
+    "pct24h": 0.9
+   },
+   "avax": {
+    "price": 6.65,
+    "pct24h": -0.7
+   },
+   "dot": {
+    "price": 0.83999,
+    "pct24h": -0.9
+   }
+  },
+  "top": [
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Xbox goes down. You can't play games you own on disc",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AMD plunged -7.04% today",
+    "s": "stocks_movers",
+    "h": 100.0,
+    "c": "markets"
+   },
+   {
+    "t": "M6.3 earthquake — south of the Kermadec Islands",
+    "s": "usgs_quakes",
+    "h": 100.0,
+    "c": "geohazard"
+   },
+   {
+    "t": "M6.3 earthquake — 32 km SW of Sarangani, Philippines",
+    "s": "usgs_quakes",
+    "h": 100.0,
+    "c": "geohazard"
+   },
+   {
+    "t": "M5.9 earthquake — 32 km SW of Sarangani, Philippines",
+    "s": "usgs_quakes",
+    "h": 100.0,
+    "c": "geohazard"
+   }
+  ]
  }
 ]

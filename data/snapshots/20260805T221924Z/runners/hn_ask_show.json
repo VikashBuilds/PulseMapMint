@@ -1,0 +1,694 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-05T22:18:34Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 5.63,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "aded05ef1d1f",
+   "title": "Ask HN: Developers–How Did You Get Your First Paying Customers?",
+   "url": "https://news.ycombinator.com/item?id=49187337",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 12,
+    "hn_id": 49187337
+   }
+  },
+  {
+   "id": "77403ff746dc",
+   "title": "Ask HN: Who Has This Pain?",
+   "url": "https://news.ycombinator.com/item?id=49187151",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 4,
+    "hn_id": 49187151
+   }
+  },
+  {
+   "id": "3389b6c5f1b2",
+   "title": "Ask HN: Did GitHub remove the stargazers list?",
+   "url": "https://news.ycombinator.com/item?id=49179728",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 36.4564392373896,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 21,
+    "comments": 1,
+    "hn_id": 49179728
+   }
+  },
+  {
+   "id": "8589a78a2332",
+   "title": "Why Fireworks doesn't support Voice AI",
+   "url": "https://news.ycombinator.com/item?id=49186754",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49186754
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 55.51638903933426,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 149,
+    "comments": 440,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "ea7b65f24ab2",
+   "title": "Ask HN: What would make you list your AI product on a new marketplace?",
+   "url": "https://news.ycombinator.com/item?id=49185927",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49185927
+   }
+  },
+  {
+   "id": "d11306fb8190",
+   "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
+   "url": "https://news.ycombinator.com/item?id=49183198",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 41.77050983124842,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 45,
+    "comments": 8,
+    "hn_id": 49183198
+   }
+  },
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 62.24916106437835,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 222,
+    "comments": 258,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "c7eb9b8ac00c",
+   "title": "Empower the people not the AI – self containing OS",
+   "url": "https://news.ycombinator.com/item?id=49182880",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "hn_id": 49182880
+   }
+  },
+  {
+   "id": "f215367bf309",
+   "title": "Ask HN: Show your micro-SaaS / MRR updates (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49181766",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "hn_id": 49181766
+   }
+  },
+  {
+   "id": "d81e95ebe44b",
+   "title": "Ask HN: What paid tools have you now replaced with personalized AI-coded tools?",
+   "url": "https://news.ycombinator.com/item?id=49184620",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49184620
+   }
+  },
+  {
+   "id": "326fd07e3462",
+   "title": "Ask HN: Why mobile software infrastructure never belongs to its owner?",
+   "url": "https://news.ycombinator.com/item?id=49187820",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 2,
+    "hn_id": 49187820
+   }
+  },
+  {
+   "id": "b7686a54e94b",
+   "title": "Ask HN: How do you correct spatial reasoning of LLMs?",
+   "url": "https://news.ycombinator.com/item?id=49181570",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 4,
+    "hn_id": 49181570
+   }
+  },
+  {
+   "id": "dc999c5a306f",
+   "title": "Ask HN: Dear Anthropic, can we please have thought traces back?",
+   "url": "https://news.ycombinator.com/item?id=49175422",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 6,
+    "hn_id": 49175422
+   }
+  },
+  {
+   "id": "aa907d100cb7",
+   "title": "Ask HN: Anyone interested in building a harness-only benchmark?",
+   "url": "https://news.ycombinator.com/item?id=49181014",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 5,
+    "hn_id": 49181014
+   }
+  },
+  {
+   "id": "799a67e7e039",
+   "title": "RNet lets users use one AI credit balance across multiple apps [demo]",
+   "url": "https://news.ycombinator.com/item?id=49179899",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49179899
+   }
+  },
+  {
+   "id": "d72a90a526c6",
+   "title": "Blitz Agent Your specialized agent -> https://blitzagent.studio",
+   "url": "https://news.ycombinator.com/item?id=49181736",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49181736
+   }
+  },
+  {
+   "id": "4302cc0d5920",
+   "title": "AI Agents for Logistics, Pitfall?",
+   "url": "https://news.ycombinator.com/item?id=49180795",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 2,
+    "hn_id": 49180795
+   }
+  },
+  {
+   "id": "c7508d625d39",
+   "title": "Ask HN: I built bribes.fyi, now I am stuck what to with it",
+   "url": "https://news.ycombinator.com/item?id=49181347",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 3,
+    "hn_id": 49181347
+   }
+  },
+  {
+   "id": "f1f7caa020a1",
+   "title": "Ask HN: What Happened to Spec-Driven Development?",
+   "url": "https://news.ycombinator.com/item?id=49182353",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 2,
+    "hn_id": 49182353
+   }
+  },
+  {
+   "id": "5682983ccd00",
+   "title": "Show HN: DrakeAI – expense tracker you log by voice or text, no bank sync",
+   "url": "https://drakeai.app/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49187481
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 86.13509630318742,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 598,
+    "comments": 99,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "2c2e60a7a9b6",
+   "title": "Show HN: Spltty – a Markdown-based personal finance CLI built with Claude",
+   "url": "https://tdiniz.dev/thoughts/building-a-personal-finance-tracker-with-claude",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 2,
+    "hn_id": 49187132
+   }
+  },
+  {
+   "id": "3ec25abdbf7b",
+   "title": "Show HN: Greenlight – Preflight Scanner for App Store and Google Play",
+   "url": "https://github.com/RevylAI/greenlight",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49187437
+   }
+  },
+  {
+   "id": "e718e28285d0",
+   "title": "Show HN: ClickBench Playground – a playground for 110 database systems",
+   "url": "https://benchmark.clickhouse.com/playground/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 3,
+    "hn_id": 49186732
+   }
+  },
+  {
+   "id": "b2064d431f7a",
+   "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+   "url": "https://quantsignals.xyz/fst",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 3,
+    "hn_id": 49182263
+   }
+  },
+  {
+   "id": "0c22b20113af",
+   "title": "Show HN: Diffing Binary Files",
+   "url": "https://withkord.com/diff",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 34.01387818865997,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 13,
+    "comments": 5,
+    "hn_id": 49184845
+   }
+  },
+  {
+   "id": "3a59137c1633",
+   "title": "Show HN: My receipt printer prints an original artwork every morning",
+   "url": "https://github.com/matt-w-horn/morningprint",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 3,
+    "hn_id": 49187583
+   }
+  },
+  {
+   "id": "eebc2df415d9",
+   "title": "Show HN: Learning Nix with LabCraft",
+   "url": "https://www.labcraft.dev/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49187128
+   }
+  },
+  {
+   "id": "5d7bcb4f03d9",
+   "title": "Show HN: Modern Browsers Don't Need the Cookie Anymore",
+   "url": "https://kuber.studio/cookie/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 33.66025403784439,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 12,
+    "comments": 10,
+    "hn_id": 49182352
+   }
+  },
+  {
+   "id": "20eda0b7dd25",
+   "title": "Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
+   "url": "https://github.com/adrida/hud-mode",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 1,
+    "hn_id": 49184388
+   }
+  },
+  {
+   "id": "4380828385ae",
+   "title": "Show HN: Capy – A Git-style platform for managing your team's secrets",
+   "url": "https://github.com/capysc/capy-cli",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 11,
+    "hn_id": 49188168
+   }
+  },
+  {
+   "id": "b35bf1afa648",
+   "title": "Show HN: GetPageSpeed Amplify, a compatible replacement for Nginx Amplify",
+   "url": "https://amplify.getpagespeed.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49186853
+   }
+  },
+  {
+   "id": "179177de6365",
+   "title": "Show HN: I automated California Property tax reduction claim process",
+   "url": "https://saveproptax.com",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49186541
+   }
+  },
+  {
+   "id": "444017bb6552",
+   "title": "Show HN: What's Your AI Debt Score? Roast My Code – No AI, Just Regex",
+   "url": "https://news.ycombinator.com/item?id=49186339",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49186339
+   }
+  },
+  {
+   "id": "2a5c0a484b76",
+   "title": "Show HN: Ocean – All your team's agent sessions in one place",
+   "url": "https://ocean.mosaic.inc/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "hn_id": 49186756
+   }
+  },
+  {
+   "id": "fee27f3812aa",
+   "title": "Show HN: Stripekit – Terraform-style declarative config for your Stripe account",
+   "url": "https://stripe.rafael.ltd/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49186579
+   }
+  },
+  {
+   "id": "1930a0423ec2",
+   "title": "Show HN: Arxid – keyed, non-enumerable ID obfuscation",
+   "url": "https://github.com/lucasolopes/arxid",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49183506
+   }
+  },
+  {
+   "id": "2214ba5fe526",
+   "title": "Show HN: Summarize any page into a pod episode",
+   "url": "https://thedaily.fm/docs/page-to-pod",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 1,
+    "hn_id": 49186387
+   }
+  },
+  {
+   "id": "b39b9e3321ce",
+   "title": "Show HN: AI agents gives its worst answers when you're overwhelmed",
+   "url": "https://github.com/softcane/human-state-skills",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49186395
+   }
+  }
+ ]
+}

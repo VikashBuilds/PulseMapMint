@@ -1,0 +1,224 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-05T22:18:34Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.08,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "d8006df68e6e",
+   "title": "Audiera (BEAT) moved -6.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 70.5,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -6.2,
+    "pct1h": -0.1,
+    "pct7d": -39.5,
+    "price_usd": 2.33,
+    "market_cap": 721205922
+   }
+  },
+  {
+   "id": "362d6a9d6720",
+   "title": "Uniswap (UNI) moved +5.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/uniswap",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 68.5,
+   "tags": [
+    "uni",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "uni",
+    "pct24h": 5.4,
+    "pct1h": 0,
+    "pct7d": 5.4,
+    "price_usd": 4.07,
+    "market_cap": 2540954695
+   }
+  },
+  {
+   "id": "f2668bd56551",
+   "title": "Canton (CC) moved -4.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/canton-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 67.25,
+   "tags": [
+    "cc",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cc",
+    "pct24h": -4.9,
+    "pct1h": -0.4,
+    "pct7d": -14.0,
+    "price_usd": 0.103782,
+    "market_cap": 4074647350
+   }
+  },
+  {
+   "id": "1a3da44e4103",
+   "title": "Pi Network (PI) moved +4.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pi-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 67.25,
+   "tags": [
+    "pi",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pi",
+    "pct24h": 4.9,
+    "pct1h": 0.6,
+    "pct7d": 10.4,
+    "price_usd": 0.088532,
+    "market_cap": 975234781
+   }
+  },
+  {
+   "id": "be92c0c07ce7",
+   "title": "​​Stable (STABLE) moved +4.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/stable-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 66.0,
+   "tags": [
+    "stable",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "stable",
+    "pct24h": 4.4,
+    "pct1h": 0.2,
+    "pct7d": -7.4,
+    "price_usd": 0.03282108,
+    "market_cap": 825066434
+   }
+  },
+  {
+   "id": "e95662a2a12a",
+   "title": "PAX Gold (PAXG) moved +4.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pax-gold",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 65.25,
+   "tags": [
+    "paxg",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "paxg",
+    "pct24h": 4.1,
+    "pct1h": 0.1,
+    "pct7d": 4.5,
+    "price_usd": 4239.16,
+    "market_cap": 1873367626
+   }
+  },
+  {
+   "id": "f6a0b25c0380",
+   "title": "MemeCore (M) moved +4.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/memecore",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 65.25,
+   "tags": [
+    "m",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "m",
+    "pct24h": 4.1,
+    "pct1h": 0.2,
+    "pct7d": 7.6,
+    "price_usd": 1.22,
+    "market_cap": 1630421995
+   }
+  },
+  {
+   "id": "997835b66f95",
+   "title": "Tether Gold (XAUT) moved +4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/tether-gold",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-05T22:18:34Z",
+   "score": 65.0,
+   "tags": [
+    "xaut",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "xaut",
+    "pct24h": 4.0,
+    "pct1h": 0.1,
+    "pct7d": 4.3,
+    "price_usd": 4227.25,
+    "market_cap": 2590556305
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64621,
+   "pct24h": 0.7
+  },
+  "eth": {
+   "price": 1909.66,
+   "pct24h": 1.8
+  },
+  "xrp": {
+   "price": 1.063,
+   "pct24h": -1.2
+  },
+  "sol": {
+   "price": 74.04,
+   "pct24h": -0.1
+  },
+  "doge": {
+   "price": 0.070031,
+   "pct24h": -0.3
+  },
+  "ada": {
+   "price": 0.190752,
+   "pct24h": -1.0
+  },
+  "link": {
+   "price": 8.15,
+   "pct24h": -0.6
+  },
+  "ltc": {
+   "price": 45.22,
+   "pct24h": 0.9
+  },
+  "avax": {
+   "price": 6.65,
+   "pct24h": -0.7
+  },
+  "dot": {
+   "price": 0.83999,
+   "pct24h": -0.9
+  }
+ }
+}

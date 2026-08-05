@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-05T22:18:27Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.47,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 86.13509630318742,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 598,
+    "comments": 99,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "cec668b2aaa0",
+   "title": "Pi's Minimalism Is Its Advantage",
+   "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 81.34713834792322,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 508,
+    "comments": 275,
+    "hn_id": 49176038
+   }
+  },
+  {
+   "id": "aa6140d3cea1",
+   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+   "url": "https://mistral.ai/news/shieldstral/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 79.37140792732886,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 473,
+    "comments": 126,
+    "hn_id": 49171268
+   }
+  },
+  {
+   "id": "8ade8d9ac9b0",
+   "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+   "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1587,
+    "comments": 93,
+    "hn_id": 49173165
+   }
+  },
+  {
+   "id": "33664007a1c3",
+   "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+   "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 94.82120021884471,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 780,
+    "comments": 460,
+    "hn_id": 49167113
+   }
+  },
+  {
+   "id": "78be65f5ca48",
+   "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+   "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 80.90169943749474,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 500,
+    "comments": 6,
+    "hn_id": 49166491
+   }
+  },
+  {
+   "id": "df8e82f50ccc",
+   "title": "Discovery Loop",
+   "url": "https://www.discoveryloop.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 79.6008241696039,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 477,
+    "comments": 295,
+    "hn_id": 49184960
+   }
+  },
+  {
+   "id": "beba669d927f",
+   "title": "Cloudflare OS: an open platform for agents, apps, and work",
+   "url": "https://blog.cloudflare.com/cloudflare-os/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 75.80600358225394,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 413,
+    "comments": 218,
+    "hn_id": 49182996
+   }
+  },
+  {
+   "id": "3e09192b450f",
+   "title": "There Will Come Soft Rains (1950) [pdf]",
+   "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 76.53882032022076,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 425,
+    "comments": 429,
+    "hn_id": 49162653
+   }
+  },
+  {
+   "id": "7dc865ecbc28",
+   "title": "Xbox goes down. You can't play games you own on disc",
+   "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 90.85969936159745,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 694,
+    "comments": 744,
+    "hn_id": 49167448
+   }
+  },
+  {
+   "id": "70e7f2a36d88",
+   "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+   "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 77.3808170993924,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 439,
+    "comments": 237,
+    "hn_id": 49181099
+   }
+  },
+  {
+   "id": "3e3c1d735bb2",
+   "title": "FFmpeg 9.0",
+   "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 78.32682251925385,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 455,
+    "comments": 97,
+    "hn_id": 49166202
+   }
+  },
+  {
+   "id": "38e2373bac6a",
+   "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+   "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 73.4767985741633,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 376,
+    "comments": 104,
+    "hn_id": 49166386
+   }
+  },
+  {
+   "id": "21fa15c926dd",
+   "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+   "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 74.05354217587146,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 385,
+    "comments": 245,
+    "hn_id": 49171656
+   }
+  },
+  {
+   "id": "c376ae689192",
+   "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+   "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 73.02343178074636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 369,
+    "comments": 1,
+    "hn_id": 49184757
+   }
+  },
+  {
+   "id": "d474b8777726",
+   "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+   "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 73.4767985741633,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 376,
+    "comments": 696,
+    "hn_id": 49166860
+   }
+  },
+  {
+   "id": "f7b9aa1c6231",
+   "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+   "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 70.41475531146237,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 330,
+    "comments": 79,
+    "hn_id": 49175192
+   }
+  },
+  {
+   "id": "e5d555676f01",
+   "title": "Waymo in Dallas",
+   "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 69.58138625031751,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 318,
+    "comments": 691,
+    "hn_id": 49172836
+   }
+  },
+  {
+   "id": "4fb4b5ec86d5",
+   "title": "Harness engineering for self-improvement",
+   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 69.65142774872938,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 319,
+    "comments": 75,
+    "hn_id": 49164896
+   }
+  },
+  {
+   "id": "9af015edf438",
+   "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 71.63689526544408,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 348,
+    "comments": 490,
+    "hn_id": 49184755
+   }
+  },
+  {
+   "id": "5a126c6e3946",
+   "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+   "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 73.92596447695232,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 383,
+    "comments": 281,
+    "hn_id": 49170479
+   }
+  },
+  {
+   "id": "8890dc0f0866",
+   "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+   "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 68.15669125408017,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 298,
+    "comments": 181,
+    "hn_id": 49184190
+   }
+  },
+  {
+   "id": "68b13a624931",
+   "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+   "url": "https://twitter.com/gwern/status/2084739205071343837",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 68.58898943540675,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 304,
+    "comments": 222,
+    "hn_id": 49174900
+   }
+  },
+  {
+   "id": "024215ec12a7",
+   "title": "libexpat now funded by the City of Munich for up to 6 months",
+   "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 69.15880433163923,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 312,
+    "comments": 70,
+    "hn_id": 49176606
+   }
+  },
+  {
+   "id": "18e596b1c165",
+   "title": "Jeff Dean leaving Alphabet",
+   "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 68.08421984903521,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 297,
+    "comments": 9,
+    "hn_id": 49184746
+   }
+  },
+  {
+   "id": "09748692c6cd",
+   "title": "Apple is getting this wrong",
+   "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 67.27883631321941,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 286,
+    "comments": 293,
+    "hn_id": 49164649
+   }
+  },
+  {
+   "id": "67f81a46597c",
+   "title": "Eight Myths on Software Engineering and GenAI",
+   "url": "https://queue.acm.org/detail.cfm?id=3807963",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 66.75823272122517,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 279,
+    "comments": 237,
+    "hn_id": 49176830
+   }
+  },
+  {
+   "id": "ea86b0a153d3",
+   "title": "Oxide Computer raises $445M (SEC Form D)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 64.92179855667828,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 255,
+    "comments": 184,
+    "hn_id": 49174407
+   }
+  },
+  {
+   "id": "8c461d711d80",
+   "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+   "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 67.57346591481601,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 290,
+    "comments": 239,
+    "hn_id": 49175826
+   }
+  },
+  {
+   "id": "6c74cd32ec0d",
+   "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+   "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-05T22:18:27Z",
+   "score": 64.37003937005906,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 248,
+    "comments": 137,
+    "hn_id": 49166874
+   }
+  }
+ ]
+}
