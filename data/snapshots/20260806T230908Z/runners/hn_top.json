@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-06T23:08:02Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.26,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "27e3bc3501b2",
+   "title": "NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process",
+   "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 49.23839928708165,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 94,
+    "comments": 13,
+    "hn_id": 49184355
+   }
+  },
+  {
+   "id": "ce9ce8f707ce",
+   "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+   "url": "https://www.aleksagordic.com/blog/vllm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 37.74754878398196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 26,
+    "comments": 1,
+    "hn_id": 49202852
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 50.124689052802225,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 101,
+    "comments": 68,
+    "hn_id": 49201003
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 63.242646351945886,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 234,
+    "comments": 167,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "ffe01745889e",
+   "title": "Almost no skill required to cook a steak",
+   "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 63.97114317029974,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 243,
+    "comments": 284,
+    "hn_id": 49198069
+   }
+  },
+  {
+   "id": "9c98ca916ff4",
+   "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+   "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 37.24744871391589,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 24,
+    "comments": 7,
+    "hn_id": 49203059
+   }
+  },
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 53.72281323269014,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 132,
+    "comments": 99,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 66.90763653560053,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 281,
+    "comments": 240,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "55ad95dee0bd",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 39.36140661634507,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 33,
+    "comments": 7,
+    "hn_id": 49203105
+   }
+  },
+  {
+   "id": "3d6de5750de4",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+   "url": "https://provenmetal.com",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 57.78719262151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 172,
+    "comments": 118,
+    "hn_id": 49198464
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 52.04163456597992,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 117,
+    "comments": 84,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 97.02430145443967,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 830,
+    "comments": 145,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "c4dc5ab87dfe",
+   "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+   "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 44.68501968502953,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 62,
+    "comments": 100,
+    "hn_id": 49200439
+   }
+  },
+  {
+   "id": "0549247678f4",
+   "title": "Can you reverse engineer an ASIC?",
+   "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 41.77050983124842,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 45,
+    "comments": 25,
+    "hn_id": 49200933
+   }
+  },
+  {
+   "id": "9a7b4e410d2c",
+   "title": "I stopped trusting USB-C cable labels and started testing them",
+   "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 37.99038105676658,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 27,
+    "comments": 13,
+    "hn_id": 49152255
+   }
+  },
+  {
+   "id": "a7277ad61dde",
+   "title": "Quake – 30th Anniversary Update",
+   "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 57.9772648956823,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 174,
+    "comments": 73,
+    "hn_id": 49201930
+   }
+  },
+  {
+   "id": "0c8bb03a02d1",
+   "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+   "url": "https://github.com/CopilotKit/channels-sdk",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 46.93741096848031,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 77,
+    "comments": 20,
+    "hn_id": 49198583
+   }
+  },
+  {
+   "id": "830ec250fb9f",
+   "title": "Crime Pays but Botany Doesn't",
+   "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 87.94839156007086,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 634,
+    "comments": 196,
+    "hn_id": 49192566
+   }
+  },
+  {
+   "id": "c20b1b349a2c",
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 62.996710383926654,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 231,
+    "comments": 181,
+    "hn_id": 49195468
+   }
+  },
+  {
+   "id": "22fd2ca22bb6",
+   "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+   "url": "https://zenodo.org/records/21359923",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49203707
+   }
+  },
+  {
+   "id": "30b426a4da74",
+   "title": "STV: A full-motion video codec for the Atari ST",
+   "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49113256
+   }
+  },
+  {
+   "id": "fa4ad685443e",
+   "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+   "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 49.10912690248239,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 93,
+    "comments": 15,
+    "hn_id": 49120149
+   }
+  },
+  {
+   "id": "c7ba6a8515bc",
+   "title": "The simple elegance of the integrated timing belt loopback fastener",
+   "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 48.58495283014151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 89,
+    "comments": 18,
+    "hn_id": 49143782
+   }
+  },
+  {
+   "id": "148cf66557d7",
+   "title": "How to Make a Nintendo 64 Game in 2026",
+   "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 77.97405025104273,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 449,
+    "comments": 242,
+    "hn_id": 49168622
+   }
+  },
+  {
+   "id": "f72dbccb6776",
+   "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+   "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 73.66980583482946,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 379,
+    "comments": 242,
+    "hn_id": 49200652
+   }
+  },
+  {
+   "id": "5ac90ded2c7b",
+   "title": "Building Progressively Enhanced Forms Using htmx",
+   "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 41.77050983124842,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 45,
+    "comments": 7,
+    "hn_id": 49116252
+   }
+  },
+  {
+   "id": "76af484cdbb2",
+   "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
+   "url": "https://arxiv.org/abs/2607.25373",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 1,
+    "hn_id": 49161617
+   }
+  },
+  {
+   "id": "50560aa228bc",
+   "title": "Civilians under siege by Mexican cartel fight back with AK-47s, grenades",
+   "url": "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 46.93741096848031,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 77,
+    "comments": 58,
+    "hn_id": 49202321
+   }
+  },
+  {
+   "id": "67f7f43f8ad0",
+   "title": "Pareto Front",
+   "url": "https://en.wikipedia.org/wiki/Pareto_front",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 61.40054944640259,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 212,
+    "comments": 91,
+    "hn_id": 49096439
+   }
+  },
+  {
+   "id": "9cb99f6fbbad",
+   "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
+   "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 51.22022120425379,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 110,
+    "comments": 86,
+    "hn_id": 49200390
+   }
+  }
+ ]
+}

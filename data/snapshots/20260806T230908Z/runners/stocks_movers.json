@@ -1,0 +1,167 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-06T23:08:10Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.12,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "267805c1874c",
+   "title": "Moderna plunged -4.26% today",
+   "url": "https://finance.yahoo.com/quote/MRNA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T23:08:10Z",
+   "score": 80.54439605368415,
+   "tags": [
+    "MRNA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MRNA",
+    "move_pct": -4.26,
+    "price": 53.86,
+    "prev_close": 56.26,
+    "day_high": 58.99,
+    "day_low": 53.71,
+    "volume": 5545464
+   }
+  },
+  {
+   "id": "ae1119eb5647",
+   "title": "Boeing plunged -3.33% today",
+   "url": "https://finance.yahoo.com/quote/BA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T23:08:10Z",
+   "score": 74.98417919147342,
+   "tags": [
+    "BA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "BA",
+    "move_pct": -3.33,
+    "price": 232.19,
+    "prev_close": 240.19,
+    "day_high": 240.37,
+    "day_low": 231.33,
+    "volume": 6958716
+   }
+  },
+  {
+   "id": "8fbda3b4a7e0",
+   "title": "Salesforce plunged -3.22% today",
+   "url": "https://finance.yahoo.com/quote/CRM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T23:08:10Z",
+   "score": 74.30770027982169,
+   "tags": [
+    "CRM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "CRM",
+    "move_pct": -3.22,
+    "price": 186.77,
+    "prev_close": 192.98,
+    "day_high": 187.02,
+    "day_low": 183.0,
+    "volume": 9213577
+   }
+  },
+  {
+   "id": "823e959e444a",
+   "title": "Super Micro plunged -3.10% today",
+   "url": "https://finance.yahoo.com/quote/SMCI",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T23:08:10Z",
+   "score": 73.60158311345648,
+   "tags": [
+    "SMCI",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SMCI",
+    "move_pct": -3.1,
+    "price": 29.38,
+    "prev_close": 30.32,
+    "day_high": 30.935,
+    "day_low": 29.33,
+    "volume": 26348349
+   }
+  },
+  {
+   "id": "61f71c5dda99",
+   "title": "Disney surged +2.87% today",
+   "url": "https://finance.yahoo.com/quote/DIS",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T23:08:10Z",
+   "score": 72.21698113207549,
+   "tags": [
+    "DIS",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "DIS",
+    "move_pct": 2.87,
+    "price": 104.68,
+    "prev_close": 101.76,
+    "day_high": 104.72,
+    "day_low": 102.515,
+    "volume": 13701981
+   }
+  },
+  {
+   "id": "f0fe6dca9fdc",
+   "title": "Goldman Sachs plunged -2.62% today",
+   "url": "https://finance.yahoo.com/quote/GS",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T23:08:10Z",
+   "score": 70.73020992474406,
+   "tags": [
+    "GS",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GS",
+    "move_pct": -2.62,
+    "price": 1032.58,
+    "prev_close": 1060.38,
+    "day_high": 1068.04,
+    "day_low": 1030.78,
+    "volume": 1176890
+   }
+  },
+  {
+   "id": "2f668683c1aa",
+   "title": "Microsoft surged +2.54% today",
+   "url": "https://finance.yahoo.com/quote/MSFT",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T23:08:10Z",
+   "score": 70.26279079309076,
+   "tags": [
+    "MSFT",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MSFT",
+    "move_pct": 2.54,
+    "price": 499.86,
+    "prev_close": 487.46,
+    "day_high": 501.555,
+    "day_low": 488.525,
+    "volume": 32788866
+   }
+  }
+ ]
+}

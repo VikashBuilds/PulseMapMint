@@ -1,0 +1,260 @@
+{
+ "runner": "github_all",
+ "generated": "2026-08-06T23:08:05Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 1.29,
+ "args": [
+  "github_all",
+  null
+ ],
+ "items": [
+  {
+   "id": "edd4dcbffbf9",
+   "title": "TencentCloud/TencentDB-Agent-Memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 84.41113099577751,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1053,
+    "language": "TypeScript",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "835a2754c92b",
+   "title": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 79.86207530616782,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 588,
+    "language": "JavaScript",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "fa971a060eda",
+   "title": "cloudflare/computer",
+   "url": "https://github.com/cloudflare/computer",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 91.73844655974759,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2690,
+    "language": "TypeScript",
+    "description": "Give your agent a computer 👾",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "c2800839f3a9",
+   "title": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 89.43025708728437,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2002,
+    "language": "Shell",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "d4309c77541a",
+   "title": "goauthentik/authentik",
+   "url": "https://github.com/goauthentik/authentik",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 67.68159033292022,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 123,
+    "language": "Python",
+    "description": "The authentication glue you need.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "d85c32bfbe92",
+   "title": "huangruiteng/loopx",
+   "url": "https://github.com/huangruiteng/loopx",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 82.7753900651071,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 854,
+    "language": "Python",
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "21e99b249af0",
+   "title": "google/guava",
+   "url": "https://github.com/google/guava",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 58.01344501381117,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 35,
+    "language": "Java",
+    "description": "Google core libraries for Java",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "3f974e76a1ee",
+   "title": "TapXWorld/ChinaTextbook",
+   "url": "https://github.com/TapXWorld/ChinaTextbook",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 69.57582756517961,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 157,
+    "language": "Roff",
+    "description": "所有小初高、大学PDF教材。",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "004e35f66f20",
+   "title": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 56.32316396218121,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 28,
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "43281aa3cb5a",
+   "title": "tirth8205/code-review-graph",
+   "url": "https://github.com/tirth8205/code-review-graph",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 72.61240657846834,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 232,
+    "language": "Python",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "cc1dff416328",
+   "title": "esengine/DeepSeek-Reasonix",
+   "url": "https://github.com/esengine/DeepSeek-Reasonix",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 83.13281463568642,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 894,
+    "language": "Go",
+    "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "8267181a5a1a",
+   "title": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 82.81187694896236,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 858,
+    "language": "Shell",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "6c9418ece44c",
+   "title": "firecrawl/pdf-inspector",
+   "url": "https://github.com/firecrawl/pdf-inspector",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-06T23:08:05Z",
+   "score": 85.39262229511482,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1194,
+    "language": "Rust",
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "topic": "all"
+   }
+  }
+ ]
+}

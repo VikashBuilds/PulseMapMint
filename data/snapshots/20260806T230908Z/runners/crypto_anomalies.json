@@ -1,0 +1,245 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-06T23:08:04Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.21,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "470e85b23f70",
+   "title": "Audiera (BEAT) moved -18.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -18.4,
+    "pct1h": 0.9,
+    "pct7d": -50.4,
+    "price_usd": 1.89,
+    "market_cap": 585547622
+   }
+  },
+  {
+   "id": "8108568e20d6",
+   "title": "Canton (CC) moved -12.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/canton-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 85.5,
+   "tags": [
+    "cc",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cc",
+    "pct24h": -12.2,
+    "pct1h": -1.5,
+    "pct7d": -25.2,
+    "price_usd": 0.091755,
+    "market_cap": 3604452290
+   }
+  },
+  {
+   "id": "78a3eb4eb2f3",
+   "title": "币安人生 (BinanceLife) (币安人生) moved +9.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 78.25,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": 9.3,
+    "pct1h": -0.7,
+    "pct7d": -13.3,
+    "price_usd": 0.557764,
+    "market_cap": 558168370
+   }
+  },
+  {
+   "id": "e023744c908c",
+   "title": "Lighter (LIT) moved +7.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/lighter",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 74.25,
+   "tags": [
+    "lit",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "lit",
+    "pct24h": 7.7,
+    "pct1h": 0,
+    "pct7d": 3.4,
+    "price_usd": 2.32,
+    "market_cap": 579646153
+   }
+  },
+  {
+   "id": "9c6687b44850",
+   "title": "MemeCore (M) moved -6.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/memecore",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 72.25,
+   "tags": [
+    "m",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "m",
+    "pct24h": -6.9,
+    "pct1h": 0.5,
+    "pct7d": 14.5,
+    "price_usd": 1.14,
+    "market_cap": 1513675518
+   }
+  },
+  {
+   "id": "2e43e7db1008",
+   "title": "Cardano (ADA) moved +5.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cardano",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 69.0,
+   "tags": [
+    "ada",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ada",
+    "pct24h": 5.6,
+    "pct1h": -1.6,
+    "pct7d": 18.6,
+    "price_usd": 0.200734,
+    "market_cap": 7495091234
+   }
+  },
+  {
+   "id": "a63f2476e758",
+   "title": "Shiba Inu (SHIB) moved -4.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/shiba-inu",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 66.25,
+   "tags": [
+    "shib",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "shib",
+    "pct24h": -4.5,
+    "pct1h": -0.5,
+    "pct7d": -0.9,
+    "price_usd": 4.68e-06,
+    "market_cap": 2758612899
+   }
+  },
+  {
+   "id": "5c0f8f49908f",
+   "title": "Zcash (ZEC) moved -4.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 65.5,
+   "tags": [
+    "zec",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "zec",
+    "pct24h": -4.2,
+    "pct1h": 0.1,
+    "pct7d": 4.7,
+    "price_usd": 495.62,
+    "market_cap": 8318026637
+   }
+  },
+  {
+   "id": "dbfa31829e07",
+   "title": "Worldcoin (WLD) moved -4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/worldcoin-wld",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T23:08:04Z",
+   "score": 65.0,
+   "tags": [
+    "wld",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "wld",
+    "pct24h": -4.0,
+    "pct1h": -0.1,
+    "pct7d": -1.9,
+    "price_usd": 0.30279,
+    "market_cap": 1084401192
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64306,
+   "pct24h": -0.5
+  },
+  "eth": {
+   "price": 1903.46,
+   "pct24h": -0.2
+  },
+  "xrp": {
+   "price": 1.035,
+   "pct24h": -2.5
+  },
+  "sol": {
+   "price": 72.63,
+   "pct24h": -1.9
+  },
+  "doge": {
+   "price": 0.068967,
+   "pct24h": -1.5
+  },
+  "ada": {
+   "price": 0.200734,
+   "pct24h": 5.6
+  },
+  "link": {
+   "price": 8.19,
+   "pct24h": 0.5
+  },
+  "ltc": {
+   "price": 45.41,
+   "pct24h": 0.5
+  },
+  "avax": {
+   "price": 6.45,
+   "pct24h": -2.9
+  },
+  "dot": {
+   "price": 0.819919,
+   "pct24h": -2.1
+  }
+ }
+}

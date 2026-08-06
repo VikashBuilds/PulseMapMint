@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-06T23:08:02Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.48,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "9af015edf438",
+   "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 96.63274390947201,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 821,
+    "comments": 876,
+    "hn_id": 49184755
+   }
+  },
+  {
+   "id": "cec668b2aaa0",
+   "title": "Pi's Minimalism Is Its Advantage",
+   "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 82.71698190307598,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 533,
+    "comments": 292,
+    "hn_id": 49176038
+   }
+  },
+  {
+   "id": "93b054cb87ac",
+   "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+   "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 76.234753829798,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 420,
+    "comments": 114,
+    "hn_id": 49186762
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 97.02430145443967,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 830,
+    "comments": 145,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "70e7f2a36d88",
+   "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+   "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 80.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 484,
+    "comments": 265,
+    "hn_id": 49181099
+   }
+  },
+  {
+   "id": "beba669d927f",
+   "title": "Cloudflare OS: an open platform for agents, apps, and work",
+   "url": "https://blog.cloudflare.com/cloudflare-os/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 88.44288770224759,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 644,
+    "comments": 318,
+    "hn_id": 49182996
+   }
+  },
+  {
+   "id": "830ec250fb9f",
+   "title": "Crime Pays but Botany Doesn't",
+   "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 87.94839156007086,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 634,
+    "comments": 196,
+    "hn_id": 49192566
+   }
+  },
+  {
+   "id": "3daaf44022c0",
+   "title": "I'm switching my phone from Android to Linux",
+   "url": "https://runarcn.no/android-to-linux/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 77.08166663999916,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 434,
+    "comments": 472,
+    "hn_id": 49188022
+   }
+  },
+  {
+   "id": "b0663a37fd64",
+   "title": "The title cards in Blade Runner are amazing",
+   "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 75.68283733178325,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 411,
+    "comments": 201,
+    "hn_id": 49189287
+   }
+  },
+  {
+   "id": "19d46c1b64ce",
+   "title": "Zed DeltaDB",
+   "url": "https://zed.dev/deltadb",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 81.89903338370522,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 518,
+    "comments": 302,
+    "hn_id": 49187256
+   }
+  },
+  {
+   "id": "df8e82f50ccc",
+   "title": "Discovery Loop",
+   "url": "https://www.discoveryloop.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 908,
+    "comments": 577,
+    "hn_id": 49184960
+   }
+  },
+  {
+   "id": "249ff1116241",
+   "title": "Born Against, or why hobby programming communities are against LLM usage",
+   "url": "https://blog.fogus.me/llm/born-against.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 75.43560250458003,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 407,
+    "comments": 477,
+    "hn_id": 49187061
+   }
+  },
+  {
+   "id": "8890dc0f0866",
+   "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+   "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 69.93050188902858,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 323,
+    "comments": 190,
+    "hn_id": 49184190
+   }
+  },
+  {
+   "id": "ce569d17d129",
+   "title": "Muse Code and Muse Spark 1.2",
+   "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 69.58138625031751,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 318,
+    "comments": 246,
+    "hn_id": 49187575
+   }
+  },
+  {
+   "id": "ead57da04f33",
+   "title": "Nashville uses eminent domain to block data center near zoo",
+   "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 69.44097208657794,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 316,
+    "comments": 467,
+    "hn_id": 49191624
+   }
+  },
+  {
+   "id": "024215ec12a7",
+   "title": "libexpat now funded by the City of Munich for up to 6 months",
+   "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 69.51123453691214,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 317,
+    "comments": 72,
+    "hn_id": 49176606
+   }
+  },
+  {
+   "id": "f72dbccb6776",
+   "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+   "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 73.66980583482946,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 379,
+    "comments": 242,
+    "hn_id": 49200652
+   }
+  },
+  {
+   "id": "c376ae689192",
+   "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+   "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 73.02343178074636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 369,
+    "comments": 1,
+    "hn_id": 49184757
+   }
+  },
+  {
+   "id": "a26d96db40d3",
+   "title": "Position: LLMs Can't Jump",
+   "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 67.93891009329417,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 295,
+    "comments": 206,
+    "hn_id": 49181083
+   }
+  },
+  {
+   "id": "18e596b1c165",
+   "title": "Jeff Dean leaving Alphabet",
+   "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 68.08421984903521,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 297,
+    "comments": 9,
+    "hn_id": 49184746
+   }
+  },
+  {
+   "id": "767639a1c6b2",
+   "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+   "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 69.51123453691214,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 317,
+    "comments": 259,
+    "hn_id": 49187977
+   }
+  },
+  {
+   "id": "565596d6bdf7",
+   "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+   "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 67.64680527307995,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 291,
+    "comments": 134,
+    "hn_id": 49185983
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 66.90763653560053,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 281,
+    "comments": 240,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "67f81a46597c",
+   "title": "Eight Myths on Software Engineering and GenAI",
+   "url": "https://queue.acm.org/detail.cfm?id=3807963",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 67.35268586524353,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 287,
+    "comments": 247,
+    "hn_id": 49176830
+   }
+  },
+  {
+   "id": "2843174091b5",
+   "title": "Celld: Self-hosted, distributed Durable Objects",
+   "url": "https://github.com/denoland/celld",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 65.85033659592048,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 267,
+    "comments": 48,
+    "hn_id": 49185430
+   }
+  },
+  {
+   "id": "0a11197fb5f2",
+   "title": "Prime Agent: A self-improving RLM agent",
+   "url": "https://www.primeintellect.ai/blog/prime-agent",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 63.64906208435077,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 239,
+    "comments": 59,
+    "hn_id": 49189075
+   }
+  },
+  {
+   "id": "461b5e59d814",
+   "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+   "url": "https://electronicmaterialsoffice.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 64.68626966596887,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 252,
+    "comments": 212,
+    "hn_id": 49197137
+   }
+  },
+  {
+   "id": "ffe01745889e",
+   "title": "Almost no skill required to cook a steak",
+   "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 63.97114317029974,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 243,
+    "comments": 284,
+    "hn_id": 49198069
+   }
+  },
+  {
+   "id": "6bd6f89fa1ff",
+   "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+   "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 64.60744879438715,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 251,
+    "comments": 110,
+    "hn_id": 49182041
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T23:08:02Z",
+   "score": 63.242646351945886,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 234,
+    "comments": 167,
+    "hn_id": 49201970
+   }
+  }
+ ]
+}

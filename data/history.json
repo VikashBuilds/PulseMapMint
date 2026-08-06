@@ -1622,5 +1622,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260806T230908Z",
+  "generated": "2026-08-06T23:09:09.013412+00:00",
+  "events": 1139,
+  "breakers": 120,
+  "avg_heat": 89.0,
+  "prices": {
+   "btc": {
+    "price": 64306,
+    "pct24h": -0.5
+   },
+   "eth": {
+    "price": 1903.46,
+    "pct24h": -0.2
+   },
+   "xrp": {
+    "price": 1.035,
+    "pct24h": -2.5
+   },
+   "sol": {
+    "price": 72.63,
+    "pct24h": -1.9
+   },
+   "doge": {
+    "price": 0.068967,
+    "pct24h": -1.5
+   },
+   "ada": {
+    "price": 0.200734,
+    "pct24h": 5.6
+   },
+   "link": {
+    "price": 8.19,
+    "pct24h": 0.5
+   },
+   "ltc": {
+    "price": 45.41,
+    "pct24h": 0.5
+   },
+   "avax": {
+    "price": 6.45,
+    "pct24h": -2.9
+   },
+   "dot": {
+    "price": 0.819919,
+    "pct24h": -2.1
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved -18.4% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "Canton (CC) moved -12.2% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "cloudflare/computer",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Mario Meets Pareto",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Cloudflare OS: an open platform for agents, apps, and work",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Crime Pays but Botany Doesn't",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]
