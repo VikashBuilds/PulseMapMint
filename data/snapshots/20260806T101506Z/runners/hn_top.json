@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-06T10:14:11Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.41,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "830ec250fb9f",
+   "title": "Crime Pays but Botany Doesn't",
+   "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 61.22844186547359,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 210,
+    "comments": 82,
+    "hn_id": 49192566
+   }
+  },
+  {
+   "id": "53375293d0ab",
+   "title": "What I love about Django",
+   "url": "https://buttondown.com/blog/what-i-love-about-django",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 44.52562418976663,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 61,
+    "comments": 37,
+    "hn_id": 49193673
+   }
+  },
+  {
+   "id": "b0663a37fd64",
+   "title": "The title cards in Blade Runner are amazing",
+   "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 66.6082924427331,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 277,
+    "comments": 136,
+    "hn_id": 49189287
+   }
+  },
+  {
+   "id": "6e2778d83161",
+   "title": "Let's all meet up in the Y2K",
+   "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 40.8113883008419,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 40,
+    "comments": 21,
+    "hn_id": 49193314
+   }
+  },
+  {
+   "id": "df8e82f50ccc",
+   "title": "Discovery Loop",
+   "url": "https://www.discoveryloop.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 93.78408246098802,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 757,
+    "comments": 472,
+    "hn_id": 49184960
+   }
+  },
+  {
+   "id": "ce569d17d129",
+   "title": "Muse Code and Muse Spark 1.2",
+   "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 65.38873605350878,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 261,
+    "comments": 161,
+    "hn_id": 49187575
+   }
+  },
+  {
+   "id": "19d46c1b64ce",
+   "title": "Zed DeltaDB",
+   "url": "https://zed.dev/deltadb",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 76.78078794301994,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 429,
+    "comments": 222,
+    "hn_id": 49187256
+   }
+  },
+  {
+   "id": "93b054cb87ac",
+   "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+   "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 69.7911821679223,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 321,
+    "comments": 80,
+    "hn_id": 49186762
+   }
+  },
+  {
+   "id": "9af015edf438",
+   "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 89.2748006609122,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 661,
+    "comments": 715,
+    "hn_id": 49184755
+   }
+  },
+  {
+   "id": "249ff1116241",
+   "title": "Born Against, or why hobby programming communities are against LLM usage",
+   "url": "https://blog.fogus.me/llm/born-against.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 66.38236339311712,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 274,
+    "comments": 259,
+    "hn_id": 49187061
+   }
+  },
+  {
+   "id": "378a0eb6611c",
+   "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+   "url": "https://www.greyblake.com/blog/branchless-rust/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 59.003676271838614,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 185,
+    "comments": 45,
+    "hn_id": 49151991
+   }
+  },
+  {
+   "id": "148cf66557d7",
+   "title": "How to Make a Nintendo 64 Game in 2026",
+   "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 48.58495283014151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 89,
+    "comments": 18,
+    "hn_id": 49168622
+   }
+  },
+  {
+   "id": "0a11197fb5f2",
+   "title": "Prime Agent: A self-improving RLM agent",
+   "url": "https://www.primeintellect.ai/blog/prime-agent",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 59.003676271838614,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 185,
+    "comments": 37,
+    "hn_id": 49189075
+   }
+  },
+  {
+   "id": "9741cc984ed6",
+   "title": "Morioka Shoten",
+   "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 34.01387818865997,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 13,
+    "comments": 7,
+    "hn_id": 49129551
+   }
+  },
+  {
+   "id": "b85800c7272b",
+   "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+   "url": "https://quantego.org/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 38.69306393762915,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 30,
+    "comments": 17,
+    "hn_id": 49112348
+   }
+  },
+  {
+   "id": "beba669d927f",
+   "title": "Cloudflare OS: an open platform for agents, apps, and work",
+   "url": "https://blog.cloudflare.com/cloudflare-os/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 84.21359641163505,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 561,
+    "comments": 270,
+    "hn_id": 49182996
+   }
+  },
+  {
+   "id": "e9b70752c86c",
+   "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+   "url": "https://www.hyperprobe.co",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 43.874586088176876,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 57,
+    "comments": 41,
+    "hn_id": 49185389
+   }
+  },
+  {
+   "id": "476988620013",
+   "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+   "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 37.24744871391589,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 24,
+    "comments": 8,
+    "hn_id": 49157792
+   }
+  },
+  {
+   "id": "565596d6bdf7",
+   "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+   "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 63.16084380618437,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 233,
+    "comments": 95,
+    "hn_id": 49185983
+   }
+  },
+  {
+   "id": "5653abc16c84",
+   "title": "GE-97 Terminal: The Old Internet",
+   "url": "https://ge97.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 5,
+    "hn_id": 49146051
+   }
+  },
+  {
+   "id": "ead57da04f33",
+   "title": "Nashville uses eminent domain to block data center near zoo",
+   "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 63.32427429188973,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 235,
+    "comments": 297,
+    "hn_id": 49191624
+   }
+  },
+  {
+   "id": "2843174091b5",
+   "title": "Celld: Self-hosted, distributed Durable Objects",
+   "url": "https://github.com/denoland/celld",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 61.742346141747674,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 216,
+    "comments": 35,
+    "hn_id": 49185430
+   }
+  },
+  {
+   "id": "79deca9108e4",
+   "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+   "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 53.50438562747844,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 130,
+    "comments": 28,
+    "hn_id": 49189234
+   }
+  },
+  {
+   "id": "e831892f1edf",
+   "title": "GNU Hurd News 2026-Q2",
+   "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 58.26033673912517,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 177,
+    "comments": 120,
+    "hn_id": 49146183
+   }
+  },
+  {
+   "id": "3daaf44022c0",
+   "title": "I'm switching my phone from Android to Linux",
+   "url": "https://runarcn.no/android-to-linux/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 70.89389937671456,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 337,
+    "comments": 342,
+    "hn_id": 49188022
+   }
+  },
+  {
+   "id": "a26d96db40d3",
+   "title": "Position: LLMs Can't Jump",
+   "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 66.68333000133266,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 278,
+    "comments": 183,
+    "hn_id": 49181083
+   }
+  },
+  {
+   "id": "04ed0a954896",
+   "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+   "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 54.15475947422651,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 136,
+    "comments": 57,
+    "hn_id": 49115096
+   }
+  },
+  {
+   "id": "b4bc734c24d0",
+   "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+   "url": "https://arxiv.org/abs/2510.01395",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 53.2842712474619,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 128,
+    "comments": 66,
+    "hn_id": 49186720
+   }
+  },
+  {
+   "id": "a1c6cac4ee47",
+   "title": "The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes",
+   "url": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 0,
+    "hn_id": 49094358
+   }
+  },
+  {
+   "id": "b7da30002661",
+   "title": "The Entropy of a Markov Chain",
+   "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 53.50438562747844,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 130,
+    "comments": 12,
+    "hn_id": 49183017
+   }
+  }
+ ]
+}

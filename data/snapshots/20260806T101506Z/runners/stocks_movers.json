@@ -1,0 +1,211 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-06T10:14:10Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.1,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "38fd8822b2f3",
+   "title": "AMD plunged -7.04% today",
+   "url": "https://finance.yahoo.com/quote/AMD",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 95.0,
+   "tags": [
+    "AMD",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "AMD",
+    "move_pct": -7.04,
+    "price": 482.05,
+    "prev_close": 518.58,
+    "day_high": 502.0,
+    "day_low": 478.2,
+    "volume": 47435209
+   }
+  },
+  {
+   "id": "135658ec1189",
+   "title": "Super Micro plunged -4.32% today",
+   "url": "https://finance.yahoo.com/quote/SMCI",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 80.93878195014202,
+   "tags": [
+    "SMCI",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SMCI",
+    "move_pct": -4.32,
+    "price": 30.32,
+    "prev_close": 31.69,
+    "day_high": 31.73,
+    "day_low": 30.295,
+    "volume": 33789623
+   }
+  },
+  {
+   "id": "97ff54e146b9",
+   "title": "Silver ETF surged +4.14% today",
+   "url": "https://finance.yahoo.com/quote/SLV",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 79.85141158989595,
+   "tags": [
+    "SLV",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SLV",
+    "move_pct": 4.14,
+    "price": 56.07,
+    "prev_close": 53.84,
+    "day_high": 56.74,
+    "day_low": 55.8,
+    "volume": 21427990
+   }
+  },
+  {
+   "id": "7361b8ea5a9e",
+   "title": "Gold ETF surged +4.14% today",
+   "url": "https://finance.yahoo.com/quote/GLD",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 79.82360487491975,
+   "tags": [
+    "GLD",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GLD",
+    "move_pct": 4.14,
+    "price": 389.64,
+    "prev_close": 374.16,
+    "day_high": 391.51,
+    "day_low": 384.32,
+    "volume": 14717153
+   }
+  },
+  {
+   "id": "418e811e25f6",
+   "title": "Alphabet plunged -4.03% today",
+   "url": "https://finance.yahoo.com/quote/GOOGL",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 79.18112008473449,
+   "tags": [
+    "GOOGL",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "GOOGL",
+    "move_pct": -4.03,
+    "price": 362.43,
+    "prev_close": 377.65,
+    "day_high": 384.47,
+    "day_low": 356.82,
+    "volume": 46331184
+   }
+  },
+  {
+   "id": "14b2f6811515",
+   "title": "Disney surged +3.65% today",
+   "url": "https://finance.yahoo.com/quote/DIS",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 76.8781829293135,
+   "tags": [
+    "DIS",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "DIS",
+    "move_pct": 3.65,
+    "price": 101.76,
+    "prev_close": 98.18,
+    "day_high": 103.19,
+    "day_low": 99.685,
+    "volume": 20763106
+   }
+  },
+  {
+   "id": "18cd3b390456",
+   "title": "NVIDIA surged +3.43% today",
+   "url": "https://finance.yahoo.com/quote/NVDA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 75.60960649240351,
+   "tags": [
+    "NVDA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "NVDA",
+    "move_pct": 3.43,
+    "price": 219.22,
+    "prev_close": 211.94,
+    "day_high": 222.22,
+    "day_low": 216.4,
+    "volume": 156378175
+   }
+  },
+  {
+   "id": "5234c13be109",
+   "title": "Qualcomm plunged -3.16% today",
+   "url": "https://finance.yahoo.com/quote/QCOM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 73.95862789696928,
+   "tags": [
+    "QCOM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QCOM",
+    "move_pct": -3.16,
+    "price": 157.53,
+    "prev_close": 162.67,
+    "day_high": 162.8,
+    "day_low": 157.12,
+    "volume": 9656408
+   }
+  },
+  {
+   "id": "096c11f80e85",
+   "title": "Palantir plunged -2.60% today",
+   "url": "https://finance.yahoo.com/quote/PLTR",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-06T10:14:10Z",
+   "score": 70.6030984876429,
+   "tags": [
+    "PLTR",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "PLTR",
+    "move_pct": -2.6,
+    "price": 158.43,
+    "prev_close": 162.66,
+    "day_high": 166.06,
+    "day_low": 158.25,
+    "volume": 61261948
+   }
+  }
+ ]
+}

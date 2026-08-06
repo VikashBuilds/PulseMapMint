@@ -1,0 +1,328 @@
+{
+ "runner": "usgs_quakes",
+ "generated": "2026-08-06T10:14:11Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.17,
+ "args": [
+  "usgs_quakes",
+  "4.0"
+ ],
+ "items": [
+  {
+   "id": "df680c98b554",
+   "title": "M5.6 earthquake — 40 km SW of Sarangani, Philippines",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 84.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.6,
+    "depth_km": 10,
+    "lat": 5.128,
+    "lon": 125.227,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "3e41f747a240",
+   "title": "M5.3 earthquake — 62 km W of Tobelo, Indonesia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 82.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.3,
+    "depth_km": 115.7,
+    "lat": 1.79,
+    "lon": 127.454,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "191146d50803",
+   "title": "M5.2 earthquake — 31 km SSW of Ialibu, Papua New Guinea",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tie5",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 81.6,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 5.2,
+    "depth_km": 10.0,
+    "lat": -6.522,
+    "lon": 143.844,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "91a09241efe7",
+   "title": "M4.9 earthquake — 128 km WSW of Port Orford, Oregon",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tij5",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 79.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": 42.408,
+    "lon": -125.998,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "329c15af9c2f",
+   "title": "M4.9 earthquake — 15 km WSW of Honmachi, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tig8",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 79.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": 32.446,
+    "lon": 130.455,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "9d548433ad42",
+   "title": "M4.9 earthquake — 42 km SW of Sarangani, Philippines",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tifh",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 79.2,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.9,
+    "depth_km": 10,
+    "lat": 5.085,
+    "lon": 125.247,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "c230e8502d69",
+   "title": "M4.8 earthquake — 62 km NNE of Shi Yomi, India",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 78.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.8,
+    "depth_km": 10,
+    "lat": 29.028,
+    "lon": 94.677,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "9b44e1391850",
+   "title": "M4.7 earthquake — 127 km E of Bitung, Indonesia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tial",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 77.6,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.7,
+    "depth_km": 10,
+    "lat": 1.294,
+    "lon": 126.265,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "5f76136eb65c",
+   "title": "M4.6 earthquake — 40 km WNW of Houma, Tonga",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiie",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 76.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 126.5,
+    "lat": -21.059,
+    "lon": -175.673,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "feabc4341169",
+   "title": "M4.6 earthquake — 48 km WSW of Sarangani, Philippines",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tihf",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 76.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 35,
+    "lat": 5.21,
+    "lon": 125.076,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "bb7e0e92b1fb",
+   "title": "M4.6 earthquake — 99 km WSW of Houma, Tonga",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiex",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 76.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.6,
+    "depth_km": 137.2,
+    "lat": -21.517,
+    "lon": -176.189,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "bce6d85e25e5",
+   "title": "M4.41 earthquake — 31 km NNW of Covelo, CA",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412157",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 75.28,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.41,
+    "depth_km": 7.3,
+    "lat": 40.022,
+    "lon": -123.446,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "0118fcbc54bd",
+   "title": "M4.3 earthquake — 9 km ESE of Caimito, Colombia",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiif",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 74.4,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.3,
+    "depth_km": 53.4,
+    "lat": 8.742,
+    "lon": -75.042,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "6e0f7ffc2915",
+   "title": "M4.1 earthquake — 88 km SW of Corinto, Nicaragua",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tihn",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 72.8,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4.1,
+    "depth_km": 38.2,
+    "lat": 11.822,
+    "lon": -87.626,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  },
+  {
+   "id": "71618ce3ad11",
+   "title": "M4 earthquake — 203 km NW of Oula Xiuma, China",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigp",
+   "source": "usgs_quakes",
+   "category": "geohazard",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 72.0,
+   "tags": [
+    "earthquake",
+    "usgs"
+   ],
+   "metrics": {
+    "mag": 4,
+    "depth_km": 10,
+    "lat": 35.47,
+    "lon": 99.469,
+    "tsunami": false,
+    "status": "reviewed"
+   }
+  }
+ ]
+}

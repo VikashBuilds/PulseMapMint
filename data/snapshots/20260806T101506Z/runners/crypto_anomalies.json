@@ -1,0 +1,182 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-06T10:14:11Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.06,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "49de463997de",
+   "title": "Audiera (BEAT) moved -29.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -29.5,
+    "pct1h": 7.2,
+    "pct7d": -54.4,
+    "price_usd": 1.73,
+    "market_cap": 533745484
+   }
+  },
+  {
+   "id": "8a7c94fdc8da",
+   "title": "Canton (CC) moved -7.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/canton-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 74.5,
+   "tags": [
+    "cc",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cc",
+    "pct24h": -7.8,
+    "pct1h": -0.4,
+    "pct7d": -16.8,
+    "price_usd": 0.100963,
+    "market_cap": 3961937803
+   }
+  },
+  {
+   "id": "d794f6e48da5",
+   "title": "Pump.fun (PUMP) moved -6.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pump-fun",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 72.0,
+   "tags": [
+    "pump",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pump",
+    "pct24h": -6.8,
+    "pct1h": -1.3,
+    "pct7d": 23.4,
+    "price_usd": 0.00230797,
+    "market_cap": 911037786
+   }
+  },
+  {
+   "id": "a9438aee128e",
+   "title": "Pi Network (PI) moved +5.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pi-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 69.75,
+   "tags": [
+    "pi",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pi",
+    "pct24h": 5.9,
+    "pct1h": -0.1,
+    "pct7d": 8.3,
+    "price_usd": 0.09096,
+    "market_cap": 1002851901
+   }
+  },
+  {
+   "id": "9e34a0f4a23a",
+   "title": "币安人生 (BinanceLife) (币安人生) moved +5.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 68.75,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": 5.5,
+    "pct1h": 1.1,
+    "pct7d": -17.2,
+    "price_usd": 0.522882,
+    "market_cap": 522916175
+   }
+  },
+  {
+   "id": "ef9911a43e0e",
+   "title": "Worldcoin (WLD) moved -4.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/worldcoin-wld",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-06T10:14:11Z",
+   "score": 66.75,
+   "tags": [
+    "wld",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "wld",
+    "pct24h": -4.7,
+    "pct1h": -2.4,
+    "pct7d": 0.4,
+    "price_usd": 0.304369,
+    "market_cap": 1090077902
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64533,
+   "pct24h": 0.9
+  },
+  "eth": {
+   "price": 1901.25,
+   "pct24h": 2.0
+  },
+  "xrp": {
+   "price": 1.042,
+   "pct24h": -1.9
+  },
+  "sol": {
+   "price": 73.12,
+   "pct24h": -1.0
+  },
+  "doge": {
+   "price": 0.068865,
+   "pct24h": -1.2
+  },
+  "ada": {
+   "price": 0.188572,
+   "pct24h": -2.5
+  },
+  "link": {
+   "price": 8.08,
+   "pct24h": -1.0
+  },
+  "ltc": {
+   "price": 44.85,
+   "pct24h": 0.2
+  },
+  "avax": {
+   "price": 6.4,
+   "pct24h": -2.1
+  },
+  "dot": {
+   "price": 0.824395,
+   "pct24h": -3.2
+  }
+ }
+}

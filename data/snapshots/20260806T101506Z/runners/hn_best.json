@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-06T10:14:13Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.63,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "df8e82f50ccc",
+   "title": "Discovery Loop",
+   "url": "https://www.discoveryloop.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 93.78408246098802,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 757,
+    "comments": 472,
+    "hn_id": 49184960
+   }
+  },
+  {
+   "id": "78be65f5ca48",
+   "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+   "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 80.90169943749474,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 500,
+    "comments": 6,
+    "hn_id": 49166491
+   }
+  },
+  {
+   "id": "7dc865ecbc28",
+   "title": "Xbox goes down. You can't play games you own on disc",
+   "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 91.23820649745885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 702,
+    "comments": 757,
+    "hn_id": 49167448
+   }
+  },
+  {
+   "id": "beba669d927f",
+   "title": "Cloudflare OS: an open platform for agents, apps, and work",
+   "url": "https://blog.cloudflare.com/cloudflare-os/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 84.21359641163505,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 561,
+    "comments": 270,
+    "hn_id": 49182996
+   }
+  },
+  {
+   "id": "cec668b2aaa0",
+   "title": "Pi's Minimalism Is Its Advantage",
+   "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 82.39120141624498,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 527,
+    "comments": 285,
+    "hn_id": 49176038
+   }
+  },
+  {
+   "id": "8ade8d9ac9b0",
+   "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+   "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1609,
+    "comments": 93,
+    "hn_id": 49173165
+   }
+  },
+  {
+   "id": "70e7f2a36d88",
+   "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+   "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 79.37140792732886,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 473,
+    "comments": 248,
+    "hn_id": 49181099
+   }
+  },
+  {
+   "id": "33664007a1c3",
+   "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+   "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 95.13380069552768,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 787,
+    "comments": 464,
+    "hn_id": 49167113
+   }
+  },
+  {
+   "id": "3e3c1d735bb2",
+   "title": "FFmpeg 9.0",
+   "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 78.56071321407137,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 459,
+    "comments": 97,
+    "hn_id": 49166202
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 86.74544517614234,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 610,
+    "comments": 99,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "aa6140d3cea1",
+   "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+   "url": "https://mistral.ai/news/shieldstral/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 79.65802777268863,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 478,
+    "comments": 131,
+    "hn_id": 49171268
+   }
+  },
+  {
+   "id": "9af015edf438",
+   "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 89.2748006609122,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 661,
+    "comments": 715,
+    "hn_id": 49184755
+   }
+  },
+  {
+   "id": "38e2373bac6a",
+   "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+   "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 73.66980583482946,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 379,
+    "comments": 105,
+    "hn_id": 49166386
+   }
+  },
+  {
+   "id": "21fa15c926dd",
+   "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+   "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 74.11720676097124,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 386,
+    "comments": 244,
+    "hn_id": 49171656
+   }
+  },
+  {
+   "id": "5a126c6e3946",
+   "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+   "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 73.98979485566356,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 384,
+    "comments": 282,
+    "hn_id": 49170479
+   }
+  },
+  {
+   "id": "19d46c1b64ce",
+   "title": "Zed DeltaDB",
+   "url": "https://zed.dev/deltadb",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 76.78078794301994,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 429,
+    "comments": 222,
+    "hn_id": 49187256
+   }
+  },
+  {
+   "id": "c376ae689192",
+   "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+   "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 73.02343178074636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 369,
+    "comments": 1,
+    "hn_id": 49184757
+   }
+  },
+  {
+   "id": "f7b9aa1c6231",
+   "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+   "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 70.5521678957215,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 332,
+    "comments": 80,
+    "hn_id": 49175192
+   }
+  },
+  {
+   "id": "8890dc0f0866",
+   "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+   "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 69.30011286667337,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 314,
+    "comments": 187,
+    "hn_id": 49184190
+   }
+  },
+  {
+   "id": "93b054cb87ac",
+   "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+   "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 69.7911821679223,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 321,
+    "comments": 80,
+    "hn_id": 49186762
+   }
+  },
+  {
+   "id": "3daaf44022c0",
+   "title": "I'm switching my phone from Android to Linux",
+   "url": "https://runarcn.no/android-to-linux/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 70.89389937671456,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 337,
+    "comments": 342,
+    "hn_id": 49188022
+   }
+  },
+  {
+   "id": "e5d555676f01",
+   "title": "Waymo in Dallas",
+   "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 69.93050188902858,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 323,
+    "comments": 702,
+    "hn_id": 49172836
+   }
+  },
+  {
+   "id": "d474b8777726",
+   "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+   "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 73.54121959736901,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 377,
+    "comments": 703,
+    "hn_id": 49166860
+   }
+  },
+  {
+   "id": "024215ec12a7",
+   "title": "libexpat now funded by the City of Munich for up to 6 months",
+   "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 69.30011286667337,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 314,
+    "comments": 71,
+    "hn_id": 49176606
+   }
+  },
+  {
+   "id": "68b13a624931",
+   "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+   "url": "https://twitter.com/gwern/status/2084739205071343837",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 69.15880433163923,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 312,
+    "comments": 227,
+    "hn_id": 49174900
+   }
+  },
+  {
+   "id": "767639a1c6b2",
+   "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+   "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 68.15669125408017,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 298,
+    "comments": 229,
+    "hn_id": 49187977
+   }
+  },
+  {
+   "id": "67f81a46597c",
+   "title": "Eight Myths on Software Engineering and GenAI",
+   "url": "https://queue.acm.org/detail.cfm?id=3807963",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 67.1307488658818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 284,
+    "comments": 245,
+    "hn_id": 49176830
+   }
+  },
+  {
+   "id": "8c461d711d80",
+   "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+   "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 67.72001872658765,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 292,
+    "comments": 241,
+    "hn_id": 49175826
+   }
+  },
+  {
+   "id": "18e596b1c165",
+   "title": "Jeff Dean leaving Alphabet",
+   "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 68.08421984903521,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 297,
+    "comments": 9,
+    "hn_id": 49184746
+   }
+  },
+  {
+   "id": "a26d96db40d3",
+   "title": "Position: LLMs Can't Jump",
+   "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-06T10:14:13Z",
+   "score": 66.68333000133266,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 278,
+    "comments": 183,
+    "hn_id": 49181083
+   }
+  }
+ ]
+}

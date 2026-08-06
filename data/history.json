@@ -1511,5 +1511,116 @@
     "c": "geohazard"
    }
   ]
+ },
+ {
+  "ts": "20260806T101506Z",
+  "generated": "2026-08-06T10:15:06.234093+00:00",
+  "events": 1111,
+  "breakers": 120,
+  "avg_heat": 87.8,
+  "prices": {
+   "btc": {
+    "price": 64533,
+    "pct24h": 0.9
+   },
+   "eth": {
+    "price": 1901.25,
+    "pct24h": 2.0
+   },
+   "xrp": {
+    "price": 1.042,
+    "pct24h": -1.9
+   },
+   "sol": {
+    "price": 73.12,
+    "pct24h": -1.0
+   },
+   "doge": {
+    "price": 0.068865,
+    "pct24h": -1.2
+   },
+   "ada": {
+    "price": 0.188572,
+    "pct24h": -2.5
+   },
+   "link": {
+    "price": 8.08,
+    "pct24h": -1.0
+   },
+   "ltc": {
+    "price": 44.85,
+    "pct24h": 0.2
+   },
+   "avax": {
+    "price": 6.4,
+    "pct24h": -2.1
+   },
+   "dot": {
+    "price": 0.824395,
+    "pct24h": -3.2
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved -29.5% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "firecrawl/pdf-inspector",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Discovery Loop",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Xbox goes down. You can't play games you own on disc",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]
