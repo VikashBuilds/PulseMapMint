@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-07T20:04:09Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.37,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "2973f552a669",
+   "title": "Assembly Hall of Shame",
+   "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 48.58495283014151,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 89,
+    "comments": 23,
+    "hn_id": 49214098
+   }
+  },
+  {
+   "id": "f88c3a3c9ca8",
+   "title": "An all-sky map of half a million supermassive black holes",
+   "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 49.62214450449026,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 97,
+    "comments": 29,
+    "hn_id": 49211921
+   }
+  },
+  {
+   "id": "0fb2e2ced00e",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 54.15475947422651,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 136,
+    "comments": 224,
+    "hn_id": 49209539
+   }
+  },
+  {
+   "id": "aa73e3a50fb4",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "url": "https://ancientlibrary.net/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 38.22875655532295,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 28,
+    "comments": 7,
+    "hn_id": 49214770
+   }
+  },
+  {
+   "id": "12bd81fed257",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+   "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 58.819373146171706,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 183,
+    "comments": 84,
+    "hn_id": 49208535
+   }
+  },
+  {
+   "id": "e9cbe48e3a49",
+   "title": "Databricks drove down AI coding spend 70%",
+   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 43.027756377319946,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 52,
+    "comments": 17,
+    "hn_id": 49214468
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 90.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 676,
+    "comments": 364,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "e3d9b19d3a1b",
+   "title": "Oracle bans AI-generated code from OpenJDK",
+   "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 63.242646351945886,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 234,
+    "comments": 163,
+    "hn_id": 49213754
+   }
+  },
+  {
+   "id": "2419142963df",
+   "title": "DeepSeek V4 Flash 0731",
+   "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 59.09545424246464,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 186,
+    "comments": 120,
+    "hn_id": 49214008
+   }
+  },
+  {
+   "id": "41d5415e8e1c",
+   "title": "App Store Rejection of the Week: Dark Hours",
+   "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 45.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 64,
+    "comments": 14,
+    "hn_id": 49214863
+   }
+  },
+  {
+   "id": "5b177ea42b4b",
+   "title": "Responding to the next frontier of critical cyber capabilities",
+   "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 50.124689052802225,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 101,
+    "comments": 107,
+    "hn_id": 49213029
+   }
+  },
+  {
+   "id": "2d55648e7557",
+   "title": "Carl's Required Reading",
+   "url": "https://carlkolon.com/reading/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 34.35414346693485,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 14,
+    "comments": 0,
+    "hn_id": 49135457
+   }
+  },
+  {
+   "id": "d4d3678ab742",
+   "title": "Psychological Warfare in Reverse Engineering",
+   "url": "https://github.com/xoreaxeaxeax/repsych",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49214775
+   }
+  },
+  {
+   "id": "6ae984819e15",
+   "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+   "url": "https://londonist.com/london/history/oxford-street-beavers",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 41.393596310755,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 43,
+    "comments": 18,
+    "hn_id": 49158302
+   }
+  },
+  {
+   "id": "bebc844a6f86",
+   "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+   "url": "https://blog.cloudflare.com/kitesurf/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 51.57536453183663,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 113,
+    "comments": 31,
+    "hn_id": 49208393
+   }
+  },
+  {
+   "id": "4cf86665c4f8",
+   "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+   "url": "https://textlog.cc/about",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 50.739075352467495,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 106,
+    "comments": 48,
+    "hn_id": 49208458
+   }
+  },
+  {
+   "id": "9f7ffd739921",
+   "title": "Radical Study Suggests Life on Earth Arose Twice",
+   "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 42.67766952966369,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 50,
+    "comments": 60,
+    "hn_id": 49209572
+   }
+  },
+  {
+   "id": "a9e2b6c1ce42",
+   "title": "Möbius-Strip Crosswords",
+   "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 40.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 36,
+    "comments": 4,
+    "hn_id": 49211660
+   }
+  },
+  {
+   "id": "c1405e888606",
+   "title": "Building community out of strangers (2023)",
+   "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 37.24744871391589,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 24,
+    "comments": 1,
+    "hn_id": 49170241
+   }
+  },
+  {
+   "id": "3fb71259ea68",
+   "title": "A year of fighting scrapers on my 1.5 million-page website",
+   "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 69.087980221371,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 311,
+    "comments": 297,
+    "hn_id": 49211386
+   }
+  },
+  {
+   "id": "1768b512ff61",
+   "title": "Show HN: Wyzer Programming Language",
+   "url": "https://github.com/Wyzer-Lang/wyzer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 55.4138126514911,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 148,
+    "comments": 88,
+    "hn_id": 49209385
+   }
+  },
+  {
+   "id": "db4c88c9d4fb",
+   "title": "Petri Nets as a Music Sequencer",
+   "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 42.85357107135712,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 51,
+    "comments": 18,
+    "hn_id": 49158934
+   }
+  },
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 88.24555320336759,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 640,
+    "comments": 500,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "87cc5fce476a",
+   "title": "2027 memory capacity is reportedly sold out",
+   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 51.57536453183663,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 113,
+    "comments": 104,
+    "hn_id": 49207236
+   }
+  },
+  {
+   "id": "fba3e3a6952f",
+   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+   "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 68.15669125408017,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 298,
+    "comments": 60,
+    "hn_id": 49184355
+   }
+  },
+  {
+   "id": "2343d7a53249",
+   "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+   "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 2,
+    "hn_id": 49147721
+   }
+  },
+  {
+   "id": "5fa710b88f14",
+   "title": "TypeStax: A type scale generator with vintage audio hardware interface",
+   "url": "https://www.typestax.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 41.77050983124842,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 45,
+    "comments": 12,
+    "hn_id": 49112511
+   }
+  },
+  {
+   "id": "eb572b5f487e",
+   "title": "São Paulo resident transforms degraded area into urban forest",
+   "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 68.37337893224367,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 301,
+    "comments": 115,
+    "hn_id": 49138446
+   }
+  },
+  {
+   "id": "6e034fe4c8ee",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 60.178118198675726,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 198,
+    "comments": 61,
+    "hn_id": 49202716
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T20:04:09Z",
+   "score": 98.18640584152224,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 857,
+    "comments": 643,
+    "hn_id": 49201970
+   }
+  }
+ ]
+}

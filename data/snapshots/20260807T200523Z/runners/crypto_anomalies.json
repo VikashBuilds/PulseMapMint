@@ -1,0 +1,182 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-07T20:04:08Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.08,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "0ff7be49b5e2",
+   "title": "Audiera (BEAT) moved -12.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T20:04:08Z",
+   "score": 86.5,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -12.6,
+    "pct1h": 0.5,
+    "pct7d": -49.4,
+    "price_usd": 2.12,
+    "market_cap": 702551246
+   }
+  },
+  {
+   "id": "a1e79bd87cc8",
+   "title": "币安人生 (BinanceLife) (币安人生) moved -7.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T20:04:08Z",
+   "score": 72.75,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": -7.1,
+    "pct1h": -2.4,
+    "pct7d": -18.1,
+    "price_usd": 0.51065,
+    "market_cap": 509980422
+   }
+  },
+  {
+   "id": "90e455f03fc0",
+   "title": "OKB (OKB) moved +5.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/okb",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T20:04:08Z",
+   "score": 69.0,
+   "tags": [
+    "okb",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "okb",
+    "pct24h": 5.6,
+    "pct1h": 0.2,
+    "pct7d": 4.6,
+    "price_usd": 90.12,
+    "market_cap": 1893720747
+   }
+  },
+  {
+   "id": "e2094dd2cf45",
+   "title": "Ondo (ONDO) moved -5.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ondo-finance",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T20:04:08Z",
+   "score": 69.0,
+   "tags": [
+    "ondo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ondo",
+    "pct24h": -5.6,
+    "pct1h": 0.8,
+    "pct7d": -13.0,
+    "price_usd": 0.347744,
+    "market_cap": 1692595542
+   }
+  },
+  {
+   "id": "fcf6595aed2c",
+   "title": "Beldex (BDX) moved +5.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/beldex",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T20:04:08Z",
+   "score": 67.5,
+   "tags": [
+    "bdx",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "bdx",
+    "pct24h": 5.0,
+    "pct1h": -0.6,
+    "pct7d": 10.5,
+    "price_usd": 0.091351,
+    "market_cap": 718837866
+   }
+  },
+  {
+   "id": "cf7a335b002b",
+   "title": "NEAR Protocol (NEAR) moved -4.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/near",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T20:04:08Z",
+   "score": 65.25,
+   "tags": [
+    "near",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "near",
+    "pct24h": -4.1,
+    "pct1h": 0.1,
+    "pct7d": -6.6,
+    "price_usd": 1.59,
+    "market_cap": 2070075552
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64943,
+   "pct24h": 0.8
+  },
+  "eth": {
+   "price": 1918.22,
+   "pct24h": 0.6
+  },
+  "xrp": {
+   "price": 1.023,
+   "pct24h": -1.0
+  },
+  "sol": {
+   "price": 73.98,
+   "pct24h": 1.6
+  },
+  "doge": {
+   "price": 0.069824,
+   "pct24h": 1.6
+  },
+  "ada": {
+   "price": 0.200951,
+   "pct24h": -1.8
+  },
+  "link": {
+   "price": 8.21,
+   "pct24h": -0.5
+  },
+  "ltc": {
+   "price": 45.35,
+   "pct24h": -0.3
+  },
+  "avax": {
+   "price": 6.44,
+   "pct24h": -0.2
+  },
+  "dot": {
+   "price": 0.813038,
+   "pct24h": -1.3
+  }
+ }
+}

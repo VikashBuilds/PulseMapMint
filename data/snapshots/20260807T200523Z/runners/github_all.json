@@ -1,0 +1,336 @@
+{
+ "runner": "github_all",
+ "generated": "2026-08-07T20:04:10Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 1.14,
+ "args": [
+  "github_all",
+  null
+ ],
+ "items": [
+  {
+   "id": "1bdab8190efc",
+   "title": "PrimeIntellect-ai/prime-agent",
+   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 90.41534988670166,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2271,
+    "language": "TypeScript",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "835a2754c92b",
+   "title": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 84.96923568334054,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1131,
+    "language": "JavaScript",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "fa971a060eda",
+   "title": "cloudflare/computer",
+   "url": "https://github.com/cloudflare/computer",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 83.13281463568642,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 894,
+    "language": "TypeScript",
+    "description": "Give your agent a computer 👾",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "c2800839f3a9",
+   "title": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 90.09580198041661,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2180,
+    "language": "Shell",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "8267181a5a1a",
+   "title": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 82.20660831581647,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 794,
+    "language": "Shell",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "d4309c77541a",
+   "title": "goauthentik/authentik",
+   "url": "https://github.com/goauthentik/authentik",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 79.25513704097956,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 544,
+    "language": "Python",
+    "description": "The authentication glue you need.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "4c1e0f649250",
+   "title": "semantica-agi/semantica",
+   "url": "https://github.com/semantica-agi/semantica",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 67.35984530506556,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 118,
+    "language": "Python",
+    "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "aefd08b08cd8",
+   "title": "666ghj/MiroFish",
+   "url": "https://github.com/666ghj/MiroFish",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 67.86846697720722,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 126,
+    "language": "Python",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "71353e6d76d7",
+   "title": "chenyme/grok2api",
+   "url": "https://github.com/chenyme/grok2api",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 62.38812989016447,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 62,
+    "language": "Go",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "0bf5c64f031b",
+   "title": "jdx/mise",
+   "url": "https://github.com/jdx/mise",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 68.11088332180375,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 130,
+    "language": "Rust",
+    "description": "dev tools, env vars, task runner",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "004e35f66f20",
+   "title": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 76.09982490568301,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 363,
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "21e99b249af0",
+   "title": "google/guava",
+   "url": "https://github.com/google/guava",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 69.5261937433662,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 156,
+    "language": "Java",
+    "description": "Google core libraries for Java",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "57571b8dcc5f",
+   "title": "unclebob/swarm-forge",
+   "url": "https://github.com/unclebob/swarm-forge",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 64.82097212238422,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 85,
+    "language": "Clojure",
+    "description": "A simple tool for coordinating several AI agents.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "9fe93f8f9e69",
+   "title": "denoland/celld",
+   "url": "https://github.com/denoland/celld",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 79.28377187400176,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 546,
+    "language": "Rust",
+    "description": "self-hosted, distributed Durable Objects",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "42401bc4ba6e",
+   "title": "K2SOsint/Legendary_OSINT",
+   "url": "https://github.com/K2SOsint/Legendary_OSINT",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 62.632440419571395,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 64,
+    "language": "all",
+    "description": "A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "49a79b017b7a",
+   "title": "pranshuparmar/witr",
+   "url": "https://github.com/pranshuparmar/witr",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 74.81925262964702,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 308,
+    "language": "Go",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "96e85204c9d2",
+   "title": "google/skills",
+   "url": "https://github.com/google/skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-07T20:04:10Z",
+   "score": 74.74298567666844,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 305,
+    "language": "Python",
+    "description": "Agent Skills for Google products and technologies",
+    "topic": "all"
+   }
+  }
+ ]
+}

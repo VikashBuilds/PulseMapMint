@@ -2177,5 +2177,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260807T200523Z",
+  "generated": "2026-08-07T20:05:23.727573+00:00",
+  "events": 1156,
+  "breakers": 120,
+  "avg_heat": 89.4,
+  "prices": {
+   "btc": {
+    "price": 64943,
+    "pct24h": 0.8
+   },
+   "eth": {
+    "price": 1918.22,
+    "pct24h": 0.6
+   },
+   "xrp": {
+    "price": 1.023,
+    "pct24h": -1.0
+   },
+   "sol": {
+    "price": 73.98,
+    "pct24h": 1.6
+   },
+   "doge": {
+    "price": 0.069824,
+    "pct24h": 1.6
+   },
+   "ada": {
+    "price": 0.200951,
+    "pct24h": -1.8
+   },
+   "link": {
+    "price": 8.21,
+    "pct24h": -0.5
+   },
+   "ltc": {
+    "price": 45.35,
+    "pct24h": -0.3
+   },
+   "avax": {
+    "price": 6.44,
+    "pct24h": -0.2
+   },
+   "dot": {
+    "price": 0.813038,
+    "pct24h": -1.3
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved -12.6% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "addyosmani/agent-skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_python_ts",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Crime Pays but Botany Doesn't",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Taste Is All That's Left",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]
