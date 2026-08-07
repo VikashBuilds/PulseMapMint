@@ -1,0 +1,182 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-07T12:29:14Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.13,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "44d7726d0a13",
+   "title": "Audiera (BEAT) moved +31.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T12:29:14Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": 31.4,
+    "pct1h": 2.2,
+    "pct7d": -45.7,
+    "price_usd": 2.2,
+    "market_cap": 723518914
+   }
+  },
+  {
+   "id": "61a4d42ee04c",
+   "title": "Canton (CC) moved -11.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/canton-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T12:29:14Z",
+   "score": 84.5,
+   "tags": [
+    "cc",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cc",
+    "pct24h": -11.8,
+    "pct1h": -0.2,
+    "pct7d": -24.7,
+    "price_usd": 0.088352,
+    "market_cap": 3470894150
+   }
+  },
+  {
+   "id": "d3613e9428b8",
+   "title": "Lighter (LIT) moved +9.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/lighter",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T12:29:14Z",
+   "score": 77.75,
+   "tags": [
+    "lit",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "lit",
+    "pct24h": 9.1,
+    "pct1h": -0.4,
+    "pct7d": 9.5,
+    "price_usd": 2.42,
+    "market_cap": 603984381
+   }
+  },
+  {
+   "id": "896d88463dcb",
+   "title": "Cardano (ADA) moved +6.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cardano",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T12:29:14Z",
+   "score": 71.75,
+   "tags": [
+    "ada",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ada",
+    "pct24h": 6.7,
+    "pct1h": -0.5,
+    "pct7d": 18.5,
+    "price_usd": 0.20102,
+    "market_cap": 7508001860
+   }
+  },
+  {
+   "id": "aff6d1c8704c",
+   "title": "Ethena (ENA) moved +6.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ethena",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T12:29:14Z",
+   "score": 71.0,
+   "tags": [
+    "ena",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ena",
+    "pct24h": 6.4,
+    "pct1h": -0.3,
+    "pct7d": 17.2,
+    "price_usd": 0.095345,
+    "market_cap": 937387213
+   }
+  },
+  {
+   "id": "2e8c1510ac6e",
+   "title": "Ondo (ONDO) moved -4.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ondo-finance",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T12:29:14Z",
+   "score": 66.75,
+   "tags": [
+    "ondo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ondo",
+    "pct24h": -4.7,
+    "pct1h": 0.4,
+    "pct7d": -13.1,
+    "price_usd": 0.351235,
+    "market_cap": 1709414882
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 65057,
+   "pct24h": 0.7
+  },
+  "eth": {
+   "price": 1928.4,
+   "pct24h": 0.9
+  },
+  "xrp": {
+   "price": 1.036,
+   "pct24h": -1.3
+  },
+  "sol": {
+   "price": 73.89,
+   "pct24h": 0.5
+  },
+  "doge": {
+   "price": 0.069864,
+   "pct24h": 0.9
+  },
+  "ada": {
+   "price": 0.20102,
+   "pct24h": 6.7
+  },
+  "link": {
+   "price": 8.25,
+   "pct24h": 1.5
+  },
+  "ltc": {
+   "price": 45.75,
+   "pct24h": 1.9
+  },
+  "avax": {
+   "price": 6.48,
+   "pct24h": 1.1
+  },
+  "dot": {
+   "price": 0.816641,
+   "pct24h": -0.7
+  }
+ }
+}

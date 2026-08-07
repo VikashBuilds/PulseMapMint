@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-07T12:29:22Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.62,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "f8f054c0e788",
+   "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+   "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 67.72001872658765,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 292,
+    "comments": 251,
+    "hn_id": 49208314
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 92.54628043053148,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 730,
+    "comments": 544,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "6e034fe4c8ee",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 55.207614933986434,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 146,
+    "comments": 43,
+    "hn_id": 49202716
+   }
+  },
+  {
+   "id": "55553514d683",
+   "title": "The Gargantuan Lie That Is Collapsing the Climate",
+   "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 48.9791576165636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 92,
+    "comments": 55,
+    "hn_id": 49208686
+   }
+  },
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 80.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 484,
+    "comments": 350,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "b4d43347fe9c",
+   "title": "Atomic Clocks",
+   "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 49.874685927665496,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 99,
+    "comments": 53,
+    "hn_id": 49129015
+   }
+  },
+  {
+   "id": "56c9f60799f2",
+   "title": "Generative \"AI\": The Guitar Hero of Creativity",
+   "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 35.60660171779821,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 18,
+    "comments": 7,
+    "hn_id": 49207770
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 76.53882032022076,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 425,
+    "comments": 348,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 73.79805323985784,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 381,
+    "comments": 236,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "fba3e3a6952f",
+   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+   "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 64.44933459514874,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 249,
+    "comments": 53,
+    "hn_id": 49184355
+   }
+  },
+  {
+   "id": "eb572b5f487e",
+   "title": "São Paulo resident transforms degraded area into urban forest",
+   "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 58.26033673912517,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 177,
+    "comments": 69,
+    "hn_id": 49138446
+   }
+  },
+  {
+   "id": "1f6027951f1a",
+   "title": "A quine in Piet – a GIF image that prints itself [video]",
+   "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 1,
+    "hn_id": 49156157
+   }
+  },
+  {
+   "id": "48e23de1316b",
+   "title": "What is a product?",
+   "url": "https://roge.onwrite.app/what-is-a-product",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 46.50581316760656,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 74,
+    "comments": 46,
+    "hn_id": 49202690
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 65.15594601052253,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 258,
+    "comments": 200,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "b96dea33954b",
+   "title": "Reverse Jevons Paradox",
+   "url": "https://mht.wtf/post/jevons/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 41.77050983124842,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 45,
+    "comments": 38,
+    "hn_id": 49162080
+   }
+  },
+  {
+   "id": "3d6de5750de4",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+   "url": "https://provenmetal.com",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 61.1420807370024,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 209,
+    "comments": 148,
+    "hn_id": 49198464
+   }
+  },
+  {
+   "id": "9a7b4e410d2c",
+   "title": "I stopped trusting USB-C cable labels and started testing them",
+   "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 61.82729965664059,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 217,
+    "comments": 183,
+    "hn_id": 49152255
+   }
+  },
+  {
+   "id": "55ad95dee0bd",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 57.59601202601324,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 170,
+    "comments": 27,
+    "hn_id": 49203105
+   }
+  },
+  {
+   "id": "c20b1b349a2c",
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 69.44097208657794,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 316,
+    "comments": 222,
+    "hn_id": 49195468
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 62.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 225,
+    "comments": 161,
+    "hn_id": 49201003
+   }
+  },
+  {
+   "id": "5fa710b88f14",
+   "title": "TypeStax: A type scale generator with vintage audio hardware interface",
+   "url": "https://www.typestax.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 1,
+    "hn_id": 49112511
+   }
+  },
+  {
+   "id": "eabce3456ebd",
+   "title": "The BBC Tetris Companion",
+   "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 2,
+    "hn_id": 49092746
+   }
+  },
+  {
+   "id": "eb7ac651308b",
+   "title": "Why Estonians invite strangers into their back gardens each summer",
+   "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 49.49489742783178,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 96,
+    "comments": 38,
+    "hn_id": 49163879
+   }
+  },
+  {
+   "id": "c4dc5ab87dfe",
+   "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+   "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 56.324910215354166,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 157,
+    "comments": 267,
+    "hn_id": 49200439
+   }
+  },
+  {
+   "id": "c233e5a15ea0",
+   "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+   "url": "https://github.com/schroedinger-Hat/certo",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "hn_id": 49207793
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1067,
+    "comments": 160,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "fa4ad685443e",
+   "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+   "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 58.354160160315836,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 178,
+    "comments": 57,
+    "hn_id": 49120149
+   }
+  },
+  {
+   "id": "30b426a4da74",
+   "title": "STV: A full-motion video codec for the Atari ST",
+   "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 45.91650066335189,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 70,
+    "comments": 10,
+    "hn_id": 49113256
+   }
+  },
+  {
+   "id": "4e7bed863779",
+   "title": "Framework discloses data breach via Metabase 0-day",
+   "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 50.739075352467495,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 106,
+    "comments": 40,
+    "hn_id": 49206130
+   }
+  },
+  {
+   "id": "b58074621edb",
+   "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+   "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T12:29:22Z",
+   "score": 45.15564437074637,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 65,
+    "comments": 98,
+    "hn_id": 49204546
+   }
+  }
+ ]
+}

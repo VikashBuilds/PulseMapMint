@@ -1,0 +1,1047 @@
+{
+ "runner": "weather_alerts",
+ "generated": "2026-08-07T12:29:12Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.09,
+ "args": [
+  "weather_alerts",
+  "Severe"
+ ],
+ "items": [
+  {
+   "id": "722991b78e78",
+   "title": "Severe Thunderstorm Warning issued August 7 at 7:27AM CDT until August 7 at 8:15AM CDT by NWS Sioux Falls SD",
+   "url": "urn:oid:2.49.0.1.840.0.fec6717e2e3d13bb1f0333323f38064fd86fddff.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T12:27:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Severe Thunderstorm Warning",
+    "area": "Dickinson, IA",
+    "sender": "NWS Sioux Falls SD",
+    "expires": "2026-08-07T08:15:00-05:00",
+    "description": "SVRFSD\n\nThe National Weather Service in Sioux Falls has issued a\n\n* Severe Thunderstorm Warning for...\nNorthern Osceola County in northwestern Iowa...\nNorthwestern Dickinson County in northwestern Iow"
+   }
+  },
+  {
+   "id": "b35e59ea9d89",
+   "title": "Severe Thunderstorm Warning issued August 7 at 7:26AM CDT until August 7 at 7:30AM CDT by NWS Grand Forks ND",
+   "url": "urn:oid:2.49.0.1.840.0.3ee1afb5c36148508ca4cbac9176f7a69b85f9d7.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T12:26:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Severe Thunderstorm Warning",
+    "area": "Wadena, MN",
+    "sender": "NWS Grand Forks ND",
+    "expires": "2026-08-07T07:36:00-05:00",
+    "description": "The storms which prompted the warning have weakened below severe\nlimits, and no longer pose an immediate threat to life or property.\nTherefore, the warning will be allowed to expire.  However, small\nh"
+   }
+  },
+  {
+   "id": "8f133847c095",
+   "title": "Special Marine Warning issued August 7 at 8:23AM EDT until August 7 at 8:30AM EDT by NWS Key West FL",
+   "url": "urn:oid:2.49.0.1.840.0.4c4f2ce1a0c3a36d12b55a774e100aeaf95d6714.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T12:23:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Special Marine Warning",
+    "area": "Gulf of America including Dry Tortugas and Rebecca Shoal Channel",
+    "sender": "NWS Key West FL",
+    "expires": "2026-08-07T08:32:00-04:00",
+    "description": "The affected areas were...\nGulf of America including Dry Tortugas and Rebecca Shoal Channel...\nStraits of Florida from Halfmoon Shoal to 20 nm west of Dry Tortugas\nout 20 nm...\n\nThe thunderstorm has w"
+   }
+  },
+  {
+   "id": "0430176d0c29",
+   "title": "Severe Thunderstorm Warning issued August 7 at 7:23AM CDT until August 7 at 7:45AM CDT by NWS Twin Cities/Chanhassen MN",
+   "url": "urn:oid:2.49.0.1.840.0.19071ec4c81d43e75df2668dcd2c1fb7c20467e7.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T12:23:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Severe Thunderstorm Warning",
+    "area": "Kandiyohi, MN",
+    "sender": "NWS Twin Cities/Chanhassen MN",
+    "expires": "2026-08-07T07:45:00-05:00",
+    "description": "At 723 AM CDT, a severe thunderstorm was located 5 miles south of\nClara City, or 18 miles east of Montevideo, moving east at 35 mph.\n\nHAZARD...60 mph wind gusts and half dollar size hail.\n\nSOURCE...Ra"
+   }
+  },
+  {
+   "id": "d30e8ee08f55",
+   "title": "Red Flag Warning issued August 7 at 5:09AM PDT until August 8 at 11:00PM PDT by NWS Pendleton OR",
+   "url": "urn:oid:2.49.0.1.840.0.ed0292c5d363089efe3ff9b9ff75eebd39c0ecbb.003.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T12:09:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Eastern Columbia River Gorge of Oregon",
+    "sender": "NWS Pendleton OR",
+    "expires": "2026-08-07T15:00:00-07:00",
+    "description": "...BREEZY WESTERLY WINDS AND LOW RELATIVE HUMIDITY TODAY AND\nSATURDAY THROUGH THE CASCADE GAPS AND INTO THE COLUMBIA BASIN...\n\n.Breezy westerly winds through the Cascade gaps will likely (80%\nchance) "
+   }
+  },
+  {
+   "id": "cf7dc0cc13e3",
+   "title": "Red Flag Warning issued August 7 at 5:09AM PDT until August 8 at 11:00PM PDT by NWS Pendleton OR",
+   "url": "urn:oid:2.49.0.1.840.0.ed0292c5d363089efe3ff9b9ff75eebd39c0ecbb.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T12:09:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Kittitas Valley",
+    "sender": "NWS Pendleton OR",
+    "expires": "2026-08-07T15:00:00-07:00",
+    "description": "...BREEZY WESTERLY WINDS AND LOW RELATIVE HUMIDITY TODAY AND\nSATURDAY THROUGH THE CASCADE GAPS AND INTO THE COLUMBIA BASIN...\n\n.Breezy westerly winds through the Cascade gaps will likely (80%\nchance) "
+   }
+  },
+  {
+   "id": "e246f7c84e8a",
+   "title": "Red Flag Warning issued August 7 at 5:09AM PDT until August 8 at 11:00PM PDT by NWS Pendleton OR",
+   "url": "urn:oid:2.49.0.1.840.0.ed0292c5d363089efe3ff9b9ff75eebd39c0ecbb.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T12:09:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Lower Columbia Basin of Oregon",
+    "sender": "NWS Pendleton OR",
+    "expires": "2026-08-07T15:00:00-07:00",
+    "description": "...BREEZY WESTERLY WINDS AND LOW RELATIVE HUMIDITY TODAY AND\nSATURDAY THROUGH THE CASCADE GAPS AND INTO THE COLUMBIA BASIN...\n\n.Breezy westerly winds through the Cascade gaps will likely (80%\nchance) "
+   }
+  },
+  {
+   "id": "bb564c3098c3",
+   "title": "Extreme Heat Warning issued August 7 at 4:10AM PDT until August 9 at 8:00PM PDT by NWS San Diego CA",
+   "url": "urn:oid:2.49.0.1.840.0.6847d73f2a80f3ead19a50938f40981cbe121ac8.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T11:10:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Coachella Valley",
+    "sender": "NWS San Diego CA",
+    "expires": "2026-08-07T15:30:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with high temperatures of 108 to\n114 expected.\n\n* WHERE...Coachella Valley, San Diego County Deserts, and San\nGorgonio Pass near Banning.\n\n* WHEN...Until 8 PM PDT S"
+   }
+  },
+  {
+   "id": "b806d3088c29",
+   "title": "Extreme Heat Warning issued August 7 at 4:10AM PDT until August 9 at 8:00PM PDT by NWS San Diego CA",
+   "url": "urn:oid:2.49.0.1.840.0.6847d73f2a80f3ead19a50938f40981cbe121ac8.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T11:10:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Apple and Lucerne Valleys",
+    "sender": "NWS San Diego CA",
+    "expires": "2026-08-07T15:30:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with temperatures of 100 to 110\nexpected.\n\n* WHERE...Apple and Lucerne Valleys.\n\n* WHEN...Until 8 PM PDT Sunday.\n\n* IMPACTS...Heat related illnesses increase signif"
+   }
+  },
+  {
+   "id": "589bcea84ed5",
+   "title": "Extreme Heat Warning issued August 7 at 1:48AM PDT until August 10 at 8:00AM PDT by NWS Reno NV",
+   "url": "urn:oid:2.49.0.1.840.0.8d0437e2ea35b30f6b1c100b339f71abd0d1aa08.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T08:48:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Western Nevada Basin and Range including Pyramid Lake",
+    "sender": "NWS Reno NV",
+    "expires": "2026-08-07T11:45:00-07:00",
+    "description": "* WHAT...For the Heat Advisory, high temperatures of 100 to 105\ndegrees with overnight lows of 64 to 72 degrees. Widespread Major\n(level 3 out of 4) HeatRisk across lower valleys. For the Extreme\nHeat"
+   }
+  },
+  {
+   "id": "1921bbb59bb5",
+   "title": "Flood Warning issued August 7 at 3:09AM CDT until August 7 at 9:15AM CDT by NWS Wichita KS",
+   "url": "urn:oid:2.49.0.1.840.0.9ae8bf34b704c2b47aa4d5f441b0c6010018efe1.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T08:09:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "Chase, KS",
+    "sender": "NWS Wichita KS",
+    "expires": "2026-08-07T09:15:00-05:00",
+    "description": "* WHAT...Flooding caused by excessive rainfall is expected.\n\n* WHERE...Chase County in east central Kansas...\n\n* WHEN...Until 915 AM CDT Friday.\n\n* IMPACTS...Flooding of rivers, creeks, streams, and o"
+   }
+  },
+  {
+   "id": "9bffd2cd1057",
+   "title": "Red Flag Warning issued August 7 at 1:12AM MDT until August 7 at 9:00PM MDT by NWS Riverton WY",
+   "url": "urn:oid:2.49.0.1.840.0.d1d3daa151d6279e7ab8473309c52adb50bda934.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:12:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "East Wind River Mountains/South Shoshone NF",
+    "sender": "NWS Riverton WY",
+    "expires": "2026-08-07T21:00:00-06:00",
+    "description": "The National Weather Service in Riverton has issued a Red Flag\nWarning, which is in effect from noon today to 9 PM MDT this\nevening.\n\n* IMPACTS: Low Humidities...Hot Temperatures...and Strong Gusty\nWi"
+   }
+  },
+  {
+   "id": "88e65197e17b",
+   "title": "Red Flag Warning issued August 7 at 1:12AM MDT until August 7 at 9:00PM MDT by NWS Riverton WY",
+   "url": "urn:oid:2.49.0.1.840.0.d1d3daa151d6279e7ab8473309c52adb50bda934.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:12:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Lincoln and Uinta Counties/Lower Elevations",
+    "sender": "NWS Riverton WY",
+    "expires": "2026-08-07T21:00:00-06:00",
+    "description": "The National Weather Service in Riverton has issued a Red Flag\nWarning, which is in effect from noon today to 9 PM MDT this\nevening.\n\n* IMPACTS: Low Humidities...Hot Temperatures...and Strong Gusty\nWi"
+   }
+  },
+  {
+   "id": "5efd778c2b7b",
+   "title": "Extreme Heat Warning issued August 7 at 12:11AM MST until August 8 at 8:00PM MST by NWS Flagstaff AZ",
+   "url": "urn:oid:2.49.0.1.840.0.1900d00f5f2b657f9796f67674272d2ddaa0d8ef.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:11:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Grand Canyon Country",
+    "sender": "NWS Flagstaff AZ",
+    "expires": "2026-08-08T20:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions expected below 4000 feet, with\ndaytime temperatures ranging from 98 to 105 degrees at Havasupai\nGardens, and 110 to 112 degrees at Phantom Ranch.\n\n* WHERE...Lower e"
+   }
+  },
+  {
+   "id": "2a02d8e40a43",
+   "title": "Extreme Heat Warning issued August 7 at 12:11AM MST until August 8 at 8:00PM MST by NWS Flagstaff AZ",
+   "url": "urn:oid:2.49.0.1.840.0.1900d00f5f2b657f9796f67674272d2ddaa0d8ef.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:11:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Marble and Glen Canyons",
+    "sender": "NWS Flagstaff AZ",
+    "expires": "2026-08-08T20:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions, with temperatures around 105 to\n110 degrees.\n\n* WHERE...Marble and Glen Canyons; including Page.\n\n* WHEN...Until 8 PM MST /9 PM MDT/ Saturday.\n\n* IMPACTS...Most in"
+   }
+  },
+  {
+   "id": "8ce67a1d8d8b",
+   "title": "Extreme Heat Warning issued August 7 at 12:00AM MST until August 9 at 8:00PM MST by NWS Phoenix AZ",
+   "url": "urn:oid:2.49.0.1.840.0.e8c849235df2cb12298c3486de20e4371d3f7a84.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:00:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Aguila Valley",
+    "sender": "NWS Phoenix AZ",
+    "expires": "2026-08-07T16:00:00-07:00",
+    "description": "* WHAT...Dangerously hot and humid conditions. Afternoon temperatures\n107 to 116 degrees. Major Heat Risk.\n\n* WHERE...Portions of Maricopa and Northern Pinal counties\n\n* WHEN...Until 8 PM MST Sunday.\n"
+   }
+  },
+  {
+   "id": "b25b26f8cb08",
+   "title": "Extreme Heat Warning issued August 7 at 12:00AM MST until August 9 at 8:00PM MST by NWS Phoenix AZ",
+   "url": "urn:oid:2.49.0.1.840.0.e8c849235df2cb12298c3486de20e4371d3f7a84.005.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:00:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Imperial County Southwest",
+    "sender": "NWS Phoenix AZ",
+    "expires": "2026-08-07T16:00:00-07:00",
+    "description": "* WHAT...Dangerously hot and humid conditions. Afternoon temperatures\n110 to 117 degrees. Major Heat Risk.\n\n* WHERE...Imperial County, including the Imperial Valley and El\nCentro.\n\n* WHEN...Until 8 PM"
+   }
+  },
+  {
+   "id": "db10dd2bd5dc",
+   "title": "Extreme Heat Warning issued August 7 at 12:00AM MST until August 9 at 8:00PM MST by NWS Phoenix AZ",
+   "url": "urn:oid:2.49.0.1.840.0.e8c849235df2cb12298c3486de20e4371d3f7a84.004.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:00:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Joshua Tree NP West",
+    "sender": "NWS Phoenix AZ",
+    "expires": "2026-08-07T16:00:00-07:00",
+    "description": "* WHAT...Dangerously hot and humid conditions. Afternoon temperatures\n98 to 114 degrees. Major Heat Risk.\n\n* WHERE...Chuckwalla Mountains, Chiriaco Summit, and Joshua Tree\nNational Park.\n\n* WHEN...Unt"
+   }
+  },
+  {
+   "id": "8c165e682c94",
+   "title": "Extreme Heat Warning issued August 7 at 12:00AM MST until August 9 at 8:00PM MST by NWS Phoenix AZ",
+   "url": "urn:oid:2.49.0.1.840.0.e8c849235df2cb12298c3486de20e4371d3f7a84.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:00:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Parker Valley",
+    "sender": "NWS Phoenix AZ",
+    "expires": "2026-08-07T16:00:00-07:00",
+    "description": "* WHAT...Dangerously hot and humid conditions. Afternoon temperatures\n108 to 116 degrees. Major Heat Risk.\n\n* WHERE...In Arizona, La Paz and Yuma counties. In California, Palo\nVerde Valley.\n\n* WHEN..."
+   }
+  },
+  {
+   "id": "0ccdc966cd08",
+   "title": "Extreme Heat Warning issued August 7 at 12:00AM MST until August 9 at 8:00PM MST by NWS Phoenix AZ",
+   "url": "urn:oid:2.49.0.1.840.0.e8c849235df2cb12298c3486de20e4371d3f7a84.003.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T07:00:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Northwest Valley",
+    "sender": "NWS Phoenix AZ",
+    "expires": "2026-08-07T16:00:00-07:00",
+    "description": "* WHAT...Dangerously hot and humid conditions. Afternoon temperatures\n108 to 114 degrees. Major Heat Risk.\n\n* WHERE...The Phoenix metropolitan area.\n\n* WHEN...Until 8 PM MST Sunday.\n\n* IMPACTS...Heat "
+   }
+  },
+  {
+   "id": "04dd6266e89e",
+   "title": "Red Flag Warning issued August 7 at 12:07AM MDT until August 7 at 8:00PM MDT by NWS Pueblo CO",
+   "url": "urn:oid:2.49.0.1.840.0.c9b3f625640a8f3abb9c00fb0875a241af6377ba.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T06:07:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Fremont County Including Canon City/Howard/Texas Creek",
+    "sender": "NWS Pueblo CO",
+    "expires": "2026-08-07T16:15:00-06:00",
+    "description": "* AFFECTED AREA...Fire Weather Zones 222 and 228.\n\n* WINDS...East 5 to 15 mph with gusts up to 30 mph.\n\n* RELATIVE HUMIDITY...As low as 9 percent.\n\n* IMPACTS...Fires will catch and spread quickly. Exe"
+   }
+  },
+  {
+   "id": "cdefc55a68df",
+   "title": "Red Flag Warning issued August 7 at 12:00AM MDT until August 7 at 8:00PM MDT by NWS Cheyenne WY",
+   "url": "urn:oid:2.49.0.1.840.0.3fb4d364e6a0f5daec3ba563349228a34aac5ca8.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T06:00:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "North Laramie Valley/Shirley Basin",
+    "sender": "NWS Cheyenne WY",
+    "expires": "2026-08-07T20:00:00-06:00",
+    "description": "The National Weather Service in Cheyenne has issued a Red Flag\nWarning, which is in effect from 11 AM to 8 PM MDT Friday.\n\n* AFFECTED AREA...Fire weather zone 420.\n\n* WIND...West winds from 15 to 25 m"
+   }
+  },
+  {
+   "id": "1db769138cc7",
+   "title": "Extreme Heat Warning issued August 6 at 10:40PM PDT until August 9 at 8:00PM PDT by NWS Hanford CA",
+   "url": "urn:oid:2.49.0.1.840.0.da76e7211971167a335cdafff26299b944f10aad.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T05:40:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Indian Wells Valley",
+    "sender": "NWS Hanford CA",
+    "expires": "2026-08-07T07:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with multiple days of Major to\nExtreme Heat Risk.\n\n* WHERE...Indian Wells Valley, Mojave Desert, and Mojave Desert\nSlopes.\n\n* WHEN...Until 8 PM PDT Sunday.\n\n* IMPAC"
+   }
+  },
+  {
+   "id": "eb51a0fce300",
+   "title": "Extreme Heat Warning issued August 6 at 11:02PM MDT until August 8 at 9:00PM MDT by NWS Salt Lake City UT",
+   "url": "urn:oid:2.49.0.1.840.0.6bbeacd9a324c0f3d3382891fb21bc0e82eef911.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T05:02:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "South Central Utah",
+    "sender": "NWS Salt Lake City UT",
+    "expires": "2026-08-07T14:15:00-06:00",
+    "description": "* WHAT...Dangerously hot conditions with temperatures up to 105\nexpected with little overnight relief through Saturday.\n\n* WHERE...Capitol Reef National Park and Vicinity, South Central\nUtah, and West"
+   }
+  },
+  {
+   "id": "d562d07a97db",
+   "title": "Extreme Heat Warning issued August 6 at 11:02PM MDT until August 10 at 12:00AM MDT by NWS Salt Lake City UT",
+   "url": "urn:oid:2.49.0.1.840.0.6bbeacd9a324c0f3d3382891fb21bc0e82eef911.003.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T05:02:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Great Salt Lake Desert and Mountains",
+    "sender": "NWS Salt Lake City UT",
+    "expires": "2026-08-07T14:15:00-06:00",
+    "description": "* WHAT...Dangerously hot conditions with temperatures up to 103\nexpected with little overnight relief through Sunday.\n\n* WHERE...Castle Country, San Rafael Swell, Western Millard and Juab\nCounties, Gr"
+   }
+  },
+  {
+   "id": "dd066d43039e",
+   "title": "Extreme Heat Warning issued August 6 at 11:02PM MDT until August 8 at 9:00PM MDT by NWS Salt Lake City UT",
+   "url": "urn:oid:2.49.0.1.840.0.6bbeacd9a324c0f3d3382891fb21bc0e82eef911.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T05:02:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Lower Washington County",
+    "sender": "NWS Salt Lake City UT",
+    "expires": "2026-08-07T14:15:00-06:00",
+    "description": "* WHAT...Dangerously hot conditions with temperatures up to 110\nexpected, with some locations in the St George area nearing 112.\nLittle overnight relief will occur through Saturday.\n\n* WHERE...Glen Ca"
+   }
+  },
+  {
+   "id": "1c83e30acabc",
+   "title": "Red Flag Warning issued August 6 at 10:51PM MDT until August 8 at 9:00PM MDT by NWS Great Falls MT",
+   "url": "urn:oid:2.49.0.1.840.0.07b3ae5be80ecac8c3c6b9c62face24e5affb81e.001.2",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T04:51:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Lincoln Ranger District of the Helena National Forest",
+    "sender": "NWS Great Falls MT",
+    "expires": "2026-08-07T14:00:00-06:00",
+    "description": "The National Weather Service in Great Falls has issued a Red Flag\nWarning for hot temperatures, gusty winds, and low relative\nhumidity, which is in effect from noon Friday to 9 PM MDT\nSaturday. The Fi"
+   }
+  },
+  {
+   "id": "806174628325",
+   "title": "Red Flag Warning issued August 6 at 8:48PM PDT until August 8 at 11:00PM PDT by NWS Spokane WA",
+   "url": "urn:oid:2.49.0.1.840.0.cc729ac0928e6474a0446452029c59bd1a813d9e.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:48:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "East Washington Central Cascades",
+    "sender": "NWS Spokane WA",
+    "expires": "2026-08-07T12:15:00-07:00",
+    "description": "A dry cold front will push toward and through the area Friday and\nSaturday, bringing breezy west to southwesterly winds. Winds\nwill be strongest near the Cascades and Western Columbia Basin.\nWind spee"
+   }
+  },
+  {
+   "id": "c5ff15d12b08",
+   "title": "Fire Weather Watch issued August 6 at 8:48PM PDT until August 8 at 11:00PM PDT by NWS Spokane WA",
+   "url": "urn:oid:2.49.0.1.840.0.cc729ac0928e6474a0446452029c59bd1a813d9e.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:48:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Fire Weather Watch",
+    "area": "Colville Reservation",
+    "sender": "NWS Spokane WA",
+    "expires": "2026-08-07T12:15:00-07:00",
+    "description": "A dry cold front will push toward and through the area Friday and\nSaturday, bringing breezy west to southwesterly winds. Winds\nwill be strongest near the Cascades and Western Columbia Basin.\nWind spee"
+   }
+  },
+  {
+   "id": "837329e12b4c",
+   "title": "Red Flag Warning issued August 6 at 9:41PM MDT until August 8 at 9:00PM MDT by NWS Missoula MT",
+   "url": "urn:oid:2.49.0.1.840.0.826047beac3478a5be033ccb90412284b86079ea.003.2",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:41:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Deerlodge/Western Beaverhead National Forest",
+    "sender": "NWS Missoula MT",
+    "expires": "2026-08-07T05:45:00-06:00",
+    "description": "...RED FLAG WARNING IN EFFECT FROM 11 AM FRIDAY TO 11 PM PDT SATURDAY\nDUE TO WIND AND LOW RELATIVE HUMIDITY FOR PALOUSE/HELLS CANYON...\n\n...RED FLAG WARNING IN EFFECT FROM NOON FRIDAY TO 9 PM MDT SATU"
+   }
+  },
+  {
+   "id": "11fd263448c6",
+   "title": "Red Flag Warning issued August 6 at 9:41PM MDT until August 9 at 12:00AM MDT by NWS Missoula MT",
+   "url": "urn:oid:2.49.0.1.840.0.826047beac3478a5be033ccb90412284b86079ea.001.2",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:41:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Palouse/Nezperce Reservation/Hells Canyon  Region",
+    "sender": "NWS Missoula MT",
+    "expires": "2026-08-07T05:45:00-06:00",
+    "description": "...RED FLAG WARNING IN EFFECT FROM 11 AM FRIDAY TO 11 PM PDT SATURDAY\nDUE TO WIND AND LOW RELATIVE HUMIDITY FOR PALOUSE/HELLS CANYON...\n\n...RED FLAG WARNING IN EFFECT FROM NOON FRIDAY TO 9 PM MDT SATU"
+   }
+  },
+  {
+   "id": "05a1edcbe213",
+   "title": "Red Flag Warning issued August 6 at 9:41PM MDT until August 8 at 9:00PM MDT by NWS Missoula MT",
+   "url": "urn:oid:2.49.0.1.840.0.826047beac3478a5be033ccb90412284b86079ea.002.2",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:41:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Eastern Lolo National Forest/Welcome Creek And Scapegoat Wildernesses",
+    "sender": "NWS Missoula MT",
+    "expires": "2026-08-07T05:45:00-06:00",
+    "description": "...RED FLAG WARNING IN EFFECT FROM 11 AM FRIDAY TO 11 PM PDT SATURDAY\nDUE TO WIND AND LOW RELATIVE HUMIDITY FOR PALOUSE/HELLS CANYON...\n\n...RED FLAG WARNING IN EFFECT FROM NOON FRIDAY TO 9 PM MDT SATU"
+   }
+  },
+  {
+   "id": "c4768dbb24cf",
+   "title": "Red Flag Warning issued August 6 at 9:41PM MDT until August 8 at 9:00PM MDT by NWS Missoula MT",
+   "url": "urn:oid:2.49.0.1.840.0.826047beac3478a5be033ccb90412284b86079ea.004.2",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:41:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Red Flag Warning",
+    "area": "Western Lolo National Forest",
+    "sender": "NWS Missoula MT",
+    "expires": "2026-08-07T05:45:00-06:00",
+    "description": "...RED FLAG WARNING IN EFFECT FROM 11 AM FRIDAY TO 11 PM PDT SATURDAY\nDUE TO WIND AND LOW RELATIVE HUMIDITY FOR PALOUSE/HELLS CANYON...\n\n...RED FLAG WARNING IN EFFECT FROM NOON FRIDAY TO 9 PM MDT SATU"
+   }
+  },
+  {
+   "id": "630188151324",
+   "title": "Extreme Heat Warning issued August 6 at 8:37PM PDT until August 9 at 11:00PM PDT by NWS Elko NV",
+   "url": "urn:oid:2.49.0.1.840.0.4f3ad2a8dff6bd911cb95fb98ea653674a046de4.003.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:37:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Southeastern Elko County",
+    "sender": "NWS Elko NV",
+    "expires": "2026-08-07T11:00:00-07:00",
+    "description": "* WHAT...High temperatures 100 to 105 degrees in the valleys each\nafternoon. Low temperatures 73 to 78 degrees in the valleys each\nnight. This will result in a major risk for heat-related illnesses\nfo"
+   }
+  },
+  {
+   "id": "392c7367fed9",
+   "title": "Extreme Heat Warning issued August 6 at 8:37PM PDT until August 8 at 11:00PM PDT by NWS Elko NV",
+   "url": "urn:oid:2.49.0.1.840.0.4f3ad2a8dff6bd911cb95fb98ea653674a046de4.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:37:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Northern Lander County and Northern Eureka County",
+    "sender": "NWS Elko NV",
+    "expires": "2026-08-07T11:00:00-07:00",
+    "description": "* WHAT...High temperatures 100 to 105 degrees in the valleys each\nafternoon. Low temperatures 62 to 70 degrees in the valleys each\nnight. This will result in a major risk for heat-related illnesses\nfo"
+   }
+  },
+  {
+   "id": "b8cd45e6f9a9",
+   "title": "Extreme Heat Warning issued August 6 at 8:37PM PDT until August 7 at 11:00PM PDT by NWS Elko NV",
+   "url": "urn:oid:2.49.0.1.840.0.4f3ad2a8dff6bd911cb95fb98ea653674a046de4.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:37:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Humboldt County",
+    "sender": "NWS Elko NV",
+    "expires": "2026-08-07T11:00:00-07:00",
+    "description": "* WHAT...High temperatures 100 to 103 degrees in the valleys each\nafternoon. Low temperatures 60 to 65 degrees in the valleys each\nnight. This will result in a major risk for heat-related illnesses\nfo"
+   }
+  },
+  {
+   "id": "a8024cc331f6",
+   "title": "Flood Warning issued August 6 at 10:15PM CDT until August 8 at 3:27AM CDT by NWS Kansas City/Pleasant Hill MO",
+   "url": "urn:oid:2.49.0.1.840.0.7af13d0ef53b8625b1fdcea419e69c4b240f8600.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T03:15:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "Cooper, MO",
+    "sender": "NWS Kansas City/Pleasant Hill MO",
+    "expires": "2026-08-07T22:15:00-05:00",
+    "description": "...The Flood Warning is extended for the following rivers in\nMissouri...\n\nPetite Saline Creek near Boonville affecting Cooper County.\n\n* WHAT...Minor flooding is occurring and minor flooding is foreca"
+   }
+  },
+  {
+   "id": "2797c213c99d",
+   "title": "Fire Weather Watch issued August 6 at 8:01PM MDT until August 8 at 9:00PM MDT by NWS Billings MT",
+   "url": "urn:oid:2.49.0.1.840.0.5eab8743481302abe28835b60f8aab0e505162d4.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T02:01:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Fire Weather Watch",
+    "area": "Gallatin National Forest",
+    "sender": "NWS Billings MT",
+    "expires": "2026-08-07T20:15:00-06:00",
+    "description": "* IMPACTS: Low humidities, hot temperatures, and strong gusty\nwinds will create erratic fire behavior and new fire starts.\n\n* AFFECTED AREA:\nIn North Central WY Fire Zones...274...284.\nIn South Centra"
+   }
+  },
+  {
+   "id": "247c7dff4769",
+   "title": "Fire Weather Watch issued August 6 at 8:01PM MDT until August 8 at 9:00PM MDT by NWS Billings MT",
+   "url": "urn:oid:2.49.0.1.840.0.5eab8743481302abe28835b60f8aab0e505162d4.001.2",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T02:01:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Fire Weather Watch",
+    "area": "Custer County",
+    "sender": "NWS Billings MT",
+    "expires": "2026-08-07T20:15:00-06:00",
+    "description": "The National Weather Service in Billings has issued a Fire Weather\nWatch...which is in effect from Saturday morning through Saturday\nevening.\n\n* IMPACTS: Low humidities, hot temperatures, and strong g"
+   }
+  },
+  {
+   "id": "d92ed8a3a24f",
+   "title": "Flood Warning issued August 6 at 8:04PM CDT until August 8 at 5:43AM CDT by NWS Corpus Christi TX",
+   "url": "urn:oid:2.49.0.1.840.0.422f915b9c8698a61ceeecbb773519636c1559f0.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T01:04:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "McMullen, TX",
+    "sender": "NWS Corpus Christi TX",
+    "expires": "2026-08-07T11:15:00-05:00",
+    "description": "...The Flood Warning continues for the following rivers in Texas...\n\nNueces River Near Tilden affecting McMullen County.\n\nFor the Nueces River...including Cotulla, Tilden, Three Rivers,\nMathis, Bluntz"
+   }
+  },
+  {
+   "id": "8ad4fa0076da",
+   "title": "Fire Weather Watch issued August 6 at 6:40PM MDT until August 8 at 8:00PM MDT by NWS Glasgow MT",
+   "url": "urn:oid:2.49.0.1.840.0.c15e2ac1803aacc41740ce42854f7ee4689e966d.001.2",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T00:40:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Fire Weather Watch",
+    "area": "The Lower Missouri River Breaks including the Charles M Russell National Wildlife Refuge",
+    "sender": "NWS Glasgow MT",
+    "expires": "2026-08-07T16:00:00-06:00",
+    "description": "...RED FLAG WARNING WILL EXPIRE AT 7 PM MDT THIS EVENING FOR\nSTRONG WINDS AND LOW HUMIDITY FOR FIRE WEATHER ZONES 136 AND\n137...\n\n\nThe National Weather Service in Glasgow has issued a Fire Weather\nWat"
+   }
+  },
+  {
+   "id": "b5473e9515b2",
+   "title": "Flood Warning issued August 6 at 7:34PM CDT until August 8 at 7:30PM CDT by NWS Kansas City/Pleasant Hill MO",
+   "url": "urn:oid:2.49.0.1.840.0.7fd250b297b5f9265e8bf5d41172cc423081cb64.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T00:34:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "Cooper, MO",
+    "sender": "NWS Kansas City/Pleasant Hill MO",
+    "expires": "2026-08-07T19:45:00-05:00",
+    "description": "...The Flood Warning continues for the following rivers in\nMissouri...\n\nBlackwater River near Blue Lick affecting Saline and Cooper\nCounties.\n\n* WHAT...Minor flooding is forecast.\n\n* WHERE...Blackwate"
+   }
+  },
+  {
+   "id": "d879a0dacdf1",
+   "title": "Extreme Heat Warning issued August 6 at 5:02PM PDT until August 9 at 8:00PM PDT by NWS Las Vegas NV",
+   "url": "urn:oid:2.49.0.1.840.0.47b80b583d4b9cf15a54c8fa6a008d023a439083.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-07T00:02:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Northwest Plateau",
+    "sender": "NWS Las Vegas NV",
+    "expires": "2026-08-07T17:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with highs 110 to 120 degrees\nacross the Mojave Desert. Highs 95 to 105 degrees across most of\nthe southern Great Basin and Arizona Strip. Little to no overnight\nre"
+   }
+  },
+  {
+   "id": "925ca4c3e2e0",
+   "title": "Flood Warning issued August 5 at 1:54PM AKDT until August 7 at 1:00PM AKDT by NWS Anchorage AK",
+   "url": "urn:oid:2.49.0.1.840.0.52281d77d9ac4a142cf9a7b4098ae232b4a36f3e.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-05T21:54:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Flood Warning",
+    "area": "Western Susitna Valley",
+    "sender": "NWS Anchorage AK",
+    "expires": "2026-08-07T13:00:00-08:00",
+    "description": "* WHAT...Flooding caused by excessive rainfall continues.\n\n* WHERE...Yentna River including Lake Creek.\n\n* WHEN...Until 100 PM AKDT Friday.\n\n* IMPACTS...Flooding of rivers, creeks, streams, and other "
+   }
+  },
+  {
+   "id": "98ad9d37ee65",
+   "title": "Extreme Heat Warning issued August 5 at 2:13PM PDT until August 9 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+   "url": "urn:oid:2.49.0.1.840.0.11dbd172804da4df8281e65da74edd6e4e7b592f.003.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-05T21:13:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Western Antelope Valley Foothills",
+    "sender": "NWS Los Angeles/Oxnard CA",
+    "expires": "2026-08-09T20:00:00-07:00",
+    "description": "* WHAT...Dangerously hot conditions with temperatures 102 to 110.\n\n* WHERE...Antelope Valley and nearby foothills.\n\n* WHEN...Until 8 PM PDT Sunday.\n\n* IMPACTS...There is a high risk for dangerous heat"
+   }
+  },
+  {
+   "id": "ce521b6cc604",
+   "title": "Extreme Heat Warning issued August 5 at 2:13PM PDT until August 9 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+   "url": "urn:oid:2.49.0.1.840.0.11dbd172804da4df8281e65da74edd6e4e7b592f.002.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-05T21:13:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Northern Ventura County Mountains",
+    "sender": "NWS Los Angeles/Oxnard CA",
+    "expires": "2026-08-09T20:00:00-07:00",
+    "description": "* WHAT...Dangerously hot daytime conditions with high temperatures\nbetween 95 and 105 common, except locally up to 108 in the hottest\nlocations.\n\n* WHERE...Northern Ventura County Mountains.\n\n* WHEN.."
+   }
+  },
+  {
+   "id": "ea2534c20550",
+   "title": "Extreme Heat Warning issued August 5 at 2:13PM PDT until August 9 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+   "url": "urn:oid:2.49.0.1.840.0.11dbd172804da4df8281e65da74edd6e4e7b592f.001.1",
+   "source": "weather_alerts",
+   "category": "weather",
+   "published": "2026-08-05T21:13:00Z",
+   "score": 75.0,
+   "tags": [
+    "nws",
+    "severe",
+    "alert"
+   ],
+   "metrics": {
+    "severity": "Severe",
+    "event": "Extreme Heat Warning",
+    "area": "Cuyama Valley",
+    "sender": "NWS Los Angeles/Oxnard CA",
+    "expires": "2026-08-09T20:00:00-07:00",
+    "description": "* WHAT...Hot daytime conditions with high temperatures between 98 and\n106 common.\n\n* WHERE...The Cuyama Valley.\n\n* WHEN...Until 8 PM PDT Sunday.\n\n* IMPACTS...There is a high risk for dangerous heat il"
+   }
+  }
+ ]
+}

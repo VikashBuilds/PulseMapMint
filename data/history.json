@@ -1955,5 +1955,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260807T123003Z",
+  "generated": "2026-08-07T12:30:03.923427+00:00",
+  "events": 1113,
+  "breakers": 120,
+  "avg_heat": 87.7,
+  "prices": {
+   "btc": {
+    "price": 65057,
+    "pct24h": 0.7
+   },
+   "eth": {
+    "price": 1928.4,
+    "pct24h": 0.9
+   },
+   "xrp": {
+    "price": 1.036,
+    "pct24h": -1.3
+   },
+   "sol": {
+    "price": 73.89,
+    "pct24h": 0.5
+   },
+   "doge": {
+    "price": 0.069864,
+    "pct24h": 0.9
+   },
+   "ada": {
+    "price": 0.20102,
+    "pct24h": 6.7
+   },
+   "link": {
+    "price": 8.25,
+    "pct24h": 1.5
+   },
+   "ltc": {
+    "price": 45.75,
+    "pct24h": 1.9
+   },
+   "avax": {
+    "price": 6.48,
+    "pct24h": 1.1
+   },
+   "dot": {
+    "price": 0.816641,
+    "pct24h": -0.7
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved +31.4% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "addyosmani/agent-skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_python_ts",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Discovery Loop",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Crime Pays but Botany Doesn't",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Cloudflare OS: an open platform for agents, apps, and work",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Mario Meets Pareto",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]
