@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-07T16:37:06Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.36,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "1768b512ff61",
+   "title": "Show HN: Wyzer Programming Language",
+   "url": "https://github.com/Wyzer-Lang/wyzer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 49.10912690248239,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 93,
+    "comments": 44,
+    "hn_id": 49209385
+   }
+  },
+  {
+   "id": "12bd81fed257",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+   "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 46.93741096848031,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 77,
+    "comments": 28,
+    "hn_id": 49208535
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 83.09475019311125,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 540,
+    "comments": 297,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "1d1fbd2af324",
+   "title": "Thoroughly Understanding C++ ABI",
+   "url": "https://ykiko.me/en/articles/692886292/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 39.79019945774904,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 35,
+    "comments": 33,
+    "hn_id": 49145259
+   }
+  },
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 85.51859218455103,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 586,
+    "comments": 460,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "f88c3a3c9ca8",
+   "title": "An all-sky map of half a million supermassive black holes",
+   "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 0,
+    "hn_id": 49211921
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 95.53367989832942,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 796,
+    "comments": 603,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "bebc844a6f86",
+   "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+   "url": "https://blog.cloudflare.com/kitesurf/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 45.15564437074637,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 65,
+    "comments": 17,
+    "hn_id": 49208393
+   }
+  },
+  {
+   "id": "1bdd1a125a5c",
+   "title": "USA Today Co., partners with Palantir to analyze audience data",
+   "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 51.457513110645905,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 112,
+    "comments": 44,
+    "hn_id": 49210589
+   }
+  },
+  {
+   "id": "f2bff30e53bd",
+   "title": "99% of My Website Traffic Is Bots",
+   "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 59.910600109422354,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 195,
+    "comments": 189,
+    "hn_id": 49211386
+   }
+  },
+  {
+   "id": "4cf86665c4f8",
+   "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+   "url": "https://textlog.cc/about",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 43.37117307087384,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 54,
+    "comments": 16,
+    "hn_id": 49208458
+   }
+  },
+  {
+   "id": "db4c88c9d4fb",
+   "title": "Petri Nets as a Music Sequencer",
+   "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 35.30776406404415,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 17,
+    "comments": 2,
+    "hn_id": 49158934
+   }
+  },
+  {
+   "id": "eb572b5f487e",
+   "title": "São Paulo resident transforms degraded area into urban forest",
+   "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 64.52847075210474,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 250,
+    "comments": 102,
+    "hn_id": 49138446
+   }
+  },
+  {
+   "id": "6e034fe4c8ee",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 58.63406011768427,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 181,
+    "comments": 54,
+    "hn_id": 49202716
+   }
+  },
+  {
+   "id": "6ae984819e15",
+   "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+   "url": "https://londonist.com/london/history/oxford-street-beavers",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 0,
+    "hn_id": 49158302
+   }
+  },
+  {
+   "id": "5fa710b88f14",
+   "title": "TypeStax: A type scale generator with vintage audio hardware interface",
+   "url": "https://www.typestax.com/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 39.14213562373095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 32,
+    "comments": 7,
+    "hn_id": 49112511
+   }
+  },
+  {
+   "id": "39513076ffa9",
+   "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+   "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 53.06243040080456,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 126,
+    "comments": 32,
+    "hn_id": 49211438
+   }
+  },
+  {
+   "id": "fba3e3a6952f",
+   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+   "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 66.98213905936666,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 282,
+    "comments": 56,
+    "hn_id": 49184355
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 78.79358697837503,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 463,
+    "comments": 383,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "55ad95dee0bd",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 59.910600109422354,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 195,
+    "comments": 31,
+    "hn_id": 49203105
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 67.35268586524353,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 287,
+    "comments": 232,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "1ac1e4ff8bf3",
+   "title": "Software is about people, not code (2020)",
+   "url": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 38.69306393762915,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 30,
+    "comments": 31,
+    "hn_id": 49211437
+   }
+  },
+  {
+   "id": "1f6027951f1a",
+   "title": "A quine in Piet – a GIF image that prints itself [video]",
+   "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 44.364916731037084,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 60,
+    "comments": 4,
+    "hn_id": 49156157
+   }
+  },
+  {
+   "id": "f8f054c0e788",
+   "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+   "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 93.9202437604511,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 760,
+    "comments": 738,
+    "hn_id": 49208314
+   }
+  },
+  {
+   "id": "3d6de5750de4",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+   "url": "https://provenmetal.com",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 61.82729965664059,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 217,
+    "comments": 152,
+    "hn_id": 49198464
+   }
+  },
+  {
+   "id": "eabce3456ebd",
+   "title": "The BBC Tetris Companion",
+   "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 43.54049621773916,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 55,
+    "comments": 7,
+    "hn_id": 49092746
+   }
+  },
+  {
+   "id": "d7d68f36aa83",
+   "title": "Zohran Mamdani's NYC Tech Team Is What DOGE Should Have Been",
+   "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 38.69306393762915,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 30,
+    "comments": 7,
+    "hn_id": 49212459
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1112,
+    "comments": 164,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 65.2336923485777,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 259,
+    "comments": 180,
+    "hn_id": 49201003
+   }
+  },
+  {
+   "id": "eb7ac651308b",
+   "title": "Why Estonians invite strangers into their back gardens each summer",
+   "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T16:37:06Z",
+   "score": 53.83140648667699,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 133,
+    "comments": 46,
+    "hn_id": 49163879
+   }
+  }
+ ]
+}

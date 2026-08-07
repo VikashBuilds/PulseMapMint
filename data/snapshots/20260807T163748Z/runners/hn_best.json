@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-07T16:37:12Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.42,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "f8f054c0e788",
+   "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+   "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 93.9202437604511,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 760,
+    "comments": 738,
+    "hn_id": 49208314
+   }
+  },
+  {
+   "id": "9af015edf438",
+   "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+   "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 97.58615570478987,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 843,
+    "comments": 911,
+    "hn_id": 49184755
+   }
+  },
+  {
+   "id": "3daaf44022c0",
+   "title": "I'm switching my phone from Android to Linux",
+   "url": "https://runarcn.no/android-to-linux/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 78.79358697837503,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 463,
+    "comments": 507,
+    "hn_id": 49188022
+   }
+  },
+  {
+   "id": "f72dbccb6776",
+   "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+   "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 82.17298313014636,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 523,
+    "comments": 329,
+    "hn_id": 49200652
+   }
+  },
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 85.51859218455103,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 586,
+    "comments": 460,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "df8e82f50ccc",
+   "title": "Discovery Loop",
+   "url": "https://www.discoveryloop.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 933,
+    "comments": 587,
+    "hn_id": 49184960
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1112,
+    "comments": 164,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 83.09475019311125,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 540,
+    "comments": 297,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "830ec250fb9f",
+   "title": "Crime Pays but Botany Doesn't",
+   "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 90.09608283145768,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 678,
+    "comments": 212,
+    "hn_id": 49192566
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 95.53367989832942,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 796,
+    "comments": 603,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "19d46c1b64ce",
+   "title": "Zed DeltaDB",
+   "url": "https://zed.dev/deltadb",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 82.11829829397932,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 522,
+    "comments": 308,
+    "hn_id": 49187256
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 78.79358697837503,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 463,
+    "comments": 383,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "93b054cb87ac",
+   "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+   "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 76.72040216394299,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 428,
+    "comments": 122,
+    "hn_id": 49186762
+   }
+  },
+  {
+   "id": "b0663a37fd64",
+   "title": "The title cards in Blade Runner are amazing",
+   "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 76.96152422706632,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 432,
+    "comments": 208,
+    "hn_id": 49189287
+   }
+  },
+  {
+   "id": "a7277ad61dde",
+   "title": "Quake – 30th Anniversary Update",
+   "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 73.15340071064557,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 371,
+    "comments": 181,
+    "hn_id": 49201930
+   }
+  },
+  {
+   "id": "ce569d17d129",
+   "title": "Muse Code and Muse Spark 1.2",
+   "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 70.13867521316948,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 326,
+    "comments": 260,
+    "hn_id": 49187575
+   }
+  },
+  {
+   "id": "8c4b03f4eb88",
+   "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+   "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 68.94598957811738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 309,
+    "comments": 300,
+    "hn_id": 49209546
+   }
+  },
+  {
+   "id": "c20b1b349a2c",
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 70.20785330006281,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 327,
+    "comments": 238,
+    "hn_id": 49195468
+   }
+  },
+  {
+   "id": "ead57da04f33",
+   "title": "Nashville uses eminent domain to block data center near zoo",
+   "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 69.65142774872938,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 319,
+    "comments": 471,
+    "hn_id": 49191624
+   }
+  },
+  {
+   "id": "249ff1116241",
+   "title": "Born Against, or why hobby programming communities are against LLM usage",
+   "url": "https://blog.fogus.me/llm/born-against.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 76.47815070493499,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 424,
+    "comments": 507,
+    "hn_id": 49187061
+   }
+  },
+  {
+   "id": "c376ae689192",
+   "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+   "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 73.15340071064557,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 371,
+    "comments": 1,
+    "hn_id": 49184757
+   }
+  },
+  {
+   "id": "3f7d374c6a76",
+   "title": "Software development with AI is starting to feel like cooking steak",
+   "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 74.11720676097124,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 386,
+    "comments": 410,
+    "hn_id": 49198069
+   }
+  },
+  {
+   "id": "565596d6bdf7",
+   "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+   "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 68.22904116447646,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 299,
+    "comments": 136,
+    "hn_id": 49185983
+   }
+  },
+  {
+   "id": "767639a1c6b2",
+   "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+   "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 69.7911821679223,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 321,
+    "comments": 265,
+    "hn_id": 49187977
+   }
+  },
+  {
+   "id": "18e596b1c165",
+   "title": "Jeff Dean leaving Alphabet",
+   "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 68.08421984903521,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 297,
+    "comments": 9,
+    "hn_id": 49184746
+   }
+  },
+  {
+   "id": "461b5e59d814",
+   "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+   "url": "https://electronicmaterialsoffice.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 66.98213905936666,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 282,
+    "comments": 233,
+    "hn_id": 49197137
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 67.35268586524353,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 287,
+    "comments": 232,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "0a11197fb5f2",
+   "title": "Prime Agent: A self-improving RLM agent",
+   "url": "https://www.primeintellect.ai/blog/prime-agent",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 64.52847075210474,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 250,
+    "comments": 66,
+    "hn_id": 49189075
+   }
+  },
+  {
+   "id": "2843174091b5",
+   "title": "Celld: Self-hosted, distributed Durable Objects",
+   "url": "https://github.com/denoland/celld",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 66.68333000133266,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 278,
+    "comments": 52,
+    "hn_id": 49185430
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-07T16:37:12Z",
+   "score": 65.2336923485777,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 259,
+    "comments": 180,
+    "hn_id": 49201003
+   }
+  }
+ ]
+}

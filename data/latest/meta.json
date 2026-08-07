@@ -1,66 +1,66 @@
 {
- "ts": "20260807T123003Z",
- "generated": "2026-08-07T12:30:03.923427+00:00",
- "total_events": 1113,
+ "ts": "20260807T163748Z",
+ "generated": "2026-08-07T16:37:48.844107+00:00",
+ "total_events": 1127,
  "breakers": 120,
  "categories": {
-  "crypto": 6,
   "github": 43,
-  "tech": 379,
-  "geohazard": 15,
-  "markets": 8,
-  "weather": 32,
+  "tech": 374,
+  "markets": 6,
+  "geohazard": 19,
+  "weather": 38,
+  "crypto": 5,
   "finance": 214,
   "science": 188,
-  "world": 228
+  "world": 240
  },
  "runners": {
   "crypto_anomalies": {
    "label": "Crypto Anomalies",
    "status": "ok",
-   "items": 6,
-   "took_s": 0.13,
-   "generated": "2026-08-07T12:29:14Z",
+   "items": 5,
+   "took_s": 0.14,
+   "generated": "2026-08-07T16:37:01Z",
    "error": null
   },
   "github_all": {
    "label": "GitHub Trending",
    "status": "ok",
    "items": 17,
-   "took_s": 0.97,
-   "generated": "2026-08-07T12:29:21Z",
+   "took_s": 1.21,
+   "generated": "2026-08-07T16:37:01Z",
    "error": null
   },
   "github_python_ts": {
    "label": "GitHub Py/TS",
    "status": "ok",
    "items": 33,
-   "took_s": 2.32,
-   "generated": "2026-08-07T12:29:14Z",
+   "took_s": 2.85,
+   "generated": "2026-08-07T16:37:16Z",
    "error": null
   },
   "hn_ask_show": {
    "label": "HN Ask + Show",
    "status": "ok",
-   "items": 35,
-   "took_s": 0.63,
-   "generated": "2026-08-07T12:29:14Z",
+   "items": 33,
+   "took_s": 0.36,
+   "generated": "2026-08-07T16:37:10Z",
    "error": null
   },
   "hn_best": {
    "label": "HackerNews Best",
    "status": "ok",
    "items": 30,
-   "took_s": 0.41,
-   "generated": "2026-08-07T12:29:12Z",
+   "took_s": 0.42,
+   "generated": "2026-08-07T16:37:12Z",
    "error": null
   },
   "hn_top": {
    "label": "HackerNews Top",
    "status": "ok",
    "items": 30,
-   "took_s": 0.62,
-   "generated": "2026-08-07T12:29:22Z",
+   "took_s": 0.36,
+   "generated": "2026-08-07T16:37:06Z",
    "error": null
   },
   "producthunt_launches": {
@@ -68,79 +68,79 @@
    "status": "skipped",
    "items": 0,
    "took_s": 0.0,
-   "generated": "2026-08-07T12:29:14Z",
+   "generated": "2026-08-07T16:37:01Z",
    "error": "missing env var PRODUCTHUNT_TOKEN"
   },
   "reddit_all": {
    "label": "Reddit r/all Rising",
    "status": "error",
    "items": 0,
-   "took_s": 12.28,
-   "generated": "2026-08-07T12:29:36Z",
+   "took_s": 12.19,
+   "generated": "2026-08-07T16:37:19Z",
    "error": "RuntimeError: HTTP 403 for https://api.reddit.com/r/all/rising?limit=25"
   },
   "reddit_finance_crypto": {
    "label": "Reddit Finance/Crypto",
    "status": "error",
    "items": 0,
-   "took_s": 12.12,
-   "generated": "2026-08-07T12:29:24Z",
+   "took_s": 12.1,
+   "generated": "2026-08-07T16:37:13Z",
    "error": "RuntimeError: HTTP 403 for https://api.reddit.com/r/stockmarket+investing+crypto+economicnews+wallstreetbets/rising?limit=25"
   },
   "reddit_tech_startups": {
    "label": "Reddit Tech/Startups",
    "status": "error",
    "items": 0,
-   "took_s": 12.3,
-   "generated": "2026-08-07T12:29:25Z",
+   "took_s": 12.07,
+   "generated": "2026-08-07T16:37:13Z",
    "error": "RuntimeError: HTTP 403 for https://api.reddit.com/r/technology+programming+startups+gadgets+artificial/rising?limit=25"
   },
   "reddit_world_science": {
    "label": "Reddit World/Science",
    "status": "error",
    "items": 0,
-   "took_s": 12.13,
-   "generated": "2026-08-07T12:29:24Z",
+   "took_s": 12.07,
+   "generated": "2026-08-07T16:37:20Z",
    "error": "RuntimeError: HTTP 403 for https://api.reddit.com/r/worldnews+science+futurism+space/rising?limit=25"
   },
   "rss_finance": {
    "label": "RSS Finance",
    "status": "ok",
    "items": 215,
-   "took_s": 1.95,
-   "generated": "2026-08-07T12:29:26Z",
+   "took_s": 1.62,
+   "generated": "2026-08-07T16:37:03Z",
    "error": null
   },
   "rss_science_space": {
    "label": "RSS Science/Space",
    "status": "ok",
    "items": 188,
-   "took_s": 4.8,
-   "generated": "2026-08-07T12:29:20Z",
+   "took_s": 4.67,
+   "generated": "2026-08-07T16:37:07Z",
    "error": null
   },
   "rss_tech": {
    "label": "RSS Tech/AI",
    "status": "ok",
    "items": 315,
-   "took_s": 6.98,
-   "generated": "2026-08-07T12:29:21Z",
+   "took_s": 5.25,
+   "generated": "2026-08-07T16:37:07Z",
    "error": null
   },
   "rss_world": {
    "label": "RSS World News",
    "status": "ok",
-   "items": 230,
-   "took_s": 38.37,
-   "generated": "2026-08-07T12:29:51Z",
+   "items": 241,
+   "took_s": 35.92,
+   "generated": "2026-08-07T16:37:37Z",
    "error": null
   },
   "stocks_movers": {
    "label": "Stock Movers",
    "status": "ok",
-   "items": 8,
-   "took_s": 0.31,
-   "generated": "2026-08-07T12:29:24Z",
+   "items": 6,
+   "took_s": 0.2,
+   "generated": "2026-08-07T16:37:01Z",
    "error": null
   },
   "twitter_x_trends": {
@@ -148,23 +148,23 @@
    "status": "skipped",
    "items": 0,
    "took_s": 0.0,
-   "generated": "2026-08-07T12:29:26Z",
+   "generated": "2026-08-07T16:37:02Z",
    "error": "missing env var X_API_BEARER"
   },
   "usgs_quakes": {
    "label": "USGS Earthquakes",
    "status": "ok",
-   "items": 15,
-   "took_s": 0.09,
-   "generated": "2026-08-07T12:29:14Z",
+   "items": 19,
+   "took_s": 0.12,
+   "generated": "2026-08-07T16:37:13Z",
    "error": null
   },
   "weather_alerts": {
    "label": "Weather Alerts",
    "status": "ok",
-   "items": 47,
-   "took_s": 0.09,
-   "generated": "2026-08-07T12:29:12Z",
+   "items": 53,
+   "took_s": 0.48,
+   "generated": "2026-08-07T16:37:02Z",
    "error": null
   },
   "youtube_trending": {
@@ -172,50 +172,50 @@
    "status": "skipped",
    "items": 0,
    "took_s": 0.0,
-   "generated": "2026-08-07T12:29:14Z",
+   "generated": "2026-08-07T16:37:11Z",
    "error": "missing env var YOUTUBE_API_KEY"
   }
  },
  "watch": {
   "btc": {
-   "price": 65057,
-   "pct24h": 0.7
+   "price": 64898,
+   "pct24h": 0.3
   },
   "eth": {
-   "price": 1928.4,
-   "pct24h": 0.9
+   "price": 1913.44,
+   "pct24h": 0.2
   },
   "xrp": {
-   "price": 1.036,
-   "pct24h": -1.3
+   "price": 1.026,
+   "pct24h": -1.9
   },
   "sol": {
-   "price": 73.89,
-   "pct24h": 0.5
+   "price": 73.8,
+   "pct24h": 0.6
   },
   "doge": {
-   "price": 0.069864,
-   "pct24h": 0.9
+   "price": 0.069871,
+   "pct24h": 1.2
   },
   "ada": {
-   "price": 0.20102,
-   "pct24h": 6.7
+   "price": 0.200576,
+   "pct24h": -1.1
   },
   "link": {
-   "price": 8.25,
-   "pct24h": 1.5
+   "price": 8.27,
+   "pct24h": 0.6
   },
   "ltc": {
-   "price": 45.75,
-   "pct24h": 1.9
+   "price": 45.92,
+   "pct24h": 0.7
   },
   "avax": {
-   "price": 6.48,
-   "pct24h": 1.1
+   "price": 6.42,
+   "pct24h": -0.2
   },
   "dot": {
-   "price": 0.816641,
-   "pct24h": -0.7
+   "price": 0.808511,
+   "pct24h": -1.4
   }
  }
 }

@@ -1,0 +1,161 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-07T16:37:01Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.14,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "6b7b4c88cf86",
+   "title": "Canton (CC) moved -7.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/canton-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T16:37:01Z",
+   "score": 73.5,
+   "tags": [
+    "cc",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cc",
+    "pct24h": -7.4,
+    "pct1h": -3.6,
+    "pct7d": -23.4,
+    "price_usd": 0.094659,
+    "market_cap": 3718607383
+   }
+  },
+  {
+   "id": "c957123337b7",
+   "title": "Lighter (LIT) moved +7.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/lighter",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T16:37:01Z",
+   "score": 72.5,
+   "tags": [
+    "lit",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "lit",
+    "pct24h": 7.0,
+    "pct1h": -1.9,
+    "pct7d": 12.7,
+    "price_usd": 2.37,
+    "market_cap": 591930015
+   }
+  },
+  {
+   "id": "46cf8241b1e0",
+   "title": "Ondo (ONDO) moved -5.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ondo-finance",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T16:37:01Z",
+   "score": 69.5,
+   "tags": [
+    "ondo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ondo",
+    "pct24h": -5.8,
+    "pct1h": -0.4,
+    "pct7d": -12.9,
+    "price_usd": 0.349119,
+    "market_cap": 1699975512
+   }
+  },
+  {
+   "id": "23af3ab1c5ee",
+   "title": "Audiera (BEAT) moved -5.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T16:37:01Z",
+   "score": 68.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": -5.2,
+    "pct1h": -5.6,
+    "pct7d": -52.5,
+    "price_usd": 1.97,
+    "market_cap": 650768415
+   }
+  },
+  {
+   "id": "eb0a38e40628",
+   "title": "NEAR Protocol (NEAR) moved -4.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/near",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T16:37:01Z",
+   "score": 65.5,
+   "tags": [
+    "near",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "near",
+    "pct24h": -4.2,
+    "pct1h": -0.8,
+    "pct7d": -2.8,
+    "price_usd": 1.61,
+    "market_cap": 2099823918
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64898,
+   "pct24h": 0.3
+  },
+  "eth": {
+   "price": 1913.44,
+   "pct24h": 0.2
+  },
+  "xrp": {
+   "price": 1.026,
+   "pct24h": -1.9
+  },
+  "sol": {
+   "price": 73.8,
+   "pct24h": 0.6
+  },
+  "doge": {
+   "price": 0.069871,
+   "pct24h": 1.2
+  },
+  "ada": {
+   "price": 0.200576,
+   "pct24h": -1.1
+  },
+  "link": {
+   "price": 8.27,
+   "pct24h": 0.6
+  },
+  "ltc": {
+   "price": 45.92,
+   "pct24h": 0.7
+  },
+  "avax": {
+   "price": 6.42,
+   "pct24h": -0.2
+  },
+  "dot": {
+   "price": 0.808511,
+   "pct24h": -1.4
+  }
+ }
+}
