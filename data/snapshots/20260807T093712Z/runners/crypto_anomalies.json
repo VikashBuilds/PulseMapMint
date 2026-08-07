@@ -1,0 +1,287 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-07T09:36:08Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.21,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "2bc88f30722a",
+   "title": "Audiera (BEAT) moved +22.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": 22.7,
+    "pct1h": 0.6,
+    "pct7d": -42.8,
+    "price_usd": 2.08,
+    "market_cap": 689730892
+   }
+  },
+  {
+   "id": "ec8c977abc57",
+   "title": "Canton (CC) moved -12.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/canton-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 85.25,
+   "tags": [
+    "cc",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cc",
+    "pct24h": -12.1,
+    "pct1h": 1.6,
+    "pct7d": -25.2,
+    "price_usd": 0.09043,
+    "market_cap": 3553069074
+   }
+  },
+  {
+   "id": "73b11332aa3a",
+   "title": "Lighter (LIT) moved +7.8% in 24h",
+   "url": "https://www.coingecko.com/en/coins/lighter",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 74.5,
+   "tags": [
+    "lit",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "lit",
+    "pct24h": 7.8,
+    "pct1h": -0.7,
+    "pct7d": 7.7,
+    "price_usd": 2.37,
+    "market_cap": 592125367
+   }
+  },
+  {
+   "id": "b8a13ea04072",
+   "title": "Cardano (ADA) moved +6.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/cardano",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 71.25,
+   "tags": [
+    "ada",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ada",
+    "pct24h": 6.5,
+    "pct1h": -0.3,
+    "pct7d": 18.1,
+    "price_usd": 0.200477,
+    "market_cap": 7487763379
+   }
+  },
+  {
+   "id": "5ed19b248c7a",
+   "title": "Ondo (ONDO) moved -6.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ondo-finance",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 70.5,
+   "tags": [
+    "ondo",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ondo",
+    "pct24h": -6.2,
+    "pct1h": 0.1,
+    "pct7d": -13.4,
+    "price_usd": 0.350052,
+    "market_cap": 1704599705
+   }
+  },
+  {
+   "id": "e838c24ea649",
+   "title": "币安人生 (BinanceLife) (币安人生) moved +5.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 68.25,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": 5.3,
+    "pct1h": 0,
+    "pct7d": -16.6,
+    "price_usd": 0.538988,
+    "market_cap": 538808789
+   }
+  },
+  {
+   "id": "22e622a3e0bf",
+   "title": "Pi Network (PI) moved -4.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pi-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 66.0,
+   "tags": [
+    "pi",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pi",
+    "pct24h": -4.4,
+    "pct1h": 0.8,
+    "pct7d": 6.4,
+    "price_usd": 0.087079,
+    "market_cap": 962007636
+   }
+  },
+  {
+   "id": "f9a123953eaa",
+   "title": "Ethena (ENA) moved +4.4% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ethena",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 66.0,
+   "tags": [
+    "ena",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ena",
+    "pct24h": 4.4,
+    "pct1h": 3.5,
+    "pct7d": 16.9,
+    "price_usd": 0.09597,
+    "market_cap": 943094084
+   }
+  },
+  {
+   "id": "172e6bf97da7",
+   "title": "Shiba Inu (SHIB) moved -4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/shiba-inu",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 65.75,
+   "tags": [
+    "shib",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "shib",
+    "pct24h": -4.3,
+    "pct1h": 0,
+    "pct7d": -2.1,
+    "price_usd": 4.62e-06,
+    "market_cap": 2723339246
+   }
+  },
+  {
+   "id": "f38f708f9dd8",
+   "title": "Avalanche (AVAX) moved -4.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/avalanche-2",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 65.25,
+   "tags": [
+    "avax",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "avax",
+    "pct24h": -4.1,
+    "pct1h": -0.1,
+    "pct7d": -0.7,
+    "price_usd": 6.44,
+    "market_cap": 2780918046
+   }
+  },
+  {
+   "id": "9e8d9210ae76",
+   "title": "Gram (prev. Toncoin) (GRAM) moved -4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/the-open-network",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-07T09:36:08Z",
+   "score": 65.0,
+   "tags": [
+    "gram",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "gram",
+    "pct24h": -4.0,
+    "pct1h": -0.1,
+    "pct7d": -4.5,
+    "price_usd": 1.34,
+    "market_cap": 3663114330
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64854,
+   "pct24h": -0.3
+  },
+  "eth": {
+   "price": 1913.08,
+   "pct24h": 0.0
+  },
+  "xrp": {
+   "price": 1.036,
+   "pct24h": -1.7
+  },
+  "sol": {
+   "price": 73.59,
+   "pct24h": -0.9
+  },
+  "doge": {
+   "price": 0.069502,
+   "pct24h": -0.6
+  },
+  "ada": {
+   "price": 0.200477,
+   "pct24h": 6.5
+  },
+  "link": {
+   "price": 8.23,
+   "pct24h": 0.3
+  },
+  "ltc": {
+   "price": 45.82,
+   "pct24h": 1.8
+  },
+  "avax": {
+   "price": 6.44,
+   "pct24h": -4.1
+  },
+  "dot": {
+   "price": 0.814359,
+   "pct24h": -2.3
+  }
+ }
+}

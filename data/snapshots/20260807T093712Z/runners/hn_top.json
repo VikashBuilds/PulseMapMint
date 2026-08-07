@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-07T09:36:14Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.41,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 76.1737237261468,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 419,
+    "comments": 312,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 65.0780488547035,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 257,
+    "comments": 164,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "fba3e3a6952f",
+   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+   "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 62.583240945932275,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 226,
+    "comments": 44,
+    "hn_id": 49184355
+   }
+  },
+  {
+   "id": "6e034fe4c8ee",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 52.95084971874737,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 125,
+    "comments": 30,
+    "hn_id": 49202716
+   }
+  },
+  {
+   "id": "eb572b5f487e",
+   "title": "São Paulo resident transforms degraded area into urban forest",
+   "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 54.047375096555626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 135,
+    "comments": 54,
+    "hn_id": 49138446
+   }
+  },
+  {
+   "id": "48e23de1316b",
+   "title": "What is a product?",
+   "url": "https://roge.onwrite.app/what-is-a-product",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 42.85357107135712,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 51,
+    "comments": 30,
+    "hn_id": 49202690
+   }
+  },
+  {
+   "id": "9618320a5c8f",
+   "title": "Parsers don't have to be complicated",
+   "url": "https://bkaradzic.github.io/posts/scanner/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 9,
+    "hn_id": 49095943
+   }
+  },
+  {
+   "id": "b4d43347fe9c",
+   "title": "Atomic Clocks",
+   "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 44.52562418976663,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 61,
+    "comments": 31,
+    "hn_id": 49129015
+   }
+  },
+  {
+   "id": "87cc5fce476a",
+   "title": "2027 memory capacity is reportedly sold out",
+   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 41.77050983124842,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 45,
+    "comments": 15,
+    "hn_id": 49207236
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 63.72983346207417,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 240,
+    "comments": 182,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 88.9335592627221,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 654,
+    "comments": 501,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 75.12484413940855,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 402,
+    "comments": 332,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "9a7b4e410d2c",
+   "title": "I stopped trusting USB-C cable labels and started testing them",
+   "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 58.91164991562634,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 184,
+    "comments": 154,
+    "hn_id": 49152255
+   }
+  },
+  {
+   "id": "3d6de5750de4",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+   "url": "https://provenmetal.com",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 60.79455265819088,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 205,
+    "comments": 142,
+    "hn_id": 49198464
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 61.22844186547359,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 210,
+    "comments": 141,
+    "hn_id": 49201003
+   }
+  },
+  {
+   "id": "22fd2ca22bb6",
+   "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+   "url": "https://zenodo.org/records/21359923",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 34.01387818865997,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 13,
+    "comments": 1,
+    "hn_id": 49203707
+   }
+  },
+  {
+   "id": "55ad95dee0bd",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 55.720514318611265,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 151,
+    "comments": 23,
+    "hn_id": 49203105
+   }
+  },
+  {
+   "id": "eb7ac651308b",
+   "title": "Why Estonians invite strangers into their back gardens each summer",
+   "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 46.79449471770337,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 76,
+    "comments": 31,
+    "hn_id": 49163879
+   }
+  },
+  {
+   "id": "b96dea33954b",
+   "title": "Reverse Jevons Paradox",
+   "url": "https://mht.wtf/post/jevons/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 37.99038105676658,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 27,
+    "comments": 17,
+    "hn_id": 49162080
+   }
+  },
+  {
+   "id": "c4dc5ab87dfe",
+   "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+   "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 54.474565306378985,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 139,
+    "comments": 243,
+    "hn_id": 49200439
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1040,
+    "comments": 158,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "c20b1b349a2c",
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 68.37337893224367,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 301,
+    "comments": 211,
+    "hn_id": 49195468
+   }
+  },
+  {
+   "id": "4e7bed863779",
+   "title": "Framework discloses data breach via Metabase 0-day",
+   "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 46.65063509461097,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 75,
+    "comments": 30,
+    "hn_id": 49206130
+   }
+  },
+  {
+   "id": "1f6027951f1a",
+   "title": "A quine in Piet – a GIF image that prints itself [video]",
+   "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49156157
+   }
+  },
+  {
+   "id": "fa4ad685443e",
+   "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+   "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 56.22498999199199,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 156,
+    "comments": 45,
+    "hn_id": 49120149
+   }
+  },
+  {
+   "id": "30b426a4da74",
+   "title": "STV: A full-motion video codec for the Atari ST",
+   "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 43.37117307087384,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 54,
+    "comments": 6,
+    "hn_id": 49113256
+   }
+  },
+  {
+   "id": "ce9ce8f707ce",
+   "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+   "url": "https://www.aleksagordic.com/blog/vllm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 50.860201081971496,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 107,
+    "comments": 5,
+    "hn_id": 49202852
+   }
+  },
+  {
+   "id": "a7277ad61dde",
+   "title": "Quake – 30th Anniversary Update",
+   "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 69.01704215414753,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 310,
+    "comments": 158,
+    "hn_id": 49201930
+   }
+  },
+  {
+   "id": "b58074621edb",
+   "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+   "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 44.03943276465977,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 58,
+    "comments": 79,
+    "hn_id": 49204546
+   }
+  },
+  {
+   "id": "90765e2a694e",
+   "title": "Show HN: A free mini game that makes you a smarter fly fisherperson",
+   "url": "https://read-the-water.netlify.app/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T09:36:14Z",
+   "score": 33.66025403784439,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 12,
+    "comments": 3,
+    "hn_id": 49159346
+   }
+  }
+ ]
+}
