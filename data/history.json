@@ -2288,5 +2288,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260807T235006Z",
+  "generated": "2026-08-07T23:50:06.055497+00:00",
+  "events": 1151,
+  "breakers": 120,
+  "avg_heat": 90.1,
+  "prices": {
+   "btc": {
+    "price": 64870,
+    "pct24h": 0.8
+   },
+   "eth": {
+    "price": 1914.48,
+    "pct24h": 0.5
+   },
+   "xrp": {
+    "price": 1.023,
+    "pct24h": -1.4
+   },
+   "sol": {
+    "price": 73.68,
+    "pct24h": 1.2
+   },
+   "doge": {
+    "price": 0.06965,
+    "pct24h": 0.9
+   },
+   "ada": {
+    "price": 0.200886,
+    "pct24h": -2.1
+   },
+   "link": {
+    "price": 8.18,
+    "pct24h": -0.6
+   },
+   "ltc": {
+    "price": 45.58,
+    "pct24h": 0.0
+   },
+   "avax": {
+    "price": 6.43,
+    "pct24h": -0.5
+   },
+   "dot": {
+    "price": 0.816948,
+    "pct24h": -1.7
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved +15.1% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "addyosmani/agent-skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_python_ts",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Mario Meets Pareto",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

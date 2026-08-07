@@ -1,0 +1,524 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-07T23:49:18Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.48,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "28aa53a84746",
+   "title": "Ask HN: What is a good advice for someone looking to fractional hire a team?",
+   "url": "https://news.ycombinator.com/item?id=49208975",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 4,
+    "hn_id": 49208975
+   }
+  },
+  {
+   "id": "8740f2eefa11",
+   "title": "DeepSeek announced to raise its API price tremendously",
+   "url": "https://news.ycombinator.com/item?id=49192693",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 37.99038105676658,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 27,
+    "comments": 21,
+    "hn_id": 49192693
+   }
+  },
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 63.07886552931954,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 232,
+    "comments": 300,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 56.42451272494134,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 158,
+    "comments": 495,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "98996d33140d",
+   "title": "Anybody tried Laguna S 2.1 (by Poolside)?",
+   "url": "https://news.ycombinator.com/item?id=49201203",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 2,
+    "hn_id": 49201203
+   }
+  },
+  {
+   "id": "069270d3f26c",
+   "title": "Laguna S 2.1:118B-a9B better than Qwen3.5:122B-a10B? So far, yes",
+   "url": "https://news.ycombinator.com/item?id=49202722",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49202722
+   }
+  },
+  {
+   "id": "d11306fb8190",
+   "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
+   "url": "https://news.ycombinator.com/item?id=49183198",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 50.860201081971496,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 107,
+    "comments": 18,
+    "hn_id": 49183198
+   }
+  },
+  {
+   "id": "3389b6c5f1b2",
+   "title": "Ask HN: Did GitHub remove the stargazers list?",
+   "url": "https://news.ycombinator.com/item?id=49179728",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 37.24744871391589,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 24,
+    "comments": 2,
+    "hn_id": 49179728
+   }
+  },
+  {
+   "id": "e9e007bc8bce",
+   "title": "Ask HN: What art would you like to express?",
+   "url": "https://news.ycombinator.com/item?id=49216129",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 10,
+    "hn_id": 49216129
+   }
+  },
+  {
+   "id": "3a47c7eff8b7",
+   "title": "Poker and Liar's Dice over Bluetooth Low Energy",
+   "url": "https://news.ycombinator.com/item?id=49199753",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:17Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "hn_id": 49199753
+   }
+  },
+  {
+   "id": "67bd4ed1bd9b",
+   "title": "Show HN: Mousecrack – Teaching an LSTM to move a mouse like a human",
+   "url": "https://github.com/puffinsoft/mousecrack",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49213221
+   }
+  },
+  {
+   "id": "0c8bb03a02d1",
+   "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+   "url": "https://github.com/CopilotKit/channels-sdk",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 51.692695630078276,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 114,
+    "comments": 24,
+    "hn_id": 49198583
+   }
+  },
+  {
+   "id": "1d1ee8bf5937",
+   "title": "Show HN: Mermaid flowcharts you don't have to redraw in a diagram editor",
+   "url": "https://line9.ai/diagram",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49212297
+   }
+  },
+  {
+   "id": "1768b512ff61",
+   "title": "Show HN: Wyzer Programming Language",
+   "url": "https://github.com/Wyzer-Lang/wyzer",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 57.403703492039305,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 168,
+    "comments": 99,
+    "hn_id": 49209385
+   }
+  },
+  {
+   "id": "ee7414f927e7",
+   "title": "Show HN: Likeface, make typefaces you like",
+   "url": "https://0i0.app/pro/likeface",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 2,
+    "hn_id": 49211748
+   }
+  },
+  {
+   "id": "4cf86665c4f8",
+   "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+   "url": "https://textlog.cc/about",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 53.06243040080456,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 126,
+    "comments": 56,
+    "hn_id": 49208458
+   }
+  },
+  {
+   "id": "90765e2a694e",
+   "title": "Show HN: A free mini game that makes you a smarter fly fisherperson",
+   "url": "https://read-the-water.netlify.app/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 36.4564392373896,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 21,
+    "comments": 10,
+    "hn_id": 49159346
+   }
+  },
+  {
+   "id": "9c98ca916ff4",
+   "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+   "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 43.37117307087384,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 54,
+    "comments": 28,
+    "hn_id": 49203059
+   }
+  },
+  {
+   "id": "315f08271355",
+   "title": "Show HN: S-Bahn Seat Picker",
+   "url": "https://welidev.github.io/sbahn-picker/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 2,
+    "hn_id": 49211040
+   }
+  },
+  {
+   "id": "1fd26eb3eb13",
+   "title": "Show HN: Zaivern Code – a Rust cockpit for parallel AI coding agents",
+   "url": "https://github.com/tacyan/zaivern-code",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49215129
+   }
+  },
+  {
+   "id": "b8597e4ebd67",
+   "title": "Show HN: ReadMyStatement – Where did the money go?",
+   "url": "https://readmystatement.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49215575
+   }
+  },
+  {
+   "id": "c233e5a15ea0",
+   "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+   "url": "https://github.com/schroedinger-Hat/certo",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 34.68245836551854,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 15,
+    "comments": 0,
+    "hn_id": 49207793
+   }
+  },
+  {
+   "id": "86b448fd5d2c",
+   "title": "Show HN: A terminal glued to the macOS dock",
+   "url": "https://github.com/palamim/starboard",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 41.95582495781317,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 46,
+    "comments": 15,
+    "hn_id": 49194772
+   }
+  },
+  {
+   "id": "7f7915b4b8f4",
+   "title": "Show HN: Lefts – a domain specific language for building creative ML models",
+   "url": "https://nsmat.github.io/lefts/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "hn_id": 49209498
+   }
+  },
+  {
+   "id": "577e1b31ee42",
+   "title": "Show HN: Mirafold – Your Agent with Generative UI (Codex, Claude Code, Gemini)",
+   "url": "https://mirafold.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 7,
+    "hn_id": 49209747
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 87.24949798994365,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 620,
+    "comments": 100,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "2bc865b64206",
+   "title": "Show HN: Remembrane – agent memory in one SQLite file, zero dependencies",
+   "url": "https://github.com/satyasairay/remembrane",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 32.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 9,
+    "comments": 0,
+    "hn_id": 49207194
+   }
+  },
+  {
+   "id": "c4cc07e5f3f2",
+   "title": "Show HN: Clef – spaced repetition for piano over MIDI",
+   "url": "https://playclef.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 2,
+    "hn_id": 49210885
+   }
+  },
+  {
+   "id": "5ba66c4e718b",
+   "title": "Show HN: XSAF – Extra Small Agent Framework",
+   "url": "https://xsaf.ilha.build/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 4,
+    "hn_id": 49206971
+   }
+  },
+  {
+   "id": "39183cced7e4",
+   "title": "Show HN: File-based HTTP endpoints for Python with its own isolated dependencies",
+   "url": "https://github.com/tanrax/bitpoint",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T23:49:18Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "hn_id": 49207894
+   }
+  }
+ ]
+}
