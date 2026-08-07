@@ -1,0 +1,592 @@
+{
+ "runner": "hn_ask_show",
+ "generated": "2026-08-07T04:33:49Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.64,
+ "args": [
+  "hn_ask_show",
+  "ask_show",
+  "20"
+ ],
+ "items": [
+  {
+   "id": "4f20370f3bba",
+   "title": "Ask HN: Who is hiring? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156683",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 62.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 225,
+    "comments": 284,
+    "hn_id": 49156683
+   }
+  },
+  {
+   "id": "b94c501672c2",
+   "title": "Ask GitHub SRE: How serious is the situation there?",
+   "url": "https://news.ycombinator.com/item?id=49201459",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 5,
+    "hn_id": 49201459
+   }
+  },
+  {
+   "id": "3389b6c5f1b2",
+   "title": "Ask HN: Did GitHub remove the stargazers list?",
+   "url": "https://news.ycombinator.com/item?id=49179728",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 36.9895788082818,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 23,
+    "comments": 1,
+    "hn_id": 49179728
+   }
+  },
+  {
+   "id": "8740f2eefa11",
+   "title": "DeepSeek announced to raise its API price tremendously",
+   "url": "https://news.ycombinator.com/item?id=49192693",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 37.24744871391589,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 24,
+    "comments": 17,
+    "hn_id": 49192693
+   }
+  },
+  {
+   "id": "3a47c7eff8b7",
+   "title": "Poker and Liar's Dice over Bluetooth Low Energy",
+   "url": "https://news.ycombinator.com/item?id=49199753",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "hn_id": 49199753
+   }
+  },
+  {
+   "id": "1108956703c7",
+   "title": "Ask HN: Who wants to be hired? (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49156682",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 56.22498999199199,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 156,
+    "comments": 480,
+    "hn_id": 49156682
+   }
+  },
+  {
+   "id": "d11306fb8190",
+   "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
+   "url": "https://news.ycombinator.com/item?id=49183198",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 47.3606797749979,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 80,
+    "comments": 14,
+    "hn_id": 49183198
+   }
+  },
+  {
+   "id": "c7eb9b8ac00c",
+   "title": "Empower the people not the AI – self containing OS",
+   "url": "https://news.ycombinator.com/item?id=49182880",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 0,
+    "hn_id": 49182880
+   }
+  },
+  {
+   "id": "b3a4a9504a02",
+   "title": "US and China race to be first to build Skynet. Either way we're F'ed",
+   "url": "https://news.ycombinator.com/item?id=49196904",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 10,
+    "hn_id": 49196904
+   }
+  },
+  {
+   "id": "98996d33140d",
+   "title": "Anybody tried Laguna S 2.1 (by Poolside)?",
+   "url": "https://news.ycombinator.com/item?id=49201203",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 2,
+    "hn_id": 49201203
+   }
+  },
+  {
+   "id": "dc999c5a306f",
+   "title": "Ask HN: Dear Anthropic, can we please have thought traces back?",
+   "url": "https://news.ycombinator.com/item?id=49175422",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 7,
+    "hn_id": 49175422
+   }
+  },
+  {
+   "id": "f215367bf309",
+   "title": "Ask HN: Show your micro-SaaS / MRR updates (August 2026)",
+   "url": "https://news.ycombinator.com/item?id=49181766",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 9,
+    "hn_id": 49181766
+   }
+  },
+  {
+   "id": "aa907d100cb7",
+   "title": "Ask HN: Anyone interested in building a harness-only benchmark?",
+   "url": "https://news.ycombinator.com/item?id=49181014",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 30.590169943749473,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 5,
+    "comments": 5,
+    "hn_id": 49181014
+   }
+  },
+  {
+   "id": "ea7b65f24ab2",
+   "title": "Ask HN: What would make you list your AI product on a new marketplace?",
+   "url": "https://news.ycombinator.com/item?id=49185927",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 3,
+    "hn_id": 49185927
+   }
+  },
+  {
+   "id": "e1eadb46afc5",
+   "title": "Show HN: Learn System Design, one campaign at a time",
+   "url": "https://scalequest.io/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49203148
+   }
+  },
+  {
+   "id": "a9e9e5f7673b",
+   "title": "Show HN: La Vieja Contra El Dibu – Penalty Shootout Game vs. Dibu Martínez",
+   "url": "https://laviejacontraeldibu.app",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49205048
+   }
+  },
+  {
+   "id": "9c98ca916ff4",
+   "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+   "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 41.00781059358212,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 41,
+    "comments": 25,
+    "hn_id": 49203059
+   }
+  },
+  {
+   "id": "71f4ce586a2c",
+   "title": "Show HN: Sidebar – a private ESP32 intercom for five kids, no accounts",
+   "url": "https://www.sundaradnus.ca/writing/sidebar-building-a-ham-radio-for-my-son",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49205627
+   }
+  },
+  {
+   "id": "4d664c748fbc",
+   "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
+   "url": "https://www.korvo.xyz/arf",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49204008
+   }
+  },
+  {
+   "id": "86b448fd5d2c",
+   "title": "Show HN: A terminal glued to the macOS dock",
+   "url": "https://github.com/palamim/starboard",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 40.20690632574555,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 37,
+    "comments": 12,
+    "hn_id": 49194772
+   }
+  },
+  {
+   "id": "f9a51f7a7564",
+   "title": "Show HN: demake – one source project compiles to any retro game console ROM",
+   "url": "https://geosona.com/demake/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 40.41103500742244,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 38,
+    "comments": 8,
+    "hn_id": 49195251
+   }
+  },
+  {
+   "id": "0c8bb03a02d1",
+   "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+   "url": "https://github.com/CopilotKit/channels-sdk",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 49.23839928708165,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 94,
+    "comments": 20,
+    "hn_id": 49198583
+   }
+  },
+  {
+   "id": "ddc4b3987bc2",
+   "title": "Show HN: QWERTY MIDI – Isomorphic Layout MIDI Controller",
+   "url": "https://beijaflor.io/blog/07-2026/querymidi/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49204850
+   }
+  },
+  {
+   "id": "798acee7a28a",
+   "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+   "url": "https://toneyalexander.github.io/inclusive-color-space/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 87.09871174187111,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 617,
+    "comments": 100,
+    "hn_id": 49170165
+   }
+  },
+  {
+   "id": "440113f86448",
+   "title": "Show HN: AI Tutoring with Visual Grounding",
+   "url": "https://useknowable.ai/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 1,
+    "hn_id": 49204343
+   }
+  },
+  {
+   "id": "461b5e59d814",
+   "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+   "url": "https://electronicmaterialsoffice.com/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 65.38873605350878,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 261,
+    "comments": 219,
+    "hn_id": 49197137
+   }
+  },
+  {
+   "id": "3a59137c1633",
+   "title": "Show HN: My receipt printer prints an original artwork every morning",
+   "url": "https://github.com/matt-w-horn/morningprint",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 36.72603939955857,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 22,
+    "comments": 6,
+    "hn_id": 49187583
+   }
+  },
+  {
+   "id": "034b380a0af3",
+   "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+   "url": "https://deepgrove.ai/maple-preview",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 57.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 169,
+    "comments": 52,
+    "hn_id": 49173984
+   }
+  },
+  {
+   "id": "2ea92ec36b08",
+   "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+   "url": "https://github.com/pradipta/wallfacer",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 39.79019945774904,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 35,
+    "comments": 22,
+    "hn_id": 49192219
+   }
+  },
+  {
+   "id": "2dd02cb7ffb5",
+   "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+   "url": "https://github.com/leonickson1/Swiftlet",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 69.01704215414753,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 310,
+    "comments": 140,
+    "hn_id": 49158333
+   }
+  },
+  {
+   "id": "afc3b8fea67e",
+   "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+   "url": "https://github.com/MakazhanAlpamys/Soup",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 54.047375096555626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 135,
+    "comments": 28,
+    "hn_id": 49166984
+   }
+  },
+  {
+   "id": "6638654f5672",
+   "title": "Show HN: See every Google ad any company is running (free, no signup)",
+   "url": "https://vaytric.com/google-ads-lookup/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 31.614378277661476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 7,
+    "comments": 2,
+    "hn_id": 49198262
+   }
+  },
+  {
+   "id": "20eda0b7dd25",
+   "title": "Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
+   "url": "https://github.com/adrida/hud-mode",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 37.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 25,
+    "comments": 1,
+    "hn_id": 49184388
+   }
+  },
+  {
+   "id": "0f14b4174e01",
+   "title": "Show HN: Photo to Video AI – Animate a photo with a motion prompt",
+   "url": "https://www.phototovideo-ai.net/",
+   "source": "hn_ask_show",
+   "category": "tech",
+   "published": "2026-08-07T04:33:49Z",
+   "score": 28.535533905932738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 2,
+    "comments": 0,
+    "hn_id": 49196997
+   }
+  }
+ ]
+}

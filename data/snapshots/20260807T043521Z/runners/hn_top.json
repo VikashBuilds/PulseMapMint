@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-07T04:33:48Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.42,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 66.00304866714183,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 269,
+    "comments": 207,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "6e034fe4c8ee",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 46.36000936329383,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 73,
+    "comments": 13,
+    "hn_id": 49202716
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 79.25633603552677,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 471,
+    "comments": 364,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 57.88236609491476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 173,
+    "comments": 115,
+    "hn_id": 49201003
+   }
+  },
+  {
+   "id": "fba3e3a6952f",
+   "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+   "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 58.26033673912517,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 177,
+    "comments": 36,
+    "hn_id": 49184355
+   }
+  },
+  {
+   "id": "ffe01745889e",
+   "title": "Almost no skill required to cook a steak",
+   "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 68.30127018922194,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 300,
+    "comments": 344,
+    "hn_id": 49198069
+   }
+  },
+  {
+   "id": "55ad95dee0bd",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 51.57536453183663,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 113,
+    "comments": 19,
+    "hn_id": 49203105
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 72.03721930556695,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 354,
+    "comments": 290,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "2470284273af",
+   "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+   "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 39.577379737113255,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 34,
+    "comments": 11,
+    "hn_id": 49204060
+   }
+  },
+  {
+   "id": "9a7b4e410d2c",
+   "title": "I stopped trusting USB-C cable labels and started testing them",
+   "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 52.27178028658929,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 119,
+    "comments": 86,
+    "hn_id": 49152255
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 934,
+    "comments": 151,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 58.63406011768427,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 181,
+    "comments": 130,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "eb7ac651308b",
+   "title": "Why Estonians invite strangers into their back gardens each summer",
+   "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 38.919410907075054,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 31,
+    "comments": 5,
+    "hn_id": 49163879
+   }
+  },
+  {
+   "id": "3d6de5750de4",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+   "url": "https://provenmetal.com",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 59.27827300200522,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 188,
+    "comments": 135,
+    "hn_id": 49198464
+   }
+  },
+  {
+   "id": "ce9ce8f707ce",
+   "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+   "url": "https://www.aleksagordic.com/blog/vllm",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 46.93741096848031,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 77,
+    "comments": 4,
+    "hn_id": 49202852
+   }
+  },
+  {
+   "id": "ff1f6a440827",
+   "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+   "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 52.15695122800054,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 118,
+    "comments": 62,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "ee766eb332c6",
+   "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
+   "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 43.027756377319946,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 52,
+    "comments": 14,
+    "hn_id": 49138446
+   }
+  },
+  {
+   "id": "c20b1b349a2c",
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 65.92676385936225,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 268,
+    "comments": 197,
+    "hn_id": 49195468
+   }
+  },
+  {
+   "id": "49c3ba2b345f",
+   "title": "Lines of code. 1,596 BTC gone",
+   "url": "https://onekey.so/anzen/coldcard-entropy-failure/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 31.123724356957943,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 6,
+    "comments": 9,
+    "hn_id": 49205595
+   }
+  },
+  {
+   "id": "0549247678f4",
+   "title": "Can you reverse engineer an ASIC?",
+   "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 46.50581316760656,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 74,
+    "comments": 48,
+    "hn_id": 49200933
+   }
+  },
+  {
+   "id": "738e4c3d3a4d",
+   "title": "The Sylvester–Gallai Theorem",
+   "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 37.24744871391589,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 24,
+    "comments": 18,
+    "hn_id": 49123247
+   }
+  },
+  {
+   "id": "30b426a4da74",
+   "title": "STV: A full-motion video codec for the Atari ST",
+   "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 38.46291201783626,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 29,
+    "comments": 2,
+    "hn_id": 49113256
+   }
+  },
+  {
+   "id": "fa4ad685443e",
+   "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+   "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 52.27178028658929,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 119,
+    "comments": 23,
+    "hn_id": 49120149
+   }
+  },
+  {
+   "id": "c4dc5ab87dfe",
+   "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+   "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 50.24876234590519,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 102,
+    "comments": 193,
+    "hn_id": 49200439
+   }
+  },
+  {
+   "id": "5ac90ded2c7b",
+   "title": "Building Progressively Enhanced Forms Using htmx",
+   "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 46.21320343559643,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 72,
+    "comments": 11,
+    "hn_id": 49116252
+   }
+  },
+  {
+   "id": "0c8bb03a02d1",
+   "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+   "url": "https://github.com/CopilotKit/channels-sdk",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 49.23839928708165,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 94,
+    "comments": 20,
+    "hn_id": 49198583
+   }
+  },
+  {
+   "id": "61c7b0f232f8",
+   "title": "Learning to fly FPV drones with AI flight coach",
+   "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 29.330127018922195,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "hn_id": 49161803
+   }
+  },
+  {
+   "id": "a7277ad61dde",
+   "title": "Quake – 30th Anniversary Update",
+   "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 63.81043674065006,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 241,
+    "comments": 119,
+    "hn_id": 49201930
+   }
+  },
+  {
+   "id": "67f7f43f8ad0",
+   "title": "Pareto Front",
+   "url": "https://en.wikipedia.org/wiki/Pareto_front",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 62.914377220257755,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 230,
+    "comments": 96,
+    "hn_id": 49096439
+   }
+  },
+  {
+   "id": "c7ba6a8515bc",
+   "title": "The simple elegance of the integrated timing belt loopback fastener",
+   "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-07T04:33:48Z",
+   "score": 50.860201081971496,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 107,
+    "comments": 22,
+    "hn_id": 49143782
+   }
+  }
+ ]
+}

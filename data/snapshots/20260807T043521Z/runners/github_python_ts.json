@@ -1,0 +1,698 @@
+{
+ "runner": "github_python_ts",
+ "generated": "2026-08-07T04:33:51Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 2.43,
+ "args": [
+  "github_python_ts",
+  "python",
+  "typescript"
+ ],
+ "items": [
+  {
+   "id": "d4309c77541a",
+   "title": "goauthentik/authentik",
+   "url": "https://github.com/goauthentik/authentik",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 68.5742664045737,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 138,
+    "language": "Python",
+    "description": "The authentication glue you need.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "d85c32bfbe92",
+   "title": "huangruiteng/loopx",
+   "url": "https://github.com/huangruiteng/loopx",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 82.71112534062084,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 847,
+    "language": "Python",
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "004e35f66f20",
+   "title": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 58.43610473910258,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 37,
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "43281aa3cb5a",
+   "title": "tirth8205/code-review-graph",
+   "url": "https://github.com/tirth8205/code-review-graph",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 72.77838522701721,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 237,
+    "language": "Python",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "e78eb975d8da",
+   "title": "SimplifyJobs/Summer2027-Internships",
+   "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 65.84206936246491,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 97,
+    "language": "Python",
+    "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "8a503d8e2e7b",
+   "title": "usestrix/strix",
+   "url": "https://github.com/usestrix/strix",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 78.47124454699014,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 492,
+    "language": "Python",
+    "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "b277e7082273",
+   "title": "frappe/hrms",
+   "url": "https://github.com/frappe/hrms",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 60.58146007804834,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 49,
+    "language": "Python",
+    "description": "Open Source HR and Payroll Software",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "b21880ac5f3d",
+   "title": "unclecode/crawl4ai",
+   "url": "https://github.com/unclecode/crawl4ai",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 81.37750875241946,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 714,
+    "language": "Python",
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "e8fad239d950",
+   "title": "Comfy-Org/workflow_templates",
+   "url": "https://github.com/Comfy-Org/workflow_templates",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 52.59490509185951,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 17,
+    "language": "Python",
+    "description": "ComfyUI template workflows",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "b67d96cecec3",
+   "title": "ComposioHQ/awesome-claude-skills",
+   "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 65.7618912167924,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 96,
+    "language": "Python",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "cc2ffdcd01ec",
+   "title": "aws/agent-toolkit-for-aws",
+   "url": "https://github.com/aws/agent-toolkit-for-aws",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 52.59490509185951,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 17,
+    "language": "Python",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "362207326d55",
+   "title": "langchain-ai/open-swe",
+   "url": "https://github.com/langchain-ai/open-swe",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 56.84451048901691,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 30,
+    "language": "Python",
+    "description": "An Open-Source Asynchronous Coding Agent",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "af196b7a0c33",
+   "title": "browser-use/video-use",
+   "url": "https://github.com/browser-use/video-use",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 70.85123299592249,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 185,
+    "language": "Python",
+    "description": "Edit videos with coding agents",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "94d8dc199792",
+   "title": "NousResearch/hermes-agent",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 80.14874178436597,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 610,
+    "language": "Python",
+    "description": "The agent that grows with you",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "9e0b3b607c64",
+   "title": "donnemartin/system-design-primer",
+   "url": "https://github.com/donnemartin/system-design-primer",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 81.58252907848927,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 733,
+    "language": "Python",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "882eb68110d0",
+   "title": "livekit/agents",
+   "url": "https://github.com/livekit/agents",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 61.32652841089639,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 54,
+    "language": "Python",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "cdb758b3acc0",
+   "title": "Unclecheng-li/VulnClaw",
+   "url": "https://github.com/Unclecheng-li/VulnClaw",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 62.632440419571395,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 64,
+    "language": "Python",
+    "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "9d513a919ce8",
+   "title": "K-Dense-AI/scientific-agent-skills",
+   "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:50Z",
+   "score": 66.15480309171451,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 101,
+    "language": "Python",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "edd4dcbffbf9",
+   "title": "TencentCloud/TencentDB-Agent-Memory",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 84.44074201858501,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1057,
+    "language": "TypeScript",
+    "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "fa971a060eda",
+   "title": "cloudflare/computer",
+   "url": "https://github.com/cloudflare/computer",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 92.05721575968515,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2802,
+    "language": "TypeScript",
+    "description": "Give your agent a computer 👾",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "567aa243e02d",
+   "title": "AdventDevInc/kudu",
+   "url": "https://github.com/AdventDevInc/kudu",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 55.162920156096675,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 24,
+    "language": "TypeScript",
+    "description": "Free Windows, Mac and Linux cleaner, scanner, and more.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "c0ff62ed02cc",
+   "title": "melgarafael/DeskcommCRM",
+   "url": "https://github.com/melgarafael/DeskcommCRM",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 56.32316396218121,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 28,
+    "language": "TypeScript",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "5bf9c7ef77c9",
+   "title": "iOfficeAI/AionUi",
+   "url": "https://github.com/iOfficeAI/AionUi",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 66.45550557476587,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 105,
+    "language": "TypeScript",
+    "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "48fba4b7cc39",
+   "title": "expo/expo",
+   "url": "https://github.com/expo/expo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 58.01344501381117,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 35,
+    "language": "TypeScript",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "52b7e0bbfa55",
+   "title": "makeplane/plane",
+   "url": "https://github.com/makeplane/plane",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 65.68088219471224,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 95,
+    "language": "TypeScript",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "4fd83f5f1baf",
+   "title": "anomalyco/opencode",
+   "url": "https://github.com/anomalyco/opencode",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 78.81253012274144,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 514,
+    "language": "TypeScript",
+    "description": "The open source coding agent.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "c013dafbb77c",
+   "title": "MadsLorentzen/ai-job-search",
+   "url": "https://github.com/MadsLorentzen/ai-job-search",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 75.06823229502926,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 318,
+    "language": "TypeScript",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "f43ec556c881",
+   "title": "ever-co/ever-gauzy",
+   "url": "https://github.com/ever-co/ever-gauzy",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 61.0369656528142,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 52,
+    "language": "TypeScript",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "750d7152bc8e",
+   "title": "microsoft/vscode",
+   "url": "https://github.com/microsoft/vscode",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 64.91134654713514,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 86,
+    "language": "TypeScript",
+    "description": "Visual Studio Code",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "3118033d2999",
+   "title": "CherryHQ/cherry-studio",
+   "url": "https://github.com/CherryHQ/cherry-studio",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 75.30952616309955,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 328,
+    "language": "TypeScript",
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "479c1df3de54",
+   "title": "QwenLM/qwen-code",
+   "url": "https://github.com/QwenLM/qwen-code",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 61.8753362095586,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 58,
+    "language": "TypeScript",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "c53da5a70826",
+   "title": "playcanvas/supersplat",
+   "url": "https://github.com/playcanvas/supersplat",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 50.05098034152306,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 12,
+    "language": "TypeScript",
+    "description": "3D Gaussian Splat Editor",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "fe85e1da0bef",
+   "title": "FlowiseAI/Flowise",
+   "url": "https://github.com/FlowiseAI/Flowise",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 55.76454775486177,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 26,
+    "language": "TypeScript",
+    "description": "Build AI Agents, Visually",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "60eacd8bef44",
+   "title": "KnockOutEZ/wigolo",
+   "url": "https://github.com/KnockOutEZ/wigolo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 65.08902011960842,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 88,
+    "language": "TypeScript",
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "199d643df0c3",
+   "title": "promptfoo/promptfoo",
+   "url": "https://github.com/promptfoo/promptfoo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 60.42352944051325,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 48,
+    "language": "TypeScript",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line ",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "82e51dc87e43",
+   "title": "abhigyanpatwari/GitNexus",
+   "url": "https://github.com/abhigyanpatwari/GitNexus",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-07T04:33:51Z",
+   "score": 59.582148176751375,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 43,
+    "language": "TypeScript",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZI",
+    "topic": "typescript"
+   }
+  }
+ ]
+}
