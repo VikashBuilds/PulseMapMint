@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-08T17:16:15Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.59,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "282885c96421",
+   "title": "Voyager 1 FDS Computer Emulator",
+   "url": "https://zaneham.github.io/voyager-fds-emulator/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 41.00781059358212,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 41,
+    "comments": 9,
+    "hn_id": 49221679
+   }
+  },
+  {
+   "id": "a4dfd20386e8",
+   "title": "Building a Rust Inference Engine That Matches Llama.cpp",
+   "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 33.66025403784439,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 12,
+    "comments": 8,
+    "hn_id": 49180302
+   }
+  },
+  {
+   "id": "258629e9a7ac",
+   "title": "BYOC Is Not Just 'Deploy into Their Cloud'",
+   "url": "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 41.00781059358212,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 41,
+    "comments": 9,
+    "hn_id": 49163466
+   }
+  },
+  {
+   "id": "1632f1a99b80",
+   "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+   "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 43.54049621773916,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 55,
+    "comments": 45,
+    "hn_id": 49221220
+   }
+  },
+  {
+   "id": "94c04d76e7f0",
+   "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 50.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 100,
+    "comments": 136,
+    "hn_id": 49220339
+   }
+  },
+  {
+   "id": "dc51500b298a",
+   "title": "Triton: DirectX 11 Driver for QEMU",
+   "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 41.583123951777,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 44,
+    "comments": 3,
+    "hn_id": 49221711
+   }
+  },
+  {
+   "id": "2f54ad4fd278",
+   "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+   "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 57.01562118716424,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 164,
+    "comments": 180,
+    "hn_id": 49220609
+   }
+  },
+  {
+   "id": "8b3f50dc739b",
+   "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
+   "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 72.03721930556695,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 354,
+    "comments": 87,
+    "hn_id": 49189457
+   }
+  },
+  {
+   "id": "8d4d9fd2149c",
+   "title": "From your doorbell to your home network",
+   "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 37.74754878398196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 26,
+    "comments": 0,
+    "hn_id": 49177224
+   }
+  },
+  {
+   "id": "0a75dde860dd",
+   "title": "Gentoo bugzilla closed due AI bot scraper overload",
+   "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 48.71708245126284,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 90,
+    "comments": 54,
+    "hn_id": 49221864
+   }
+  },
+  {
+   "id": "f2158d0d4af8",
+   "title": "A domain can now say it is for sale, in DNS",
+   "url": "https://specification.website/spec/foundations/for-sale-dns/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 57.21024681681281,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 166,
+    "comments": 78,
+    "hn_id": 49221668
+   }
+  },
+  {
+   "id": "824785030f6c",
+   "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 65.31128874149275,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 260,
+    "comments": 81,
+    "hn_id": 49220126
+   }
+  },
+  {
+   "id": "2419142963df",
+   "title": "DeepSeek V4 Flash 0731",
+   "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 92.0354383889596,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 719,
+    "comments": 433,
+    "hn_id": 49214008
+   }
+  },
+  {
+   "id": "7cc8b4d1606f",
+   "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+   "url": "https://genesisopenmodels.anl.gov/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 69.22951503238534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 313,
+    "comments": 128,
+    "hn_id": 49216946
+   }
+  },
+  {
+   "id": "21fee040676e",
+   "title": "Hardware backdoors in some x86 CPUs",
+   "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 65.46603514059662,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 262,
+    "comments": 84,
+    "hn_id": 49219508
+   }
+  },
+  {
+   "id": "2973f552a669",
+   "title": "Assembly Hall of Shame",
+   "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 74.37104414532874,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 390,
+    "comments": 96,
+    "hn_id": 49214098
+   }
+  },
+  {
+   "id": "207bbdf0c8a6",
+   "title": "Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
+   "url": "https://andreadimatteo.com/torus-v0-5.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 35.60660171779821,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 18,
+    "comments": 3,
+    "hn_id": 49141642
+   }
+  },
+  {
+   "id": "741edc2ac869",
+   "title": "k-Coloring is Faster than Computing the Chromatic Number",
+   "url": "https://arxiv.org/abs/2607.25973",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 42.32050807568878,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 48,
+    "comments": 7,
+    "hn_id": 49119508
+   }
+  },
+  {
+   "id": "a7ca5a136203",
+   "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+   "url": "https://github.com/alfikpl/ao486",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 44.03943276465977,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 58,
+    "comments": 8,
+    "hn_id": 49141236
+   }
+  },
+  {
+   "id": "79d8757f99e7",
+   "title": "Europe's free satellite service just made it easier to track wildfires",
+   "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 52.04163456597992,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 117,
+    "comments": 10,
+    "hn_id": 49220313
+   }
+  },
+  {
+   "id": "0fb2e2ced00e",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 98.65459931328118,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 868,
+    "comments": 1003,
+    "hn_id": 49209539
+   }
+  },
+  {
+   "id": "64515c56e606",
+   "title": "Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by",
+   "url": "https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 36.180339887498945,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 20,
+    "comments": 4,
+    "hn_id": 49222993
+   }
+  },
+  {
+   "id": "d7764e663ac6",
+   "title": "No one can afford to make Myst games anymore",
+   "url": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 42.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 49,
+    "comments": 77,
+    "hn_id": 49189726
+   }
+  },
+  {
+   "id": "aa73e3a50fb4",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "url": "https://ancientlibrary.net/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 63.56812155135378,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 238,
+    "comments": 76,
+    "hn_id": 49214770
+   }
+  },
+  {
+   "id": "1a4bd0602373",
+   "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+   "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 48.31844763272204,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 87,
+    "comments": 68,
+    "hn_id": 49215786
+   }
+  },
+  {
+   "id": "87cc5fce476a",
+   "title": "2027 memory capacity is reportedly sold out",
+   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 78.2094916344819,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 453,
+    "comments": 435,
+    "hn_id": 49207236
+   }
+  },
+  {
+   "id": "b8cfe6a8c633",
+   "title": "SupererDuperer",
+   "url": "https://www.shirtpocket.com/blog/supererduperer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 55.51638903933426,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 149,
+    "comments": 30,
+    "hn_id": 49135261
+   }
+  },
+  {
+   "id": "c3a91203890f",
+   "title": "As a Windows user, it's a surreal way to install a program",
+   "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 56.81980515339464,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 162,
+    "comments": 135,
+    "hn_id": 49164184
+   }
+  },
+  {
+   "id": "d562e2c63a9e",
+   "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+   "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 70.20785330006281,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 327,
+    "comments": 72,
+    "hn_id": 49218179
+   }
+  },
+  {
+   "id": "373fa08b1e18",
+   "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+   "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T17:16:15Z",
+   "score": 52.726341266023546,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 123,
+    "comments": 120,
+    "hn_id": 49220392
+   }
+  }
+ ]
+}

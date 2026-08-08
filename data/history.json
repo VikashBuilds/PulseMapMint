@@ -2843,5 +2843,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260808T171706Z",
+  "generated": "2026-08-08T17:17:06.040974+00:00",
+  "events": 1107,
+  "breakers": 120,
+  "avg_heat": 88.3,
+  "prices": {
+   "btc": {
+    "price": 65055,
+    "pct24h": 0.2
+   },
+   "eth": {
+    "price": 1921.43,
+    "pct24h": 0.2
+   },
+   "xrp": {
+    "price": 1.046,
+    "pct24h": 1.9
+   },
+   "sol": {
+    "price": 76.27,
+    "pct24h": 3.3
+   },
+   "doge": {
+    "price": 0.071179,
+    "pct24h": 1.8
+   },
+   "ada": {
+    "price": 0.200235,
+    "pct24h": -0.1
+   },
+   "link": {
+    "price": 8.33,
+    "pct24h": 0.5
+   },
+   "ltc": {
+    "price": 45.77,
+    "pct24h": -0.3
+   },
+   "avax": {
+    "price": 6.54,
+    "pct24h": 1.8
+   },
+   "dot": {
+    "price": 0.818002,
+    "pct24h": 1.1
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved +37.1% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "What happens if an entire class of workers loses faith in their careers",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "DeepSeek V4 Flash 0731",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Taste Is All That's Left",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

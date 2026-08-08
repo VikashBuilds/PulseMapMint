@@ -1,0 +1,245 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-08T17:16:14Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.05,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "bd44f0baae55",
+   "title": "Audiera (BEAT) moved +37.1% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": 37.1,
+    "pct1h": 0.3,
+    "pct7d": -44.5,
+    "price_usd": 2.66,
+    "market_cap": 878363041
+   }
+  },
+  {
+   "id": "a1a516bbe7c3",
+   "title": "Cronos (CRO) moved -6.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/crypto-com-chain",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 71.5,
+   "tags": [
+    "cro",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cro",
+    "pct24h": -6.6,
+    "pct1h": 1.3,
+    "pct7d": -9.0,
+    "price_usd": 0.04982771,
+    "market_cap": 2356656144
+   }
+  },
+  {
+   "id": "c2b83f702fb8",
+   "title": "OKB (OKB) moved +4.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/okb",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 67.25,
+   "tags": [
+    "okb",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "okb",
+    "pct24h": 4.9,
+    "pct1h": -0.6,
+    "pct7d": 8.0,
+    "price_usd": 93.43,
+    "market_cap": 1962341692
+   }
+  },
+  {
+   "id": "6ebd58efc149",
+   "title": "Lighter (LIT) moved -4.6% in 24h",
+   "url": "https://www.coingecko.com/en/coins/lighter",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 66.5,
+   "tags": [
+    "lit",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "lit",
+    "pct24h": -4.6,
+    "pct1h": 0.5,
+    "pct7d": 13.0,
+    "price_usd": 2.28,
+    "market_cap": 569300957
+   }
+  },
+  {
+   "id": "5fa70992d24d",
+   "title": "Monero (XMR) moved +4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/monero",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 65.75,
+   "tags": [
+    "xmr",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "xmr",
+    "pct24h": 4.3,
+    "pct1h": 0.3,
+    "pct7d": 7.0,
+    "price_usd": 384.88,
+    "market_cap": 7234294476
+   }
+  },
+  {
+   "id": "6f9a3ae12f09",
+   "title": "Ethena (ENA) moved -4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ethena",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 65.75,
+   "tags": [
+    "ena",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ena",
+    "pct24h": -4.3,
+    "pct1h": -0.7,
+    "pct7d": 12.3,
+    "price_usd": 0.090609,
+    "market_cap": 890548416
+   }
+  },
+  {
+   "id": "2d1214ccc54d",
+   "title": "Venice Token (VVV) moved -4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/venice-token",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 65.75,
+   "tags": [
+    "vvv",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "vvv",
+    "pct24h": -4.3,
+    "pct1h": -0.2,
+    "pct7d": -5.1,
+    "price_usd": 11.24,
+    "market_cap": 534918088
+   }
+  },
+  {
+   "id": "3fa79ca34d6c",
+   "title": "Morpho (MORPHO) moved +4.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/morpho",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 65.5,
+   "tags": [
+    "morpho",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "morpho",
+    "pct24h": 4.2,
+    "pct1h": 0.4,
+    "pct7d": -1.3,
+    "price_usd": 1.93,
+    "market_cap": 1268441851
+   }
+  },
+  {
+   "id": "0224b1b234df",
+   "title": "JUST (JST) moved -4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/just",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T17:16:14Z",
+   "score": 65.0,
+   "tags": [
+    "jst",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "jst",
+    "pct24h": -4.0,
+    "pct1h": -0.3,
+    "pct7d": -2.1,
+    "price_usd": 0.101343,
+    "market_cap": 829896063
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 65055,
+   "pct24h": 0.2
+  },
+  "eth": {
+   "price": 1921.43,
+   "pct24h": 0.2
+  },
+  "xrp": {
+   "price": 1.046,
+   "pct24h": 1.9
+  },
+  "sol": {
+   "price": 76.27,
+   "pct24h": 3.3
+  },
+  "doge": {
+   "price": 0.071179,
+   "pct24h": 1.8
+  },
+  "ada": {
+   "price": 0.200235,
+   "pct24h": -0.1
+  },
+  "link": {
+   "price": 8.33,
+   "pct24h": 0.5
+  },
+  "ltc": {
+   "price": 45.77,
+   "pct24h": -0.3
+  },
+  "avax": {
+   "price": 6.54,
+   "pct24h": 1.8
+  },
+  "dot": {
+   "price": 0.818002,
+   "pct24h": 1.1
+  }
+ }
+}
