@@ -2954,5 +2954,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260808T191929Z",
+  "generated": "2026-08-08T19:19:29.619036+00:00",
+  "events": 1128,
+  "breakers": 120,
+  "avg_heat": 89.6,
+  "prices": {
+   "btc": {
+    "price": 64974,
+    "pct24h": 0.3
+   },
+   "eth": {
+    "price": 1919.67,
+    "pct24h": 0.4
+   },
+   "xrp": {
+    "price": 1.041,
+    "pct24h": 2.4
+   },
+   "sol": {
+    "price": 76.01,
+    "pct24h": 3.6
+   },
+   "doge": {
+    "price": 0.070907,
+    "pct24h": 1.7
+   },
+   "ada": {
+    "price": 0.20002,
+    "pct24h": 1.3
+   },
+   "link": {
+    "price": 8.32,
+    "pct24h": 1.5
+   },
+   "ltc": {
+    "price": 45.86,
+    "pct24h": 1.1
+   },
+   "avax": {
+    "price": 6.52,
+    "pct24h": 2.1
+   },
+   "dot": {
+    "price": 0.817754,
+    "pct24h": 1.4
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved +35.3% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "DeepSeek V4 Flash 0731",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "What happens if an entire class of workers loses faith in their careers",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

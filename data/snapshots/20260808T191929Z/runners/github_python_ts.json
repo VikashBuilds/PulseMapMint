@@ -1,0 +1,641 @@
+{
+ "runner": "github_python_ts",
+ "generated": "2026-08-08T19:18:49Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 2.41,
+ "args": [
+  "github_python_ts",
+  "python",
+  "typescript"
+ ],
+ "items": [
+  {
+   "id": "96e85204c9d2",
+   "title": "google/skills",
+   "url": "https://github.com/google/skills",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 78.29484668829929,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 481,
+    "language": "Python",
+    "description": "Agent Skills for Google products and technologies",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "d4309c77541a",
+   "title": "goauthentik/authentik",
+   "url": "https://github.com/goauthentik/authentik",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 78.06442535533424,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 467,
+    "language": "Python",
+    "description": "The authentication glue you need.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "7d40b7cfcf0f",
+   "title": "TauricResearch/TradingAgents",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 67.86846697720722,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 126,
+    "language": "Python",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "9e831bac1608",
+   "title": "virgiliojr94/book-to-skill",
+   "url": "https://github.com/virgiliojr94/book-to-skill",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 80.76362627074153,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 660,
+    "language": "Python",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "d68b7db32228",
+   "title": "practical-tutorials/project-based-learning",
+   "url": "https://github.com/practical-tutorials/project-based-learning",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 72.19906092633198,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 220,
+    "language": "Python",
+    "description": "Curated list of project-based tutorials",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "004e35f66f20",
+   "title": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 72.87630676634762,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 240,
+    "language": "Python",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "810975698775",
+   "title": "kyutai-labs/pocket-tts",
+   "url": "https://github.com/kyutai-labs/pocket-tts",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 65.68088219471224,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 95,
+    "language": "Python",
+    "description": "A TTS that fits in your CPU (and pocket)",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "aefd08b08cd8",
+   "title": "666ghj/MiroFish",
+   "url": "https://github.com/666ghj/MiroFish",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 77.61760084828364,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 441,
+    "language": "Python",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "7924685a377b",
+   "title": "google-deepmind/weathernext",
+   "url": "https://github.com/google-deepmind/weathernext",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 60.42352944051325,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 48,
+    "language": "Python",
+    "description": "",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "79c16f08bd63",
+   "title": "superlinked/sie",
+   "url": "https://github.com/superlinked/sie",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 58.22763103320591,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 36,
+    "language": "Python",
+    "description": "Open-source inference server and production cluster for all the models your agent needs.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "8d4b72d52eaa",
+   "title": "harveyai/harvey-labs",
+   "url": "https://github.com/harveyai/harvey-labs",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 58.837079843903325,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 39,
+    "language": "Python",
+    "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "f734c6b02e8a",
+   "title": "microsoft/agent-governance-toolkit",
+   "url": "https://github.com/microsoft/agent-governance-toolkit",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 63.099283633270595,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 68,
+    "language": "Python",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "d85c32bfbe92",
+   "title": "huangruiteng/loopx",
+   "url": "https://github.com/huangruiteng/loopx",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 73.00498951856159,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 244,
+    "language": "Python",
+    "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "0906e335179f",
+   "title": "anthropics/claude-code-security-review",
+   "url": "https://github.com/anthropics/claude-code-security-review",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 56.84451048901691,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 30,
+    "language": "Python",
+    "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "a498fea2c887",
+   "title": "AgriciDaniel/claude-seo",
+   "url": "https://github.com/AgriciDaniel/claude-seo",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 66.15480309171451,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 101,
+    "language": "Python",
+    "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "18a4dbd806d1",
+   "title": "microsoft/VibeVoice",
+   "url": "https://github.com/microsoft/VibeVoice",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 64.91134654713514,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 86,
+    "language": "Python",
+    "description": "Open-Source Frontier Voice AI",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "43281aa3cb5a",
+   "title": "tirth8205/code-review-graph",
+   "url": "https://github.com/tirth8205/code-review-graph",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 67.09256112636501,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 114,
+    "language": "Python",
+    "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "e60431534996",
+   "title": "vllm-project/vllm",
+   "url": "https://github.com/vllm-project/vllm",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 65.00068809870304,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 87,
+    "language": "Python",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "24408c40df52",
+   "title": "Universal-Commerce-Protocol/ucp",
+   "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:48Z",
+   "score": 38.58818258495393,
+   "tags": [
+    "python",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2,
+    "language": "Python",
+    "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
+    "topic": "python"
+   }
+  },
+  {
+   "id": "1bdab8190efc",
+   "title": "PrimeIntellect-ai/prime-agent",
+   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 91.11272864708177,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2483,
+    "language": "TypeScript",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "b759d6e4f74e",
+   "title": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 71.87404549671753,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 211,
+    "language": "TypeScript",
+    "description": "",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "0a8fd3071bbe",
+   "title": "can1357/oh-my-pi",
+   "url": "https://github.com/can1357/oh-my-pi",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 72.61240657846834,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 232,
+    "language": "TypeScript",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "c2331893b38e",
+   "title": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 69.62514823776812,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 158,
+    "language": "TypeScript",
+    "description": "Write HTML. Render video. Built for agents.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "f36dd4554a1a",
+   "title": "open-metadata/OpenMetadata",
+   "url": "https://github.com/open-metadata/OpenMetadata",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 56.04884456415995,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 27,
+    "language": "TypeScript",
+    "description": "The Open Context Layer for Data and AI , OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "8c9a54f73f05",
+   "title": "remnawave/panel",
+   "url": "https://github.com/remnawave/panel",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 57.56662050676059,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 33,
+    "language": "TypeScript",
+    "description": "A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "771cf795c41e",
+   "title": "danielmiessler/LifeOS",
+   "url": "https://github.com/danielmiessler/LifeOS",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 63.32265027694336,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 70,
+    "language": "TypeScript",
+    "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "fa971a060eda",
+   "title": "cloudflare/computer",
+   "url": "https://github.com/cloudflare/computer",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 84.04676365295836,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1005,
+    "language": "TypeScript",
+    "description": "Give your agent a computer 👾",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "4fd83f5f1baf",
+   "title": "anomalyco/opencode",
+   "url": "https://github.com/anomalyco/opencode",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 76.43610473910257,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 379,
+    "language": "TypeScript",
+    "description": "The open source coding agent.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "bd05a7630a3e",
+   "title": "tashfeenahmed/freellmapi",
+   "url": "https://github.com/tashfeenahmed/freellmapi",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 65.7618912167924,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 96,
+    "language": "TypeScript",
+    "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encry",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "55dfd835ab6e",
+   "title": "jordanrendric/claude-video-vision",
+   "url": "https://github.com/jordanrendric/claude-video-vision",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 54.511101048316675,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 22,
+    "language": "TypeScript",
+    "description": "Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "48f52693bb22",
+   "title": "Dokploy/dokploy",
+   "url": "https://github.com/Dokploy/dokploy",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 56.04884456415995,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 27,
+    "language": "TypeScript",
+    "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "40c6d4222d55",
+   "title": "clash-verge-rev/clash-verge-rev",
+   "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 75.09269960975831,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 319,
+    "language": "TypeScript",
+    "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+    "topic": "typescript"
+   }
+  },
+  {
+   "id": "88573ca92d2d",
+   "title": "firecrawl/firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "source": "github_python_ts",
+   "category": "github",
+   "published": "2026-08-08T19:18:49Z",
+   "score": 79.09574262651401,
+   "tags": [
+    "typescript",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 533,
+    "language": "TypeScript",
+    "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+    "topic": "typescript"
+   }
+  }
+ ]
+}
