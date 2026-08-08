@@ -2621,5 +2621,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260808T110624Z",
+  "generated": "2026-08-08T11:06:24.813927+00:00",
+  "events": 1114,
+  "breakers": 120,
+  "avg_heat": 88.5,
+  "prices": {
+   "btc": {
+    "price": 64966,
+    "pct24h": 0.3
+   },
+   "eth": {
+    "price": 1920.12,
+    "pct24h": 0.4
+   },
+   "xrp": {
+    "price": 1.038,
+    "pct24h": 0.5
+   },
+   "sol": {
+    "price": 75.03,
+    "pct24h": 2.0
+   },
+   "doge": {
+    "price": 0.070361,
+    "pct24h": 1.2
+   },
+   "ada": {
+    "price": 0.199703,
+    "pct24h": -0.8
+   },
+   "link": {
+    "price": 8.34,
+    "pct24h": 1.6
+   },
+   "ltc": {
+    "price": 45.6,
+    "pct24h": -0.3
+   },
+   "avax": {
+    "price": 6.52,
+    "pct24h": 1.1
+   },
+   "dot": {
+    "price": 0.818181,
+    "pct24h": 0.7
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved +22.8% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "addyosmani/agent-skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_python_ts",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Taste Is All That's Left",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "What happens if an entire class of workers loses faith in their careers",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

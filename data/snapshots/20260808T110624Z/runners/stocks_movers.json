@@ -1,0 +1,189 @@
+{
+ "runner": "stocks_movers",
+ "generated": "2026-08-08T11:05:50Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.11,
+ "args": [
+  "stocks_movers",
+  "2.5"
+ ],
+ "items": [
+  {
+   "id": "d5a6db94ec15",
+   "title": "Palantir surged +10.32% today",
+   "url": "https://finance.yahoo.com/quote/PLTR",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 95.0,
+   "tags": [
+    "PLTR",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "PLTR",
+    "move_pct": 10.32,
+    "price": 172.01,
+    "prev_close": 155.92,
+    "day_high": 172.41,
+    "day_low": 159.97,
+    "volume": 76171329
+   }
+  },
+  {
+   "id": "966009e1bb88",
+   "title": "Moderna surged +9.86% today",
+   "url": "https://finance.yahoo.com/quote/MRNA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 95.0,
+   "tags": [
+    "MRNA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "MRNA",
+    "move_pct": 9.86,
+    "price": 59.17,
+    "prev_close": 53.86,
+    "day_high": 59.415,
+    "day_low": 54.62,
+    "volume": 6710781
+   }
+  },
+  {
+   "id": "a28177613c6d",
+   "title": "Super Micro surged +5.96% today",
+   "url": "https://finance.yahoo.com/quote/SMCI",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 90.73859768550034,
+   "tags": [
+    "SMCI",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SMCI",
+    "move_pct": 5.96,
+    "price": 31.13,
+    "prev_close": 29.38,
+    "day_high": 31.34,
+    "day_low": 29.68,
+    "volume": 30331665
+   }
+  },
+  {
+   "id": "30aaf8f5c8ea",
+   "title": "Qualcomm surged +4.66% today",
+   "url": "https://finance.yahoo.com/quote/QCOM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 82.94438556019713,
+   "tags": [
+    "QCOM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "QCOM",
+    "move_pct": 4.66,
+    "price": 167.86,
+    "prev_close": 160.39,
+    "day_high": 167.95,
+    "day_low": 162.3,
+    "volume": 8664569
+   }
+  },
+  {
+   "id": "8e540b32826d",
+   "title": "Salesforce surged +3.20% today",
+   "url": "https://finance.yahoo.com/quote/CRM",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 74.17866895111635,
+   "tags": [
+    "CRM",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "CRM",
+    "move_pct": 3.2,
+    "price": 192.74,
+    "prev_close": 186.77,
+    "day_high": 194.7,
+    "day_low": 190.6,
+    "volume": 8709143
+   }
+  },
+  {
+   "id": "4862dd066fda",
+   "title": "Silver (futures) surged +3.07% today",
+   "url": "https://finance.yahoo.com/quote/SI=F",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 73.43651592377367,
+   "tags": [
+    "SI=F",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SI=F",
+    "move_pct": 3.07,
+    "price": 63.5,
+    "prev_close": 61.61,
+    "day_high": 65.48,
+    "day_low": 61.42,
+    "volume": 62570
+   }
+  },
+  {
+   "id": "381f451b21a4",
+   "title": "Silver ETF surged +2.95% today",
+   "url": "https://finance.yahoo.com/quote/SLV",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 72.72605192479855,
+   "tags": [
+    "SLV",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "SLV",
+    "move_pct": 2.95,
+    "price": 57.5,
+    "prev_close": 55.85,
+    "day_high": 58.178,
+    "day_low": 56.99,
+    "volume": 19483969
+   }
+  },
+  {
+   "id": "a8ffb6486936",
+   "title": "Tesla surged +2.83% today",
+   "url": "https://finance.yahoo.com/quote/TSLA",
+   "source": "stocks_movers",
+   "category": "markets",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 71.99370951084407,
+   "tags": [
+    "TSLA",
+    "stocks"
+   ],
+   "metrics": {
+    "symbol": "TSLA",
+    "move_pct": 2.83,
+    "price": 328.58,
+    "prev_close": 319.53,
+    "day_high": 333.73,
+    "day_low": 321.251,
+    "volume": 38841743
+   }
+  }
+ ]
+}
