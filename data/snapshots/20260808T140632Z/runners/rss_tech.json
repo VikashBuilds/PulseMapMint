@@ -1,0 +1,5368 @@
+{
+ "runner": "rss_tech",
+ "generated": "2026-08-08T14:05:38Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 3.41,
+ "args": [
+  "rss_tech",
+  "rss_tech"
+ ],
+ "items": [
+  {
+   "id": "ba37ff20b04f",
+   "title": "Is this $450 laptop from an unknown brand too good to be true?",
+   "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T04:23:20Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-08T00:23:20-04:00"
+   }
+  },
+  {
+   "id": "82021c097231",
+   "title": "My favorite feel-good show is back",
+   "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T02:15:16Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T22:15:16-04:00"
+   }
+  },
+  {
+   "id": "e31ace0b4a19",
+   "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+   "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T07:17:24Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-08T03:17:24-04:00"
+   }
+  },
+  {
+   "id": "8d626d2911d8",
+   "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+   "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T22:05:08Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T18:05:08-04:00"
+   }
+  },
+  {
+   "id": "580014c555f2",
+   "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T20:01:51Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T16:01:51-04:00"
+   }
+  },
+  {
+   "id": "4655a988b37e",
+   "title": "Watching Roku’s AI channel is like eating from a trough",
+   "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:59:46Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T14:59:46-04:00"
+   }
+  },
+  {
+   "id": "8a7c64de39e4",
+   "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:40:34Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T14:40:34-04:00"
+   }
+  },
+  {
+   "id": "ccae331fa7af",
+   "title": "The only instant cameras worth your money",
+   "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:04:08Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T14:04:08-04:00"
+   }
+  },
+  {
+   "id": "d9637890962a",
+   "title": "Disney Plus tries a new AI-powered search",
+   "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:53:44Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T13:53:44-04:00"
+   }
+  },
+  {
+   "id": "373fa08b1e18",
+   "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+   "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:43:34Z",
+   "score": 45.0,
+   "tags": [
+    "The Verge",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "The Verge",
+    "published_raw": "2026-08-07T13:43:34-04:00"
+   }
+  },
+  {
+   "id": "5750152b4661",
+   "title": "OpenAI says it slowed Astra model development over security concerns",
+   "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T22:48:24Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 22:48:24 +0000"
+   }
+  },
+  {
+   "id": "c3003750d82f",
+   "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+   "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T21:30:11Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 21:30:11 +0000"
+   }
+  },
+  {
+   "id": "f94aad125953",
+   "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+   "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T21:20:00Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 21:20:00 +0000"
+   }
+  },
+  {
+   "id": "aa374fef10e0",
+   "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+   "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T21:00:08Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 21:00:08 +0000"
+   }
+  },
+  {
+   "id": "6350d28daf19",
+   "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+   "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T16:16:09Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 16:16:09 +0000"
+   }
+  },
+  {
+   "id": "ef3fea5669d0",
+   "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+   "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T16:09:04Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 16:09:04 +0000"
+   }
+  },
+  {
+   "id": "d6f04204e60a",
+   "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+   "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T15:52:33Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 15:52:33 +0000"
+   }
+  },
+  {
+   "id": "ca938a1ee92a",
+   "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+   "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T15:11:03Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 15:11:03 +0000"
+   }
+  },
+  {
+   "id": "a60b40a63e2d",
+   "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 14:30:00 +0000"
+   }
+  },
+  {
+   "id": "873b5c881a1e",
+   "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+   "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:28:31Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 14:28:31 +0000"
+   }
+  },
+  {
+   "id": "e36e44d235be",
+   "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+   "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:22:49Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 14:22:49 +0000"
+   }
+  },
+  {
+   "id": "3d9e3daa6adf",
+   "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+   "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:07:31Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 14:07:31 +0000"
+   }
+  },
+  {
+   "id": "15be4058886b",
+   "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+   "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T12:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 12:30:00 +0000"
+   }
+  },
+  {
+   "id": "a4d60d21b9bd",
+   "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+   "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T11:40:37Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Fri, 07 Aug 2026 11:40:37 +0000"
+   }
+  },
+  {
+   "id": "c9e32ffbfa5c",
+   "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+   "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T22:43:53Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Thu, 06 Aug 2026 22:43:53 +0000"
+   }
+  },
+  {
+   "id": "152ed8b3f676",
+   "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+   "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T22:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Thu, 06 Aug 2026 22:00:00 +0000"
+   }
+  },
+  {
+   "id": "e2dada6bddb6",
+   "title": "Vogue just gave another nod of approval to the tech world",
+   "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T21:24:47Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Thu, 06 Aug 2026 21:24:47 +0000"
+   }
+  },
+  {
+   "id": "93a9d73c0ab7",
+   "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+   "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T19:40:46Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Thu, 06 Aug 2026 19:40:46 +0000"
+   }
+  },
+  {
+   "id": "925234039431",
+   "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
+   "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T19:22:30Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Thu, 06 Aug 2026 19:22:30 +0000"
+   }
+  },
+  {
+   "id": "cabb2fe165b3",
+   "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+   "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T19:02:57Z",
+   "score": 45.0,
+   "tags": [
+    "TechCrunch",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "TechCrunch",
+    "published_raw": "Thu, 06 Aug 2026 19:02:57 +0000"
+   }
+  },
+  {
+   "id": "28a4be4baa50",
+   "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+   "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T11:30:48Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Sat, 08 Aug 2026 11:30:48 +0000"
+   }
+  },
+  {
+   "id": "2ca63b075071",
+   "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+   "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T11:05:50Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Sat, 08 Aug 2026 11:05:50 +0000"
+   }
+  },
+  {
+   "id": "79d8757f99e7",
+   "title": "Europe's free satellite service just made it easier to track wildfires",
+   "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T21:48:21Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 21:48:21 +0000"
+   }
+  },
+  {
+   "id": "1d9796731cfa",
+   "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+   "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T21:09:00Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 21:09:00 +0000"
+   }
+  },
+  {
+   "id": "062dc5b29c97",
+   "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+   "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T19:49:27Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 19:49:27 +0000"
+   }
+  },
+  {
+   "id": "14cbf878cbe1",
+   "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+   "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T19:00:17Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 19:00:17 +0000"
+   }
+  },
+  {
+   "id": "8c64604acad0",
+   "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+   "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:00:02Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 18:00:02 +0000"
+   }
+  },
+  {
+   "id": "b98ec0b7e8be",
+   "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
+   "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:51:05Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 17:51:05 +0000"
+   }
+  },
+  {
+   "id": "d3328bd6be79",
+   "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+   "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:36:22Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 17:36:22 +0000"
+   }
+  },
+  {
+   "id": "d3caf327293e",
+   "title": "How snails engineer their slime",
+   "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:25:20Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 17:25:20 +0000"
+   }
+  },
+  {
+   "id": "55ba936162fd",
+   "title": "Volkswagen plans to win America back with a pickup, report says",
+   "url": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:13:31Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 17:13:31 +0000"
+   }
+  },
+  {
+   "id": "c95da8728fd0",
+   "title": "Report: White House drafting executive order linking vaccines and autism",
+   "url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:41:34Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 14:41:34 +0000"
+   }
+  },
+  {
+   "id": "5875ee1c5623",
+   "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+   "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T13:49:37Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 13:49:37 +0000"
+   }
+  },
+  {
+   "id": "81f472e76b3f",
+   "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+   "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T13:29:22Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 13:29:22 +0000"
+   }
+  },
+  {
+   "id": "ceab572eebfb",
+   "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
+   "url": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T13:20:46Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 13:20:46 +0000"
+   }
+  },
+  {
+   "id": "7a681e3f6d75",
+   "title": "Trump is losing his war on wind power",
+   "url": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T12:58:04Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 12:58:04 +0000"
+   }
+  },
+  {
+   "id": "e74b2e6a2e50",
+   "title": "Remembering the pre-Google web, when search was an experiment",
+   "url": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T11:00:06Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Fri, 07 Aug 2026 11:00:06 +0000"
+   }
+  },
+  {
+   "id": "0b9759e71a37",
+   "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+   "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T22:20:50Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Thu, 06 Aug 2026 22:20:50 +0000"
+   }
+  },
+  {
+   "id": "e547a95ed96e",
+   "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+   "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T22:01:55Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Thu, 06 Aug 2026 22:01:55 +0000"
+   }
+  },
+  {
+   "id": "cbb1f08954e8",
+   "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+   "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T20:29:51Z",
+   "score": 45.0,
+   "tags": [
+    "Ars Technica - All content",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Ars Technica - All content",
+    "published_raw": "Thu, 06 Aug 2026 20:29:51 +0000"
+   }
+  },
+  {
+   "id": "dc1d32fd6ba6",
+   "title": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+   "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T14:03:58Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 14:03:58 +0000"
+   }
+  },
+  {
+   "id": "ed5bde5cc7b8",
+   "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+   "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T14:05:20Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 14:05:20 +0000"
+   }
+  },
+  {
+   "id": "3df36b0fb40d",
+   "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+   "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 12:00:00 +0000"
+   }
+  },
+  {
+   "id": "ca3292f27c58",
+   "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+   "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T11:34:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 11:34:00 +0000"
+   }
+  },
+  {
+   "id": "3760b77164f3",
+   "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+   "url": "https://www.wired.com/story/best-gaming-laptops/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T11:01:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 11:01:00 +0000"
+   }
+  },
+  {
+   "id": "441ff60bc76e",
+   "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+   "url": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T10:36:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 10:36:00 +0000"
+   }
+  },
+  {
+   "id": "85cf34cb9b95",
+   "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
+   "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 10:30:00 +0000"
+   }
+  },
+  {
+   "id": "e1877a064c44",
+   "title": "How to Disable Gemini in Gmail and Google Docs",
+   "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 10:00:00 +0000"
+   }
+  },
+  {
+   "id": "fdee412d1615",
+   "title": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+   "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 10:00:00 +0000"
+   }
+  },
+  {
+   "id": "4b793f8dedfc",
+   "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+   "url": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T09:31:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 09:31:00 +0000"
+   }
+  },
+  {
+   "id": "276755ff9185",
+   "title": "Spokane Shows What the New Era of Wildfires Looks Like",
+   "url": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 09:00:00 +0000"
+   }
+  },
+  {
+   "id": "23900aa38625",
+   "title": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
+   "url": "https://www.wired.com/story/best-solar-generators/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 09:00:00 +0000"
+   }
+  },
+  {
+   "id": "acfd569d5b25",
+   "title": "WhatsApp Gets a Handy @all Feature for Group Chats",
+   "url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Sat, 08 Aug 2026 09:00:00 +0000"
+   }
+  },
+  {
+   "id": "b0b0a197a999",
+   "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
+   "url": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:54:04Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 18:54:04 +0000"
+   }
+  },
+  {
+   "id": "79943acdd677",
+   "title": "The 7 Best TV Shows to Stream This Month",
+   "url": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T16:48:21Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 16:48:21 +0000"
+   }
+  },
+  {
+   "id": "d7d68f36aa83",
+   "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
+   "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 15:00:00 +0000"
+   }
+  },
+  {
+   "id": "663c1701d840",
+   "title": "Scientists Used AI to Create 16 New Viruses",
+   "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:13:57Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 14:13:57 +0000"
+   }
+  },
+  {
+   "id": "d691b5b091c9",
+   "title": "Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)",
+   "url": "https://www.wired.com/story/fan-deals-august-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T13:56:51Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 13:56:51 +0000"
+   }
+  },
+  {
+   "id": "88a02224630c",
+   "title": "Best Webcams (2026): My Honest Take After Testing the Best",
+   "url": "https://www.wired.com/story/best-webcams/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T11:32:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 11:32:00 +0000"
+   }
+  },
+  {
+   "id": "05b541b272ad",
+   "title": "The 5 Best Laptop Power Banks I've Personally Tested (2026)",
+   "url": "https://www.wired.com/story/best-laptop-power-banks/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T11:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 11:30:00 +0000"
+   }
+  },
+  {
+   "id": "90d7717b1d45",
+   "title": "3 Best Cheap Gaming Laptops (2026): Lenovo, MSI, Alienware",
+   "url": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T11:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 11:00:00 +0000"
+   }
+  },
+  {
+   "id": "76cb90b18bce",
+   "title": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
+   "url": "https://www.wired.com/gallery/best-smart-glasses/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 10:30:00 +0000"
+   }
+  },
+  {
+   "id": "41f101ca2f38",
+   "title": "The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry",
+   "url": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T10:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 10:30:00 +0000"
+   }
+  },
+  {
+   "id": "71aea59e2265",
+   "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+   "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 10:00:00 +0000"
+   }
+  },
+  {
+   "id": "0b7881b5d60b",
+   "title": "Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?",
+   "url": "https://www.wired.com/story/plastic-free-coffee-makers/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T09:32:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 09:32:00 +0000"
+   }
+  },
+  {
+   "id": "6e6a968a2184",
+   "title": "Surfshark Promo Codes: 87% Off | August 2026",
+   "url": "https://www.wired.com/story/surfshark-coupon/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "89ada42461a3",
+   "title": "Google Workspace Promo Codes: 14% Off for August 2026",
+   "url": "https://www.wired.com/story/google-workspace-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "d699953ff1bb",
+   "title": "Hotels.com Coupon Codes for August 2026",
+   "url": "https://www.wired.com/story/hotels-com-coupon/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "b78e16509935",
+   "title": "Uber Eats Promo Codes: $15 Off│August 2026",
+   "url": "https://www.wired.com/story/uber-eats-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "f8bc305fe01b",
+   "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+   "url": "https://www.wired.com/story/nike-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "f140a3e1a2da",
+   "title": "50% Off DoorDash Promo Code | August 2026",
+   "url": "https://www.wired.com/story/doordash-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "73ca25fa840c",
+   "title": "LG Promo Codes and Coupons for August 2026",
+   "url": "https://www.wired.com/story/lg-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "a3ca7ff0939a",
+   "title": "Ulta Promo Codes: Up to 20% Off in August 2026",
+   "url": "https://www.wired.com/story/ulta-coupon/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "3a2cc141b8c1",
+   "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
+   "url": "https://www.wired.com/story/ray-ban-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "04fd6764d657",
+   "title": "B&H Photo Promo Codes and Deals This August 2026",
+   "url": "https://www.wired.com/story/bh-photo-coupon/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "9836859e4bc4",
+   "title": "Newegg Promo Codes and Coupons for August 2026",
+   "url": "https://www.wired.com/story/newegg-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "5e6499debae4",
+   "title": "HP Coupon Codes and Deals August 2026",
+   "url": "https://www.wired.com/story/hp-coupon-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "077a86082543",
+   "title": "Dyson Promo Codes: 25% Off in August 2026",
+   "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T05:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 +0000"
+   }
+  },
+  {
+   "id": "6d8bc66b0615",
+   "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+   "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T01:16:55Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Fri, 07 Aug 2026 01:16:55 +0000"
+   }
+  },
+  {
+   "id": "2470284273af",
+   "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+   "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T21:35:00Z",
+   "score": 45.0,
+   "tags": [
+    "WIRED",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "WIRED",
+    "published_raw": "Thu, 06 Aug 2026 21:35:00 +0000"
+   }
+  },
+  {
+   "id": "970c433818c2",
+   "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+   "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:20:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Fri, 07 Aug 2026 14:20:00 +0000"
+   }
+  },
+  {
+   "id": "06f4338020d1",
+   "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+   "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Fri, 07 Aug 2026 14:00:00 +0000"
+   }
+  },
+  {
+   "id": "b98a2eb19338",
+   "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+   "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T12:10:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Thu, 06 Aug 2026 12:10:00 +0000"
+   }
+  },
+  {
+   "id": "4ab1750639ff",
+   "title": "Puzzle Corner",
+   "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T14:56:29Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Wed, 05 Aug 2026 14:56:29 +0000"
+   }
+  },
+  {
+   "id": "1fcb2f1366ab",
+   "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+   "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T12:10:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Wed, 05 Aug 2026 12:10:00 +0000"
+   }
+  },
+  {
+   "id": "8773c738014d",
+   "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+   "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T08:06:40Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Wed, 05 Aug 2026 08:06:40 +0000"
+   }
+  },
+  {
+   "id": "7610fc9aa0f1",
+   "title": "The Download: US robot restrictions and ICE’s DNA grab",
+   "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T12:14:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Tue, 04 Aug 2026 12:14:00 +0000"
+   }
+  },
+  {
+   "id": "17e5fb211542",
+   "title": "Trump’s AI protectionism has come for robotics",
+   "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T18:43:30Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Mon, 03 Aug 2026 18:43:30 +0000"
+   }
+  },
+  {
+   "id": "fa3376887576",
+   "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+   "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T12:08:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Mon, 03 Aug 2026 12:08:00 +0000"
+   }
+  },
+  {
+   "id": "a9966988d3bf",
+   "title": "Here’s why AI agents lie and cheat to reach their goals",
+   "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T08:30:05Z",
+   "score": 45.0,
+   "tags": [
+    "MIT Technology Review",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT Technology Review",
+    "published_raw": "Mon, 03 Aug 2026 08:30:05 +0000"
+   }
+  },
+  {
+   "id": "c6057d2da5ee",
+   "title": "Responding to the next frontier of critical cyber capabilities",
+   "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T15:20:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Fri, 07 Aug 2026 15:20:00 GMT"
+   }
+  },
+  {
+   "id": "5b1efba18dd4",
+   "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+   "url": "https://openai.com/index/hsp-gruppe",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Fri, 07 Aug 2026 09:00:00 GMT"
+   }
+  },
+  {
+   "id": "8fba640fe494",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 06 Aug 2026 10:00:00 GMT"
+   }
+  },
+  {
+   "id": "bd9ed65db591",
+   "title": "Working with the American Psychological Association on youth mental health and AI",
+   "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T06:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 06 Aug 2026 06:00:00 GMT"
+   }
+  },
+  {
+   "id": "a1370bf6c753",
+   "title": "From asking to doing: How the world is putting ChatGPT to work",
+   "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 06 Aug 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "48fec1c1e1d0",
+   "title": "Third-party cyber evaluations involving OpenAI models",
+   "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T19:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 04 Aug 2026 19:00:00 GMT"
+   }
+  },
+  {
+   "id": "6d318c245544",
+   "title": "New ways to learn and teach with ChatGPT Work and Codex",
+   "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 04 Aug 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "f381cb8c883e",
+   "title": "Apple is getting this wrong",
+   "url": "https://openai.com/index/apple-is-getting-this-wrong",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T22:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Mon, 03 Aug 2026 22:00:00 GMT"
+   }
+  },
+  {
+   "id": "80353661f96f",
+   "title": "How we built a realtime system for responsive voice AI in six months",
+   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T07:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Mon, 03 Aug 2026 07:00:00 GMT"
+   }
+  },
+  {
+   "id": "fd71b999eacf",
+   "title": "Circles powers telco personalization with OpenAI technology",
+   "url": "https://openai.com/index/circles",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Mon, 03 Aug 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "4cc3437458c8",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://openai.com/index/ten-advances-in-mathematics",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-01T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Sat, 01 Aug 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "46812d43495a",
+   "title": "Advancing responsible AI across Europe",
+   "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Fri, 31 Jul 2026 15:00:00 GMT"
+   }
+  },
+  {
+   "id": "a017633a1306",
+   "title": "Building abundant intelligence",
+   "url": "https://openai.com/index/building-abundant-intelligence",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Fri, 31 Jul 2026 15:00:00 GMT"
+   }
+  },
+  {
+   "id": "e357e68cb30e",
+   "title": "Univé builds an AI-ready workforce",
+   "url": "https://openai.com/index/unive",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T07:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Fri, 31 Jul 2026 07:00:00 GMT"
+   }
+  },
+  {
+   "id": "8f647aa4f5af",
+   "title": "Disrupting a Criminal Scam Operation",
+   "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Fri, 31 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "933cda7b93f0",
+   "title": "Advancing the price-performance frontier with GPT-5.6",
+   "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-30T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 30 Jul 2026 10:00:00 GMT"
+   }
+  },
+  {
+   "id": "d81cc8bc6d6e",
+   "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+   "url": "https://openai.com/index/avatarin",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-30T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 30 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "e0806a43f159",
+   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-29T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 29 Jul 2026 15:00:00 GMT"
+   }
+  },
+  {
+   "id": "188c290e80b4",
+   "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+   "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-29T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 29 Jul 2026 10:00:00 GMT"
+   }
+  },
+  {
+   "id": "7261b9e6ea5c",
+   "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+   "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-29T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 29 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "730a7353c234",
+   "title": "Scientific computing in the age of agentic AI",
+   "url": "https://openai.com/index/scientific-computing-agentic-ai",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 28 Jul 2026 17:00:00 GMT"
+   }
+  },
+  {
+   "id": "ff6307b48a1c",
+   "title": "How AI is expanding what people do at work",
+   "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-27T03:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Mon, 27 Jul 2026 03:30:00 GMT"
+   }
+  },
+  {
+   "id": "c7283582eea3",
+   "title": "Launching Health in ChatGPT",
+   "url": "https://openai.com/index/health-in-chatgpt",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-23T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 23 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "5a6aa80101f6",
+   "title": "Building AI infrastructure with the Effingham County community",
+   "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 22 Jul 2026 13:00:00 GMT"
+   }
+  },
+  {
+   "id": "be0df591a7cf",
+   "title": "How news organizations are using AI to advance their vital missions",
+   "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 22 Jul 2026 13:00:00 GMT"
+   }
+  },
+  {
+   "id": "921f52631a77",
+   "title": "Advancing the next era of national science",
+   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 22 Jul 2026 12:00:00 GMT"
+   }
+  },
+  {
+   "id": "b1d5c71bd468",
+   "title": "Introducing OpenAI Presence",
+   "url": "https://openai.com/index/introducing-openai-presence",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T05:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 22 Jul 2026 05:30:00 GMT"
+   }
+  },
+  {
+   "id": "c8ce11ed90d1",
+   "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+   "url": "https://openai.com/index/ntt-data",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 22 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "28b4472845ca",
+   "title": "Introducing the ChatGPT for small business program",
+   "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-21T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 21 Jul 2026 17:00:00 GMT"
+   }
+  },
+  {
+   "id": "6ae9ba9c97eb",
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-21T07:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 21 Jul 2026 07:00:00 GMT"
+   }
+  },
+  {
+   "id": "a9d31d9ff71d",
+   "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+   "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-21T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 21 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "777ebdb631fe",
+   "title": "Safety and alignment in an era of long-horizon models",
+   "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-20T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Mon, 20 Jul 2026 10:00:00 GMT"
+   }
+  },
+  {
+   "id": "248c855c684c",
+   "title": "A scorecard for the AI age",
+   "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-17T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Fri, 17 Jul 2026 10:00:00 GMT"
+   }
+  },
+  {
+   "id": "7ffa6dcd9f60",
+   "title": "Why teens deserve access to safe AI",
+   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 16 Jul 2026 16:00:00 GMT"
+   }
+  },
+  {
+   "id": "d2f5ea44fd23",
+   "title": "How Codex became a collaborator for OpenAI’s creative team",
+   "url": "https://openai.com/index/codex-collaborator-creative-team",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T07:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 16 Jul 2026 07:00:00 GMT"
+   }
+  },
+  {
+   "id": "145054ea14a8",
+   "title": "How Cars24 scales conversations and builds faster with OpenAI",
+   "url": "https://openai.com/index/cars24",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Thu, 16 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "19d3a4947413",
+   "title": "The US is advancing AI safety through state and federal action",
+   "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-15T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 15 Jul 2026 12:00:00 GMT"
+   }
+  },
+  {
+   "id": "6c902948428a",
+   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-15T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Wed, 15 Jul 2026 10:00:00 GMT"
+   }
+  },
+  {
+   "id": "17406eaf9855",
+   "title": "How to manage AI investments in the agentic era",
+   "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-14T10:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 14 Jul 2026 10:00:00 GMT"
+   }
+  },
+  {
+   "id": "0a24b23f807f",
+   "title": "How data science teams use ChatGPT Work",
+   "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-14T00:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "OpenAI News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "OpenAI News",
+    "published_raw": "Tue, 14 Jul 2026 00:00:00 GMT"
+   }
+  },
+  {
+   "id": "f5f34c64bd17",
+   "title": "The latest AI news we announced in July 2026",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Tue, 04 Aug 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "74128d580058",
+   "title": "Inside our 353,000-person vibe coding course",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Mon, 03 Aug 2026 15:00:00 +0000"
+   }
+  },
+  {
+   "id": "0e1f64cd60ee",
+   "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Tue, 28 Jul 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "2a557e52a3f9",
+   "title": "5 ways AI Mode in Search helps you enjoy the real world",
+   "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Tue, 28 Jul 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "95f1525aa6ef",
+   "title": "5 ways to host the ultimate dinner party with Google Search",
+   "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Tue, 28 Jul 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "6a5d6b7e5607",
+   "title": "3 Google updates from Galaxy Unpacked 2026",
+   "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Wed, 22 Jul 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "d4e0ca1b361b",
+   "title": "Connect more of your apps to Search",
+   "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Thu, 16 Jul 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "9ba3f785f122",
+   "title": "Create, edit and star in videos with two Google Vids updates",
+   "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Thu, 16 Jul 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "3d870abb1e35",
+   "title": "Celebrating 25 years of visual search innovation",
+   "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-14T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Tue, 14 Jul 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "0d9f702fa8f9",
+   "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-07T08:54:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Tue, 07 Jul 2026 08:54:00 +0000"
+   }
+  },
+  {
+   "id": "54d8c388216e",
+   "title": "The latest AI news we announced in June 2026",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-01T18:15:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Wed, 01 Jul 2026 18:15:00 +0000"
+   }
+  },
+  {
+   "id": "4e27ed490b49",
+   "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+   "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-01T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Wed, 01 Jul 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "913c6bae0654",
+   "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-30T06:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Tue, 30 Jun 2026 06:00:00 +0000"
+   }
+  },
+  {
+   "id": "bb3580284a1f",
+   "title": "Ask an AI expert: What exactly is the full stack?",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-29T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Mon, 29 Jun 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "361db5c36e45",
+   "title": "Our latest Google Finance upgrades, including a new app",
+   "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-25T16:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Thu, 25 Jun 2026 16:00:00 +0000"
+   }
+  },
+  {
+   "id": "8a2d90c62896",
+   "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-17T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Wed, 17 Jun 2026 15:00:00 +0000"
+   }
+  },
+  {
+   "id": "4c9f7fb91523",
+   "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-15T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Mon, 15 Jun 2026 15:00:00 +0000"
+   }
+  },
+  {
+   "id": "a31e6290f01d",
+   "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-11T20:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Thu, 11 Jun 2026 20:00:00 +0000"
+   }
+  },
+  {
+   "id": "1e02f966dfa5",
+   "title": "The latest AI news we announced in May 2026",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-05T14:45:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Fri, 05 Jun 2026 14:45:00 +0000"
+   }
+  },
+  {
+   "id": "b59617d63ec7",
+   "title": "5 ways Google Search can level up your thrift and vintage shopping",
+   "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-03T13:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "AI",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "AI",
+    "published_raw": "Wed, 03 Jun 2026 13:00:00 +0000"
+   }
+  },
+  {
+   "id": "8d4784a4e812",
+   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T15:06:15Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Thu, 06 Aug 2026 15:06:15 +0000"
+   }
+  },
+  {
+   "id": "41c4062f749a",
+   "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+   "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-30T15:00:59Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Thu, 30 Jul 2026 15:00:59 +0000"
+   }
+  },
+  {
+   "id": "f8b3d588b08f",
+   "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+   "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-29T16:02:10Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Wed, 29 Jul 2026 16:02:10 +0000"
+   }
+  },
+  {
+   "id": "be6c8d869d2b",
+   "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T13:21:37Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 28 Jul 2026 13:21:37 +0000"
+   }
+  },
+  {
+   "id": "7237fdc0cdba",
+   "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+   "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T13:38:54Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Wed, 22 Jul 2026 13:38:54 +0000"
+   }
+  },
+  {
+   "id": "a6d71dcd1848",
+   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-21T15:16:30Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 21 Jul 2026 15:16:30 +0000"
+   }
+  },
+  {
+   "id": "bee8368b1b0f",
+   "title": "Introducing Gemini 3.5 Flash Cyber",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-17T15:00:11Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Fri, 17 Jul 2026 15:00:11 +0000"
+   }
+  },
+  {
+   "id": "7ea422e540fb",
+   "title": "Our approach to bioresilience",
+   "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T09:30:42Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Thu, 16 Jul 2026 09:30:42 +0000"
+   }
+  },
+  {
+   "id": "5fde986e375f",
+   "title": "Empowering India’s next generation of innovators with ATL Saathi",
+   "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-13T12:37:28Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Mon, 13 Jul 2026 12:37:28 +0000"
+   }
+  },
+  {
+   "id": "f0049952579c",
+   "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+   "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-03T14:25:43Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Fri, 03 Jul 2026 14:25:43 +0000"
+   }
+  },
+  {
+   "id": "55bc8cbcf92f",
+   "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+   "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-30T16:02:40Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 30 Jun 2026 16:02:40 +0000"
+   }
+  },
+  {
+   "id": "aa7a9634cd29",
+   "title": "Introducing computer use in Gemini 3.5 Flash",
+   "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-24T16:30:01Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Wed, 24 Jun 2026 16:30:01 +0000"
+   }
+  },
+  {
+   "id": "79eed099cefa",
+   "title": "Unlocking UK house-building with AI-accelerated planning",
+   "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-16T21:29:50Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 16 Jun 2026 21:29:50 +0000"
+   }
+  },
+  {
+   "id": "08416e5a80f9",
+   "title": "Securing the future of AI agents",
+   "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-16T15:46:31Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 16 Jun 2026 15:46:31 +0000"
+   }
+  },
+  {
+   "id": "641d0cae92dc",
+   "title": "DiffusionGemma: 4x faster text generation",
+   "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-10T16:24:11Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Wed, 10 Jun 2026 16:24:11 +0000"
+   }
+  },
+  {
+   "id": "d5176c0da1e5",
+   "title": "Investing in multi-agent AI safety research",
+   "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-10T10:21:19Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Wed, 10 Jun 2026 10:21:19 +0000"
+   }
+  },
+  {
+   "id": "d8b5fa493b53",
+   "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+   "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-09T15:16:25Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 09 Jun 2026 15:16:25 +0000"
+   }
+  },
+  {
+   "id": "61e29532877a",
+   "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+   "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-09T14:10:19Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 09 Jun 2026 14:10:19 +0000"
+   }
+  },
+  {
+   "id": "14d9e67b2da5",
+   "title": "Powering the future of robotics in Europe",
+   "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-09T14:02:33Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 09 Jun 2026 14:02:33 +0000"
+   }
+  },
+  {
+   "id": "90a385d3df50",
+   "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+   "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-06-08T13:04:59Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Mon, 08 Jun 2026 13:04:59 +0000"
+   }
+  },
+  {
+   "id": "7a740b104c85",
+   "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+   "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-21T19:46:42Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Thu, 21 May 2026 19:46:42 +0000"
+   }
+  },
+  {
+   "id": "3ca17e67afbe",
+   "title": "Fast-tracking genetic leads to reverse cellular aging",
+   "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-18T18:21:39Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Mon, 18 May 2026 18:21:39 +0000"
+   }
+  },
+  {
+   "id": "91bf5fd1a521",
+   "title": "Simulate real-world places with Project Genie and Street View",
+   "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-17T19:53:18Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sun, 17 May 2026 19:53:18 +0000"
+   }
+  },
+  {
+   "id": "f5c47dbb53da",
+   "title": "Introducing Gemini Omni",
+   "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-17T19:50:57Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sun, 17 May 2026 19:50:57 +0000"
+   }
+  },
+  {
+   "id": "acee0543dc20",
+   "title": "Introducing Google Antigravity 2.0",
+   "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-17T19:43:45Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sun, 17 May 2026 19:43:45 +0000"
+   }
+  },
+  {
+   "id": "420449aa85cf",
+   "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+   "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-17T13:50:34Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sun, 17 May 2026 13:50:34 +0000"
+   }
+  },
+  {
+   "id": "c0b8105fc0b4",
+   "title": "Making it easier to understand how content was created and edited",
+   "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-17T13:43:50Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sun, 17 May 2026 13:43:50 +0000"
+   }
+  },
+  {
+   "id": "74b5f14ae599",
+   "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+   "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-16T09:13:34Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sat, 16 May 2026 09:13:34 +0000"
+   }
+  },
+  {
+   "id": "2995bc088cf6",
+   "title": "Finding the molecular switches behind new infectious diseases",
+   "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-16T08:16:06Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sat, 16 May 2026 08:16:06 +0000"
+   }
+  },
+  {
+   "id": "99e32fba9b17",
+   "title": "Opening new paths in aging research",
+   "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-16T08:08:44Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sat, 16 May 2026 08:08:44 +0000"
+   }
+  },
+  {
+   "id": "0c7daa7e7684",
+   "title": "Accelerating discovery of liver disease mechanisms",
+   "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-16T08:00:15Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sat, 16 May 2026 08:00:15 +0000"
+   }
+  },
+  {
+   "id": "f5c92ad91e49",
+   "title": "Uniting biological toolkits for a new approach to ALS",
+   "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-16T07:53:11Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sat, 16 May 2026 07:53:11 +0000"
+   }
+  },
+  {
+   "id": "37dbf25a89ce",
+   "title": "Uncovering repurposed medicines to fight liver fibrosis",
+   "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-16T07:40:27Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sat, 16 May 2026 07:40:27 +0000"
+   }
+  },
+  {
+   "id": "4f88e7fd51a6",
+   "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+   "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-16T03:14:17Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Sat, 16 May 2026 03:14:17 +0000"
+   }
+  },
+  {
+   "id": "a7cd64042378",
+   "title": "Gemini 3.5: frontier intelligence with action",
+   "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-15T22:50:12Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Fri, 15 May 2026 22:50:12 +0000"
+   }
+  },
+  {
+   "id": "23eb9d2f2e3a",
+   "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+   "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-12T14:40:07Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Tue, 12 May 2026 14:40:07 +0000"
+   }
+  },
+  {
+   "id": "c8a8b31ac70e",
+   "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+   "url": "https://deepmind.google/blog/alphaevolve-impact/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-05-06T10:43:49Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Wed, 06 May 2026 10:43:49 +0000"
+   }
+  },
+  {
+   "id": "eb68f9d5b005",
+   "title": "Enabling a new model for healthcare with AI co-clinician",
+   "url": "https://deepmind.google/blog/ai-co-clinician/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-04-30T12:14:15Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Thu, 30 Apr 2026 12:14:15 +0000"
+   }
+  },
+  {
+   "id": "0d9d8e30768e",
+   "title": "Announcing our partnership with the Republic of Korea",
+   "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-04-27T07:00:06Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Mon, 27 Apr 2026 07:00:06 +0000"
+   }
+  },
+  {
+   "id": "0c79cd6f5d81",
+   "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+   "url": "https://deepmind.google/blog/decoupled-diloco/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-04-22T10:20:03Z",
+   "score": 45.0,
+   "tags": [
+    "Google DeepMind News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Google DeepMind News",
+    "published_raw": "Wed, 22 Apr 2026 10:20:03 +0000"
+   }
+  },
+  {
+   "id": "c26db426201c",
+   "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
+   "url": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Fri, 07 Aug 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "ff1aab796219",
+   "title": "Akirah Bradley-Armstrong named vice chancellor for student life",
+   "url": "https://news.mit.edu/2026/akirah-bradley-armstrong-named-vice-chancellor-student-life-0806",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T20:55:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 06 Aug 2026 16:55:00 -0400"
+   }
+  },
+  {
+   "id": "174835f38c0f",
+   "title": "A new way to watch heat move through electronics",
+   "url": "https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 06 Aug 2026 00:00:00 -0400"
+   }
+  },
+  {
+   "id": "dedf02b24f01",
+   "title": "Then and now: How MIT Lincoln Laboratory has served as a driving force in national security innovation",
+   "url": "https://news.mit.edu/2026/mit-lincoln-laboratory-driving-force-national-security-innovation-0805",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T18:10:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 05 Aug 2026 14:10:00 -0400"
+   }
+  },
+  {
+   "id": "b7b506ffad3b",
+   "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
+   "url": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 05 Aug 2026 11:00:00 -0400"
+   }
+  },
+  {
+   "id": "d349dc9f8cfb",
+   "title": "Scientists unveil more than 600 new tissue models of human cancer",
+   "url": "https://news.mit.edu/2026/scientists-unveil-600-new-tissue-models-human-cancer-0805",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 05 Aug 2026 11:00:00 -0400"
+   }
+  },
+  {
+   "id": "5eb8ea8099bd",
+   "title": "These 3D-printed objects can tell you if they’re being used properly",
+   "url": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 05 Aug 2026 00:00:00 -0400"
+   }
+  },
+  {
+   "id": "28c9c812cd9a",
+   "title": "Past is prologue for geopolitical developments",
+   "url": "https://news.mit.edu/2026/past-prologue-geopolitical-developments-0804",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T20:25:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 04 Aug 2026 16:25:00 -0400"
+   }
+  },
+  {
+   "id": "b1d7074538e4",
+   "title": "Reframing leadership as a design problem",
+   "url": "https://news.mit.edu/2026/reframing-leadership-design-problem-nicholas-de-monchaux-0804",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T20:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 04 Aug 2026 16:00:00 -0400"
+   }
+  },
+  {
+   "id": "e6ee5a5990b7",
+   "title": "Solving the solvent problem",
+   "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T18:50:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 04 Aug 2026 14:50:00 -0400"
+   }
+  },
+  {
+   "id": "8af279c7ada2",
+   "title": "The benefits of medical AI assistance vary based on user expertise",
+   "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 04 Aug 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "e5024e7001b0",
+   "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
+   "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T19:50:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Mon, 03 Aug 2026 15:50:00 -0400"
+   }
+  },
+  {
+   "id": "999515f80868",
+   "title": "Connecting students with the future of microelectronics",
+   "url": "https://news.mit.edu/2026/connecting-students-future-microelectronics-0803",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T17:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Mon, 03 Aug 2026 13:30:00 -0400"
+   }
+  },
+  {
+   "id": "f8820cb2cc5f",
+   "title": "Turning molecules into reliable electronic devices",
+   "url": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Mon, 03 Aug 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "d5e23cff50a6",
+   "title": "Using reason, again and again",
+   "url": "https://news.mit.edu/2026/using-reason-again-and-again-brian-hedden-0802",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-02T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Sun, 02 Aug 2026 00:00:00 -0400"
+   }
+  },
+  {
+   "id": "f519c7c08bf4",
+   "title": "Building energy security through more sustainable batteries",
+   "url": "https://news.mit.edu/2026/building-energy-security-through-more-sustainable-batteries-hugh-smith-0731",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Fri, 31 Jul 2026 00:00:00 -0400"
+   }
+  },
+  {
+   "id": "bd451768d79a",
+   "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+   "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-30T21:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 30 Jul 2026 17:00:00 -0400"
+   }
+  },
+  {
+   "id": "c067dfdadf43",
+   "title": "Connecting research to policy on Capitol Hill",
+   "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-30T20:35:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 30 Jul 2026 16:35:00 -0400"
+   }
+  },
+  {
+   "id": "a85013e6d10f",
+   "title": "Why some nitrogen-processing enzymes are more efficient than others",
+   "url": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-30T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 30 Jul 2026 11:00:00 -0400"
+   }
+  },
+  {
+   "id": "3e8f1ab95e77",
+   "title": "MIT and Broad Institute researchers break diffraction barrier in super-resolution microscopy",
+   "url": "https://news.mit.edu/2026/researchers-break-diffraction-barrier-super-resolution-microscopy-0729",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-29T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 29 Jul 2026 13:00:00 -0400"
+   }
+  },
+  {
+   "id": "3f572ac70c13",
+   "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+   "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-29T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 29 Jul 2026 10:00:00 -0400"
+   }
+  },
+  {
+   "id": "d58db01eb757",
+   "title": "Professor Emeritus Robert Cohen, pioneering polymers researcher and devoted mentor, dies at 79",
+   "url": "https://news.mit.edu/2026/robert-cohen-dies-0728",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T20:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 28 Jul 2026 16:00:00 -0400"
+   }
+  },
+  {
+   "id": "659a1786df31",
+   "title": "Yu Deng ’11 and Hong Wang PhD ’19 awarded Fields Medal",
+   "url": "https://news.mit.edu/2026/mit-alumni-awarded-fields-medal-0728",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T18:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 28 Jul 2026 14:00:00 -0400"
+   }
+  },
+  {
+   "id": "64b844da0fc0",
+   "title": "Making robots faster by helping them think ahead",
+   "url": "https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-28T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 28 Jul 2026 00:00:00 -0400"
+   }
+  },
+  {
+   "id": "59a91125c393",
+   "title": "MIT engineers design recyclable elastic yarn",
+   "url": "https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-27T14:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Mon, 27 Jul 2026 10:00:00 -0400"
+   }
+  },
+  {
+   "id": "eb503f871f3a",
+   "title": "Looking beyond research",
+   "url": "https://news.mit.edu/2026/looking-beyond-research-anna-christina-eilers-0723",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-23T19:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 23 Jul 2026 15:00:00 -0400"
+   }
+  },
+  {
+   "id": "d4e4ebcbc776",
+   "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
+   "url": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-23T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 23 Jul 2026 08:00:00 -0400"
+   }
+  },
+  {
+   "id": "f1aa86c6ee9b",
+   "title": "MIT student leaders: Q&A with men’s soccer captain Dilin Meloni",
+   "url": "https://news.mit.edu/2026/mit-student-leaders-dilin-meloni-soccer-captain-0722",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T17:30:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 22 Jul 2026 13:30:00 -0400"
+   }
+  },
+  {
+   "id": "a9ce16149aa1",
+   "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
+   "url": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-22T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 22 Jul 2026 13:00:00 -0400"
+   }
+  },
+  {
+   "id": "b8343d5fd8e9",
+   "title": "Diffuse puffs of “missing” matter surround most galaxies",
+   "url": "https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-21T15:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 21 Jul 2026 11:00:00 -0400"
+   }
+  },
+  {
+   "id": "ca51b06f41a4",
+   "title": "MIT honors employees with 2026 Excellence Awards, Collier Medal, and Staff Award for Distinction in Service",
+   "url": "https://news.mit.edu/2026/mit-honors-employees-excellence-awards-collier-medal-staff-award-distinction-service-0721",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-21T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 21 Jul 2026 08:00:00 -0400"
+   }
+  },
+  {
+   "id": "e8995d1c96e9",
+   "title": "Engineering Design Studio hosts alumni on their fifth, 10th … and 55th reunions",
+   "url": "https://news.mit.edu/2026/engineering-design-studio-hosts-alumni-their-fifth-10th-and-55th-reunions-0721",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-21T12:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Tue, 21 Jul 2026 08:00:00 -0400"
+   }
+  },
+  {
+   "id": "b6b049b713b4",
+   "title": "Emery Brown, Daniel Hastings, and Douglas Lauffenburger named Institute Professors",
+   "url": "https://news.mit.edu/2026/emery-brown-daniel-hastings-douglas-lauffenburger-named-institute-professors-0720",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-20T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Mon, 20 Jul 2026 13:00:00 -0400"
+   }
+  },
+  {
+   "id": "f7fe0ce2e628",
+   "title": "School of Humanities, Arts, and Social Sciences welcomes six new faculty for 2026",
+   "url": "https://news.mit.edu/2026/school-humanities-arts-and-social-sciences-welcomes-six-new-faculty-0717",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-17T17:45:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Fri, 17 Jul 2026 13:45:00 -0400"
+   }
+  },
+  {
+   "id": "1cb4eb4324fd",
+   "title": "How an influx of salt may affect microbial ecosystems",
+   "url": "https://news.mit.edu/2026/how-influx-salt-may-affect-microbial-ecosystems-0717",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-17T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Fri, 17 Jul 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "1f3cd9f3b998",
+   "title": "Diana Grass: Listening to the body’s language",
+   "url": "https://news.mit.edu/2026/diana-grass-listens-to-bodys-language-0717",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-17T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Fri, 17 Jul 2026 00:00:00 -0400"
+   }
+  },
+  {
+   "id": "2a42975b2aad",
+   "title": "For energy systems that power a reliable grid, the future is all about location",
+   "url": "https://news.mit.edu/2026/energy-systems-reliable-grid-future-is-about-location-0716",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T09:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 16 Jul 2026 05:00:00 -0400"
+   }
+  },
+  {
+   "id": "290b9195a433",
+   "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+   "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-16T04:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Thu, 16 Jul 2026 00:00:00 -0400"
+   }
+  },
+  {
+   "id": "195c5f752912",
+   "title": "MIT Professor Susumu Tonegawa, renowned molecular biologist and Nobel laureate, dies at 86",
+   "url": "https://news.mit.edu/2026/mit-professor-susumu-tonegawa-renowned-molecular-biologist-nobel-laureate-dies-0715",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-15T19:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 15 Jul 2026 15:00:00 -0400"
+   }
+  },
+  {
+   "id": "2204e3703cc0",
+   "title": "3D-printed bridge points the way to greener construction",
+   "url": "https://news.mit.edu/2026/3d-printed-bridge-points-to-greener-construction-0715",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-15T17:00:00Z",
+   "score": 45.0,
+   "tags": [
+    "MIT News",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "MIT News",
+    "published_raw": "Wed, 15 Jul 2026 13:00:00 -0400"
+   }
+  },
+  {
+   "id": "554eed082320",
+   "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
+   "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T13:55:32Z",
+   "score": 45.0,
+   "tags": [
+    "Quanta Magazine",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Quanta Magazine",
+    "published_raw": "Fri, 07 Aug 2026 13:55:32 +0000"
+   }
+  },
+  {
+   "id": "1e79f24b6572",
+   "title": "How Does Touch Lead To Pain Or Pleasure?",
+   "url": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T13:37:48Z",
+   "score": 45.0,
+   "tags": [
+    "Quanta Magazine",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Quanta Magazine",
+    "published_raw": "Thu, 06 Aug 2026 13:37:48 +0000"
+   }
+  },
+  {
+   "id": "02f0d6ebeaa0",
+   "title": "Corals Spin Tiny Vortices to Get Oxygen, but Not if It’s Too Hot",
+   "url": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T15:40:41Z",
+   "score": 45.0,
+   "tags": [
+    "Quanta Magazine",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Quanta Magazine",
+    "published_raw": "Wed, 05 Aug 2026 15:40:41 +0000"
+   }
+  },
+  {
+   "id": "1ccc26c79087",
+   "title": "Why the Legendary Erdős Problems Are Falling to AI",
+   "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T15:05:20Z",
+   "score": 45.0,
+   "tags": [
+    "Quanta Magazine",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Quanta Magazine",
+    "published_raw": "Mon, 03 Aug 2026 15:05:20 +0000"
+   }
+  },
+  {
+   "id": "71541aecbe41",
+   "title": "Is AI Reasoning Right for the Wrong Reasons?",
+   "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T14:50:11Z",
+   "score": 45.0,
+   "tags": [
+    "Quanta Magazine",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Quanta Magazine",
+    "published_raw": "Fri, 31 Jul 2026 14:50:11 +0000"
+   }
+  },
+  {
+   "id": "9b3568821f03",
+   "title": "Quoting John Gruber",
+   "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T00:10:40Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-08T00:10:40+00:00"
+   }
+  },
+  {
+   "id": "5b447401fa3e",
+   "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+   "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T23:55:58Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-07T23:55:58+00:00"
+   }
+  },
+  {
+   "id": "705868261d7d",
+   "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+   "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T19:18:09Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-07T19:18:09+00:00"
+   }
+  },
+  {
+   "id": "adb04057755e",
+   "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+   "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T16:18:51Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-07T16:18:51+00:00"
+   }
+  },
+  {
+   "id": "6fbec549523f",
+   "title": "datasette 1.0a38",
+   "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T18:24:34Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-06T18:24:34+00:00"
+   }
+  },
+  {
+   "id": "050594ce023d",
+   "title": "datasette 0.65.3",
+   "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T18:22:07Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-06T18:22:07+00:00"
+   }
+  },
+  {
+   "id": "9424d605a252",
+   "title": "Simon Willison on Technical Blogging",
+   "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T18:04:39Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-06T18:04:39+00:00"
+   }
+  },
+  {
+   "id": "2f86cee83063",
+   "title": "An AI model from Meta also hacked another company during testing",
+   "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-06T00:25:27Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-06T00:25:27+00:00"
+   }
+  },
+  {
+   "id": "19ab2ee96eb9",
+   "title": "Introducing Muse Code and Muse Spark 1.2",
+   "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T23:58:35Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-05T23:58:35+00:00"
+   }
+  },
+  {
+   "id": "4ea90f9d0b86",
+   "title": "Third-party cyber evaluations involving OpenAI models",
+   "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T23:45:32Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-05T23:45:32+00:00"
+   }
+  },
+  {
+   "id": "82c2633df385",
+   "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+   "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T23:32:06Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-05T23:32:06+00:00"
+   }
+  },
+  {
+   "id": "0f4863393ce3",
+   "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+   "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-05T19:42:38Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-05T19:42:38+00:00"
+   }
+  },
+  {
+   "id": "1661dee2913b",
+   "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+   "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T23:58:24Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-04T23:58:24+00:00"
+   }
+  },
+  {
+   "id": "faa0e39a79c2",
+   "title": "llm-anthropic 0.26",
+   "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T22:00:58Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-04T22:00:58+00:00"
+   }
+  },
+  {
+   "id": "ed110b11be30",
+   "title": "PipeNetwork/minimax-h3-mlx",
+   "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T19:10:09Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-04T19:10:09+00:00"
+   }
+  },
+  {
+   "id": "642201788ffe",
+   "title": "llm 0.32",
+   "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T17:15:33Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-04T17:15:33+00:00"
+   }
+  },
+  {
+   "id": "c2bdf540e31a",
+   "title": "Quoting Steve Yegge",
+   "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-04T00:42:45Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-04T00:42:45+00:00"
+   }
+  },
+  {
+   "id": "5edce0600fc9",
+   "title": "Don't be a meat proxy",
+   "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T23:45:04Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-03T23:45:04+00:00"
+   }
+  },
+  {
+   "id": "1d667f9864fc",
+   "title": "Quoting David Crawshaw's prompt",
+   "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T16:15:27Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-03T16:15:27+00:00"
+   }
+  },
+  {
+   "id": "958b2779fb61",
+   "title": "Devtools must be open source (exe.dev)",
+   "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T15:30:38Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-03T15:30:38+00:00"
+   }
+  },
+  {
+   "id": "fb98a1a944fd",
+   "title": "condense-json 1.1",
+   "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-03T04:56:26Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-03T04:56:26+00:00"
+   }
+  },
+  {
+   "id": "71be070742e4",
+   "title": "condense-json 1.0",
+   "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-02T22:19:59Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-02T22:19:59+00:00"
+   }
+  },
+  {
+   "id": "dade51014a11",
+   "title": "Open letters about AI development",
+   "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-02T04:16:52Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-02T04:16:52+00:00"
+   }
+  },
+  {
+   "id": "fe08147b2274",
+   "title": "July 2026 newsletter",
+   "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-02T04:12:41Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-02T04:12:41+00:00"
+   }
+  },
+  {
+   "id": "5ea1e04a0de4",
+   "title": "Quoting Greg Brockman",
+   "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-01T22:29:44Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-01T22:29:44+00:00"
+   }
+  },
+  {
+   "id": "2df99db44493",
+   "title": "datasette-apps 0.2a0",
+   "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-01T21:23:56Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-01T21:23:56+00:00"
+   }
+  },
+  {
+   "id": "ce754106834b",
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-01T20:34:49Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-08-01T20:34:49+00:00"
+   }
+  },
+  {
+   "id": "94c1f3f11b81",
+   "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+   "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T23:59:44Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-07-31T23:59:44+00:00"
+   }
+  },
+  {
+   "id": "983d737a295c",
+   "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+   "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T23:13:22Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-07-31T23:13:22+00:00"
+   }
+  },
+  {
+   "id": "74176a338181",
+   "title": "llm-mcp-client 0.1a0",
+   "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-07-31T23:03:47Z",
+   "score": 45.0,
+   "tags": [
+    "Simon Willison's Weblog",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Simon Willison's Weblog",
+    "published_raw": "2026-07-31T23:03:47+00:00"
+   }
+  },
+  {
+   "id": "0826ac5cca57",
+   "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+   "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T10:57:44Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 10:57:44 +0000"
+   }
+  },
+  {
+   "id": "373fa08b1e18",
+   "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+   "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T10:16:07Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 10:16:07 +0000"
+   }
+  },
+  {
+   "id": "08ffd6e30196",
+   "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+   "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T10:07:06Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 10:07:06 +0000"
+   }
+  },
+  {
+   "id": "79d8757f99e7",
+   "title": "Europe's free satellite service just made it easier to track wildfires",
+   "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T09:58:41Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 09:58:41 +0000"
+   }
+  },
+  {
+   "id": "824785030f6c",
+   "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T09:18:50Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 09:18:50 +0000"
+   }
+  },
+  {
+   "id": "21fee040676e",
+   "title": "Hardware backdoors in some x86 CPUs",
+   "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T07:04:51Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 07:04:51 +0000"
+   }
+  },
+  {
+   "id": "d562e2c63a9e",
+   "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+   "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T01:49:11Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 01:49:11 +0000"
+   }
+  },
+  {
+   "id": "eb29b562a29a",
+   "title": "The Nixpkgs core team has disbanded",
+   "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T01:12:45Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Sat, 08 Aug 2026 01:12:45 +0000"
+   }
+  },
+  {
+   "id": "7cc8b4d1606f",
+   "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+   "url": "https://genesisopenmodels.anl.gov/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T22:24:27Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 22:24:27 +0000"
+   }
+  },
+  {
+   "id": "aa73e3a50fb4",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "url": "https://ancientlibrary.net/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:51:14Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 18:51:14 +0000"
+   }
+  },
+  {
+   "id": "ab52165401f5",
+   "title": "Managing AI Coding Costs at Scale",
+   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:25:17Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 18:25:17 +0000"
+   }
+  },
+  {
+   "id": "2973f552a669",
+   "title": "Assembly Hall of Shame",
+   "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T18:01:30Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 18:01:30 +0000"
+   }
+  },
+  {
+   "id": "2419142963df",
+   "title": "DeepSeek V4 Flash 0731",
+   "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:56:20Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 17:56:20 +0000"
+   }
+  },
+  {
+   "id": "e3d9b19d3a1b",
+   "title": "Oracle bans AI-generated code from OpenJDK",
+   "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T17:36:30Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 17:36:30 +0000"
+   }
+  },
+  {
+   "id": "5b177ea42b4b",
+   "title": "Responding to the next frontier of critical cyber capabilities",
+   "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T16:39:36Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 16:39:36 +0000"
+   }
+  },
+  {
+   "id": "f88c3a3c9ca8",
+   "title": "An all-sky map of half a million supermassive black holes",
+   "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T15:24:53Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 15:24:53 +0000"
+   }
+  },
+  {
+   "id": "9f7ffd739921",
+   "title": "Radical Study Suggests Life on Earth Arose Twice",
+   "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T12:45:08Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 12:45:08 +0000"
+   }
+  },
+  {
+   "id": "0fb2e2ced00e",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T12:42:27Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 12:42:27 +0000"
+   }
+  },
+  {
+   "id": "12bd81fed257",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+   "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T11:00:35Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 11:00:35 +0000"
+   }
+  },
+  {
+   "id": "bebc844a6f86",
+   "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+   "url": "https://blog.cloudflare.com/kitesurf/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-07T10:42:07Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Front Page",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Front Page",
+    "published_raw": "Fri, 07 Aug 2026 10:42:07 +0000"
+   }
+  },
+  {
+   "id": "31eca818b68f",
+   "title": "Banning data centers would blow up the U.S. economy",
+   "url": "https://www.noahpinion.blog/p/banning-data-centers-would-blow-up",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:53:23Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:53:23 +0000"
+   }
+  },
+  {
+   "id": "94b7b7612f0b",
+   "title": "Which editing tool using in 2026?",
+   "url": "https://news.ycombinator.com/item?id=49221828",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:49:19Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:49:19 +0000"
+   }
+  },
+  {
+   "id": "adb6b4426106",
+   "title": "AI-generated stories rated better quality than human-written ones, study finds",
+   "url": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:48:32Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:48:32 +0000"
+   }
+  },
+  {
+   "id": "93dde63c1aaa",
+   "title": "Show HN: Sovereign Engine – Local-first intent engine in Rust and Tauri",
+   "url": "https://github.com/Sovereign34/sovereign-engine",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:48:22Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:48:22 +0000"
+   }
+  },
+  {
+   "id": "cd1cc5fe8474",
+   "title": "The National Design Studio Became a DOGE Landing Pad. Now 'Big Balls' Is Hiring",
+   "url": "https://www.wired.com/story/national-design-studio-doge-recruiting/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:48:01Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:48:01 +0000"
+   }
+  },
+  {
+   "id": "33fdf637580e",
+   "title": "The Microstructure of Wealth Transfer in Prediction Markets",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7217640",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:40:44Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:40:44 +0000"
+   }
+  },
+  {
+   "id": "33269e47c6bb",
+   "title": "AI's Latest Rocket Ship Is an Old School, 28-Year-Old Data Company",
+   "url": "https://www.forbes.com/sites/iainmartin/2026/08/06/ais-latest-rocket-ship-is-an-old-school-28-year-old-data-company/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:39:49Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:39:49 +0000"
+   }
+  },
+  {
+   "id": "28b0da6ec430",
+   "title": "The Last New Word",
+   "url": "https://www.lucasfcosta.com/fiction/the-last-new-word",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:35:27Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:35:27 +0000"
+   }
+  },
+  {
+   "id": "dc51500b298a",
+   "title": "Triton: DirectX 11 Driver for QEMU",
+   "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:33:06Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:33:06 +0000"
+   }
+  },
+  {
+   "id": "62cdb9c9590b",
+   "title": "A private curl-to-Python converter that runs in the browser",
+   "url": "https://www.endpoint51.com/curl-to-python/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:30:36Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:30:36 +0000"
+   }
+  },
+  {
+   "id": "20eaac2b4794",
+   "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+   "url": "https://marketdaily.ai/blog/eng-llm-council-judge-en-202608",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:30:01Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:30:01 +0000"
+   }
+  },
+  {
+   "id": "282885c96421",
+   "title": "Voyager 1 FDS Computer Emulator",
+   "url": "https://zaneham.github.io/voyager-fds-emulator/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:28:38Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:28:38 +0000"
+   }
+  },
+  {
+   "id": "f2158d0d4af8",
+   "title": "A domain can now say it is for sale, in DNS",
+   "url": "https://specification.website/spec/foundations/for-sale-dns/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:26:51Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:26:51 +0000"
+   }
+  },
+  {
+   "id": "5667fc71e7f9",
+   "title": "Show HN: Patchward-check – list the test expectations a diff removes",
+   "url": "https://pypi.org/project/patchward-check/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:25:48Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:25:48 +0000"
+   }
+  },
+  {
+   "id": "86fa3a4817ec",
+   "title": "A Generation on Antidepressants Searches for the Exit",
+   "url": "https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:17:17Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:17:17 +0000"
+   }
+  },
+  {
+   "id": "6fd358f67be5",
+   "title": "Sleep Alters the Velocity of Physiological Brain Pulsations in Humans",
+   "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202503745",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:16:43Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:16:43 +0000"
+   }
+  },
+  {
+   "id": "65d2b09d149a",
+   "title": "Hacker News MCP",
+   "url": "https://hackernews.marcokittel.de",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:16:21Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:16:21 +0000"
+   }
+  },
+  {
+   "id": "b36d13cf9227",
+   "title": "Downfall",
+   "url": "https://downfall.page/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:13:54Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:13:54 +0000"
+   }
+  },
+  {
+   "id": "255236bd844e",
+   "title": "ROMbug Onion: A Tor Browser with Onion Routing, Privacy and a Separate Identity",
+   "url": "https://rombugonion.com/",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:13:30Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:13:30 +0000"
+   }
+  },
+  {
+   "id": "e8a00473e881",
+   "title": "Superdna – analyze your DNA raw file locally",
+   "url": "https://github.com/Wolg/superdna",
+   "source": "rss_tech",
+   "category": "tech",
+   "published": "2026-08-08T13:13:06Z",
+   "score": 45.0,
+   "tags": [
+    "Hacker News: Newest",
+    "rss"
+   ],
+   "metrics": {
+    "feed": "Hacker News: Newest",
+    "published_raw": "Sat, 08 Aug 2026 13:13:06 +0000"
+   }
+  }
+ ]
+}

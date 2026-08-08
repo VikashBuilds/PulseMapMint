@@ -2732,5 +2732,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260808T140632Z",
+  "generated": "2026-08-08T14:06:32.216849+00:00",
+  "events": 1109,
+  "breakers": 120,
+  "avg_heat": 88.1,
+  "prices": {
+   "btc": {
+    "price": 64974,
+    "pct24h": -0.3
+   },
+   "eth": {
+    "price": 1919.04,
+    "pct24h": -0.5
+   },
+   "xrp": {
+    "price": 1.041,
+    "pct24h": 0.5
+   },
+   "sol": {
+    "price": 75.53,
+    "pct24h": 2.3
+   },
+   "doge": {
+    "price": 0.070485,
+    "pct24h": 0.7
+   },
+   "ada": {
+    "price": 0.199985,
+    "pct24h": -0.2
+   },
+   "link": {
+    "price": 8.32,
+    "pct24h": 0.6
+   },
+   "ltc": {
+    "price": 45.62,
+    "pct24h": -0.2
+   },
+   "avax": {
+    "price": 6.52,
+    "pct24h": 0.5
+   },
+   "dot": {
+    "price": 0.814541,
+    "pct24h": -0.2
+   }
+  },
+  "top": [
+   {
+    "t": "Audiera (BEAT) moved +21.0% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Show HN: Elevators",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Taste Is All That's Left",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "DeepSeek V4 Flash 0731",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "What happens if an entire class of workers loses faith in their careers",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-08T14:05:34Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.36,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "741edc2ac869",
+   "title": "k-Coloring is Faster than Computing the Chromatic Number",
+   "url": "https://arxiv.org/abs/2607.25973",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 37.74754878398196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 26,
+    "comments": 3,
+    "hn_id": 49119508
+   }
+  },
+  {
+   "id": "7cc8b4d1606f",
+   "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+   "url": "https://genesisopenmodels.anl.gov/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 67.0565096031518,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 283,
+    "comments": 106,
+    "hn_id": 49216946
+   }
+  },
+  {
+   "id": "2973f552a669",
+   "title": "Assembly Hall of Shame",
+   "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 73.3476990145343,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 374,
+    "comments": 92,
+    "hn_id": 49214098
+   }
+  },
+  {
+   "id": "824785030f6c",
+   "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 53.939592256975565,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 134,
+    "comments": 32,
+    "hn_id": 49220126
+   }
+  },
+  {
+   "id": "0fb2e2ced00e",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 95.26734661277598,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 790,
+    "comments": 879,
+    "hn_id": 49209539
+   }
+  },
+  {
+   "id": "1632f1a99b80",
+   "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+   "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 30.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "hn_id": 49221220
+   }
+  },
+  {
+   "id": "8b3f50dc739b",
+   "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+   "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 68.94598957811738,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 309,
+    "comments": 71,
+    "hn_id": 49189457
+   }
+  },
+  {
+   "id": "0826ac5cca57",
+   "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+   "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 49.23839928708165,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 94,
+    "comments": 105,
+    "hn_id": 49220609
+   }
+  },
+  {
+   "id": "2419142963df",
+   "title": "DeepSeek V4 Flash 0731",
+   "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 90.57438524302,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 688,
+    "comments": 410,
+    "hn_id": 49214008
+   }
+  },
+  {
+   "id": "21fee040676e",
+   "title": "Hardware backdoors in some x86 CPUs",
+   "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 60.79455265819088,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 205,
+    "comments": 60,
+    "hn_id": 49219508
+   }
+  },
+  {
+   "id": "d7764e663ac6",
+   "title": "No One Can Afford to Make Myst Games Anymore",
+   "url": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 35.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 16,
+    "comments": 5,
+    "hn_id": 49189726
+   }
+  },
+  {
+   "id": "79d8757f99e7",
+   "title": "Europe's free satellite service just made it easier to track wildfires",
+   "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 47.63846284534354,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 82,
+    "comments": 6,
+    "hn_id": 49220313
+   }
+  },
+  {
+   "id": "a7ca5a136203",
+   "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+   "url": "https://github.com/alfikpl/ao486",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 40.20690632574555,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 37,
+    "comments": 4,
+    "hn_id": 49141236
+   }
+  },
+  {
+   "id": "aa73e3a50fb4",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "url": "https://ancientlibrary.net/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 62.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 225,
+    "comments": 70,
+    "hn_id": 49214770
+   }
+  },
+  {
+   "id": "d562e2c63a9e",
+   "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+   "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 67.72001872658765,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 292,
+    "comments": 61,
+    "hn_id": 49218179
+   }
+  },
+  {
+   "id": "207bbdf0c8a6",
+   "title": "Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
+   "url": "https://andreadimatteo.com/torus-v0-5.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 32.071067811865476,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 8,
+    "comments": 2,
+    "hn_id": 49141642
+   }
+  },
+  {
+   "id": "87cc5fce476a",
+   "title": "2027 memory capacity is reportedly sold out",
+   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 76.05144464165534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 417,
+    "comments": 402,
+    "hn_id": 49207236
+   }
+  },
+  {
+   "id": "b8cfe6a8c633",
+   "title": "SupererDuperer",
+   "url": "https://www.shirtpocket.com/blog/supererduperer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 53.72281323269014,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 132,
+    "comments": 27,
+    "hn_id": 49135261
+   }
+  },
+  {
+   "id": "ab52165401f5",
+   "title": "Managing AI Coding Costs at Scale",
+   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 65.85033659592048,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 267,
+    "comments": 227,
+    "hn_id": 49214468
+   }
+  },
+  {
+   "id": "eb29b562a29a",
+   "title": "The Nixpkgs core team has disbanded",
+   "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 70.8257569495584,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 336,
+    "comments": 164,
+    "hn_id": 49217993
+   }
+  },
+  {
+   "id": "08ffd6e30196",
+   "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+   "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 55.618621784789724,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 150,
+    "comments": 157,
+    "hn_id": 49220350
+   }
+  },
+  {
+   "id": "373fa08b1e18",
+   "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+   "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 38.69306393762915,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 30,
+    "comments": 20,
+    "hn_id": 49220392
+   }
+  },
+  {
+   "id": "f88c3a3c9ca8",
+   "title": "An all-sky map of half a million supermassive black holes",
+   "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 58.354160160315836,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 178,
+    "comments": 40,
+    "hn_id": 49211921
+   }
+  },
+  {
+   "id": "c88e52669c7c",
+   "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+   "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 38.22875655532295,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 28,
+    "comments": 2,
+    "hn_id": 49169417
+   }
+  },
+  {
+   "id": "2d55648e7557",
+   "title": "Carl's Required Reading",
+   "url": "https://carlkolon.com/reading/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 60.443617196894564,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 201,
+    "comments": 26,
+    "hn_id": 49135457
+   }
+  },
+  {
+   "id": "9f7ffd739921",
+   "title": "Radical Study Suggests Life on Earth Arose Twice",
+   "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 57.59601202601324,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 170,
+    "comments": 108,
+    "hn_id": 49209572
+   }
+  },
+  {
+   "id": "5b177ea42b4b",
+   "title": "Responding to the next frontier of critical cyber capabilities",
+   "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 59.46012188022555,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 190,
+    "comments": 185,
+    "hn_id": 49213029
+   }
+  },
+  {
+   "id": "12bd81fed257",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+   "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 68.37337893224367,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 301,
+    "comments": 154,
+    "hn_id": 49208535
+   }
+  },
+  {
+   "id": "e3d9b19d3a1b",
+   "title": "Oracle bans AI-generated code from OpenJDK",
+   "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 80.62148865321748,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 495,
+    "comments": 356,
+    "hn_id": 49213754
+   }
+  },
+  {
+   "id": "bebc844a6f86",
+   "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+   "url": "https://blog.cloudflare.com/kitesurf/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 60.531676008879735,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 202,
+    "comments": 57,
+    "hn_id": 49208393
+   }
+  }
+ ]
+}

@@ -1,0 +1,241 @@
+{
+ "runner": "github_all",
+ "generated": "2026-08-08T14:05:48Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 1.19,
+ "args": [
+  "github_all",
+  null
+ ],
+ "items": [
+  {
+   "id": "1bdab8190efc",
+   "title": "PrimeIntellect-ai/prime-agent",
+   "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 91.11272864708177,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 2483,
+    "language": "TypeScript",
+    "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "835a2754c92b",
+   "title": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 82.04767423810615,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 778,
+    "language": "JavaScript",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "3f974e76a1ee",
+   "title": "TapXWorld/ChinaTextbook",
+   "url": "https://github.com/TapXWorld/ChinaTextbook",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 79.90179072101256,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 591,
+    "language": "Roff",
+    "description": "所有小初高、大学PDF教材。",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "96e85204c9d2",
+   "title": "google/skills",
+   "url": "https://github.com/google/skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 78.29484668829929,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 481,
+    "language": "Python",
+    "description": "Agent Skills for Google products and technologies",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "c2800839f3a9",
+   "title": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 86.37490731378765,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 1354,
+    "language": "Shell",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "d4309c77541a",
+   "title": "goauthentik/authentik",
+   "url": "https://github.com/goauthentik/authentik",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 78.06442535533424,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 467,
+    "language": "Python",
+    "description": "The authentication glue you need.",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "7d40b7cfcf0f",
+   "title": "TauricResearch/TradingAgents",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 67.86846697720722,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 126,
+    "language": "Python",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "21e99b249af0",
+   "title": "google/guava",
+   "url": "https://github.com/google/guava",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 65.51630136479457,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 93,
+    "language": "Java",
+    "description": "Google core libraries for Java",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "f21eb05485b9",
+   "title": "LadybirdBrowser/ladybird",
+   "url": "https://github.com/LadybirdBrowser/ladybird",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 59.40243220043256,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 42,
+    "language": "C++",
+    "description": "Truly independent web browser",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "9fe93f8f9e69",
+   "title": "denoland/celld",
+   "url": "https://github.com/denoland/celld",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 77.45678213436058,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 432,
+    "language": "Rust",
+    "description": "self-hosted, distributed Durable Objects",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "0618e467be41",
+   "title": "litu54/DevOps-Interview-Guide",
+   "url": "https://github.com/litu54/DevOps-Interview-Guide",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 62.00672250690558,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 59,
+    "language": "all",
+    "description": "DevOps Interview Guide",
+    "topic": "all"
+   }
+  },
+  {
+   "id": "c915cb255a8b",
+   "title": "bannedbook/fanqiang",
+   "url": "https://github.com/bannedbook/fanqiang",
+   "source": "github_all",
+   "category": "github",
+   "published": "2026-08-08T14:05:48Z",
+   "score": 68.68594402779684,
+   "tags": [
+    "all-langs",
+    "github-trending"
+   ],
+   "metrics": {
+    "stars_today": 140,
+    "language": "Kotlin",
+    "description": "翻墙-科学上网",
+    "topic": "all"
+   }
+  }
+ ]
+}

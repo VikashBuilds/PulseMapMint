@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-08T14:05:34Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.35,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "f8f054c0e788",
+   "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+   "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 99.33034373659252,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 884,
+    "comments": 850,
+    "hn_id": 49208314
+   }
+  },
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 89.85560885536424,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 673,
+    "comments": 526,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 80.8457697592217,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 499,
+    "comments": 409,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "f72dbccb6776",
+   "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+   "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 83.20223363411407,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 542,
+    "comments": 345,
+    "hn_id": 49200652
+   }
+  },
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 912,
+    "comments": 687,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "2419142963df",
+   "title": "DeepSeek V4 Flash 0731",
+   "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 90.57438524302,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 688,
+    "comments": 410,
+    "hn_id": 49214008
+   }
+  },
+  {
+   "id": "87cc5fce476a",
+   "title": "2027 memory capacity is reportedly sold out",
+   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 76.05144464165534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 417,
+    "comments": 402,
+    "hn_id": 49207236
+   }
+  },
+  {
+   "id": "e3d9b19d3a1b",
+   "title": "Oracle bans AI-generated code from OpenJDK",
+   "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 80.62148865321748,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 495,
+    "comments": 356,
+    "hn_id": 49213754
+   }
+  },
+  {
+   "id": "0fb2e2ced00e",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 95.26734661277598,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 790,
+    "comments": 879,
+    "hn_id": 49209539
+   }
+  },
+  {
+   "id": "3fb71259ea68",
+   "title": "A year of fighting scrapers on my 1.5 million-page website",
+   "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 76.90134873006673,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 431,
+    "comments": 394,
+    "hn_id": 49211386
+   }
+  },
+  {
+   "id": "3f7d374c6a76",
+   "title": "Software development with AI is starting to feel like cooking steak",
+   "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 75.68283733178325,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 411,
+    "comments": 416,
+    "hn_id": 49198069
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 94.68679932383178,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 777,
+    "comments": 412,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "a7277ad61dde",
+   "title": "Quake – 30th Anniversary Update",
+   "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 75.55937104039171,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 409,
+    "comments": 200,
+    "hn_id": 49201930
+   }
+  },
+  {
+   "id": "2973f552a669",
+   "title": "Assembly Hall of Shame",
+   "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 73.3476990145343,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 374,
+    "comments": 92,
+    "hn_id": 49214098
+   }
+  },
+  {
+   "id": "8c4b03f4eb88",
+   "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+   "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 71.5698400254929,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 347,
+    "comments": 347,
+    "hn_id": 49209546
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 69.22951503238534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 313,
+    "comments": 262,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "41d5415e8e1c",
+   "title": "App Store Rejection of the Week: Dark Hours",
+   "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 70.06939094329987,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 325,
+    "comments": 196,
+    "hn_id": 49214863
+   }
+  },
+  {
+   "id": "eb29b562a29a",
+   "title": "The Nixpkgs core team has disbanded",
+   "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 70.8257569495584,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 336,
+    "comments": 164,
+    "hn_id": 49217993
+   }
+  },
+  {
+   "id": "d562e2c63a9e",
+   "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+   "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 67.72001872658765,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 292,
+    "comments": 61,
+    "hn_id": 49218179
+   }
+  },
+  {
+   "id": "12bd81fed257",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+   "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 68.37337893224367,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 301,
+    "comments": 154,
+    "hn_id": 49208535
+   }
+  },
+  {
+   "id": "461b5e59d814",
+   "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+   "url": "https://electronicmaterialsoffice.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 67.86607049870562,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 294,
+    "comments": 239,
+    "hn_id": 49197137
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 66.53311931459038,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 276,
+    "comments": 185,
+    "hn_id": 49201003
+   }
+  },
+  {
+   "id": "ab52165401f5",
+   "title": "Managing AI Coding Costs at Scale",
+   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 65.85033659592048,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 267,
+    "comments": 227,
+    "hn_id": 49214468
+   }
+  },
+  {
+   "id": "7cc8b4d1606f",
+   "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+   "url": "https://genesisopenmodels.anl.gov/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 67.0565096031518,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 283,
+    "comments": 106,
+    "hn_id": 49216946
+   }
+  },
+  {
+   "id": "3d6de5750de4",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+   "url": "https://provenmetal.com",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 62.83186487605389,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 229,
+    "comments": 155,
+    "hn_id": 49198464
+   }
+  },
+  {
+   "id": "aa73e3a50fb4",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "url": "https://ancientlibrary.net/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 62.5,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 225,
+    "comments": 70,
+    "hn_id": 49214770
+   }
+  },
+  {
+   "id": "6e034fe4c8ee",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 61.05551275463989,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 208,
+    "comments": 61,
+    "hn_id": 49202716
+   }
+  },
+  {
+   "id": "55ad95dee0bd",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 61.57184709581948,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 214,
+    "comments": 35,
+    "hn_id": 49203105
+   }
+  },
+  {
+   "id": "39513076ffa9",
+   "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+   "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 60.881750236018306,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 206,
+    "comments": 56,
+    "hn_id": 49211438
+   }
+  },
+  {
+   "id": "867a149addbc",
+   "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+   "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T14:05:34Z",
+   "score": 61.9120576505835,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 218,
+    "comments": 140,
+    "hn_id": 49216362
+   }
+  }
+ ]
+}

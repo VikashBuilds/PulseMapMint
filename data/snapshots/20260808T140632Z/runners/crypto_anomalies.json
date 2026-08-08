@@ -1,0 +1,161 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-08T14:05:36Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.77,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "80fad8140d0c",
+   "title": "Audiera (BEAT) moved +21.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/audiera",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T14:05:36Z",
+   "score": 95.0,
+   "tags": [
+    "beat",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "beat",
+    "pct24h": 21.0,
+    "pct1h": 5.6,
+    "pct7d": -43.5,
+    "price_usd": 2.64,
+    "market_cap": 873391341
+   }
+  },
+  {
+   "id": "125dff6ab811",
+   "title": "Cronos (CRO) moved -8.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/crypto-com-chain",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T14:05:36Z",
+   "score": 76.75,
+   "tags": [
+    "cro",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cro",
+    "pct24h": -8.7,
+    "pct1h": 0.1,
+    "pct7d": -11.2,
+    "price_usd": 0.04881951,
+    "market_cap": 2309593065
+   }
+  },
+  {
+   "id": "8a1d4f234643",
+   "title": "OKB (OKB) moved +5.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/okb",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T14:05:36Z",
+   "score": 69.25,
+   "tags": [
+    "okb",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "okb",
+    "pct24h": 5.7,
+    "pct1h": -0.3,
+    "pct7d": 8.5,
+    "price_usd": 93.35,
+    "market_cap": 1960367624
+   }
+  },
+  {
+   "id": "79c9af9ccf9b",
+   "title": "Ethena (ENA) moved -5.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/ethena",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T14:05:36Z",
+   "score": 68.25,
+   "tags": [
+    "ena",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "ena",
+    "pct24h": -5.3,
+    "pct1h": 0,
+    "pct7d": 11.6,
+    "price_usd": 0.090513,
+    "market_cap": 889572055
+   }
+  },
+  {
+   "id": "5b7ec85edbcc",
+   "title": "Lighter (LIT) moved -4.3% in 24h",
+   "url": "https://www.coingecko.com/en/coins/lighter",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T14:05:36Z",
+   "score": 65.75,
+   "tags": [
+    "lit",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "lit",
+    "pct24h": -4.3,
+    "pct1h": 0.4,
+    "pct7d": 14.0,
+    "price_usd": 2.33,
+    "market_cap": 582456691
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64974,
+   "pct24h": -0.3
+  },
+  "eth": {
+   "price": 1919.04,
+   "pct24h": -0.5
+  },
+  "xrp": {
+   "price": 1.041,
+   "pct24h": 0.5
+  },
+  "sol": {
+   "price": 75.53,
+   "pct24h": 2.3
+  },
+  "doge": {
+   "price": 0.070485,
+   "pct24h": 0.7
+  },
+  "ada": {
+   "price": 0.199985,
+   "pct24h": -0.2
+  },
+  "link": {
+   "price": 8.32,
+   "pct24h": 0.6
+  },
+  "ltc": {
+   "price": 45.62,
+   "pct24h": -0.2
+  },
+  "avax": {
+   "price": 6.52,
+   "pct24h": 0.5
+  },
+  "dot": {
+   "price": 0.814541,
+   "pct24h": -0.2
+  }
+ }
+}
