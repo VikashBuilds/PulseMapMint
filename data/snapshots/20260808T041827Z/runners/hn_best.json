@@ -1,0 +1,524 @@
+{
+ "runner": "hn_best",
+ "generated": "2026-08-08T04:17:33Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.6,
+ "args": [
+  "hn_best",
+  "best",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "3f617109b141",
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 99.79137650825795,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 895,
+    "comments": 669,
+    "hn_id": 49201970
+   }
+  },
+  {
+   "id": "fe6bdbffa155",
+   "title": "Taste Is All That's Left",
+   "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 89.03124237432849,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 656,
+    "comments": 518,
+    "hn_id": 49199346
+   }
+  },
+  {
+   "id": "0fb2e2ced00e",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 80.67764362830022,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 496,
+    "comments": 584,
+    "hn_id": 49209539
+   }
+  },
+  {
+   "id": "830ec250fb9f",
+   "title": "Crime Pays but Botany Doesn't",
+   "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 90.52671211040578,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 687,
+    "comments": 214,
+    "hn_id": 49192566
+   }
+  },
+  {
+   "id": "3f7d374c6a76",
+   "title": "Software development with AI is starting to feel like cooking steak",
+   "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 75.06246098625196,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 401,
+    "comments": 415,
+    "hn_id": 49198069
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 93.05328794408099,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 741,
+    "comments": 397,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "f8f054c0e788",
+   "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+   "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 98.35700375560606,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 861,
+    "comments": 824,
+    "hn_id": 49208314
+   }
+  },
+  {
+   "id": "e3d9b19d3a1b",
+   "title": "Oracle bans AI-generated code from OpenJDK",
+   "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 76.05144464165534,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 417,
+    "comments": 284,
+    "hn_id": 49213754
+   }
+  },
+  {
+   "id": "757e003cfb4b",
+   "title": "Mario Meets Pareto",
+   "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 100.0,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 1143,
+    "comments": 165,
+    "hn_id": 49195231
+   }
+  },
+  {
+   "id": "2419142963df",
+   "title": "DeepSeek V4 Flash 0731",
+   "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 81.89903338370522,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 518,
+    "comments": 311,
+    "hn_id": 49214008
+   }
+  },
+  {
+   "id": "f72dbccb6776",
+   "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+   "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 82.77110004145672,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 534,
+    "comments": 343,
+    "hn_id": 49200652
+   }
+  },
+  {
+   "id": "72c5698be6ac",
+   "title": "GitHub Actions and Pages are experiencing degraded availability",
+   "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 80.67764362830022,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 496,
+    "comments": 406,
+    "hn_id": 49198302
+   }
+  },
+  {
+   "id": "a7277ad61dde",
+   "title": "Quake – 30th Anniversary Update",
+   "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 74.93746088859544,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 399,
+    "comments": 193,
+    "hn_id": 49201930
+   }
+  },
+  {
+   "id": "8c4b03f4eb88",
+   "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+   "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 71.16546328154847,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 341,
+    "comments": 341,
+    "hn_id": 49209546
+   }
+  },
+  {
+   "id": "12bd81fed257",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+   "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 65.54318685056714,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 263,
+    "comments": 124,
+    "hn_id": 49208535
+   }
+  },
+  {
+   "id": "2973f552a669",
+   "title": "Assembly Hall of Shame",
+   "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 66.90763653560053,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 281,
+    "comments": 65,
+    "hn_id": 49214098
+   }
+  },
+  {
+   "id": "c20b1b349a2c",
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 70.41475531146237,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 330,
+    "comments": 244,
+    "hn_id": 49195468
+   }
+  },
+  {
+   "id": "d43344d6e4e6",
+   "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+   "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 69.01704215414753,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 310,
+    "comments": 257,
+    "hn_id": 49199357
+   }
+  },
+  {
+   "id": "461b5e59d814",
+   "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+   "url": "https://electronicmaterialsoffice.com/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 67.64680527307995,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 291,
+    "comments": 237,
+    "hn_id": 49197137
+   }
+  },
+  {
+   "id": "3fb71259ea68",
+   "title": "A year of fighting scrapers on my 1.5 million-page website",
+   "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 74.81214711292819,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 397,
+    "comments": 366,
+    "hn_id": 49211386
+   }
+  },
+  {
+   "id": "2b0d66f15d62",
+   "title": "Herdr is joining Y Combinator. The runtime stays open",
+   "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 66.38236339311712,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 274,
+    "comments": 184,
+    "hn_id": 49201003
+   }
+  },
+  {
+   "id": "3d6de5750de4",
+   "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+   "url": "https://provenmetal.com",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 62.83186487605389,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 229,
+    "comments": 155,
+    "hn_id": 49198464
+   }
+  },
+  {
+   "id": "41d5415e8e1c",
+   "title": "App Store Rejection of the Week: Dark Hours",
+   "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 67.86607049870562,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 294,
+    "comments": 175,
+    "hn_id": 49214863
+   }
+  },
+  {
+   "id": "87cc5fce476a",
+   "title": "2027 memory capacity is reportedly sold out",
+   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 66.98213905936666,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 282,
+    "comments": 265,
+    "hn_id": 49207236
+   }
+  },
+  {
+   "id": "832f38d7a28a",
+   "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+   "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 62.66629793329841,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 227,
+    "comments": 189,
+    "hn_id": 49193173
+   }
+  },
+  {
+   "id": "55ad95dee0bd",
+   "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+   "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 61.22844186547359,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 210,
+    "comments": 35,
+    "hn_id": 49203105
+   }
+  },
+  {
+   "id": "6e034fe4c8ee",
+   "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 60.61951712193752,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 203,
+    "comments": 61,
+    "hn_id": 49202716
+   }
+  },
+  {
+   "id": "ab52165401f5",
+   "title": "Managing AI Coding Costs at Scale",
+   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 59.46012188022555,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 190,
+    "comments": 182,
+    "hn_id": 49214468
+   }
+  },
+  {
+   "id": "c4dc5ab87dfe",
+   "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+   "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 59.64101615137755,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 192,
+    "comments": 336,
+    "hn_id": 49200439
+   }
+  },
+  {
+   "id": "39513076ffa9",
+   "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+   "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+   "source": "hn_best",
+   "category": "tech",
+   "published": "2026-08-08T04:17:33Z",
+   "score": 60.531676008879735,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 202,
+    "comments": 52,
+    "hn_id": 49211438
+   }
+  }
+ ]
+}

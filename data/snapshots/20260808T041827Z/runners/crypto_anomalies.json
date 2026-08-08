@@ -1,0 +1,161 @@
+{
+ "runner": "crypto_anomalies",
+ "generated": "2026-08-08T04:17:32Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.1,
+ "args": [
+  "crypto_anomalies",
+  "4",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "eebb22064265",
+   "title": "OKB (OKB) moved +9.7% in 24h",
+   "url": "https://www.coingecko.com/en/coins/okb",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T04:17:32Z",
+   "score": 79.25,
+   "tags": [
+    "okb",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "okb",
+    "pct24h": 9.7,
+    "pct1h": 1.1,
+    "pct7d": 9.1,
+    "price_usd": 93.45,
+    "market_cap": 1961977853
+   }
+  },
+  {
+   "id": "eb9a0f77a569",
+   "title": "币安人生 (BinanceLife) (币安人生) moved -7.2% in 24h",
+   "url": "https://www.coingecko.com/en/coins/bianrensheng",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T04:17:32Z",
+   "score": 73.0,
+   "tags": [
+    "币安人生",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "币安人生",
+    "pct24h": -7.2,
+    "pct1h": 0.6,
+    "pct7d": -18.3,
+    "price_usd": 0.513166,
+    "market_cap": 513044550
+   }
+  },
+  {
+   "id": "5a563b842a65",
+   "title": "Cronos (CRO) moved -5.9% in 24h",
+   "url": "https://www.coingecko.com/en/coins/crypto-com-chain",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T04:17:32Z",
+   "score": 69.75,
+   "tags": [
+    "cro",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "cro",
+    "pct24h": -5.9,
+    "pct1h": -1.1,
+    "pct7d": -8.0,
+    "price_usd": 0.04992706,
+    "market_cap": 2361987528
+   }
+  },
+  {
+   "id": "a74b6975a960",
+   "title": "Pump.fun (PUMP) moved -4.5% in 24h",
+   "url": "https://www.coingecko.com/en/coins/pump-fun",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T04:17:32Z",
+   "score": 66.25,
+   "tags": [
+    "pump",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "pump",
+    "pct24h": -4.5,
+    "pct1h": 1.3,
+    "pct7d": 6.8,
+    "price_usd": 0.00227878,
+    "market_cap": 898337660
+   }
+  },
+  {
+   "id": "750d324c14ce",
+   "title": "Beldex (BDX) moved +4.0% in 24h",
+   "url": "https://www.coingecko.com/en/coins/beldex",
+   "source": "crypto_anomalies",
+   "category": "crypto",
+   "published": "2026-08-08T04:17:32Z",
+   "score": 65.0,
+   "tags": [
+    "bdx",
+    "crypto"
+   ],
+   "metrics": {
+    "symbol": "bdx",
+    "pct24h": 4.0,
+    "pct1h": 0,
+    "pct7d": 12.4,
+    "price_usd": 0.092637,
+    "market_cap": 729122295
+   }
+  }
+ ],
+ "watch": {
+  "btc": {
+   "price": 64941,
+   "pct24h": 1.1
+  },
+  "eth": {
+   "price": 1915.6,
+   "pct24h": 0.9
+  },
+  "xrp": {
+   "price": 1.036,
+   "pct24h": 0.9
+  },
+  "sol": {
+   "price": 74.65,
+   "pct24h": 3.1
+  },
+  "doge": {
+   "price": 0.070101,
+   "pct24h": 1.6
+  },
+  "ada": {
+   "price": 0.200969,
+   "pct24h": 0.8
+  },
+  "link": {
+   "price": 8.25,
+   "pct24h": 1.0
+  },
+  "ltc": {
+   "price": 45.51,
+   "pct24h": 0.1
+  },
+  "avax": {
+   "price": 6.52,
+   "pct24h": 1.6
+  },
+  "dot": {
+   "price": 0.82223,
+   "pct24h": 0.6
+  }
+ }
+}
