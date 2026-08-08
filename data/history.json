@@ -2510,5 +2510,116 @@
     "c": "tech"
    }
   ]
+ },
+ {
+  "ts": "20260808T080713Z",
+  "generated": "2026-08-08T08:07:13.424269+00:00",
+  "events": 1119,
+  "breakers": 120,
+  "avg_heat": 88.0,
+  "prices": {
+   "btc": {
+    "price": 64925,
+    "pct24h": 1.1
+   },
+   "eth": {
+    "price": 1913.7,
+    "pct24h": 0.6
+   },
+   "xrp": {
+    "price": 1.034,
+    "pct24h": 1.0
+   },
+   "sol": {
+    "price": 74.76,
+    "pct24h": 2.8
+   },
+   "doge": {
+    "price": 0.070209,
+    "pct24h": 1.6
+   },
+   "ada": {
+    "price": 0.199817,
+    "pct24h": -0.7
+   },
+   "link": {
+    "price": 8.26,
+    "pct24h": 1.0
+   },
+   "ltc": {
+    "price": 45.5,
+    "pct24h": 0.0
+   },
+   "avax": {
+    "price": 6.52,
+    "pct24h": 1.7
+   },
+   "dot": {
+    "price": 0.819019,
+    "pct24h": 0.3
+   }
+  },
+  "top": [
+   {
+    "t": "Cronos (CRO) moved -12.7% in 24h",
+    "s": "crypto_anomalies",
+    "h": 100.0,
+    "c": "crypto"
+   },
+   {
+    "t": "PrimeIntellect-ai/prime-agent",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "addyosmani/agent-skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "mattpocock/skills",
+    "s": "github_all",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "TencentCloud/TencentDB-Agent-Memory",
+    "s": "github_python_ts",
+    "h": 100.0,
+    "c": "github"
+   },
+   {
+    "t": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "s": "hn_ask_show",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Taste Is All That's Left",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "DeepSeek V4 Flash 0731",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   },
+   {
+    "t": "Mario Meets Pareto",
+    "s": "hn_best",
+    "h": 100.0,
+    "c": "tech"
+   }
+  ]
  }
 ]

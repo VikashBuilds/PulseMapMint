@@ -1,0 +1,524 @@
+{
+ "runner": "hn_top",
+ "generated": "2026-08-08T08:06:15Z",
+ "status": "ok",
+ "error": null,
+ "took_s": 0.63,
+ "args": [
+  "hn_top",
+  "top",
+  "30"
+ ],
+ "items": [
+  {
+   "id": "d562e2c63a9e",
+   "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+   "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 61.22844186547359,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 210,
+    "comments": 36,
+    "hn_id": 49218179
+   }
+  },
+  {
+   "id": "eb29b562a29a",
+   "title": "The Nixpkgs core team has disbanded",
+   "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 66.75823272122517,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 279,
+    "comments": 129,
+    "hn_id": 49217993
+   }
+  },
+  {
+   "id": "8b3f50dc739b",
+   "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+   "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 55.31088913245536,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 147,
+    "comments": 21,
+    "hn_id": 49189457
+   }
+  },
+  {
+   "id": "2973f552a669",
+   "title": "Assembly Hall of Shame",
+   "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 70.13867521316948,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 326,
+    "comments": 83,
+    "hn_id": 49214098
+   }
+  },
+  {
+   "id": "ab52165401f5",
+   "title": "Managing AI Coding Costs at Scale",
+   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 62.583240945932275,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 226,
+    "comments": 196,
+    "hn_id": 49214468
+   }
+  },
+  {
+   "id": "32a1608297b8",
+   "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
+   "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 44.68501968502953,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 62,
+    "comments": 25,
+    "hn_id": 49171223
+   }
+  },
+  {
+   "id": "aa73e3a50fb4",
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "url": "https://ancientlibrary.net/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 60.178118198675726,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 198,
+    "comments": 61,
+    "hn_id": 49214770
+   }
+  },
+  {
+   "id": "7cc8b4d1606f",
+   "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+   "url": "https://genesisopenmodels.anl.gov/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 61.48629879831606,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 213,
+    "comments": 70,
+    "hn_id": 49216946
+   }
+  },
+  {
+   "id": "0fb2e2ced00e",
+   "title": "What happens if an entire class of workers loses faith in their careers",
+   "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 85.87897830942961,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 593,
+    "comments": 673,
+    "hn_id": 49209539
+   }
+  },
+  {
+   "id": "b8cfe6a8c633",
+   "title": "SupererDuperer",
+   "url": "https://www.shirtpocket.com/blog/supererduperer",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 48.84848003542364,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 91,
+    "comments": 18,
+    "hn_id": 49135261
+   }
+  },
+  {
+   "id": "2419142963df",
+   "title": "DeepSeek V4 Flash 0731",
+   "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 85.98155458825234,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 595,
+    "comments": 357,
+    "hn_id": 49214008
+   }
+  },
+  {
+   "id": "21fee040676e",
+   "title": "Hardware backdoors in some x86 CPUs",
+   "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 35.897247358851686,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 19,
+    "comments": 1,
+    "hn_id": 49219508
+   }
+  },
+  {
+   "id": "6f719b1f7c2f",
+   "title": "How the 'fecal revolution' changed Earth's ecosystems",
+   "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 33.2915619758885,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 11,
+    "comments": 1,
+    "hn_id": 49169566
+   }
+  },
+  {
+   "id": "c88e52669c7c",
+   "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+   "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 32.90569415042095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 10,
+    "comments": 0,
+    "hn_id": 49169417
+   }
+  },
+  {
+   "id": "5b177ea42b4b",
+   "title": "Responding to the next frontier of critical cyber capabilities",
+   "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 58.54101966249684,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 180,
+    "comments": 174,
+    "hn_id": 49213029
+   }
+  },
+  {
+   "id": "e3d9b19d3a1b",
+   "title": "Oracle bans AI-generated code from OpenJDK",
+   "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 78.44389581607987,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 457,
+    "comments": 308,
+    "hn_id": 49213754
+   }
+  },
+  {
+   "id": "87cc5fce476a",
+   "title": "2027 memory capacity is reportedly sold out",
+   "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 71.02988159880492,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 339,
+    "comments": 307,
+    "hn_id": 49207236
+   }
+  },
+  {
+   "id": "9f7ffd739921",
+   "title": "Radical Study Suggests Life on Earth Arose Twice",
+   "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 54.261749776799064,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 137,
+    "comments": 97,
+    "hn_id": 49209572
+   }
+  },
+  {
+   "id": "2d55648e7557",
+   "title": "Carl's Required Reading",
+   "url": "https://carlkolon.com/reading/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 56.324910215354166,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 157,
+    "comments": 20,
+    "hn_id": 49135457
+   }
+  },
+  {
+   "id": "867a149addbc",
+   "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+   "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 58.63406011768427,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 181,
+    "comments": 117,
+    "hn_id": 49216362
+   }
+  },
+  {
+   "id": "6ec8a3ff93e2",
+   "title": "Psychological Warfare in Reverse Engineering (2015)",
+   "url": "https://github.com/xoreaxeaxeax/repsych",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 45.310096011589906,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 66,
+    "comments": 4,
+    "hn_id": 49214775
+   }
+  },
+  {
+   "id": "12bd81fed257",
+   "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+   "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 66.75823272122517,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 279,
+    "comments": 136,
+    "hn_id": 49208535
+   }
+  },
+  {
+   "id": "bebc844a6f86",
+   "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+   "url": "https://blog.cloudflare.com/kitesurf/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 59.27827300200522,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 188,
+    "comments": 49,
+    "hn_id": 49208393
+   }
+  },
+  {
+   "id": "f88c3a3c9ca8",
+   "title": "An all-sky map of half a million supermassive black holes",
+   "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 56.917863337009265,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 163,
+    "comments": 37,
+    "hn_id": 49211921
+   }
+  },
+  {
+   "id": "78d443309ea3",
+   "title": "Games at the press of a button: The Rip-O-Bot (1989)",
+   "url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 39.14213562373095,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 32,
+    "comments": 9,
+    "hn_id": 49147907
+   }
+  },
+  {
+   "id": "3573346b81fd",
+   "title": "Mythos social engineering AISI INC-2026-07-28-01",
+   "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 43.37117307087384,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 54,
+    "comments": 17,
+    "hn_id": 49218707
+   }
+  },
+  {
+   "id": "c3a91203890f",
+   "title": "As a Windows user, it's a surreal way to install a program",
+   "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 53.17356917396161,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 127,
+    "comments": 88,
+    "hn_id": 49164184
+   }
+  },
+  {
+   "id": "8f5bc8303259",
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 93.7386354243376,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 756,
+    "comments": 405,
+    "hn_id": 49204352
+   }
+  },
+  {
+   "id": "a9e2b6c1ce42",
+   "title": "Möbius-Strip Crosswords",
+   "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 45.91650066335189,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 70,
+    "comments": 10,
+    "hn_id": 49211660
+   }
+  },
+  {
+   "id": "6e9302967280",
+   "title": "Guarded Methods in OCaml (2025)",
+   "url": "https://xvw.lol/en/articles/oop-refl.html",
+   "source": "hn_top",
+   "category": "tech",
+   "published": "2026-08-08T08:06:15Z",
+   "score": 45.15564437074637,
+   "tags": [
+    "hackernews"
+   ],
+   "metrics": {
+    "points": 65,
+    "comments": 5,
+    "hn_id": 49157770
+   }
+  }
+ ]
+}
